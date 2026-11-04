@@ -16,9 +16,10 @@ import requests
 
 def konfiguration():
     return {
-        "basis": os.environ.get("KI_BASIS_URL", "https://chat-ai.academiccloud.de/v1").rstrip("/"),
-        "schluessel": os.environ.get("KI_SCHLUESSEL", ""),
-        "modell": os.environ.get("KI_MODELL", "meta-llama-3.1-8b-instruct"),
+        # Leere Werte (z. B. nicht gesetzte GitHub-Secrets) zählen wie fehlende
+        "basis": (os.environ.get("KI_BASIS_URL") or "https://chat-ai.academiccloud.de/v1").rstrip("/"),
+        "schluessel": (os.environ.get("KI_SCHLUESSEL") or "").strip(),
+        "modell": (os.environ.get("KI_MODELL") or "meta-llama-3.1-8b-instruct").strip(),
     }
 
 
