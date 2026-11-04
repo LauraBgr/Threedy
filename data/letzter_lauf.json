@@ -15,10 +15,148 @@
  ],
  "aenderungen": [
   {
+   "firma": "Threedy",
+   "url": "https://threedy.io/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/threedy/threedy-io__2026-11-04.json"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/3d-visualization",
+   "art": "geändert",
+   "vorher": "schnappschuesse/threedy/www-threedy-io-3d-visualization__2026-11-04.json"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/instant-visualization",
+   "art": "geändert",
+   "vorher": "schnappschuesse/threedy/www-threedy-io-instant-visualization__2026-11-04.json"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/product/instant3dhub",
+   "art": "geändert",
+   "vorher": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub__2026-11-04.json"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/product/instant3dhub-lkd",
+   "art": "geändert",
+   "vorher": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub-lkd__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/products",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com-products__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/service",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-service__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/supplier-rfq",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-supplier-rfq__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/factory-floor",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-factory-floor__2026-11-04.json"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/products/vertex-connect",
+   "art": "geändert",
+   "vorher": "schnappschuesse/vertex-software/vertex3d-com-products-vertex-connect__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/solutions/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-solutions__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/enterprise/product-lifecycle-management/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-enterprise-product-lifecycle-management__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/cam/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cam__2026-11-04.json"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/cpq/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cpq__2026-11-04.json"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/en/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en__2026-11-04.json"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/en/products/3dviewstation-product-family.html",
+   "art": "geändert",
+   "vorher": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en-products-3dviewstation-product-family-html__2026-11-04.json"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "https://www.ptc.com/en/products/creo/creo-view",
+   "art": "geändert",
+   "vorher": "schnappschuesse/ptc-creo-view/www-ptc-com-en-products-creo-creo-view__2026-11-04.json"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "https://www.ptc.com/de/products/creo/creo-view",
+   "art": "geändert",
+   "vorher": "schnappschuesse/ptc-creo-view/www-ptc-com-de-products-creo-creo-view__2026-11-04.json"
+  },
+  {
+   "firma": "Siemens Teamcenter Visualization",
+   "url": "https://plm.sw.siemens.com/en-US/teamcenter/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/siemens-teamcenter-visualization/plm-sw-siemens-com-en-us-teamcenter__2026-11-04.json"
+  },
+  {
    "firma": "Dassault 3DEXPERIENCE",
    "url": "https://www.3ds.com/3dexperience",
    "art": "geändert",
    "vorher": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json"
+  },
+  {
+   "firma": "NVIDIA Omniverse",
+   "url": "https://www.nvidia.com/en-us/omniverse/",
+   "art": "geändert",
+   "vorher": "schnappschuesse/nvidia-omniverse/www-nvidia-com-en-us-omniverse__2026-11-04.json"
   }
  ]
 }
