@@ -19,7 +19,7 @@ def konfiguration():
         # Leere Werte (z. B. nicht gesetzte GitHub-Secrets) zählen wie fehlende
         "basis": (os.environ.get("KI_BASIS_URL") or "https://chat-ai.academiccloud.de/v1").rstrip("/"),
         "schluessel": (os.environ.get("KI_SCHLUESSEL") or "").strip(),
-        "modell": (os.environ.get("KI_MODELL") or "meta-llama-3.1-8b-instruct").strip(),
+        "modell": (os.environ.get("KI_MODELL") or "qwen3.5-397b-a17b").strip(),
     }
 
 
@@ -34,18 +34,31 @@ def modelle():
     return [m.get("id") for m in r.json().get("data", [])]
 
 
+_letzte_anfrage = [0.0]
+
+
+def _takt():
+    """Höchstens etwa 9 Anfragen pro Minute (GWDG-Grenze laut Doku: 10 pro Minute). Einstellbar über KI_ABSTAND_SEKUNDEN."""
+    abstand = float(os.environ.get("KI_ABSTAND_SEKUNDEN") or 6.7)
+    warten = abstand - (time.time() - _letzte_anfrage[0])
+    if warten > 0:
+        time.sleep(warten)
+    _letzte_anfrage[0] = time.time()
+
+
 def fragen(prompt, json_antwort=True, versuche=3):
     """Schickt einen Prompt an die KI. Bei json_antwort wird die Antwort als JSON geparst."""
     k = konfiguration()
     letzter = None
     for i in range(versuche):
         try:
+            _takt()
             r = requests.post(f"{k['basis']}/chat/completions", timeout=180,
                               headers={"Authorization": f"Bearer {k['schluessel']}", "Content-Type": "application/json"},
                               json={"model": k["modell"], "temperature": 0.1,
                                     "messages": [{"role": "user", "content": prompt}]})
-            if r.status_code == 429:          # Ratenlimit: kurz warten
-                time.sleep(20 * (i + 1)); continue
+            if r.status_code == 429:          # Ratenlimit erreicht: bis zur Freigabe warten
+                time.sleep(min(120, float(r.headers.get("Retry-After") or 30 * (i + 1)))); continue
             r.raise_for_status()
             text = r.json()["choices"][0]["message"]["content"]
             if not json_antwort:

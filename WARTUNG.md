@@ -31,7 +31,7 @@ Der GWDG-Zugang gehört zum Studierendenkonto und endet mit dem Projekt. Jeder A
 
 | Anbieter | `KI_BASIS_URL` | `KI_MODELL` (Beispiel) |
 |---|---|---|
-| GWDG | `https://chat-ai.academiccloud.de/v1` | aus `python -m ci modelle` |
+| GWDG | `https://chat-ai.academiccloud.de/v1` | `qwen3.5-397b-a17b` (Liste: `python -m ci modelle`) |
 | OpenAI | `https://api.openai.com/v1` | `gpt-4o-mini` |
 | Mistral (EU) | `https://api.mistral.ai/v1` | `mistral-small-latest` |
 | Azure OpenAI / eigene Server | Adresse laut Anbieter | laut Anbieter |
