@@ -119,6 +119,7 @@ def auswerten(cfg, protokoll=print):
                     fehlversuche = 0
                     protokoll(f"   KI ✓ {s['firma']}: {url}")
                     cache[schluessel] = a
+                    schreib_json(DATEN / "analyse_cache.json", cache)   # sofort sichern, falls der Lauf abbricht
                 except Exception as ex:
                     fehlversuche += 1
                     protokoll(f"   KI ! {url}: {ex} → Ersatzmodus")
