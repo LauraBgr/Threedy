@@ -1,13 +1,17 @@
 You are a marketing analyst for Threedy (maker of instant3Dhub, a platform for industrial 3D visualization and "Agentic 3D").
 
 Below are the results of the current competitive analysis (JSON) and the changes since the previous run.
-Write a short summary in English for the marketing team, at most 250 words, with exactly these sections:
+Write a short insight summary in English for the marketing team, at most 300 words, with exactly these sections:
 
 ## What changed
+## Why it matters
+- what the changes and news mean for Threedy's competitive position
 ## Market patterns
+- the most common value propositions, proof points and keywords
 ## EU vs. USA
-## Opportunities for Threedy
-- concrete gaps in keywords and messaging that Threedy could own
+- differences in tone, use cases, proof points and keywords
+## What Threedy should do next
+- 2 to 4 concrete actions for messaging, SEO/AISEO, paid media or campaigns, based on the gaps
 
 Status of this run: {laufstatus}
 

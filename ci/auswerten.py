@@ -5,12 +5,14 @@ import json
 import re
 from collections import Counter
 
-from . import ki, luecken as lueckenmodul, news, radar
+from . import bewertung, ki, ki_sichtbarkeit, luecken as lueckenmodul, news, radar
 from .pfade import DATEN, PROMPTS, lies_json, schreib_json, slug
 
 THEMEN = ["browserbasiert", "streaming_grosser_daten", "multi_cad_formate", "design_review", "zusammenarbeit", "digitaler_zwilling",
           "ki_und_agenten", "ar_vr", "service_und_wartung", "fertigung_und_produktion", "vertrieb_und_marketing", "plm_integration",
           "sdk_und_api", "cloud_und_saas", "sicherheit_und_datenschutz", "skalierbarkeit_enterprise", "nachhaltigkeit", "kosten_und_roi"]
+BELEG_ARTEN = ["kundenlogos", "fallstudie", "zahlen", "zertifikat", "auszeichnung", "partner", "enterprise", "sicherheit", "technische_tiefe", "roi"]
+TOENE = ["technisch", "nutzen_und_roi", "visionaer", "vertrauen_und_sicherheit", "einfach_und_zugaenglich"]
 CTA_TYPEN = ["demo", "testversion", "kontakt_vertrieb", "video", "dokumentation", "download", "event", "preise", "newsletter", "sonstiges"]
 
 # Ersatzmodus: Stichwörter je Thema (englisch und deutsch)
@@ -66,7 +68,36 @@ def bereinigen(a):
         "branchen": _liste(a.get("branchen"), 10),
         "zielgruppe": str(a.get("zielgruppe", ""))[:120],
         "differenzierung": str(a.get("differenzierung", ""))[:300],
+        "wertversprechen": [w.lower() for w in _liste(a.get("wertversprechen"), 6)],
+        "anwendungsfaelle": [w.lower() for w in _liste(a.get("anwendungsfaelle"), 6)],
+        "keyword_arten": {k: [w.lower() for w in _liste((a.get("keyword_arten") or {}).get(k) if isinstance(a.get("keyword_arten"), dict) else [], 10)]
+                          for k in ("kategorie", "produkt", "problem")},
+        "beleg_arten": [b for b in _liste(a.get("beleg_arten")) if b in BELEG_ARTEN],
+        "ton": a.get("ton") if a.get("ton") in TOENE else "",
+        "klarheit": _zahl(a.get("klarheit")),
     }
+
+
+def _zahl(x):
+    try:
+        return max(1, min(5, int(x)))
+    except (TypeError, ValueError):
+        return None
+
+
+def synonyme_anwenden(cfg, firmen):
+    """Ähnliche Begriffe zusammenfassen (config: keyword_synonyme), z. B. 'engineering review' -> 'design review'."""
+    ziel = {}
+    for haupt, liste in ((cfg.get("keyword_synonyme") or {}).items()):
+        for v in liste or []:
+            ziel[str(v).lower()] = str(haupt).lower()
+    if not ziel:
+        return
+    for f in firmen.values():
+        for p in f["seiten"]:
+            for feld in ("keywords", "wertversprechen", "anwendungsfaelle"):
+                p[feld] = list(dict.fromkeys(ziel.get(k, k) for k in p[feld]))
+            p["keyword_arten"] = {k: list(dict.fromkeys(ziel.get(w, w) for w in v)) for k, v in p["keyword_arten"].items()}
 
 
 def ersatz_auswertung(s):
@@ -105,8 +136,9 @@ def auswerten(cfg, protokoll=print):
     firmen = {w["name"]: {"name": w["name"], "region": w["region"], "start": w.get("start", ""), "referenz": bool(w.get("referenz")),
                           "automatisch": bool(w.get("automatisch")), "seiten": []}
               for w in cfg["wettbewerber"]}
+    aktuell_ab = (dt.date.today() - dt.timedelta(days=21)).isoformat()   # Seiten, die länger nicht mehr erfasst wurden, zählen nicht mehr
     for url, info in stand.items():
-        if info["firma"] not in firmen:
+        if info["firma"] not in firmen or info.get("datum", "") < aktuell_ab:
             continue
         s = lies_json(DATEN / info["datei"])
         if not s:
@@ -139,6 +171,7 @@ def auswerten(cfg, protokoll=print):
     schreib_json(DATEN / "analyse_cache.json", cache)
 
     # Zusammenfassen je Firma
+    synonyme_anwenden(cfg, firmen)
     for f in firmen.values():
         kw, th, ct = Counter(), Counter(), Counter()
         for p in f["seiten"]:
@@ -148,7 +181,14 @@ def auswerten(cfg, protokoll=print):
                  kunden=list(dict.fromkeys(k for p in f["seiten"] for k in p["kunden"]))[:20],
                  branchen=list(dict.fromkeys(b for p in f["seiten"] for b in p["branchen"]))[:15],
                  hauptbotschaften=[p["hauptbotschaft"] for p in f["seiten"] if p["hauptbotschaft"]][:4],
-                 stand=max((p["datum"] for p in f["seiten"]), default=""))
+                 stand=max((p["datum"] for p in f["seiten"]), default=""),
+                 wertversprechen=Counter(w for p in f["seiten"] for w in p.get("wertversprechen", [])).most_common(12),
+                 anwendungsfaelle=Counter(w for p in f["seiten"] for w in p.get("anwendungsfaelle", [])).most_common(12),
+                 keyword_arten={k: list(dict.fromkeys(w for p in f["seiten"] for w in p.get("keyword_arten", {}).get(k, [])))[:20] for k in ("kategorie", "produkt", "problem")},
+                 beleg_arten=dict(Counter(b for p in f["seiten"] for b in p.get("beleg_arten", []))),
+                 toene=dict(Counter(p["ton"] for p in f["seiten"] if p.get("ton"))),
+                 klarheit=round(sum(k) / len(k), 1) if (k := [p["klarheit"] for p in f["seiten"] if p.get("klarheit")]) else None,
+                 seiten_links=[{"url": p["url"], "titel": p["titel"], "seitentyp": p["seitentyp"], "datum": p["datum"]} for p in f["seiten"]][:8])
     nachrichten = news.auswerten(cfg, cache, THEMEN, THEMEN_MUSTER, mit_ki, protokoll)
     for f in firmen.values():
         n = nachrichten.get(f["name"], {"artikel": [], "analyse": {}})
@@ -156,6 +196,9 @@ def auswerten(cfg, protokoll=print):
     markt = nachrichten.get("_markt", {"artikel": [], "analyse": {}})
     schreib_json(DATEN / "analyse_cache.json", cache)
     radar_daten = radar.pruefen(cfg, nachrichten, cache, mit_ki, protokoll)
+    schreib_json(DATEN / "analyse_cache.json", cache)
+
+    sichtbarkeit = ki_sichtbarkeit.pruefen(cfg, cache, mit_ki, protokoll)
     schreib_json(DATEN / "analyse_cache.json", cache)
 
     # Lücken für Threedy
@@ -166,6 +209,9 @@ def auswerten(cfg, protokoll=print):
 
     # Änderungsprotokoll fortschreiben
     log = lies_json(DATEN / "aenderungen.json", [])
+    analyse_stand = lies_json(DATEN / "analyse_stand.json", {})   # url -> Auswertung beim letzten Lauf
+    seiten_jetzt = {p["url"]: {k: p.get(k) for k in ("themen", "wertversprechen", "branchen", "cta_typen", "hauptbotschaft")}
+                    for f in firmen.values() for p in f["seiten"]}
     for aend in lauf.get("aenderungen", []):
         if aend["art"] == "geändert":
             vorher = lies_json(DATEN / aend["vorher"], {}) or {}
@@ -173,25 +219,42 @@ def auswerten(cfg, protokoll=print):
             neu = [u for u in jetzt.get("ueberschriften", []) if u not in vorher.get("ueberschriften", [])]
             weg = [u for u in vorher.get("ueberschriften", []) if u not in jetzt.get("ueberschriften", [])]
             aend = dict(aend, neue_ueberschriften=neu[:8], entfernte_ueberschriften=weg[:8])
+            alt_a, neu_a = analyse_stand.get(aend["url"], {}), seiten_jetzt.get(aend["url"], {})
+            if alt_a and neu_a:
+                diff = lambda feld: ([x for x in neu_a.get(feld, []) if x not in alt_a.get(feld, [])], [x for x in alt_a.get(feld, []) if x not in neu_a.get(feld, [])])
+                for feld, name in (("themen", "themen"), ("wertversprechen", "aussagen"), ("branchen", "branchen"), ("cta_typen", "ctas")):
+                    plus, minus = diff(feld)
+                    if plus: aend[f"neue_{name}"] = plus[:6]
+                    if minus: aend[f"entfernte_{name}"] = minus[:6]
+                if alt_a.get("hauptbotschaft") and alt_a.get("hauptbotschaft") != neu_a.get("hauptbotschaft"):
+                    aend["botschaft_vorher"], aend["botschaft_jetzt"] = alt_a["hauptbotschaft"], neu_a.get("hauptbotschaft", "")
+        elif aend["art"] == "neu erfasst" and any(a.get("datum", "") < lauf.get("datum", "") for a in log):
+            aend = dict(aend, art="neue Seite")   # nach der Erst-Erfassung neu aufgetauchte Seite
         log.insert(0, dict(aend, datum=lauf.get("datum", "")))
     log = log[:300]
     schreib_json(DATEN / "aenderungen.json", log)
+    schreib_json(DATEN / "analyse_stand.json", seiten_jetzt)
 
     ergebnis = {"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "modus": modus,
-                "firmen": list(firmen.values()), "luecken": luecken, "markt": markt, "radar": radar_daten, "aenderungen": log[:60],
+                "firmen": list(firmen.values()), "luecken": luecken, "markt": markt, "radar": radar_daten, "ki_sichtbarkeit": sichtbarkeit,
+                "scorecard": bewertung.scorecard(list(firmen.values()), log), "kpis": bewertung.kpis(cfg, list(firmen.values()), luecken, log, lauf.get("fehler", [])),
+                "beleg_arten": BELEG_ARTEN, "toene": TOENE, "aenderungen": log[:60],
                 "fehler": lauf.get("fehler", []), "themenliste": THEMEN, "cta_typen": CTA_TYPEN}
 
     # KI-Zusammenfassung
     if mit_ki:
         kurz = [{"firma": f["name"], "region": f["region"], "referenz": f["referenz"], "themen": f["themen"],
                  "keywords": [k for k, _ in f["keywords"][:12]], "cta": f["cta_typen"], "botschaften": f["hauptbotschaften"], "automatisch_aufgenommen": f.get("automatisch", False),
+                 "wertversprechen": [w for w, _ in f.get("wertversprechen", [])[:6]], "ton": f.get("toene", {}),
                  "news": {"einordnung": f["news_analyse"].get("einordnung", ""), "ereignisse": f["news_analyse"].get("ereignisse", [])[:5]}} for f in firmen.values()]
         kurz.append({"markt_news": markt["analyse"]})
+        if sichtbarkeit.get("aktiv"):
+            kurz.append({"ki_antworten_sichtbarkeit": {f["firma"]: f["anteil"] for f in sichtbarkeit["firmen"]}})
         kurz.append({"luecken_fuer_threedy": [z["thema"] for z in luecken.get("themen_tabelle", []) if z["status"] in ("luecke", "schwach")],
                      "staerken_von_threedy": [z["thema"] for z in luecken.get("themen_tabelle", []) if z["status"] == "staerke"]})
         kurz.append({"neu_entdeckte_wettbewerber": [{"name": k["name"], "gefahr": k["gefahr"], "begruendung": k["begruendung"]} for k in radar_daten["kandidaten"] if k["gefahr"] >= 3][:6]})
         # Nur die Änderungen dieses Laufs; "neu erfasst" = erstmals beobachtet, keine Änderung durch die Firma
-        art_en = {"neu erfasst": "first captured", "geändert": "changed"}
+        art_en = {"neu erfasst": "first captured", "geändert": "changed", "neue Seite": "new page"}
         neue = [dict(a, art=art_en.get(a["art"], a["art"])) for a in lauf.get("aenderungen", [])]
         frueher = any(a.get("datum", "") < lauf.get("datum", "") for a in log)
         erster = bool(neue) and not frueher and all(a["art"] == "first captured" for a in neue)

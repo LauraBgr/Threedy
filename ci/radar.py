@@ -67,7 +67,7 @@ def pruefen(cfg, nachrichten, cache, mit_ki, protokoll=print):
     radar = lies_json(RADAR, {}) or {}
     if not e["aktiv"]:
         return {"modus": "aus", "kandidaten": list(radar.values()), "aufgenommen": []}
-    bekannte = [w["name"] for w in cfg["wettbewerber"]]
+    bekannte = [w["name"] for w in cfg["wettbewerber"]] + [x for w in cfg["wettbewerber"] for x in (w.get("aliase") or [])]
     artikel = []
     for name, n in nachrichten.items():
         artikel += [a for a in n["artikel"] if a.get("herkunft") != "Website"]

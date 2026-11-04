@@ -99,7 +99,8 @@ def seiten_aus_sitemap(start, stichworte, maximal, pause):
     """Produkt- und Lösungsseiten aus der Sitemap: passende Stichworte, kurze Pfade (Übersichtsseiten) zuerst."""
     sperr = re.compile(r"/(blog|news|press|career|jobs|event|webinar|tag|author|legal|privacy|imprint|impressum)", re.I)
     passend = [u for u, _ in sitemap_eintraege(start, pause) if any(s in u.lower() for s in stichworte) and not sperr.search(u)]
-    passend.sort(key=lambda u: (urlparse(u).path.count("/"), len(u)))
+    vorrang = re.compile(r"pric|preis|compar|vergleich|alternative", re.I)   # Preis- und Vergleichsseiten zuerst (Projektvorgabe)
+    passend.sort(key=lambda u: (not vorrang.search(urlparse(u).path), urlparse(u).path.count("/"), len(u)))
     return passend[:maximal]
 
 

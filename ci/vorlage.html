@@ -12,6 +12,7 @@
     --eu: #2a78d6; --usa: #eb6834; --accent: #2a78d6;
     --good: #0ca30c; --warning: #fab219; --serious: #ec835a; --critical: #d03b3b; --good-ink: #006300;
     --s100: #cde2fb; --s200: #9ec5f4; --s300: #6da7ec; --s400: #3987e5; --s500: #256abf; --s600: #184f95; --s700: #0d366b;
+    --on-s100: #0b0b0b; --on-s200: #0b0b0b; --on-s300: #0b0b0b; --on-s400: #fff; --on-s500: #fff; --on-s600: #fff; --on-s700: #fff;
     --head: #12151f; --head-ink: #f0efec; --head-muted: #a9aab3;
   }
   @media (prefers-color-scheme: dark) {
@@ -20,7 +21,7 @@
       --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232321; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
       --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
       --eu: #3987e5; --usa: #d95926; --accent: #3987e5; --good-ink: #0ca30c;
-      --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4;
+      --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4; --on-s100: #f0efec; --on-s200: #f0efec; --on-s300: #fff; --on-s400: #fff; --on-s500: #fff; --on-s600: #0b0b0b; --on-s700: #0b0b0b;
       --head: #000; --head-ink: #f0efec; --head-muted: #898781;
     }
   }
@@ -29,7 +30,7 @@
     --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232321; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
     --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
     --eu: #3987e5; --usa: #d95926; --accent: #3987e5; --good-ink: #0ca30c;
-    --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4;
+    --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4; --on-s100: #f0efec; --on-s200: #f0efec; --on-s300: #fff; --on-s400: #fff; --on-s500: #fff; --on-s600: #0b0b0b; --on-s700: #0b0b0b;
     --head: #000; --head-ink: #f0efec; --head-muted: #898781;
   }
   * { box-sizing: border-box; }
@@ -180,7 +181,10 @@ const EVENTS = { produkt: "Product", partnerschaft: "Partnership", kunde: "Custo
 const STATUS = { luecke: ["!", "Gap"], schwach: ["▼", "Under-weighted"], staerke: ["✓", "Strength"], gleichauf: ["=", "At parity"], offen: ["○", "Open field"],
   hoch: ["!", "High"], mittel: ["•", "Medium"], niedrig: ["·", "Low"], aufgenommen: ["✓", "Now monitored"], beobachtet: ["○", "Watching"], ausgeschlossen: ["✕", "Excluded"] };
 const KINDS = { wettbewerber: "Competitor", partner: "Partner", kunde: "Customer", investor: "Investor", sonstiges: "Other" };
-const CHANGES = { "neu erfasst": "First captured", "geändert": "Changed" };
+const CHANGES = { "neu erfasst": "First captured", "geändert": "Changed", "neue Seite": "New page" };
+const PROOFS = { kundenlogos: "Customer logos", fallstudie: "Case studies", zahlen: "Quantified claims", zertifikat: "Certifications", auszeichnung: "Awards", partner: "Partners",
+  enterprise: "Enterprise claims", sicherheit: "Security language", technische_tiefe: "Technical depth", roi: "ROI framing" };
+const TONES = { technisch: "Technical", nutzen_und_roi: "Benefit & ROI", visionaer: "Visionary", vertrauen_und_sicherheit: "Trust & security", einfach_und_zugaenglich: "Simple & accessible" };
 const THEMA = (t) => THEMES[t] || t.replace(/_/g, " ");
 const status = (s) => el("span", { class: "status s-" + s }, el("i", {}, (STATUS[s] || ["?"])[0]), (STATUS[s] || [s, s])[1]);
 const region = (r) => el("span", { class: "region " + (r || "") }, r || "own site");
@@ -256,7 +260,7 @@ function saeulen(monate, serien) {
 }
 const STUFEN = ["--s100", "--s200", "--s300", "--s400", "--s500", "--s600", "--s700"];
 function heatFarbe(v) { // v 0..1
-  if (!v) return null; const i = Math.min(6, Math.floor(v * 6.999)); return { bg: `var(${STUFEN[i]})`, ink: i >= 3 ? "#fff" : "var(--ink)" };
+  if (!v) return null; const i = Math.min(6, Math.floor(v * 6.999)); return { bg: `var(${STUFEN[i]})`, ink: `var(--on-${STUFEN[i].slice(2)})` };
 }
 function skala(text) { return el("div", { class: "skala" }, "0", STUFEN.map((s) => el("span", { style: `background:var(${s})` })), "100%", el("span", { style: "width:auto;margin-left:8px" }, text)); }
 function gefahr(n) { return el("span", { class: "gefahr g" + n, "aria-label": `threat ${n} of 5` }, [1, 2, 3, 4, 5].map((i) => el("b", { class: i <= n ? "an" : null }))); }
@@ -280,10 +284,11 @@ function monatsreihe(artikel, n = 12) {
 
 // ---------- Views ----------
 const VIEWS = {
-  "Overview": overview, "Gaps for Threedy": gaps, "Radar": radar, "News": news, "Themes": themes, "EU vs. USA": euUsa,
-  "Keywords": keywords, "Calls to action": cta, "Proof points": proof, "Changes": changes, "Sources": sources,
+  "Overview": overview, "Questions": questions, "Gaps for Threedy": gaps, "Scorecard": scorecard, "Radar": radar, "News": news, "AI answers": aiAnswers,
+  "Themes": themes, "EU vs. USA": euUsa, "Keywords": keywords, "Calls to action": cta, "Proof points": proof, "Changes": changes, "Sources": sources,
 };
-const BADGE = { "Gaps for Threedy": luecken.length, "Radar": gefaehrlich.length, "News": neueArtikel };
+const alarme = (D.aenderungen || []).filter((a) => a.art !== "neu erfasst" && a.datum === (D.erstellt || "").slice(0, 10));
+const BADGE = { "Gaps for Threedy": luecken.length, "Radar": gefaehrlich.length, "News": neueArtikel, "Changes": alarme.length };
 let aktiv = decodeURIComponent(location.hash.slice(1)) || "Overview";
 function zeige(name) {
   aktiv = VIEWS[name] ? name : "Overview";
@@ -295,12 +300,16 @@ function zeige(name) {
 }
 
 function overview(m) {
+  if ((D.kpis || []).length) {
+    const box = el("div", { class: "kacheln" }, D.kpis.map((k) => tip(el("div", { class: "kachel" }, el("div", { class: "wert" }, String(k.wert)), el("div", { class: "name" }, k.name), el("div", { class: "hinw" }, k.detail)),
+      k.name, [k.definition, ...(k.liste && k.liste.length ? ["→ " + k.liste.map(THEMA).join(", ")] : [])])));
+    m.append(el("div", { class: "klein", style: "margin:-4px 0 6px" }, "Project KPIs (hover for the definition)"), box);
+  }
   const letzte30 = presseArtikel.filter((a) => (a.datum || "") >= tageZurueck(30)).length;
   m.append(kacheln([
-    [firmen.length, "Companies monitored", alleFirmen.some((f) => f.automatisch) ? `${alleFirmen.filter((f) => f.automatisch).length} added by the radar` : "incl. Threedy as reference"],
     [firmen.reduce((a, f) => a + f.seiten.length, 0), "Web pages analysed"],
     [letzte30, "Articles, last 30 days", `${neueArtikel} new since last run`],
-    [luecken.length, "Theme gaps for Threedy", `${(L.themen_tabelle || []).filter((z) => z.status === "staerke").length} strengths`],
+    [alarme.length, "Change alerts this run", "changed claims, new pages"],
     [gefaehrlich.length, "High-threat newcomers", "radar, threat ≥ 4 of 5"],
   ]));
   const oben = el("div", { class: "raster r2" });
@@ -329,7 +338,10 @@ function overview(m) {
       el("div", { class: "klein" }, `${f.seiten.length} ${f.seiten.length === 1 ? "page" : "pages"} · ${(f.news || []).length} articles · `, el("a", { href: f.start, target: "_blank", rel: "noopener" }, "website"),
         f.referenz ? el("span", { class: "chip", style: "margin-left:6px" }, "Reference") : null, f.automatisch ? el("span", { class: "chip", style: "margin-left:6px" }, "Added by radar") : null),
       f.hauptbotschaften[0] ? el("p", { style: "margin:8px 0 6px;font-weight:550" }, "“" + f.hauptbotschaften[0] + "”") : null,
-      el("div", { class: "tags" }, top.map(([t]) => el("span", { class: "tag" }, THEMA(t)))));
+      el("div", { class: "tags" }, top.map(([t]) => el("span", { class: "tag" }, THEMA(t)))),
+      el("details", { style: "margin-top:8px" }, el("summary", { class: "klein", style: "cursor:pointer" }, `Key pages (${(f.seiten_links || f.seiten).length})`),
+        (f.seiten_links || f.seiten).map((p) => el("div", { style: "font-size:12.5px;margin-top:4px" }, el("a", { href: p.url, target: "_blank", rel: "noopener" }, (p.titel || p.url).slice(0, 70)),
+          el("span", { class: "klein" }, ` · ${PAGETYPES[p.seitentyp] || p.seitentyp} · ${p.datum}`)))));
   })));
 }
 
@@ -462,6 +474,12 @@ function euUsa(m) {
   const kw = (liste) => { const c = {}; liste.forEach((f) => f.seiten.flatMap((p) => p.keywords).forEach((k) => (c[k] = (c[k] || 0) + 1))); return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 12); };
   m.append(el("div", { class: "raster r2 abschnitt" }, ["EU", "USA"].map((r) => el("div", { class: "karte" }, el("h3", {}, `Top keywords · ${r}`),
     balken(kw(g[r]).map(([k, n]) => ({ label: k, wert: n })), { farbe: () => `var(--${r === "EU" ? "eu" : "usa"})`, fmt: (v) => `${v} p.`, tipp: (z) => [`on ${z.wert} pages`] })))));
+  const anteilVon = (liste, fn) => liste.length ? liste.filter(fn).length / liste.length : 0;
+  const tone = Object.keys(TONES).map((t) => ({ label: TONES[t], x: anteilVon(g.EU, (f) => (f.toene || {})[t]), y: anteilVon(g.USA, (f) => (f.toene || {})[t]) })).filter((z) => z.x || z.y);
+  const proofs = Object.keys(PROOFS).map((b) => ({ label: PROOFS[b], x: anteilVon(g.EU, (f) => (f.beleg_arten || {})[b]), y: anteilVon(g.USA, (f) => (f.beleg_arten || {})[b]) })).filter((z) => z.x || z.y);
+  if (tone.length || proofs.length) m.append(el("div", { class: "raster r2 abschnitt" },
+    el("div", { class: "karte" }, el("h3", {}, "Tone"), el("p", { class: "unter" }, "Share of competitors whose pages use each tone."), tone.length ? hantel(tone, { a: { name: "EU", farbe: "var(--eu)" }, b: { name: "USA", farbe: "var(--usa)" } }) : el("p", { class: "leer" }, "no data")),
+    el("div", { class: "karte" }, el("h3", {}, "Proof point types"), el("p", { class: "unter" }, "Share of competitors using each kind of evidence."), proofs.length ? hantel(proofs, { a: { name: "EU", farbe: "var(--eu)" }, b: { name: "USA", farbe: "var(--usa)" } }) : el("p", { class: "leer" }, "no data"))));
   const mehr = firmen.filter((f) => new Set(f.seiten.map((p) => p.sprache)).size > 1);
   if (mehr.length) m.append(el("div", { class: "abschnitt" }, el("h2", {}, "Same company, different language")),
     ...mehr.map((f) => el("div", { class: "karte", style: "margin-bottom:10px" }, el("h3", {}, f.name), f.seiten.map((p) => el("div", { style: "font-size:13px;margin:3px 0" }, el("strong", {}, `${(p.sprache || "?").toUpperCase()}: `), p.hauptbotschaft || p.titel)))));
@@ -507,6 +525,11 @@ function proof(m) {
   const reihen = (feld) => firmen.map((f) => ({ label: f.name, wert: f[feld].length, fett: f.referenz, region: f.region })).sort((a, b) => b.wert - a.wert);
   m.append(el("div", { class: "raster r3" }, [["kunden", "Named customers"], ["belege", "Proof points"], ["branchen", "Industries"]].map(([k, t]) => el("div", { class: "karte" }, el("h3", {}, t),
     balken(reihen(k), { farbe: (z) => z.region === "EU" ? "var(--eu)" : "var(--usa)", tipp: (z) => [firmen.find((f) => f.name === z.label)[k].slice(0, 8).join(", ") || "none"] })))));
+  const arten = (D.beleg_arten || []).filter((b) => firmen.some((f) => (f.beleg_arten || {})[b]));
+  if (arten.length) m.append(el("div", { class: "abschnitt" }, el("h3", {}, "Types of evidence"), el("div", { class: "tabwrap" }, el("table", { class: "heat" },
+    el("tr", {}, el("th", {}, "Proof type"), firmen.map((f) => el("th", { class: "firma" }, f.name))),
+    arten.map((b) => el("tr", {}, el("td", {}, PROOFS[b] || b), firmen.map((f) => { const n = (f.beleg_arten || {})[b] || 0, c = heatFarbe(n / f.seiten.length);
+      return tip(el("td", { class: "zelle" }, el("span", { style: c ? `background:${c.bg};color:${c.ink}` : "color:var(--muted)" }, n ? String(n) : "·")), `${f.name} · ${PROOFS[b] || b}`, [`on ${n} of ${f.seiten.length} pages`]); })))))));
   m.append(el("div", { class: "raster r3 abschnitt" }, firmen.map((f) => el("div", { class: "karte" }, el("div", { style: "display:flex;justify-content:space-between" }, el("h3", {}, f.name), region(f.region)),
     f.kunden.length ? el("div", { style: "font-size:13px" }, el("strong", {}, "Customers: "), f.kunden.join(", ")) : null,
     f.branchen.length ? el("div", { style: "font-size:13px;margin-top:4px" }, el("strong", {}, "Industries: "), f.branchen.join(", ")) : null,
@@ -520,7 +543,96 @@ function changes(m) {
   m.append(kacheln([[geaendert.length, "Pages changed"], [D.aenderungen.length - geaendert.length, "Pages first captured"], [new Set(geaendert.map((a) => a.firma)).size, "Companies with changes"]]));
   m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Date"), el("th", {}, "Company"), el("th", {}, "Type"), el("th", {}, "Page"), el("th", {}, "Details")),
     D.aenderungen.map((a) => el("tr", {}, el("td", {}, a.datum), el("td", {}, a.firma), el("td", {}, CHANGES[a.art] || a.art), el("td", {}, el("a", { href: a.url, target: "_blank", rel: "noopener" }, a.url.replace(/^https?:\/\//, "").slice(0, 60))),
-      el("td", {}, (a.neue_ueberschriften || []).map((u) => el("div", { style: "color:var(--good-ink)" }, "+ " + u)), (a.entfernte_ueberschriften || []).map((u) => el("div", { style: "color:var(--critical)" }, "− " + u))))))));
+      el("td", {}, aenderungDetails(a)))))));
+}
+
+function aenderungDetails(a) {
+  const plus = (t) => el("div", { style: "color:var(--good-ink)" }, "+ " + t), minus = (t) => el("div", { style: "color:var(--critical)" }, "− " + t);
+  const gruppe = (titel, neu, weg, fmt = (x) => x) => (neu || weg) ? el("div", { style: "margin-bottom:4px" }, el("span", { class: "klein" }, titel), (neu || []).map((x) => plus(fmt(x))), (weg || []).map((x) => minus(fmt(x)))) : null;
+  return [
+    a.botschaft_jetzt != null ? el("div", { style: "margin-bottom:4px" }, el("span", { class: "klein" }, "Main message"), minus(a.botschaft_vorher), plus(a.botschaft_jetzt)) : null,
+    gruppe("Themes", a.neue_themen, a.entfernte_themen, THEMA), gruppe("Value claims", a.neue_aussagen, a.entfernte_aussagen),
+    gruppe("Industries", a.neue_branchen, a.entfernte_branchen), gruppe("CTA types", a.neue_ctas, a.entfernte_ctas, (c) => CTAS[c] || c),
+    gruppe("Headings", a.neue_ueberschriften, a.entfernte_ueberschriften),
+  ];
+}
+
+function scorecard(m) {
+  const S = D.scorecard;
+  m.append(el("h2", {}, "Scorecard"), el("p", { class: "unter" }, "The project's fixed evaluation criteria, applied the same way to every company. 1 = weak, 5 = strong; most scores are relative to the best company. Hover a cell for the basis."));
+  if (!S || !S.zeilen.length) { m.append(el("p", { class: "leer" }, "No data yet.")); return; }
+  const stufe = (v) => { if (v == null) return null; const st = ["s200", "s300", "s400", "s500", "s600"][v - 1]; return { bg: `var(--${st})`, ink: `var(--on-${st})` }; };
+  m.append(el("div", { class: "tabwrap" }, el("table", { class: "heat" },
+    el("tr", {}, el("th", {}, "Company"), S.kriterien.map(([k, t]) => el("th", { class: "firma" }, t)), el("th", { class: "firma" }, "Average")),
+    S.zeilen.map((z) => {
+      const werte = S.kriterien.map(([k]) => z.werte[k][0]).filter((v) => v != null);
+      return el("tr", {}, el("td", {}, el("span", { class: z.referenz ? "fett" : "" }, z.firma), " ", region(z.region)),
+        S.kriterien.map(([k, t]) => { const [v, basis] = z.werte[k], c = stufe(v);
+          return tip(el("td", { class: "zelle" }, el("span", { style: c ? `background:${c.bg};color:${c.ink}` : "color:var(--muted)" }, v == null ? "–" : String(v))), `${z.firma} · ${t}`, [basis]); }),
+        el("td", { class: "zelle" }, el("span", { style: "font-weight:700" }, werte.length ? (werte.reduce((a, b) => a + b, 0) / werte.length).toFixed(1) : "–")));
+    }))));
+  m.append(el("div", { class: "skala" }, "1", ["--s200", "--s300", "--s400", "--s500", "--s600"].map((s) => el("span", { style: `background:var(${s})` })), "5",
+    el("span", { style: "width:auto;margin-left:8px" }, "Operational usability (the 8th criterion) concerns the workflow itself: see Sources and the maintenance guide.")));
+}
+
+function aiAnswers(m) {
+  const A = D.ki_sichtbarkeit || {};
+  m.append(el("h2", {}, "Visibility in AI answers"), el("p", { class: "unter" }, "Typical buyer questions are put to the AI model every run. Which monitored vendors does it name? " +
+    "A proxy for AI-search (AISEO) visibility; the model answers from its training knowledge, not a live web search."));
+  if (!A.aktiv) { m.append(el("p", { class: "leer" }, "Needs the AI key; questions are set under ki_sichtbarkeit in config/wettbewerber.yaml.")); return; }
+  const ref = (A.firmen || []).find((f) => firmen.find((x) => x.name === f.firma && x.referenz));
+  m.append(kacheln([[ref ? pct(ref.anteil) : "–", "Answers naming Threedy", `${A.fragen.length} buyer questions`],
+    [A.firmen[0] ? A.firmen[0].firma : "–", "Most visible vendor", A.firmen[0] ? `named in ${pct(A.firmen[0].anteil)} of answers` : ""], [A.modell || "", "Model asked"]]));
+  m.append(el("div", { class: "raster r2" },
+    el("div", { class: "karte" }, el("h3", {}, "Share of answers naming each vendor"),
+      balken(A.firmen.map((f) => ({ label: f.firma, wert: f.anteil, fett: !!firmen.find((x) => x.name === f.firma && x.referenz), f })), { max: 1, fmt: pct,
+        farbe: (z) => z.fett ? "var(--eu)" : "var(--axis)", tipp: (z) => [`${z.f.nennungen} of ${A.fragen.length} answers`, z.f.mittlerer_platz ? `average position ${z.f.mittlerer_platz}` : "not named"] })),
+    el("div", { class: "karte" }, el("h3", {}, "Trend: Threedy"), (A.verlauf || []).length > 1 && ref
+      ? balken(A.verlauf.map((v) => ({ label: v.datum, wert: v.anteile[ref.firma] || 0 })), { max: 1, fmt: pct })
+      : el("p", { class: "leer" }, "The trend appears after the second run."))));
+  m.append(el("div", { class: "abschnitt" }, el("h2", {}, "Questions and answers")), el("div", { class: "karte" }, A.fragen.map((q) => el("div", { class: "artikel" },
+    el("div", { style: "font-weight:600" }, q.frage),
+    el("div", { class: "tags" }, q.genannt.length ? q.genannt.map((n, i) => el("span", { class: "tag", style: firmen.find((x) => x.name === n && x.referenz) ? "background:var(--eu);color:#fff" : null }, `${i + 1}. ${n}`)) : el("span", { class: "klein" }, "no monitored vendor named")),
+    el("details", { style: "margin-top:6px" }, el("summary", { class: "klein", style: "cursor:pointer" }, "Show answer"), el("div", { class: "md", style: "margin-top:6px" }, md(q.antwort)))))));
+}
+
+function questions(m) {
+  m.append(el("h2", {}, "Project questions"), el("p", { class: "unter" }, "The six questions from the project brief, answered from the current data."));
+  const andere = firmen.filter((f) => !f.referenz);
+  const g = { EU: andere.filter((f) => f.region === "EU"), USA: andere.filter((f) => f.region === "USA") };
+  const zaehle = (liste, fn) => { const c = {}; liste.forEach((f) => new Set(fn(f)).forEach((k) => (c[k] = (c[k] || 0) + 1))); return Object.entries(c).sort((a, b) => b[1] - a[1]); };
+  const frage = (nr, titel, ...inhalt) => el("div", { class: "karte", style: "margin-bottom:14px" }, el("div", { class: "klein" }, `Question ${nr}`), el("h3", { style: "font-size:15px" }, titel), ...inhalt);
+  const liste = (rows, n, gruppe, farbe) => rows.length ? balken(rows.slice(0, n).map(([k, v]) => ({ label: k, wert: v })), { max: Math.max(1, gruppe.length), fmt: (v) => `${v}/${gruppe.length}`, farbe: () => farbe }) : el("p", { class: "leer" }, "no data yet");
+  const zwei = (fn, n = 8) => el("div", { class: "raster r2" }, ["EU", "USA"].map((r) => el("div", {}, el("div", { class: "klein", style: "margin-bottom:4px" }, region(r), ` competitors (${g[r].length})`),
+    liste(zaehle(g[r], fn), n, g[r], `var(--${r === "EU" ? "eu" : "usa"})`))));
+
+  m.append(frage(1, "Which keywords and category terms are competitors trying to rank for in Europe and in the United States?",
+    el("p", { class: "unter" }, "Category terms (bars = number of competitors using the term)."), zwei((f) => f.keyword_arten ? f.keyword_arten.kategorie : []),
+    el("p", { class: "unter", style: "margin-top:12px" }, "Problem-oriented search terms."), zwei((f) => f.keyword_arten ? f.keyword_arten.problem : [], 6)));
+  m.append(frage(2, "Which value propositions appear most often across competitor pages?",
+    liste(zaehle(andere, (f) => (f.wertversprechen || []).map(([w]) => w)), 12, andere, "var(--accent)"),
+    el("p", { class: "klein", style: "margin-top:6px" }, "Themes behind them: see Themes. Ads are not covered: LinkedIn and Google ad libraries have no open interface.")));
+  m.append(frage(3, "Which proof points are most common?",
+    liste(zaehle(andere, (f) => Object.keys(f.beleg_arten || {})).map(([k, v]) => [PROOFS[k] || k, v]), 10, andere, "var(--accent)")));
+  const tonZeilen = Object.keys(TONES).map((t) => ({ label: TONES[t], x: g.EU.length ? g.EU.filter((f) => (f.toene || {})[t]).length / g.EU.length : 0, y: g.USA.length ? g.USA.filter((f) => (f.toene || {})[t]).length / g.USA.length : 0 })).filter((z) => z.x || z.y);
+  m.append(frage(4, "How do competitors differ in headlines, calls to action and use-case language across regions?",
+    el("p", { class: "unter" }, "Tone of the pages: share of competitors per region using each tone."),
+    tonZeilen.length ? hantel(tonZeilen, { a: { name: "EU", farbe: "var(--eu)" }, b: { name: "USA", farbe: "var(--usa)" } }) : el("p", { class: "leer" }, "no data yet"),
+    el("p", { class: "unter", style: "margin-top:12px" }, "Calls to action."), zwei((f) => Object.keys(f.cta_typen).map((c) => CTAS[c] || c), 6),
+    el("p", { class: "unter", style: "margin-top:12px" }, "Use cases."), zwei((f) => (f.anwendungsfaelle || []).map(([w]) => w), 6)));
+  const top = (L.themen_tabelle || []).filter((z) => z.status === "luecke" || z.status === "schwach");
+  m.append(frage(5, "Where are the strongest keyword and messaging gaps that Threedy could prioritise?",
+    el("div", { class: "raster r2" }, el("div", {}, el("div", { class: "klein" }, "Messaging gaps"), top.length ? top.map((z) => el("div", { style: "margin:4px 0" }, status(z.status), " ", THEMA(z.thema), el("span", { class: "klein" }, ` · ${z.firmen.length} competitors`))) : el("p", { class: "leer" }, "none")),
+      el("div", {}, el("div", { class: "klein" }, "Keyword gaps"), el("div", { class: "tags" }, (L.keywords || []).slice(0, 12).map((k) => el("span", { class: "tag" }, `${k.keyword} (${k.firmen.length})`))))),
+    ((L.ki || {}).empfehlungen || []).length ? el("div", { style: "margin-top:10px" }, el("div", { class: "klein" }, "Top recommendations"), L.ki.empfehlungen.slice(0, 3).map((e) => el("div", { style: "margin:4px 0" }, status(e.prioritaet), " ", e.titel))) : null,
+    el("p", { class: "klein", style: "margin-top:8px" }, "Details: Gaps for Threedy.")));
+  m.append(frage(6, "How can these findings become a durable agentic dashboard and update process?",
+    el("ul", { style: "margin:0;padding-left:18px;font-size:13.5px" },
+      el("li", {}, "Every Monday a GitHub Action collects public pages (robots.txt respected), Google/Bing news and the companies' own press pages."),
+      el("li", {}, "An AI model (GWDG, swappable) extracts the same fields from every page with a fixed prompt, digests the news, rates newcomers and writes the summary."),
+      el("li", {}, "Changes are compared with the previous run and logged; new high-threat companies are added automatically."),
+      el("li", {}, "The dashboard is rebuilt and published; maintenance needs only the YAML config and the prompt files (see WARTUNG.md).")),
+    el("p", { class: "klein" }, `Last run: ${datum(D.erstellt)} · ${D.fehler.length} capture errors`)));
 }
 
 function sources(m) {

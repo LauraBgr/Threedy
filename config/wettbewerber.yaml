@@ -9,14 +9,16 @@
 # news:       Suchbegriffe für Nachrichten (Google News und Bing News, EU und USA), ein Begriff oder eine Liste
 #             Anführungszeichen = genau dieser Ausdruck
 # referenz:   true = das ist Threedy selbst, zum Vergleich
+# aliase:     weitere Namen/Produkte, an denen die Firma in KI-Antworten erkannt wird
 
 einstellungen:
-  max_seiten_pro_firma: 6          # wie viele Seiten pro Firma höchstens erfasst werden
+  max_seiten_pro_firma: 8          # wie viele Seiten pro Firma höchstens erfasst werden
   max_news_pro_firma: 40           # neue Artikel pro Firma und Lauf (ältere bleiben im Archiv)
   news_max_alter_tage: 730         # ältere Artikel werden ignoriert
   max_eigene_meldungen: 6          # neueste Presse-/Blogseiten von der Firmenwebsite (nur bei sitemap: true)
+  rhythmus: weekly (Mondays)       # nur Anzeige im Dashboard; der echte Takt steht in .github/workflows/woechentlich.yml
   pause_sekunden: 2                # Wartezeit zwischen zwei Abrufen derselben Website
-  seiten_stichworte: [product, products, solution, solutions, platform, industr, use-case, usecase, visuali, viewer, digital-twin, produkt, loesung, losung, plattform]
+  seiten_stichworte: [pricing, preise, compare, comparison, vergleich, alternative, product, products, solution, solutions, platform, industr, use-case, usecase, visuali, viewer, digital-twin, produkt, loesung, losung, plattform]
 
 wettbewerber:
   - name: Threedy
@@ -25,17 +27,20 @@ wettbewerber:
     sitemap: true
     news: ['"Threedy" 3D', '"instant3Dhub"']
     referenz: true
+    aliase: [instant3Dhub]
 
   - name: Vertex Software
     region: USA
     start: https://vertex3d.com/
     sitemap: true
+    aliase: [Vertex Connect, Vertex3D]
     news: ['"Vertex Software" 3D', '"Vertex Software" PLM', '"Vertex Connect"']
 
   - name: Tech Soft 3D
     region: USA
     start: https://www.techsoft3d.com/
     sitemap: true
+    aliase: [HOOPS]
     news: ['"Tech Soft 3D"', '"HOOPS Exchange" OR "HOOPS Communicator" OR "HOOPS Visualize"']
 
   - name: KISTERS 3DViewStation
@@ -44,6 +49,7 @@ wettbewerber:
     seiten:
       - {url: https://viewer.kisters.de/en/products/3dviewstation-product-family.html}
       - {url: https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html, region: EU, sprache: de}
+    aliase: [3DViewStation, KISTERS]
     news: ['"3DViewStation"', '"KISTERS" 3D viewer']
 
   - name: PTC Creo View
@@ -51,21 +57,25 @@ wettbewerber:
     start: https://www.ptc.com/en/products/creo/creo-view
     seiten:
       - {url: https://www.ptc.com/de/products/creo/creo-view, region: EU, sprache: de}
+    aliase: [Creo View, PTC]
     news: ['"Creo View"', '"PTC" visualization 3D', '"PTC" "digital thread"']
 
   - name: Siemens Teamcenter Visualization
     region: EU
     start: https://plm.sw.siemens.com/en-US/teamcenter/
+    aliase: [Teamcenter]
     news: ['"Teamcenter" visualization', '"Teamcenter" Siemens 3D']
 
   - name: Dassault 3DEXPERIENCE
     region: EU
     start: https://www.3ds.com/3dexperience
+    aliase: [3DEXPERIENCE, Dassault Systèmes, Dassault Systemes]
     news: ['"3DEXPERIENCE" Dassault', '"Dassault Systèmes" "virtual twin"']
 
   - name: NVIDIA Omniverse
     region: USA
     start: https://www.nvidia.com/en-us/omniverse/
+    aliase: [Omniverse]
     news: ['"Omniverse" industrial digital twin', '"Omniverse" manufacturing']
 
 # Markt-News: Branchenbegriffe ohne Firmenbezug, für Trends und neue Wettbewerber
@@ -87,3 +97,23 @@ radar:
   min_erwaehnungen: 2              # in so vielen Artikeln muss die Firma vorkommen
   max_automatisch: 6               # höchstens so viele automatisch aufgenommene Firmen
   ausschliessen: []                # z. B. [Siemens Energy] – wird nie aufgenommen, auch nachträglich entfernt
+
+# Gleiche Begriffe zusammenfassen: rechts stehende Varianten werden wie der linke Begriff gezählt
+keyword_synonyme:
+  design review: [collaborative review, engineering review, design reviews, 3d design review]
+  digital twin: [digital twins, digitaler zwilling, virtual twin]
+  cad viewer: [cad viewers, 3d cad viewer, cad-viewer]
+  3d visualization: [3d visualisation, 3d-visualisierung, 3d visualisierung]
+  product lifecycle management: [plm]
+
+# Sichtbarkeit in KI-Antworten (AISEO): typische Käuferfragen, die der KI jede Woche gestellt werden.
+# Gezählt wird, welche beobachteten Firmen in den Antworten vorkommen (Namen + aliase).
+ki_sichtbarkeit:
+  fragen:
+    - What are the best software solutions to view and share very large CAD models in a web browser across an enterprise?
+    - Which vendors offer 3D visualization platforms for industrial digital twins?
+    - How can manufacturers give service technicians access to 3D CAD data without installing CAD software?
+    - Which tools support collaborative design reviews of large 3D assemblies?
+    - Which 3D visualization software can be integrated with PLM systems like Teamcenter or Windchill?
+    - Welche Software eignet sich, um große CAD-Daten im Browser zu visualisieren und im Unternehmen zu teilen?
+    - Welche Anbieter gibt es für 3D-Visualisierung in der Fertigungsindustrie?

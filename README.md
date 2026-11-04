@@ -4,11 +4,12 @@ Prototyp aus dem PFH-Praxisprojekt (WiSe 2026/27). Er beobachtet, wie Wettbewerb
 
 **Ablauf, jede Woche automatisch:**
 
-1. **Sammeln:** öffentliche Webseiten (Startseite, Produkt- und Lösungsseiten über die Sitemap) und Nachrichten (Google News, EU und USA)
-2. **Auswerten:** eine KI liest jede Seite mit einem festen Prompt (`prompts/seite_auswerten.md`) und liefert immer dasselbe Format: Botschaft, Keywords, Themen, Call to Action, Belege, Kunden, Branchen
-3. **Vergleichen:** Was hat sich seit letzter Woche geändert? Wo hat Threedy Lücken?
-4. **Zusammenfassen:** ein zweiter Prompt (`prompts/zusammenfassung.md`) schreibt eine kurze Einordnung
-5. **Veröffentlichen:** `docs/index.html` wird neu gebaut und über GitHub Pages bereitgestellt
+1. **Sammeln:** öffentliche Webseiten (Startseite, Produkt-, Lösungs-, Preis- und Vergleichsseiten über die Sitemap), Nachrichten (Google News und Bing News, EU und USA), eigene Presse- und Blogseiten der Firmen, Markt-News
+2. **Auswerten:** eine KI liest jede Seite mit einem festen Prompt und liefert immer dasselbe Format: Botschaft, Wertversprechen, Keywords (Kategorie/Produkt/Problem), Themen, CTAs, Belege und Belegarten, Branchen, Ton, Klarheit. Dazu News-Zusammenfassungen je Firma
+3. **Beobachten:** Wettbewerber-Radar (neue Firmen in den Nachrichten, automatisch aufgenommen bei hoher Gefahr) und Sichtbarkeit in KI-Antworten (AISEO)
+4. **Vergleichen:** Änderungen seit dem Vorlauf, Scorecard nach festen Kriterien, Lücken und Empfehlungen für Threedy, KPIs aus dem Projektauftrag
+5. **Zusammenfassen:** What changed, Why it matters, Market patterns, EU vs. USA, What Threedy should do next
+6. **Veröffentlichen:** `docs/index.html` wird neu gebaut und über GitHub Pages bereitgestellt: https://laurabgr.github.io/Threedy/
 
 ## Ordner
 
