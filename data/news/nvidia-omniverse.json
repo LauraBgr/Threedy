@@ -1,0 +1,118 @@
+{
+ "firma": "NVIDIA Omniverse",
+ "abgerufen": "2026-11-04",
+ "artikel": [
+  {
+   "region": "EU",
+   "titel": "Modellbasierte Digital-Twin-Technik von Vertiv für Rechenzentren - DataCenter-Insider",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2JPRWE3YUQwRHdsMHJ4U3FQNDJqcVNrWFdiZ2pOZEFGMzRvRnJtTjkxeF9Od2hnOFFWVHEzeEVaUTl3RnVrTzZtMlJiWVR5VTI1RmtaMG5GazYyaWlId1JLZ3NvMmVaTHo2UE5VcHdVcW5ocTVEZzIxYVlvajJqbnFGdUlaUlBST2RjR1pIZ3BZUWdSRWRPdDN6cmtuVmtydjI3Ni1sbE5mS082OXpyMGVvamxIdUphZF9MbXA0dzFPS29nMUZkblVlN1cwWmht?oc=5",
+   "quelle": "DataCenter-Insider",
+   "datum": "2026-06-12"
+  },
+  {
+   "region": "USA",
+   "titel": "SK Telecom Advances Semiconductor Fab Digital Twins using NVIDIA Omniverse Libraries – SK telecom newsroom - SK텔레콤 뉴스룸",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBodUY3WVAwdmU3Vm56Vk81UUlITHBMRWFmNEZ2QkdtMmFua2JIT3h1bkxmRUs0Y3had1FoZTBlM3JFT3hySV9JdmlB?oc=5",
+   "quelle": "SK텔레콤 뉴스룸",
+   "datum": "2026-06-01"
+  },
+  {
+   "region": "USA",
+   "titel": "ABB Genix™ advances industrial digital twins through immersive 3D visualization with NVIDIA Omniverse and Microsoft Azure - ABB",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2RPRS1rVGdDd2g5Vk5BTXJ0SGhSWkFxVldqQVhoM2k2dVVGWGd0U3JDS1JieHNWUVhPWTZudnhBckJ1aDhiUkpqRkpOSlNHMldFaGNDb0dWeW55Z1BpSlVJVDNQN1JheFlBVVFNWlhfWU1vRFZJcFYxWEpocGxET0ZiTFp5N05JQTRsODBzSnJNRkM0X3hoQ0tsWDVmUURDVU5QYWVNVUVGdnZ0ekVrUXVXV0hmU1VuRXdOQUxER1JfdWZJSEhjNEd2TW5EWUJBbVFybXU5YjhxWEtqelBKcnpUS1Uxck9obmVrenZsaW0?oc=5",
+   "quelle": "ABB",
+   "datum": "2026-04-21"
+  },
+  {
+   "region": "USA",
+   "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - NVIDIA Developer",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEF3MXdOVW53NFhnVHFWUy12U01oVV9Vd0RrT3BCRXE1bnVTeWtSQk5jVjhOVnJfbExCWnh5TWxrMVpsU19Hc3hTVG14cmgtVjVya2V0TWc0eTNoZVQyUEtzRm00UVR6Zlctak1HYU9Fd3kwcjFPS1V6bEhJTlI3dlNRTnhtdG44eGxsWmhUQko5LVp2Z2V1enBWMEg5TFR1cDhvOTNwdERDOEotZnZPQmx5TFQ0blh5UUxuYg?oc=5",
+   "quelle": "NVIDIA Developer",
+   "datum": "2026-04-08"
+  },
+  {
+   "region": "EU",
+   "titel": "Aveva und Nvidia entwickeln Digital Twin für KI-Fabriken - Produktion Online",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVTZUVmWm9Wallwa1ZUOTYwUmJyVWpYdi1qTjAtYnY4T0JwM2RTaDEwRDJOZHpPX1N0SGlZZ0R4OTdKUGV3S2Zka0pMQk5mMS0wcjBnel9LYjBkU1VhMTJUaTBzYjlLT2k3N1ZRU0RSZ252Tm1qSW5HeGxQQTJjbmxKTy1wZHNFQ1JNMkg3MnF6Y0xFMEZ3NEg1ejBEaDg?oc=5",
+   "quelle": "Produktion Online",
+   "datum": "2026-03-18"
+  },
+  {
+   "region": "USA",
+   "titel": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support - NVIDIA Newsroom",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkdlMGNINWd6cnBFQjJybGNPMy03QXpQX3I0cWNEVXdKWWVyN3ZyNWhGVkVqQVRvTkpGdDU5SmZuVjFmLVlBb3JDV01sN1BhRWY3MFNFaGV5d04tc3ZHcmNYRWNfU28tRVNfT3EyVjIxUUcwLUczUHZSSEdwcTdOcllJQjN0eV9DQWxHcUZ2Mmx3TTJpTGxvck5udnpHZHpVYlRqbHRfcTRxajAzbHRjUWFhQmhOY3JhNnA3el85dU9iWmVvZThQeV83VDlwWVo4S1Q1aWJMRTUxMmpzZUQ1OTN3R205bXpaTzRVX0lCQnBodGs?oc=5",
+   "quelle": "NVIDIA Newsroom",
+   "datum": "2026-03-16"
+  },
+  {
+   "region": "USA",
+   "titel": "Assembling Industrial Digital Twins with OpenUSD and NVIDIA Omniverse Libraries - NVIDIA",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZdnVzX29xOHFqSG90R3p1bjZIekxOZnVRaW5feUtTUTFnVmh2TE8xSVpGTS1CN0NQZ1NDdGlFb1pJT1BtRWlkZjhpMVZrUk83Ti0yaGNHWW0wMG5MUC1ZNmR1b2xDb2JmQ3hvdzZ0Y18?oc=5",
+   "quelle": "NVIDIA",
+   "datum": "2026-03-15"
+  },
+  {
+   "region": "USA",
+   "titel": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design - NVIDIA Blog",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HN21QWnFUeWNkMHhRVEoyd05hUmpIdklTQUtURmgwVWVKaFpiV3Q5U0R3VHhPUy0xZnBteXNMVXdYeGRLa05wNGJ6WjZnVnBRbHdPM1FwXzZna1BUTl9OVFlWZHh1aXBWd0EzcldFZjd3ZjZScDg0?oc=5",
+   "quelle": "NVIDIA Blog",
+   "datum": "2026-03-12"
+  },
+  {
+   "region": "USA",
+   "titel": "Deloitte unveils physical AI solutions built with NVIDIA Omniverse Libraries to help accelerate industrial transformation - Deloitte",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzl6NkNxczBnQjNEQ0pvUFYzeUZBbjdieDZOQUNlRjZxVHh3WWhId3RHR0kwSHNFYU8xX1lxR2llNm5TUy1JVE1DeEpWVnFWY0FEUHN2VjJNODM4NHI0c0NqS0pzWk05TWw4UGo0cjhTX0hGa1FhU3Q1RUozbmtCSjZNUDdLTUU5TWs5SWwwZWVESUkwdmJHeDFLN2N5TkFvcVlnYWFRQmhldVFtaTFmaA?oc=5",
+   "quelle": "Deloitte",
+   "datum": "2026-03-02"
+  },
+  {
+   "region": "EU",
+   "titel": "Dassault Systèmes und NVIDIA schließen Partnerschaft zum Aufbau einer industriellen KI-Plattform für virtuelle Zwillinge - Dassault Systèmes",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWpWMDI2SUg2SU5hZzdReWhIYVBfYTZRcUMycnFIWVB6bDk1RjVmNE9fRXp6Rk8tTVl2aU1mOTlxN0loOWVoY0hocTJiRGpEaGVlbVI4c1BtZDd4NWJQZ3FSZ2pZaS1wRDBEX3JCMVJtVFpZbVBJSlg0cTUyVlhnSFhOMnJfLWtTcXFsc2ZjWVlEcHFtNGVFTWZpTmpHUEJWdnFJYnk3MkZ2b1pESzhEOWxpek1wMzB1am5CaEttLVZWWU53TFU0Vm9zajB6WW5a?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-02-11"
+  },
+  {
+   "region": "EU",
+   "titel": "Wie das Nvidia Omniverse KI-Fabriken Realität macht - Produktion Online",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0pHV1BsbkNWX25lbGxreFdfR2dZMldJWm93T1BCYUxqX1gzZU9Zd1BmY190eWFrUGx1X0pBT09sUWZjXzd3TW9OMEZmdVV1ZTYwZlpIWnNkd0ExMVBFWUtxRTVGT2tXQlRMTEdoTTVYdnAydG1xMXk4N3R3T1p6ellPamNqWi1pb0pvbmMxaFE0SDlDblduU0JFZzRJZUZDbjZUWm81RjV2MzhjWG9DVW9wbk9JclBzWDFYb0Uxb1JIdw?oc=5",
+   "quelle": "Produktion Online",
+   "datum": "2026-01-28"
+  },
+  {
+   "region": "EU",
+   "titel": "CES 2026: Siemens stellt Technologien zur Beschleunigung industrieller KI vor - industrial-production.de",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdk95bUJDV0VxN1ZlZjdJZy1IeFdpVnVUTkJsX1ZwQm1Jc2o4UFotYmFBWTJSWXZ0clhrZDIyTGZVdGlGOFp3dlhRUTZCaHRpM1pNaHAzbEZGOFFBR3pYdjQzd00yTlItckt3OWVlZTA4Z3JOcklnT010cU9uNFBMb2FMaFowWEFNRnFSSnJGZDN1ZzNoSHpNUlNRX01wQ0drT3I4djlmMlVmVHRNZDN4SUV6NXdMTGFZNHFBQThvNmFHZGx4bkVxZmtFUktJZlFSS1E?oc=5",
+   "quelle": "industrial-production.de",
+   "datum": "2026-01-13"
+  },
+  {
+   "region": "EU",
+   "titel": "Siemens erweckt das industrielle Metaversum mit Digital Twin Composer zum Leben - Siemens Newsroom",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oRHhYa0NycXlIaWxmYy1ObHluR1BIVjMxcEh6dU9JNHduYlBiSGRMbVpUVDc3endKSWM5YmdudmZJZ183UVFFTE04a0hoRjUyeWxURzNqVkkxZG1ZLWNKb2trQmkwX1BOYWhLRjR4WQ?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2026-01-06"
+  },
+  {
+   "region": "EU",
+   "titel": "Siemens stellt auf der CES 2026 Technologien zur Beschleunigung de ... - Siemens Press",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRG41MHBkbWQyMmlXSW5BVkZSY011X2JDeWJCYVQ2NGdHdG05bm1BeTBBZDROakthZU90VE1lbWNFVi1YbVpJTUg2QzZJbDhLOGJ5bUJFZ3hMazVwdVB2UnR1SWZjMVNUQndwbmhXeU01am9LWFZDdnU4NEZaMF85anZtZWRNSmgxZU5jTUFDRHIwU3NmbjRoRkU1bm5zRlNqbFd2NnRDVVF3NkFZRU9uMk4tejZjX3NRSEM0SUxYY0Zrcmg4dS1SZTFtSzdlcFk?oc=5",
+   "quelle": "Siemens Press",
+   "datum": "2026-01-06"
+  },
+  {
+   "region": "USA",
+   "titel": "Siemens unveils Digital Twin Composer - Siemens Newsroom",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jcWE0NzZnbUZ6VEVHdmFESW5OYjNiTk1WNktkeFJjZkVZODJSajE0d09UdXpOLXctZzFfSGJMVGpoYnRlVEN1eFhjVWJYR3VNMGFlTngxVC1KRHpoWnBVTXpsOFhtblhJbWFhMHhMZw?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2026-01-06"
+  },
+  {
+   "region": "USA",
+   "titel": "Top 10: Digital Twin Platforms - Technology Magazine",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVkh5Q18zR3JqRzZhcUdCNDJPUWQ5VDlHTWJrRWlVMEtLTkc4amg0cnBzSWJqM1V3b1djWDVxMFRyMzhFa1NOVzY3SGdwc1UwRXZPX05XRHZtNkF4Mm1CU1Q4bnlGdlNrWXdEUmRDN1phd2hi?oc=5",
+   "quelle": "Technology Magazine",
+   "datum": "2025-11-19"
+  }
+ ]
+}

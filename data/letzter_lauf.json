@@ -1,0 +1,24 @@
+{
+ "datum": "2026-11-04",
+ "seiten": 24,
+ "fehler": [
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/digital-machine-file-at-trumpf-for-on-demand-visualization-of-250-000-machines",
+   "fehler": "kaum Text auf der Seite (evtl. nur per JavaScript geladen)"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html",
+   "fehler": "robots.txt verbietet den Abruf"
+  }
+ ],
+ "aenderungen": [
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "https://www.3ds.com/3dexperience",
+   "art": "geändert",
+   "vorher": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json"
+  }
+ ]
+}

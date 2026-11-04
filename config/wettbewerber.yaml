@@ -1,0 +1,66 @@
+# Wettbewerber und Quellen. Ein neuer Wettbewerber = ein neuer Eintrag, ohne Programmieren.
+#
+# name:       Anzeigename
+# region:     Hauptsitz bzw. Fokus, "EU" oder "USA"
+# start:      Startseite (wird immer erfasst)
+# sitemap:    true = in der Sitemap automatisch passende Produkt- und Lösungsseiten suchen
+# seiten:     feste Seiten, die immer erfasst werden. Optional mit eigener Region,
+#             z. B. die deutsche und die US-Version derselben Seite für den EU-USA-Vergleich
+# news:       Suchbegriff für Nachrichten (Google News)
+# referenz:   true = das ist Threedy selbst, zum Vergleich
+
+einstellungen:
+  max_seiten_pro_firma: 6          # wie viele Seiten pro Firma höchstens erfasst werden
+  max_news_pro_firma: 8
+  pause_sekunden: 2                # Wartezeit zwischen zwei Abrufen derselben Website
+  seiten_stichworte: [product, products, solution, solutions, platform, industr, use-case, usecase, visuali, viewer, digital-twin, produkt, loesung, losung, plattform]
+
+wettbewerber:
+  - name: Threedy
+    region: EU
+    start: https://threedy.io/
+    sitemap: true
+    news: '"Threedy" 3D'
+    referenz: true
+
+  - name: Vertex Software
+    region: USA
+    start: https://vertex3d.com/
+    sitemap: true
+    news: '"Vertex Software" 3D'
+
+  - name: Tech Soft 3D
+    region: USA
+    start: https://www.techsoft3d.com/
+    sitemap: true
+    news: '"Tech Soft 3D"'
+
+  - name: KISTERS 3DViewStation
+    region: EU
+    start: https://viewer.kisters.de/en/
+    seiten:
+      - {url: https://viewer.kisters.de/en/products/3dviewstation-product-family.html}
+      - {url: https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html, region: EU, sprache: de}
+    news: '"3DViewStation" OR "KISTERS" viewer'
+
+  - name: PTC Creo View
+    region: USA
+    start: https://www.ptc.com/en/products/creo/creo-view
+    seiten:
+      - {url: https://www.ptc.com/de/products/creo/creo-view, region: EU, sprache: de}
+    news: '"Creo View" OR "PTC" visualization'
+
+  - name: Siemens Teamcenter Visualization
+    region: EU
+    start: https://plm.sw.siemens.com/en-US/teamcenter/
+    news: '"Teamcenter" visualization Siemens'
+
+  - name: Dassault 3DEXPERIENCE
+    region: EU
+    start: https://www.3ds.com/3dexperience
+    news: '"3DEXPERIENCE" Dassault'
+
+  - name: NVIDIA Omniverse
+    region: USA
+    start: https://www.nvidia.com/en-us/omniverse/
+    news: '"Omniverse" industrial digital twin'

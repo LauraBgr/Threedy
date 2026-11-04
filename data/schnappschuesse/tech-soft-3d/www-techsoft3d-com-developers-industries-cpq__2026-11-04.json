@@ -1,0 +1,24 @@
+{
+ "firma": "Tech Soft 3D",
+ "region": "USA",
+ "url": "https://www.techsoft3d.com/developers/industries/cpq/",
+ "datum": "2026-11-04",
+ "fingerabdruck": "3434e11e91f53e2b",
+ "titel": "SDKs for Configure, Price, & Quote (CPQ) Apps  | Tech Soft 3D",
+ "beschreibung": "Creating CPQ software requires addressing many complex needs. HOOPS SDKs are here to make that journey easier with best-in-class CAD data access and visualization toolkits.",
+ "sprache": "en",
+ "ueberschriften": [
+  "Configure, Price, & Quote (CPQ)",
+  "Frequently Asked Questions",
+  "What capabilities do CPQ applications need?",
+  "What is the benefit of data access over data translation?",
+  "Talk to an Expert",
+  "SDKs for Developers",
+  "Apps for Enterprise"
+ ],
+ "cta_kandidaten": [
+  "Contact",
+  "Support"
+ ],
+ "text": "SDKs for Developers Apps for Enterprise Company Contact Support EN Configure, Price, & Quote (CPQ) Creating CPQ software requires addressing many complex needs. HOOPS SDKs are here to make that journey easier with best-in-class CAD data access and visualization toolkits. CAD Import 3D Visualization Modeling FAQs HOOPS SDKs for CPQ To be competitive, CPQ software developers need to address complex challenges quickly while building a product that differentiates itself in the marketplace. Leveraging SDKs can help developers address challenges in CAD data access, high-performance visualization, and more. HOOPS SDKs are the best-in-class among SDKs for 3D engineering applications. HOOPS Exchange Robust CAD Data Access Modern CPQ applications need to handle complex CAD data without sacrificing performance or accuracy. HOOPS Exchange provides a reliable CAD data access foundation for building competitive CPQ solutions. Support a wide range of requirements with over 30 CAD formats, including CATIA®, STEP, SOLIDWORKS®, Inventor™, Revit™, Creo®, NX™, and Solid Edge® Ensure accuracy by preserving critical engineering data such as materials, PMI, and metadata, including critical information needed for cost estimation Simplify catalog creation with multi-CAD support, enabling you to pull data from systems like CATIA, Creo, and SOLIDWORKS into your catalog seamlessly and accurately HOOPS Visualize Web Visualization for CPQ Workflows Interactivity is a core requirement for CPQ applications, making high-quality 3D visualization essential. HOOPS Visualize is a powerful visualization toolkit built for engineering applications, enabling fast, responsive interaction with complex CAD data directly in the browser. HOOPS Visualize’s web capabilities include: Lightweight architecture optimized for speed, even with large models, across all modern web browsers Smooth interaction with complex assemblies, including repositioning, scaling, editing, and isolating parts without sacrificing performance Flexible customization to tailor the experience to your application’s specific requirements Polygonica & Parasolid Integrations with Modeling Engines While not every CPQ application requires advanced engineering capabilities, Tech Soft 3D enables powerful solid and mesh creation, interrogation, and editing with the leading modeling technologies. In addition to seamless interoperability across HOOPS products, HOOPS Visualize, and HOOPS Exchange integrate with MachineWorks’ Polygonica and Siemens’ Parasolid to support modeling and data cleanup workflows. As a reseller of both technologies, Tech Soft 3D offers a single, trusted source for these capabilities, simplifying development and vendor management. Frequently Asked Questions What capabilities do CPQ applications need? The ability to import data from a wide range of sources and preserve all the information within those files Powerful 3D visualization that is easy to use for those without CAD experience Strong customization features to support the wide range of markets CPQ serves Integrations with other software systems, CAD software, CRMs, and sales tools What is the benefit of data access over data translation? Data translation often means the file will need to be converted to a neutral format, such as STL or STEP, or adapted to fit within a specific modeling kernel. HOOPS Exchange maps data to an open ISO-standard representation called PRC (product representation compressed). PRC is designed to be a superset of all CAD data representations and preserves the original geometry from the original CAD file. It can represent parametric curves and surfaces, 3D curves and surfaces, NURBS curves and surfaces, tessellated structures, point clouds, PMI, metadata, and more. By staying true to the original data, HOOPS Exchange offers lower failure rates, more complete information, fast translation speeds, and a better product in a way that is uniquely essential to CPQ application developers Talk to an Expert"
+}

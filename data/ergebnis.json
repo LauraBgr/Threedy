@@ -1,0 +1,3263 @@
+{
+ "erstellt": "2026-11-04T09:53",
+ "modus": "Ersatzmodus ohne KI",
+ "firmen": [
+  {
+   "name": "Threedy",
+   "region": "EU",
+   "start": "https://threedy.io/",
+   "referenz": true,
+   "seiten": [
+    {
+     "url": "https://threedy.io/",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "Threedy | 3D Visualization Software for Industrial Teams",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "3D for Every Team and Every AI Agent",
+     "ueberschriften": [
+      "3D for Every Team and Every AI Agent",
+      "3D Solutions and AI Workflows for Every Department",
+      "Industrial AI, Grounded in Your Live 3D Data",
+      "Our Customers Win on Decision Quality, Speed, and Cost",
+      "Frequently Asked Questions"
+     ],
+     "keywords": [
+      "data",
+      "every",
+      "threedy",
+      "industrial",
+      "teams",
+      "across",
+      "visualization",
+      "software",
+      "complex",
+      "available",
+      "real",
+      "time",
+      "departments",
+      "devices",
+      "helps"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "design_review",
+      "zusammenarbeit",
+      "ki_und_agenten",
+      "ar_vr",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "cloud_und_saas",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Book a Demo Book a Demo",
+      "Talk to an Expert",
+      "Discover Agentic 3D Platform",
+      "Sales: Product Demos",
+      "Learn more",
+      "Publication",
+      "Book a Demo",
+      "Ask ChatGPT",
+      "Ask Claude"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb",
+      "dokumentation"
+     ],
+     "belege": [
+      "Talk to an Expert Discover Agentic 3D Platform Trusted by Leading Engineering Enterprises 3D Solutions and AI Workflo",
+      "r Industries 50+ GB Full-vehicle models at full fidelity in a standard browser ~99% Faster 3D data access at Daimler Truck 0 GPUs Needed on ser",
+      "~99% reduction in 3D loading times Secure, browser-based access",
+      "flows for technicians Faster issue detection and process validation Publication Trusted by Leading Engineering Enterprises Discover how enterprise tea"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.threedy.io/3d-visualization",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "3D Visualization",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "Make 3D visualization instant and interactive for every team in your workflow",
+     "ueberschriften": [
+      "Make 3D visualization instant and interactive for every team in your workflow",
+      "Make your 3D and CAD software data work harder across the value chain",
+      "One 3D access layer beats a dozen copies and parallel tools",
+      "End fragmented 3D and CAD software workflows: results from leading manufacturers",
+      "Connect your 3D data seamlessly across systems with instant3Dhub – fast, secure, and without disrupting your IT landscape"
+     ],
+     "keywords": [
+      "cad software",
+      "data",
+      "visualization",
+      "workflows",
+      "instant3dhub",
+      "cad",
+      "software",
+      "across",
+      "book",
+      "guided",
+      "demo",
+      "tailored",
+      "case",
+      "align",
+      "show"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "design_review",
+      "zusammenarbeit",
+      "ar_vr",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "cloud_und_saas",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Book a Demo Book a Demo",
+      "Connect With an Expert",
+      "Publication",
+      "Book a demo",
+      "contact@threedy.io"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [
+      "Trusted by industry leaders Proven in engineering, production, sales,",
+      "Waiting time for any assembly structure reduced by ~99% – down to around 30 seconds"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.threedy.io/instant-visualization",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "Threedy | Instant 3D Visualization for CAD & PLM Data",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "Visualize Complex Products Instantly, Across Your Entire Organization",
+     "ueberschriften": [
+      "Visualize Complex Products Instantly, Across Your Entire Organization",
+      "The Bottleneck Isn't the Design. It's Access to It",
+      "Why the Real Model Rarely Reaches the People Who Need It",
+      "What Changes When Access Is Instant",
+      "How instant3Dhub Makes It Instant"
+     ],
+     "keywords": [
+      "instant visualization",
+      "every team",
+      "instant access",
+      "instant",
+      "access",
+      "cad",
+      "model",
+      "visualization",
+      "data",
+      "instant3dhub",
+      "every",
+      "team",
+      "across",
+      "threedy",
+      "plm"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Book a Demo Book a Demo",
+      "Talk to an Expert",
+      "Book a Demo",
+      "contact@threedy.io"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [
+      "~99% Faster load times for large assemblies at Daimler Truck, fr"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.threedy.io/product/instant3dhub",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "instant3Dhub | Stream Live 3D CAD Data to Any Device",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+     "ueberschriften": [
+      "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+      "Built for industrial complexity. Designed for everyone who touches it",
+      "Success Stories",
+      "Pick your path",
+      "Frequently Asked Questions"
+     ],
+     "keywords": [
+      "cad",
+      "live",
+      "instant3dhub",
+      "device",
+      "browser",
+      "industrial",
+      "stream",
+      "data",
+      "streams",
+      "million-part",
+      "assemblies",
+      "plm",
+      "exports",
+      "conversions",
+      "seats"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "ki_und_agenten",
+      "ar_vr",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "sdk_und_api",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Book a Demo Book a Demo",
+      "Talk to an Expert",
+      "See AI Capabilities",
+      "Book a Demo Now",
+      "Read the completed story",
+      "Explore Solutions",
+      "contact@threedy.io"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb",
+      "dokumentation"
+     ],
+     "belege": [
+      "Integration & Automation 3D that also reaches the other 95% of your business Most teams cannot view the 3D data enginee",
+      "99% Faster load times Daimler Truck reduced assembly wait time",
+      "mpleted story Daimler Truck North America reduces visualization waiting time by 99% with instant3Dhub By integrating instant3Dhub, Daimler Truc",
+      "k cut assembly load times by almost 99%, from around 30 seconds to instant, on any structure"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.threedy.io/product/instant3dhub-lkd",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "Instant3dhub lkd",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+     "ueberschriften": [
+      "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+      "Built for industrial complexity. Designed for everyone who touches it",
+      "Success Stories",
+      "Pick your path",
+      "Frequently Asked Questions"
+     ],
+     "keywords": [
+      "cad",
+      "instant3dhub",
+      "live",
+      "browser",
+      "industrial",
+      "lkd",
+      "streams",
+      "million-part",
+      "assemblies",
+      "plm",
+      "exports",
+      "conversions",
+      "seats",
+      "trusted",
+      "bmw"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "ki_und_agenten",
+      "ar_vr",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "sdk_und_api",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Book a Demo Book a Demo",
+      "Book a Demo",
+      "Book a Demo Now",
+      "Read the completed story",
+      "Explore Solutions",
+      "Talk to an Expert",
+      "contact@threedy.io"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb",
+      "dokumentation"
+     ],
+     "belege": [
+      "Integration & Automation 3D that also reaches the other 95% of your business Most teams cannot view the 3D data enginee",
+      "99% Faster load times Daimler Truck reduced assembly wait time",
+      "mpleted story Daimler Truck North America reduces visualization waiting time by 99% with instant3Dhub By integrating instant3Dhub, Daimler Truc",
+      "k cut assembly load times by almost 99%, from around 30 seconds to instant, on any structure"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "data",
+     4
+    ],
+    [
+     "instant3dhub",
+     4
+    ],
+    [
+     "cad",
+     4
+    ],
+    [
+     "industrial",
+     3
+    ],
+    [
+     "across",
+     3
+    ],
+    [
+     "visualization",
+     3
+    ],
+    [
+     "plm",
+     3
+    ],
+    [
+     "every",
+     2
+    ],
+    [
+     "threedy",
+     2
+    ],
+    [
+     "software",
+     2
+    ],
+    [
+     "live",
+     2
+    ],
+    [
+     "browser",
+     2
+    ],
+    [
+     "streams",
+     2
+    ],
+    [
+     "million-part",
+     2
+    ],
+    [
+     "assemblies",
+     2
+    ],
+    [
+     "exports",
+     2
+    ],
+    [
+     "conversions",
+     2
+    ],
+    [
+     "seats",
+     2
+    ],
+    [
+     "teams",
+     1
+    ],
+    [
+     "complex",
+     1
+    ],
+    [
+     "available",
+     1
+    ],
+    [
+     "real",
+     1
+    ],
+    [
+     "time",
+     1
+    ],
+    [
+     "departments",
+     1
+    ],
+    [
+     "devices",
+     1
+    ]
+   ],
+   "themen": {
+    "browserbasiert": 5,
+    "streaming_grosser_daten": 5,
+    "design_review": 5,
+    "zusammenarbeit": 5,
+    "ki_und_agenten": 3,
+    "ar_vr": 4,
+    "service_und_wartung": 5,
+    "fertigung_und_produktion": 5,
+    "vertrieb_und_marketing": 5,
+    "plm_integration": 5,
+    "cloud_und_saas": 4,
+    "sicherheit_und_datenschutz": 2,
+    "skalierbarkeit_enterprise": 4,
+    "kosten_und_roi": 5,
+    "multi_cad_formate": 3,
+    "sdk_und_api": 2
+   },
+   "cta_typen": {
+    "demo": 5,
+    "kontakt_vertrieb": 5,
+    "dokumentation": 3
+   },
+   "belege": [
+    "Talk to an Expert Discover Agentic 3D Platform Trusted by Leading Engineering Enterprises 3D Solutions and AI Workflo",
+    "r Industries 50+ GB Full-vehicle models at full fidelity in a standard browser ~99% Faster 3D data access at Daimler Truck 0 GPUs Needed on ser",
+    "~99% reduction in 3D loading times Secure, browser-based access",
+    "flows for technicians Faster issue detection and process validation Publication Trusted by Leading Engineering Enterprises Discover how enterprise tea",
+    "Trusted by industry leaders Proven in engineering, production, sales,",
+    "Waiting time for any assembly structure reduced by ~99% – down to around 30 seconds",
+    "~99% Faster load times for large assemblies at Daimler Truck, fr",
+    "Integration & Automation 3D that also reaches the other 95% of your business Most teams cannot view the 3D data enginee",
+    "99% Faster load times Daimler Truck reduced assembly wait time",
+    "mpleted story Daimler Truck North America reduces visualization waiting time by 99% with instant3Dhub By integrating instant3Dhub, Daimler Truc",
+    "k cut assembly load times by almost 99%, from around 30 seconds to instant, on any structure"
+   ],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "3D for Every Team and Every AI Agent",
+    "Make 3D visualization instant and interactive for every team in your workflow",
+    "Visualize Complex Products Instantly, Across Your Entire Organization",
+    "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device."
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "USA",
+     "titel": "Tech Soft 3D Unveils Independent Research Report on How Manufacturers Are Meeting Growing Engineering Data Demands - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORld5NVIxUjBXTF9TdW5MaFExdDg5QUc3SWtDTUE2aEQ1NXJ4Nkh0aEhHTzFxc3dGYzFVYWdWRk9McllhbnFDVENrMkF3RlRvbXRKQnBHNTVVUDBWZ0FnUUVKeEVYbTJOdHRWVHMxOUFfMUpkNVZPZXBoakdsZlh5Y1dkaVkwVVo0aDBubjZiN3lTdEFsRER5RA?oc=5",
+     "quelle": "Yahoo Finance",
+     "datum": "2026-09-15"
+    },
+    {
+     "region": "EU",
+     "titel": "Schunk Group übernimmt Siliziumkarbid-Hersteller ESK-SIC - aktiv - Meine Arbeit. Mein Leben. Meine Zukunft.",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUW1hWUxFSTVSWW1BWm9LMXoxT1hRbWQ4RUxpc0JVenI1dERzLVZOdG9fZWFxTHV1SUcxTjFpOVFxd0R3clFhVGI4TjNyakFpR3A4d0tDT1BfRVJCNnVMa3NfQnJwVHEzRExQY2lveU9ha2UtWVZHYzE2NElhZ1VBUkpSN3l2dlhQZzhKenBua0xWZG1Ea0d3RGhQZDk?oc=5",
+     "quelle": "aktiv - Meine Arbeit. Mein Leben. Meine Zukunft.",
+     "datum": "2025-02-11"
+    },
+    {
+     "region": "EU",
+     "titel": "Warum die LBBW auf Biotech statt Fintech setzt - DER PLATOW Brief",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU5yQ1E1SjVmeUptbmhUek9Yd2Q0UmNoaHJ1RDdRN2hWejF5S0tkLWFhWU5fTEhMeUVUOWZPal9icUUzYWtZNlJDa2J3TC1WOXhBZkxHNkc2cEozRjdMNFFvU2oxSGxMSk4tQkFnYTdCbWd2aE5TbGQzUzRJSFZsd1VMNVk?oc=5",
+     "quelle": "DER PLATOW Brief",
+     "datum": "2025-01-31"
+    },
+    {
+     "region": "EU",
+     "titel": "Keiner kann 3-D schneller als Threedy in Darmstadt - aktiv - Meine Arbeit. Mein Leben. Meine Zukunft.",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTVR4UzRCTFh2Rnp5MnRkZW1Ma1Z0dUlzOE5ZcFFzN09CYmZkTGlHWjRocW5tZnhKd3l5Ui02akdxcENUX2o3LTdLUDNxZ3hjUUpoOTYzcDVyMWYwT3VmVnJHZjViQnlSdktWSGdiQk4tRnJiQlFxWmtUcUVEa1ZQcEc1WEI1V2lnNGlaa1FLUURiM0E?oc=5",
+     "quelle": "aktiv - Meine Arbeit. Mein Leben. Meine Zukunft.",
+     "datum": "2024-12-18"
+    },
+    {
+     "region": "EU",
+     "titel": "Wie kann diese Technologie Ihr Unternehmen revolutionieren? - StartupValley",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lSUlJMWIybWpjNmpqekkxRG0xNGRDYmJ4R3gxVDYwMk01RmphTVZ2WC1CWW00bTlYckVtcFRVZkpxMTc5eVJReU1XaU1LR0k?oc=5",
+     "quelle": "StartupValley",
+     "datum": "2024-07-26"
+    },
+    {
+     "region": "USA",
+     "titel": "Hannover Messe 2023: how Microsoft technologies are driving smart manufacturing - Technology Record",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0NPcHBnbm51dFRkUnR6Y2NiZTl4ak9vdER2WlhpXzkwSkk4VFc0RFoxaDVxeURCTFBOdjFESEY4NFYzZWRMT3o5bkJRMk01TG01XzFxbThhWnZabWRacTRONVgxUWxyYUdhLWJFbGFGbnFHOU05d1JTcXluandUcFA1MEY2aWZXaHprS3hPam9JTXZoNXZBU0FPWEVWT0h1V2FCaXc5c1MwZi00YXlmbElIQXlyaTdDY2lR?oc=5",
+     "quelle": "Technology Record",
+     "datum": "2023-04-24"
+    },
+    {
+     "region": "EU",
+     "titel": "„Wir revolutionieren den Einsatz von 3D-Daten“ - WirtschaftsWoche",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUmNoU0Z6Mk9uSUY1YmhGSy1UcWp4MG1DNkxUdGxJVk1mUGF0NnNjVUpHNmFtNV95VDZqZmRzRFhPSk5WUWlYczEzaTYtLVhsaHpYM1cxRzdNbjNvTkZSNGRtQmp3NEhfc1M3T0U4ZW45aWpUYnYzWXBnVVdmbGw5d3haVW80Qlg3ZjdlTkFBai1xRVdTTUVJZFJ1aENVM0FOQWhVdlVzQlVROVFSeDE2c05Od09BV19kYy1RSVJR?oc=5",
+     "quelle": "WirtschaftsWoche",
+     "datum": "2022-07-29"
+    },
+    {
+     "region": "USA",
+     "titel": "Nextech AR Solutions Rebrands as a Metaverse Company - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2dwd3A2N0E5YlJJOUl5cXRyMEVRRG9wOWFESmtZV1dSQkpSbEZVN0k2RloxNWRNLTlBeEpxQndObWtuUUM2N3ZDMEVMOV9FdHZQT0llcjRVYkpWZDFmbkNSUEVxdDF2b0RqckRaQ2lFUDFvTDRqLXMwM2JrbXdmOTdTZHRvai0yY1dvYm1uNllBdS1zVk5IbmNKcExnVnJoaEdELTBOOHJHQTV3YXc?oc=5",
+     "quelle": "Business Wire",
+     "datum": "2021-11-16"
+    },
+    {
+     "region": "USA",
+     "titel": "American store chain Kohls expands partnership with Nextech AR - ALCHEMPro",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTG9zYUtxbTUzZUpVSVliaDNreXdCYXpLTTFYZlJpajQxdWlfMUxHTXZWQzVtcXFwQUhreGJCdUxpT242d0hSczg2X1lIVlJiLUUwMjZCaTVoVTRDQlNyazBOd3FKcFN1YnJSVlVOaUk0b0JhMjNaU3gxTHRoeUN5WHZUMEdpekZrSm9GWEVRT0tsV0ZCdXBaUXZiVkp4eHJ3TU1MZ3B4YWdSdEhVNnh2Y0pjRW1VMGJ1aUNMRkw5UHNtM1JiX3otNE94NFlUdlRrOTNDM0k4aWg?oc=5",
+     "quelle": "ALCHEMPro",
+     "datum": "2021-09-03"
+    },
+    {
+     "region": "USA",
+     "titel": "Threedy AI automatically converts 2D photos in 3D assets for AR! - The Ghost Howls",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Iam8tam5KeGNLT3BIMDIzcW5qazJXT2l1b1dSN2ZvTjlRT1hHUm42dnd5MXN0eW1zNzZ6U0dZWk1QYWNsamxkWFFWSGJpR0x1S25sdU56WmQxVks3WGZxMGUxb0dDU3R5YXhGb0ozU1BoRUhHRkV5RHpZbnXSAYIBQVVfeXFMT0ZjT01xMDZhVS1HMXhySGhBcTVodjZadUhMNjRWM0dpZU85cnBrMl9Ta0tRcHdyc0FRanhNcGcyWmJ3eXJKaTBFZ0NlY1Bpb25MVmRQSUw3Z1V2Wmp0R3lxT3RHLWg1a3NOVUt4cHczWkZGYlU1Wkp1WGFuVk50d0hZQQ?oc=5",
+     "quelle": "The Ghost Howls",
+     "datum": "2020-11-19"
+    }
+   ]
+  },
+  {
+   "name": "Vertex Software",
+   "region": "USA",
+   "start": "https://vertex3d.com/",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://vertex3d.com/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Governance-Preserving 3D Access Layer | Vertex Software",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "The Digital Thread",
+     "ueberschriften": [
+      "The Digital Thread",
+      "Breaks at File Export",
+      "Derivative Files Become the Operational Truth",
+      "Keep PLM Authoritative Beyond Engineering",
+      "Governance-Preserving 3D Access Architecture"
+     ],
+     "keywords": [
+      "governance-preserving access",
+      "extend plm",
+      "plm governance",
+      "across",
+      "access",
+      "plm",
+      "enterprise",
+      "governance-preserving",
+      "vertex",
+      "extend",
+      "governance",
+      "files",
+      "architecture",
+      "deployments",
+      "production"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "zusammenarbeit",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "SEE VERTEX IN ACTION",
+      "EXPLORE THE ARCHITECTURE",
+      "Explore Solutions",
+      "Explore Customer Success Stories",
+      "CONTACT US"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [
+      "I have a 90% close rate when I present deals with Vertex"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://vertex3d.com/products",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Governed 3D Access Architecture | Vertex Software",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "Governed 3D Access Architecture",
+     "ueberschriften": [
+      "Governed 3D Access Architecture",
+      "What Is a Governed 3D Access Layer?",
+      "Architectural Principles",
+      "Why File-Based Architecture Breaks the Digital Thread",
+      "Proven at Enterprise Scale"
+     ],
+     "keywords": [
+      "governed access",
+      "access architecture",
+      "plm governance",
+      "governed",
+      "access",
+      "architecture",
+      "vertex",
+      "plm",
+      "governance",
+      "enterprise",
+      "software",
+      "learn",
+      "preserves",
+      "streaming",
+      "context-aware"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "TALK TO AN EXPERT",
+      "Talk to an expert"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://vertex3d.com/solutions/service",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Accelerate Field Service Repairs | Vertex Software",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Transform Field Service Repairs with 3D",
+     "ueberschriften": [
+      "Transform Field Service Repairs with 3D",
+      "Challenge",
+      "Business Impact",
+      "Solution",
+      "How Vertex Helps"
+     ],
+     "keywords": [
+      "field service",
+      "service repairs",
+      "transform field",
+      "service",
+      "field",
+      "repairs",
+      "vertex",
+      "software",
+      "transform",
+      "accelerate",
+      "enhance",
+      "efficiency",
+      "elevate",
+      "quality",
+      "differentiate"
+     ],
+     "themen": [
+      "browserbasiert",
+      "zusammenarbeit",
+      "digitaler_zwilling",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "Get a demo",
+      "Contact US",
+      "Talk to sales"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://vertex3d.com/solutions/supplier-rfq",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "3D Visualization to Simplify the Supplier RFQ Process | Vertex Software",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Simplify the Supplier RFQ Process",
+     "ueberschriften": [
+      "Simplify the Supplier RFQ Process",
+      "Challenge",
+      "Business Impact",
+      "Solution",
+      "How Vertex Helps"
+     ],
+     "keywords": [
+      "rfq process",
+      "simplify supplier",
+      "supplier rfq",
+      "vertex software",
+      "supplier",
+      "rfq",
+      "process",
+      "vertex",
+      "simplify",
+      "software",
+      "visualization",
+      "learn",
+      "streamline",
+      "request",
+      "quote"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "Get a demo",
+      "CONTACT US",
+      "Talk to sales"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://vertex3d.com/solutions/factory-floor",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Factory Floor Optimization | Vertex Software",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Unleash 3D on your Factory Floor",
+     "ueberschriften": [
+      "Unleash 3D on your Factory Floor",
+      "Challenge",
+      "Business Impact",
+      "Solution",
+      "How Vertex Helps"
+     ],
+     "keywords": [
+      "factory floor",
+      "factory",
+      "floor",
+      "vertex",
+      "optimization",
+      "software",
+      "visualization",
+      "transform",
+      "operations",
+      "competitive",
+      "advantage",
+      "unleash",
+      "challenge",
+      "business",
+      "impact"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "zusammenarbeit",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "Get a demo",
+      "Talk to sales"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://vertex3d.com/products/vertex-connect",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Operational 3D Access | Vertex Software",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Operational 3D Access",
+     "ueberschriften": [
+      "Operational 3D Access",
+      "Operational 3D Access Capabilities",
+      "Extend governed product access beyond engineering",
+      "Resources",
+      "Keep PLM Authoritative Across the Enterprise"
+     ],
+     "keywords": [
+      "operational access",
+      "access",
+      "operational",
+      "governed",
+      "vertex",
+      "software",
+      "enable",
+      "collaboration",
+      "manufacturing",
+      "service",
+      "workflows",
+      "without",
+      "exporting",
+      "cad",
+      "geometry"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "design_review",
+      "zusammenarbeit",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact Us",
+      "Get a Demo",
+      "Developer Portal",
+      "TALK TO AN EXPERT",
+      "Download Overview",
+      "Talk to an Expert",
+      "Schedule a demo"
+     ],
+     "cta_typen": [
+      "demo",
+      "kontakt_vertrieb",
+      "download"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "vertex",
+     6
+    ],
+    [
+     "software",
+     5
+    ],
+    [
+     "access",
+     3
+    ],
+    [
+     "plm governance",
+     2
+    ],
+    [
+     "plm",
+     2
+    ],
+    [
+     "enterprise",
+     2
+    ],
+    [
+     "governance",
+     2
+    ],
+    [
+     "architecture",
+     2
+    ],
+    [
+     "governed",
+     2
+    ],
+    [
+     "learn",
+     2
+    ],
+    [
+     "service",
+     2
+    ],
+    [
+     "transform",
+     2
+    ],
+    [
+     "visualization",
+     2
+    ],
+    [
+     "governance-preserving access",
+     1
+    ],
+    [
+     "extend plm",
+     1
+    ],
+    [
+     "across",
+     1
+    ],
+    [
+     "governance-preserving",
+     1
+    ],
+    [
+     "extend",
+     1
+    ],
+    [
+     "files",
+     1
+    ],
+    [
+     "deployments",
+     1
+    ],
+    [
+     "production",
+     1
+    ],
+    [
+     "governed access",
+     1
+    ],
+    [
+     "access architecture",
+     1
+    ],
+    [
+     "preserves",
+     1
+    ],
+    [
+     "streaming",
+     1
+    ]
+   ],
+   "themen": {
+    "streaming_grosser_daten": 5,
+    "multi_cad_formate": 2,
+    "zusammenarbeit": 5,
+    "service_und_wartung": 3,
+    "fertigung_und_produktion": 5,
+    "plm_integration": 6,
+    "sicherheit_und_datenschutz": 4,
+    "skalierbarkeit_enterprise": 6,
+    "browserbasiert": 2,
+    "digitaler_zwilling": 1,
+    "kosten_und_roi": 2,
+    "design_review": 2,
+    "vertrieb_und_marketing": 2
+   },
+   "cta_typen": {
+    "demo": 6,
+    "kontakt_vertrieb": 6,
+    "download": 1
+   },
+   "belege": [
+    "I have a 90% close rate when I present deals with Vertex"
+   ],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "The Digital Thread",
+    "Governed 3D Access Architecture",
+    "Transform Field Service Repairs with 3D",
+    "Simplify the Supplier RFQ Process"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "USA",
+     "titel": "Spotlight on Industry Solutions: Discover AWS Partner Offerings Through the “This is My Offer” Series - Amazon Web Services (AWS)",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUVBNTdCTmJZNC1JczVTZ3hkS1RFMHgzZVZBRUtHNlNHSk8zb0FkcWI3eV9xYnVZNzAxcWpub1g3dWZ4WjNISldkX3dmR2pva2NaQjB6eVV1RVBtd1V4OG5rMS1IeEpvZXJmdm5qNnI5OWZFdjIxbF9icDRLdEpWbUswa0hrdE9uYW9PeW5IUk1RWVlpZ2Vhb3dQcFg4TXh6dFhtSHdYTHFKRHNpSlVOOTBodjJwR2x1UVJZQkdHdk56Z2NTX3RWLTMwVDc?oc=5",
+     "quelle": "Amazon Web Services (AWS)",
+     "datum": "2024-12-16"
+    },
+    {
+     "region": "USA",
+     "titel": "3D Visualization Software To Drive Industry 4.0 Initiatives at John Deere - Metrology and Quality News",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmNuUjZGdHlBZl9qSWtyZ19YZnlKZlZ6eWdMX3hJd1hyamhEcmVNWWQ1ZFlQVmRiVW12X3d5UWg3b3RQSmxVQlFfaHpOSl9qS0gzRW93X0l0WkJqT2x1eTNjVEpsOHhfd2pULThIWW1tUzFOa0ZzX1R6MUlqQTZKQUtQc3BGd0hKdk5mYl9sU3d3T3lKU3VhV1kwcUJWUQ?oc=5",
+     "quelle": "Metrology and Quality News",
+     "datum": "2023-08-15"
+    },
+    {
+     "region": "USA",
+     "titel": "Lift up the design game with Vertex G4Plant - The Australian Pipeliner",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yT1VZN1V2LWZPX3N3eE55SkI4MVJHbXR5bWFOSGxkV2d0U3o0OGVSdWtDdW01dVRzRmN5VU9IbUhuSjZDZDVnc3VCcFUwTnROWHJoenpNTW8yeDdTTUF6M01OdVppOTkweVBFUDVwcjNWSGFpWUFWWlhhTE1GZw?oc=5",
+     "quelle": "The Australian Pipeliner",
+     "datum": "2023-06-05"
+    },
+    {
+     "region": "USA",
+     "titel": "Vertex Software Enables Digital Twins for Teams - Engineering.com",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdldYS19Ud3Awc3dqRFN5ZFJsdlYtbXhncjJKaFNMLUVLVUlzb3ZzcE5ISk41U3FCRktjS1hqZWgtVnFDYlloWjFwYUZIN194Z3IwbjM5ZjI1ZXRiT2NLbWhjLXl5WW5iNnExOU4xQVVLYlQxdnRVWXFocWZRdXBOZVR3?oc=5",
+     "quelle": "Engineering.com",
+     "datum": "2019-11-05"
+    }
+   ]
+  },
+  {
+   "name": "Tech Soft 3D",
+   "region": "USA",
+   "start": "https://www.techsoft3d.com/",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://www.techsoft3d.com/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Tech Soft 3D | Building Leading Engineering Applications with Developers and Businesses",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "Fueling Innovation for Developers & Enterprises",
+     "ueberschriften": [
+      "Fueling Innovation for Developers & Enterprises",
+      "Developer Toolkits",
+      "Enterprise Applications",
+      "How Tech Soft 3D Fuels Innovation",
+      "Big on Talent, Seriously Fun"
+     ],
+     "keywords": [
+      "tech soft",
+      "developers",
+      "tech",
+      "soft",
+      "building",
+      "engineering",
+      "applications",
+      "apps",
+      "innovation",
+      "enterprise",
+      "leading",
+      "businesses",
+      "whether",
+      "ambitious",
+      "application"
+     ],
+     "themen": [
+      "zusammenarbeit",
+      "sdk_und_api",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact",
+      "Support",
+      "Explore SDKs",
+      "Explore Apps"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.techsoft3d.com/developers/solutions/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "SDK Solutions for Developers | Tech Soft 3D",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "SDK Solutions for 3D Engineering Applications",
+     "ueberschriften": [
+      "SDK Solutions for 3D Engineering Applications",
+      "Data",
+      "Modeling",
+      "Simulation",
+      "Graphics"
+     ],
+     "keywords": [
+      "tech soft",
+      "sdk solutions",
+      "engineering applications",
+      "tech",
+      "soft",
+      "engineering",
+      "modeling",
+      "hoops",
+      "sdk",
+      "solutions",
+      "developers",
+      "software",
+      "sdks",
+      "applications",
+      "data"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "ki_und_agenten",
+      "fertigung_und_produktion",
+      "sdk_und_api",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Support"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.techsoft3d.com/developers/industries/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "3D SDKs for AEC, CAE Additive, & More | Tech Soft 3D",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "SDKs for 3D Engineering Applications",
+     "ueberschriften": [
+      "SDKs for 3D Engineering Applications",
+      "Talk to an Expert",
+      "SDKs for Developers",
+      "Apps for Enterprise"
+     ],
+     "keywords": [
+      "tech soft",
+      "sdks",
+      "tech",
+      "soft",
+      "applications",
+      "aec",
+      "cae",
+      "additive",
+      "discover",
+      "power",
+      "innovative",
+      "across",
+      "industries",
+      "advanced",
+      "cad"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "digitaler_zwilling",
+      "ki_und_agenten",
+      "ar_vr",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sdk_und_api",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Support"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [
+      "Trusted by leaders like Stratasys, 3D Systems, nTop, and Xometry, we h",
+      "Trusted by industry leaders such as Virtalis, SOLIDWORKS, and Haloclin",
+      "Developer Tools for AEC Digital Construction Trusted by industry leaders like Trimble, RIB, Bentley, and Causeway,",
+      "That’s why it’s trusted by industry leaders such as Aras, Oracle, Proplanner, and Euro",
+      "Trusted by industry leaders such as Ansys, Autodesk, Siemens, and Dass"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.techsoft3d.com/enterprise/product-lifecycle-management/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "PLM Integrated Solutions | Tech Soft 3D",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Product Lifecycle Management Integrations",
+     "ueberschriften": [
+      "Product Lifecycle Management Integrations",
+      "Popular CAD Converters for PTC Windchill",
+      "CATIA V5 to Creo View",
+      "3DEXPERIENCE to Creo View",
+      "Popular CAD Converters for Siemens Teamcenter"
+     ],
+     "keywords": [
+      "tech soft",
+      "cad data",
+      "data conversion",
+      "plm environments",
+      "popular cad",
+      "cad converters",
+      "ptc windchill",
+      "creo view",
+      "plm",
+      "spinfire",
+      "data",
+      "cad",
+      "workflows",
+      "solutions",
+      "tech"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "zusammenarbeit",
+      "ar_vr",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sdk_und_api",
+      "sicherheit_und_datenschutz",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Support"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.techsoft3d.com/developers/industries/cam/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "SDKs for Computer Aided Manufacturing | Tech Soft 3D",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Computer Aided Manufacturing (CAM)",
+     "ueberschriften": [
+      "Computer Aided Manufacturing (CAM)",
+      "CAM PDF Examples",
+      "Case Studies",
+      "HOOPS Luminate Helps TopSolid Provide Comprehensive CAD, CAM, ERP, and PDM solutions to a Wide Array of Markets",
+      "Frequently Asked Questions"
+     ],
+     "keywords": [
+      "tech soft",
+      "computer aided",
+      "aided manufacturing",
+      "soft sdks",
+      "cam developers",
+      "manufacturing cam",
+      "cam",
+      "sdks",
+      "developers",
+      "manufacturing",
+      "tech",
+      "soft",
+      "computer",
+      "aided",
+      "cad"
+     ],
+     "themen": [
+      "multi_cad_formate",
+      "zusammenarbeit",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sdk_und_api",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Support"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [
+      "Trusted by hundreds of engineering teams around the world, it’s the gr"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.techsoft3d.com/developers/industries/cpq/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "SDKs for Configure, Price, & Quote (CPQ) Apps  | Tech Soft 3D",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Configure, Price, & Quote (CPQ)",
+     "ueberschriften": [
+      "Configure, Price, & Quote (CPQ)",
+      "Frequently Asked Questions",
+      "What capabilities do CPQ applications need?",
+      "What is the benefit of data access over data translation?",
+      "Talk to an Expert"
+     ],
+     "keywords": [
+      "configure price",
+      "price quote",
+      "quote cpq",
+      "data access",
+      "cpq",
+      "sdks",
+      "data",
+      "configure",
+      "price",
+      "quote",
+      "apps",
+      "access",
+      "tech",
+      "soft",
+      "creating"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "plm_integration",
+      "sdk_und_api",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Contact",
+      "Support"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "tech",
+     6
+    ],
+    [
+     "tech soft",
+     5
+    ],
+    [
+     "soft",
+     5
+    ],
+    [
+     "sdks",
+     4
+    ],
+    [
+     "developers",
+     3
+    ],
+    [
+     "applications",
+     3
+    ],
+    [
+     "data",
+     3
+    ],
+    [
+     "cad",
+     3
+    ],
+    [
+     "engineering",
+     2
+    ],
+    [
+     "apps",
+     2
+    ],
+    [
+     "solutions",
+     2
+    ],
+    [
+     "building",
+     1
+    ],
+    [
+     "innovation",
+     1
+    ],
+    [
+     "enterprise",
+     1
+    ],
+    [
+     "leading",
+     1
+    ],
+    [
+     "businesses",
+     1
+    ],
+    [
+     "whether",
+     1
+    ],
+    [
+     "ambitious",
+     1
+    ],
+    [
+     "application",
+     1
+    ],
+    [
+     "sdk solutions",
+     1
+    ],
+    [
+     "engineering applications",
+     1
+    ],
+    [
+     "modeling",
+     1
+    ],
+    [
+     "hoops",
+     1
+    ],
+    [
+     "sdk",
+     1
+    ],
+    [
+     "software",
+     1
+    ]
+   ],
+   "themen": {
+    "zusammenarbeit": 4,
+    "sdk_und_api": 6,
+    "skalierbarkeit_enterprise": 6,
+    "streaming_grosser_daten": 4,
+    "multi_cad_formate": 5,
+    "ki_und_agenten": 2,
+    "fertigung_und_produktion": 4,
+    "kosten_und_roi": 4,
+    "design_review": 1,
+    "digitaler_zwilling": 1,
+    "ar_vr": 2,
+    "plm_integration": 4,
+    "cloud_und_saas": 1,
+    "sicherheit_und_datenschutz": 1,
+    "browserbasiert": 1
+   },
+   "cta_typen": {
+    "kontakt_vertrieb": 6
+   },
+   "belege": [
+    "Trusted by leaders like Stratasys, 3D Systems, nTop, and Xometry, we h",
+    "Trusted by industry leaders such as Virtalis, SOLIDWORKS, and Haloclin",
+    "Developer Tools for AEC Digital Construction Trusted by industry leaders like Trimble, RIB, Bentley, and Causeway,",
+    "That’s why it’s trusted by industry leaders such as Aras, Oracle, Proplanner, and Euro",
+    "Trusted by industry leaders such as Ansys, Autodesk, Siemens, and Dass",
+    "Trusted by hundreds of engineering teams around the world, it’s the gr"
+   ],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "Fueling Innovation for Developers & Enterprises",
+    "SDK Solutions for 3D Engineering Applications",
+    "SDKs for 3D Engineering Applications",
+    "Product Lifecycle Management Integrations"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "USA",
+     "titel": "Tech Soft 3D guide to sharing CAD models with secure 3D-PDF - Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlZrNzFCSkwzYmV1QVZPNFRGZ3Ria0NRQkI2Vk1zOGVOQ1JhczdKM0YtZHJIdDBwSFo0SWo5RzAzMUJ6Sm5uTmxPVWcxT09nTzc3aVMyN1hzbGVJOUJ3R1psOGxCbVA1YkNvaHVpVTdweGR3ckJpRUZUeTd6QmxYVm1DMm1TSGZCaktyY2l2REFlQkFqSjRNc0ZobzBmaWV4d21ybjFyeFA?oc=5",
+     "quelle": "Foro3D",
+     "datum": "2026-10-31"
+    },
+    {
+     "region": "EU",
+     "titel": "Tech Soft 3D hebt Zusammenarbeit mit US Farathane hervor: Vereinfachter CAD-Zugriff für die Konstruktion und Fertigung von Kunststoffteilen - PresseBox",
+     "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWmhtbG1CU0VYZEppVy1ndTBFWmV2ZXpmRWJBanZVOS14WE1wcTMwN3FJUVFEVkI4clA5ODdYN0pEQ0FMM0dPLTlzX1BUM0dmSHRiazBZb0h6X2VtcGdLWHZ1NXVPYWpCQ1ItN2RHX2c5MUx0Y0F2UW55U1VkbmF1ZWlTZTdYZGdJTG16X0tNdzY5Skp2cnRPNERzVE83OEYyRFF5WEVHOUNDZWtCVVV3bFdkYk5uZkk4eWVuUFNOZ3ZETm1kX1hLNzk3RERaYmEwVkxwdWR2TWtQZEVnZmdHTVlicFhyRUsxQ05rajFfSzA5M3c1MFdjSm5SLVd2Ums3VkhNb1RleDRaR3RMZ2I2WUFnM2k3ME54NGZzY2llcVpiaVNTN0ZMeHJNakxSQVlURlY4c3pn?oc=5",
+     "quelle": "PresseBox",
+     "datum": "2026-10-29"
+    },
+    {
+     "region": "EU",
+     "titel": "Tech Soft 3D veröffentlicht Leitfaden zu 3D-PDF und dem Schutz von Konstruktionsdaten: Wie Engineering-Teams CAD-Modelle sicher teilen können - PresseBox",
+     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNNFRscVhYMjdrSWVGM0t2MTltNmhuZ2FMTUowVUVDU3NDRjhvQW54TkZTOWhUak9OUms4RzlyXzN4OHpmM1E0VTBNRkx4SmgwV0dPWUFVSzJHOTRrOWpJSjBLUWlMOHNHNkJ1bTU0WVRJOFFYaE9ibDJnd2MyS0ViazVYOGFHaXpRS3ZCZE5QSzkxSVFGckh6cmo0RW90X1RoVEVkOF8xUjBILVZDOWh2ajJiZ2lCQWV4TU42NTUxNzVsaGNqTE1ZNlB1NjR3UTJVaGJhYjlxRVUwRk1lX2kyRkVVZ0tlMGZmdXc1NGxOeXNKZ3d1MFlTUDF0RG9xOVpwZE1mYzVWSG1mdkxORE81RlJtYU5oSkVocHJOU2s5TXl5ZGNHTDdtNEo2cFNydHFGVHo4cHR3SQ?oc=5",
+     "quelle": "PresseBox",
+     "datum": "2026-10-29"
+    },
+    {
+     "region": "EU",
+     "titel": "Marktgröße für 3D-Rendering- und Visualisierungssoftware [2034] - Fortune Business Insights",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxfMzhWdGozc0ctSGpwQ2wzNW1kUnBHWjNZa2hWelNKSWtLbDkxVVN2U3JhWEN1clRYWm0yNnUyWUlsS0FwOVBOcXU5S0Q0QUlSZzJfZ29GLVRoNm1BYTkweVA0TXhVUlN1T3J4S2JJNkFHU25OM01UVDl2OFNZOGxwQklnYWt0?oc=5",
+     "quelle": "Fortune Business Insights",
+     "datum": "2026-10-05"
+    },
+    {
+     "region": "EU",
+     "titel": "Tech Soft 3D veröffentlicht Leitfaden zum Einsatz von Extended Reality zur Behebung von Kommunikationslücken und Beschleunigung von Konstruktionsprüfungen im Schiffbau - PresseBox",
+     "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeG9Ld2VZNnRLbmpkTkJhaXBpcEZIc2x0ckJqdjVnTFVZS0hiZlFSQ1A2aWFlS1R2MTU2RUhwTnNTczgtNHBjTkdjSjFpQTJpUjRlU0dGWk1pU2xKR0tlNTJ2TEpKYXdGMXI1N2RNazNrUVNyekxfal9yaDlkX0F2VFl6Umh1NjYway11X09tUmRFLWF6NWFndE5VZWZfUThWWXJHOTFUdGtxY1U4Q1U1Sy1tSjNpdGowTS1xd1hfOWlDUFRCR2toTDhhOUdWc2VZSkJBcVVENDZqQXJtU2o1TVY5cVJLVUlldzRiOXRERGUza3RmSVZXZVVVVTk0QnJIbmhXT01ZSVlXQ0ZYcU56QUZKOUhJaEhSZlNMT3NtMWZzZWZVY1Rkdi1mV0VOMG1abU10ODJydEVjZkxjeHlNd1p2THhOMUtNUTBULUlUNV8wZVpyR0dWU0xB?oc=5",
+     "quelle": "PresseBox",
+     "datum": "2026-09-29"
+    },
+    {
+     "region": "USA",
+     "titel": "Tech Soft 3D Unveils Independent Research Report on How Manufacturers Are Meeting Growing Engineering Data Demands - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORld5NVIxUjBXTF9TdW5MaFExdDg5QUc3SWtDTUE2aEQ1NXJ4Nkh0aEhHTzFxc3dGYzFVYWdWRk9McllhbnFDVENrMkF3RlRvbXRKQnBHNTVVUDBWZ0FnUUVKeEVYbTJOdHRWVHMxOUFfMUpkNVZPZXBoakdsZlh5Y1dkaVkwVVo0aDBubjZiN3lTdEFsRER5RA?oc=5",
+     "quelle": "Yahoo Finance",
+     "datum": "2026-09-15"
+    },
+    {
+     "region": "USA",
+     "titel": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjBZTy1pU3lvd0JYdHg1YXJiT2dyZ1pXY0RXd2NScW5PeUFMaXRZUXRXaGU2ZG41cGlYdUFxbkI3VHFLaExKblBPc3pIdE9DQm1kQ0NlYjd5R1hRN2NDbFR4N0hkQUxHWG9Uc09Fb0ZEVHhwanQ4TUhOR2YyelM2VVRYa1BqZm9kT25zcW4xNUpKc200SjVyTnFpWlV3TnFXUU5Oa1ktVGlaWUVzVy1VdDVXMnlBTDRreHdBVmUwX2dBckk?oc=5",
+     "quelle": "Business Wire",
+     "datum": "2026-07-14"
+    },
+    {
+     "region": "USA",
+     "titel": "Oasys LS-DYNA Environment Uses Tech Soft 3D's HOOPS Exchange to Expand CAD Import Support in Oasys PRIMER 23 - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdnhlbHFkYWZQWmhyUXFPTVZNTVBaeU1wU0NMeV9qVFh6MmVNNkMzNmExcWVTanpMOXBGS0kwNGIyTWQxQ0Y5OElETGFadXV5aHE0NmZtR2xzejlnZm5iNHU4M2Z1UUNTWHpHOWFVT2xUZFZIMS0ta1VDRzZZeVVtVFU1MzZ5M2pIQjh2dnBqVzJIQWVBeTVEX1VFaVpOb1VhblZ0Z0xFNlpnajVRRTdDMms1ak5SWk01bmtlR0Rab09pNjg4T0g3aFBhNTYyblIzLU1DaGVYSEMyaGdtUXhPaThHLTlUSEhlcDNLUFNGVXZEcG5JalVV?oc=5",
+     "quelle": "Business Wire",
+     "datum": "2026-07-01"
+    },
+    {
+     "region": "USA",
+     "titel": "HOOPS AI reaches general availability with new features to tackle the CAD-ML gap - 3D Printing Industry",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUNES1I5YjlkNFFONDlUME9EOXhxdGRPSlpzaWZCZl9iai05VjBLV2V2NVRzdE5SSWZtZDlZdEhKR25yMzNfdy1GcE1nRlF5OFVtaUVyMHhqSXl5eXdNQTdqUWdnRWc0QXQtazg3NTROeFFCNTYzVXBXMnAyaGlOcmRwNnBfYkNUSlJDMjJ3Z2lKRVR6elBiN3gxRTljREVoTS1ndjhQNm9oNUdOZm82ZmN5TmtBczdzZkI1ZmFuX0hIZw?oc=5",
+     "quelle": "3D Printing Industry",
+     "datum": "2026-04-19"
+    },
+    {
+     "region": "USA",
+     "titel": "Tech Soft 3D Announces Full Launch of HOOPS AI, Adding Embeddings & Linux Support - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0I0ci1lMkhXWmhoM01kOHJEVjdIX0l4b2dSdjByWW9MYzV3OWp6eUxpYTU1T3dJZDJ4eFdhM0VPUEo0cHVER2VrUy0wT1FMVWhkakx5Q3hsNzJBcncyc095LWI0eEEzb2VjdzV5YUVYOUN2ZDNNQjRmUUQ2S2N5b3pJVXZEdVpjYVVhcFRJZ3FXdTFsUHZGbzBjaklwTDd1RzJHSHlMTlJVTFh5Rk9ZUzdtcHFsWXdUMW92QlNDaGpuT1NBWmdqWFlXb2xiRGRP?oc=5",
+     "quelle": "Business Wire",
+     "datum": "2026-03-30"
+    }
+   ]
+  },
+  {
+   "name": "KISTERS 3DViewStation",
+   "region": "EU",
+   "start": "https://viewer.kisters.de/en/",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://viewer.kisters.de/en/",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "3D Viewer, Kisters 3DViewStation, Kisters Viewer, Catpart Viewer",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "Kisters 3DViewStation 3D Viewer",
+     "ueberschriften": [
+      "Kisters 3DViewStation 3D Viewer",
+      "300.000",
+      "3D Viewer: why us?",
+      "KISTERS 3DViewStation: KISTERS Viewer, 3D Viewer, CatPart Viewer",
+      "180+ functionalities"
+     ],
+     "keywords": [
+      "kisters dviewstation",
+      "viewer catpart",
+      "catpart viewer",
+      "viewer kisters",
+      "dviewstation kisters",
+      "kisters viewer",
+      "viewer viewer",
+      "viewer",
+      "kisters",
+      "dviewstation",
+      "catpart",
+      "catia",
+      "creo",
+      "solidworks",
+      "autodesk"
+     ],
+     "themen": [
+      "browserbasiert",
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "ar_vr",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Downloads",
+      "Download free trial now",
+      "Download & Online trial",
+      "Supported file formats product family",
+      "Functionality detailed product family",
+      "Release Notes",
+      "Settings",
+      "Accept All",
+      "Save settings"
+     ],
+     "cta_typen": [
+      "testversion",
+      "kontakt_vertrieb",
+      "download"
+     ],
+     "belege": [
+      "News are sent 2 to 4 times ply year via our newsletter"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://viewer.kisters.de/en/products/3dviewstation-product-family.html",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "Cost-Efficient & MultiCAD-Capable Viewer | 3DViewStation",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "3DViewStation product family",
+     "ueberschriften": [
+      "3DViewStation product family",
+      "Powerful 3D/2D visualization for your business: for desktops, browsers, mobile devices and VR",
+      "An overview",
+      "Desktop Version",
+      "WebViewer"
+     ],
+     "keywords": [
+      "desktops browsers",
+      "browsers mobile",
+      "mobile devices",
+      "viewer",
+      "dviewstation",
+      "cad",
+      "desktops",
+      "browsers",
+      "mobile",
+      "devices",
+      "cost-efficient",
+      "multicad-capable",
+      "fast",
+      "easy",
+      "integration"
+     ],
+     "themen": [
+      "browserbasiert",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "ar_vr",
+      "fertigung_und_produktion",
+      "vertrieb_und_marketing",
+      "plm_integration",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Contact",
+      "Downloads",
+      "Download & Online Test",
+      "Supported file formats detailed list",
+      "Functionalities detailed list",
+      "More about integrations",
+      "Settings",
+      "Accept All",
+      "Save settings"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb",
+      "download"
+     ],
+     "belege": [
+      "000 parts plant as 3DVS: 7 sec Passenger ship with 10 million parts, as 3DVS: 15 sec Axle of vehicle, 200 MB, native Cati"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "viewer",
+     2
+    ],
+    [
+     "dviewstation",
+     2
+    ],
+    [
+     "kisters dviewstation",
+     1
+    ],
+    [
+     "viewer catpart",
+     1
+    ],
+    [
+     "catpart viewer",
+     1
+    ],
+    [
+     "viewer kisters",
+     1
+    ],
+    [
+     "dviewstation kisters",
+     1
+    ],
+    [
+     "kisters viewer",
+     1
+    ],
+    [
+     "viewer viewer",
+     1
+    ],
+    [
+     "kisters",
+     1
+    ],
+    [
+     "catpart",
+     1
+    ],
+    [
+     "catia",
+     1
+    ],
+    [
+     "creo",
+     1
+    ],
+    [
+     "solidworks",
+     1
+    ],
+    [
+     "autodesk",
+     1
+    ],
+    [
+     "desktops browsers",
+     1
+    ],
+    [
+     "browsers mobile",
+     1
+    ],
+    [
+     "mobile devices",
+     1
+    ],
+    [
+     "cad",
+     1
+    ],
+    [
+     "desktops",
+     1
+    ],
+    [
+     "browsers",
+     1
+    ],
+    [
+     "mobile",
+     1
+    ],
+    [
+     "devices",
+     1
+    ],
+    [
+     "cost-efficient",
+     1
+    ],
+    [
+     "multicad-capable",
+     1
+    ]
+   ],
+   "themen": {
+    "browserbasiert": 2,
+    "streaming_grosser_daten": 1,
+    "multi_cad_formate": 2,
+    "design_review": 2,
+    "ar_vr": 2,
+    "vertrieb_und_marketing": 2,
+    "plm_integration": 2,
+    "kosten_und_roi": 2,
+    "zusammenarbeit": 1,
+    "fertigung_und_produktion": 1,
+    "skalierbarkeit_enterprise": 1
+   },
+   "cta_typen": {
+    "testversion": 1,
+    "kontakt_vertrieb": 2,
+    "download": 2
+   },
+   "belege": [
+    "News are sent 2 to 4 times ply year via our newsletter",
+    "000 parts plant as 3DVS: 7 sec Passenger ship with 10 million parts, as 3DVS: 15 sec Axle of vehicle, 200 MB, native Cati"
+   ],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "Kisters 3DViewStation 3D Viewer",
+    "3DViewStation product family"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "USA",
+     "titel": "Museum’s Peanut Butter Floor Honors Artist - NewsForKids.net",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT19jME5KRk1mZE9tYUxFSnRmcGFqaTdMdFVJdjI5TzZxTGJqWlF5RG5GalZ6ZjloTVBXbFF5TjJ6dm03ZXFMTFNIVkxaNGdSNWdIX3Jxb094ZktDbkNoam1JUmsyUHhzcldzU3dXYVRYVzRYcmd5bWFkcDdqVWMxRDQ0NmhUNjdBclN6U0tqdw?oc=5",
+     "quelle": "NewsForKids.net",
+     "datum": "2026-07-23"
+    },
+    {
+     "region": "USA",
+     "titel": "CAD Visualization Accelerates Manufacturing Collaboration - Metrology and Quality News",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzVhczdfNjhyTzlkc0FnempEWDZ6NF9xa1dwVmNLbXRkSXVQZF9fQjhmcjhVWmdub3ZnSDZCQnZHTWFpMlRwWnVjRlBGbDc0VnZXQkRLXzNaZV9qbGQ0UHpiZlpKVFVBeFJiYlN4UF9FY0dqMTVzOEYxQnlmSXpmYU0yalFTTTVT?oc=5",
+     "quelle": "Metrology and Quality News",
+     "datum": "2026-07-14"
+    },
+    {
+     "region": "EU",
+     "titel": "3D-CAD-Visualisierung in Siemens Teamcenter - DIGITAL ENGINEERING Magazin",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUxGR1BNdE52Y0hDX3luZEdYY0RfUnVzeXJGbjlpM09BZjJFYWQxNEhySEFTaFp4ZWpyNGNzaFdGYzltZVhKNkRoZl9yWmZRQWxteVFIRHI3dmtvZGFsRDlueFN6aUZLQjdVYU1KcGROUGFXUURSWEtBMWRoM0hsYWdLSWxobGw2WS13R3dha1VHaTFfX3FXQTV6R1h6UVlsOUtaYXBLZDhhbTBlS3pUY1ZFUXVxSEhGelR1VXJWbw?oc=5",
+     "quelle": "DIGITAL ENGINEERING Magazin",
+     "datum": "2026-05-18"
+    },
+    {
+     "region": "EU",
+     "titel": "KISTERS 3DViewStation-Integrationen für Siemens Teamcenter und Active Workspace sind ab sofort verfügbar - PresseBox",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM213ZFVXWm1HR2o1Zjk3N2xldkhkQ1FucDBGZVQta2tHNDM1TVlwb0JuRWRYNzhLdy14TUdaOF9XQ3g3MmxLdzllR0J3TXZqYjIxVTR6S2hiTmNBN29TSUxBTjUwRmFyOHRuQzRmUG5PbFl4V3VZSFJFV2ZOUWZaYzNQV2FMTGZwRWZvNFlCS281a0NwQjZwTjczQ3JZSFBWS0F0THVUblI2MXNUaGpLT0JqdDQ2enlUYzBzeWs5N0JqT0oxVjd1NEtuYW1XQmpDM1A2b0Q5VFpYMmlEOXZZcDluRkJUVERyMWxUcDRURnBhdG9jVU84T1ZiUjBZdw?oc=5",
+     "quelle": "PresseBox",
+     "datum": "2026-05-12"
+    },
+    {
+     "region": "USA",
+     "titel": "Tips for Working More Efficiently With 3D CAD Visualization Software - Reporter-Times",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ2ZXQnA1Z1djTDhOY1g0UVhETHJVY1lBX2Y2QVlZb28xMnhmT3BvNWpaOTZhN045U3UyQS1lbjdvSHNQVXdfV1FaYjBpa1RIbzRycllPZGMzWi1EUlhKREFzc1l5YnVLdHpXRU5fRjdob1F2aHpxNmVpclJ3R1BiYmYtb0NSd3ctNVBZSlRXQWMyVjBITnktWVJveWhweWlOejBfM1JPU0M2U3FmRHF4YlFvSFFybFV3b1Y2ZUVUdFZqcG5j?oc=5",
+     "quelle": "Reporter-Times",
+     "datum": "2026-01-06"
+    },
+    {
+     "region": "USA",
+     "titel": "3DViewStation Sets New Standard for High-Performance 3D CAD Visualization and Analysis - Metrology and Quality News",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSks5Mm93ZUlBSllDeHQ3QnVfZ0hNcWQzaVNUYmVfUlAxeF9VeGZxVlg3Yi1udTZxWUhVZWxBLW5oWWpvMkFxWmRvVXp2STlqUi1BZm1xR3BBVDBiUkhNUkZLa2puQnNNMjI0YmhtSTlyZEx1cEtIS1ZqV1h1RVBUZnExQ19XN3BEOGs0UXM5ZndRZmZpVTNPbnNyVC1wTDZCT3F5TWh6MEtBTUs5SUE4?oc=5",
+     "quelle": "Metrology and Quality News",
+     "datum": "2025-06-13"
+    },
+    {
+     "region": "USA",
+     "titel": "3DViewStation Supports 3D CAD Collaboration With Suppliers - Metrology and Quality News",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEx5NmhPZDIzNWJ0UjBlVlBVTVhKcTV3aFhtWFE5eGN3Um92NWR2QWFJTHU2SnZzZHE2LUJudTZzY0NDbXFVSklVUEN4VXNBSENBRDRmMWpkdHFQZllyS0x3bWx4MFhEVzhCY2d0bWJwVktlTm1paE81QklfM2hFWU1RUFVxZ0JRSkE?oc=5",
+     "quelle": "Metrology and Quality News",
+     "datum": "2024-07-23"
+    },
+    {
+     "region": "USA",
+     "titel": "3DViewStation Saves on CAD License Cost - Metrology and Quality News",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ESlY3MUxkekZzNmQwLVpMcXktZFc4SmIxQjhIRTFhZTJLaHVWQ0R4VVI0UDd4dFVCa0h0TUdtV2RLcThkN2dEd0NPQlc4Q0dWZW1XSDdYWEVCSENRUlNseS16M2ZkWmtOTmZSWHVwSDI?oc=5",
+     "quelle": "Metrology and Quality News",
+     "datum": "2024-06-12"
+    }
+   ]
+  },
+  {
+   "name": "PTC Creo View",
+   "region": "USA",
+   "start": "https://www.ptc.com/en/products/creo/creo-view",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://www.ptc.com/en/products/creo/creo-view",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "PTC Product View for CAD, ECAD, and PLM Visualization | PTC",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "PTC Product View Visualization Software",
+     "ueberschriften": [
+      "PTC Product View Visualization Software",
+      "Enterprise visualization technology in 2D, 3D, and augmented reality",
+      "The PTC Product View suite of viewers",
+      "PTC Product View MCAD",
+      "PTC Product View ECAD"
+     ],
+     "keywords": [
+      "ptc product",
+      "product view",
+      "enterprise visualization",
+      "view express",
+      "ptc",
+      "product",
+      "view",
+      "visualization",
+      "ecad",
+      "enterprise",
+      "plm",
+      "mcad",
+      "data",
+      "express",
+      "cad"
+     ],
+     "themen": [
+      "design_review",
+      "zusammenarbeit",
+      "ar_vr",
+      "plm_integration",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Free Download"
+     ],
+     "cta_typen": [
+      "testversion",
+      "download"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    },
+    {
+     "url": "https://www.ptc.com/de/products/creo/creo-view",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "PTC Product View für CAD-, ECAD- und PLM-Visualisierung | PTC (DE)",
+     "seitentyp": "produkt",
+     "sprache": "de",
+     "hauptbotschaft": "PTC Product View Visualisierungs-Software",
+     "ueberschriften": [
+      "PTC Product View Visualisierungs-Software",
+      "Unternehmensweite Visualisierungstechnologie in 2D, 3D und Augmented Reality",
+      "PTC Product View MCAD",
+      "PTC Product View ECAD",
+      "Upgrade von PTC Product View Express"
+     ],
+     "keywords": [
+      "ptc product",
+      "product view",
+      "view express",
+      "ptc",
+      "product",
+      "view",
+      "express",
+      "cad-",
+      "ecad-",
+      "plm-visualisierung",
+      "einfache",
+      "zugleich",
+      "leistungsfähige",
+      "visualisierungslösung",
+      "mcad-"
+     ],
+     "themen": [
+      "zusammenarbeit",
+      "ar_vr",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Kostenloser Download"
+     ],
+     "cta_typen": [
+      "testversion",
+      "download"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "ptc product",
+     2
+    ],
+    [
+     "product view",
+     2
+    ],
+    [
+     "view express",
+     2
+    ],
+    [
+     "ptc",
+     2
+    ],
+    [
+     "product",
+     2
+    ],
+    [
+     "view",
+     2
+    ],
+    [
+     "express",
+     2
+    ],
+    [
+     "enterprise visualization",
+     1
+    ],
+    [
+     "visualization",
+     1
+    ],
+    [
+     "ecad",
+     1
+    ],
+    [
+     "enterprise",
+     1
+    ],
+    [
+     "plm",
+     1
+    ],
+    [
+     "mcad",
+     1
+    ],
+    [
+     "data",
+     1
+    ],
+    [
+     "cad",
+     1
+    ],
+    [
+     "cad-",
+     1
+    ],
+    [
+     "ecad-",
+     1
+    ],
+    [
+     "plm-visualisierung",
+     1
+    ],
+    [
+     "einfache",
+     1
+    ],
+    [
+     "zugleich",
+     1
+    ],
+    [
+     "leistungsfähige",
+     1
+    ],
+    [
+     "visualisierungslösung",
+     1
+    ],
+    [
+     "mcad-",
+     1
+    ]
+   ],
+   "themen": {
+    "design_review": 1,
+    "zusammenarbeit": 2,
+    "ar_vr": 2,
+    "plm_integration": 1,
+    "skalierbarkeit_enterprise": 2,
+    "kosten_und_roi": 2
+   },
+   "cta_typen": {
+    "testversion": 2,
+    "download": 2
+   },
+   "belege": [],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "PTC Product View Visualization Software",
+    "PTC Product View Visualisierungs-Software"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "USA",
+     "titel": "Schneider Electric to buy US software firm PTC in $22.6 billion deal - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbDYwbWo2TEdHQ1hRMWtvbWpHMGkwV1BfRmRNTUlfM0NfTFFQUzNyYXRJTEVGbHFLV28wZFl2WDF3d1JCZENIbExEZVE0SDJnelhla1V2azdUcFZSRUIyLVByMjBFRTQ4TGluUGE1N2g2MVRNeEhfX2diQ3JXTGcxOU5qM252VE5RWENadzR0SXl0bDFaUWlHbmZoOWVWXzNTOEY3cXFVQmxkMWtrU05ueHRWMG9pYlVZdG1XajZUcw?oc=5",
+     "quelle": "Reuters",
+     "datum": "2026-10-05"
+    },
+    {
+     "region": "USA",
+     "titel": "Percutaneous Transhepatic Cholangioscopy With... : American Journal of Gastroenterology - Ovid",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTlaUkpEVHJsNm5oMTVqbVZocWdWTFJSdHdvUU9RSWV0cnlzX05hbjhTTkNGN214YUplUXBTTFNwcF9kOGF1STRVZTA4Wk1rTGtrSDhSLWU1b1BiT3pYUHZoQk0zcTdIYVJabV8yQkVkRU9ySi1HRkJMZHFENU1EQ3pCZDNraldkVGZxWjlKUkZNQmN1OTFEb2s3OGhKQ2RuQWlSTTdMZ2dIakVH?oc=5",
+     "quelle": "Ovid",
+     "datum": "2026-08-09"
+    },
+    {
+     "region": "USA",
+     "titel": "PTC introduces Onshape Labs for AI-driven product development - Medical Design & Outsourcing",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEVyZW1jMnJHVkFrZEJQOG9MWWJwOFdxbU81T0hqTFlEY0t5cDVzWFVLMTZzZ2R1anE1b29MVkV6M1h5cENDaUdmeVlET1BOSUxZX2JFYUF5Mjc5ZEloT3loZWhLeGdkUUIzZlEtME1JUVBrWnRxc28wV0NGS3c4VmhXcXdEcjFDZ2tudDIwS0FpWXJMOVhaVFFkUXkxN1FjUHJNVE5vNTNOUQ?oc=5",
+     "quelle": "Medical Design & Outsourcing",
+     "datum": "2026-07-20"
+    },
+    {
+     "region": "USA",
+     "titel": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps | NVIDIA Technical Blog - NVIDIA Developer",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFRdTZRT2ZnS1pKTHVITDNxSm1HU1lQc3VmNDlNZjZONGtJa3BxR2g2SF9QVWJFSFM1NDFVTy1GYWhWVS1uNE9LdnlvNUlEQ3RzdUNlazdleGtOXy1Sclk3ZWtjdk5JZGlhRlZhQTNCVmhWeXhQTmxvOWhhNkF1Q3lpV2lod2dJM3lYaUdhWUxJMkVuNHlrYWJNUHBCUTJRd2tGZA?oc=5",
+     "quelle": "NVIDIA Developer",
+     "datum": "2026-07-20"
+    },
+    {
+     "region": "USA",
+     "titel": "PTC introduces Onshape Labs to accelerate AI inside the product development process - UK News Group",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXltb0Q3b19QR3A3SXVLREdFb25pSkJMczBzbEJrWkFjaEdwMzBXdnFvWFFhYXpFdGxRckdRRVdVSFZSRDFtUzdCbzR0SWpDWEFndGMzMzA5WjJiTHhNS3c0T2lpS2hsVlF6dGZOWlF4XzBKZmNFM3lCU3prbVFSSHFiNWl6STQ0TzFrS0huUW9Ib0IwazFUcnBKVW4xdmhZRXN4dWJDSWd0blpCTnhFbmJrR1M?oc=5",
+     "quelle": "UK News Group",
+     "datum": "2026-07-16"
+    },
+    {
+     "region": "USA",
+     "titel": "Combined epigenomic landscapes of 5mC, 5hmC, and 6mA modifications in papillary thyroid carcinogenesis - Nature",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xc1FSemZXNk1hTWMzNEVGR2dEYVlCbXRxRFo3aU5sc2ZIckNPRWhaaE9ValVPSlBwZGt3empBbnhaeGZuZ0hVSFB6RlZhZkxkeTh4X2FLaFlCYXpkVnkw?oc=5",
+     "quelle": "Nature",
+     "datum": "2026-06-17"
+    },
+    {
+     "region": "USA",
+     "titel": "Innovative fusion models: elevating preoperative gross ETE prediction in thyroid cancer patients - Nature",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZmRwQUw0QXB0VWl0anZ3dFZEV3lJeWxxSEVWN3ZYLTE5ekZZZE1fOWFWZ3U3V0JSandxTk1oVENtRk1hSEVxVmpEMGV0dll6b0hIQUNqYmgxRE1pMDY4?oc=5",
+     "quelle": "Nature",
+     "datum": "2026-03-11"
+    },
+    {
+     "region": "USA",
+     "titel": "Visualizing malignant progression: in situ CD109-based spatial immunofluorescence assay delineates papillary to anaplastic thyroid carcinoma transformation within the tumor microenvironment | Scientific Reports - Nature",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjUThhd2NFcWJaaFA2c2pseS1KSVdzQ1FwOUlwYmkwbWJGNTdNUHZxRTE1MXBrUEZIOVlqS0wwV1BpSzRUeW9DOEo4RFh6RGU0TnN4SXhNX2lCUFVpUWs0?oc=5",
+     "quelle": "Nature",
+     "datum": "2026-02-26"
+    },
+    {
+     "region": "EU",
+     "titel": "AMD Radeon AI R9700 aka RX 9070XT in the big workstation - igor´sLAB",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDEtMzFjdGJXSml0Tk1RUDZTbmZ6cXpiSHlNYmxQX280aTFRbjJ0RmJMbllfRGNoZkl1WlZTc0FuVGMyb3huUlRBLVdHUFhsMk9mbGt5N2t6SmRjZ1FWUXhhVlItc2dDMFBubzItcnFER2t4VXlYeEx4TURPQkVwR0h2YmE1WGFNWEtZdnB1RWRJcm91MTl6MWZJZFJlWGx3RV9RbFdLUFl1OXdQMldpMkg0czlqYnNSOWttdXc1NVJCY3NFNkpjNEtKcm9QZUN5MzhCM2xQUWUyLVFKUXozemRCMlFrVlFOSWM0LQ?oc=5",
+     "quelle": "igor´sLAB",
+     "datum": "2025-12-08"
+    },
+    {
+     "region": "USA",
+     "titel": "PTC’s IoT dream ends with sale of ThingWorx and Kepware - Engineering.com",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkhwd0hHa1dYYng2dkZTLWJyOTRiUlhieEpGYTZuekNtVUJkVFhRclBaaHlpU1BneWZoVTRVQU1RbEFpLU84My1OS2dxY1R1WXVZa2ZRQmZKS1FUaFRSUVVhTk5DNVFoLXJjSXJtUFhVTjlyc0JiZUJ3UWh5WmR0TDBJOEd2U0Q4YzhN?oc=5",
+     "quelle": "Engineering.com",
+     "datum": "2025-11-11"
+    }
+   ]
+  },
+  {
+   "name": "Siemens Teamcenter Visualization",
+   "region": "EU",
+   "start": "https://plm.sw.siemens.com/en-US/teamcenter/",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://plm.sw.siemens.com/en-US/teamcenter/",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "Teamcenter PLM  | Siemens",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "Teamcenter PLM software",
+     "ueberschriften": [
+      "Teamcenter PLM software",
+      "Siemens recognized as a Leader in PLM software",
+      "Why Teamcenter?",
+      "Leverage the digital twin",
+      "Collaborate and innovate"
+     ],
+     "keywords": [
+      "product lifecycle",
+      "plm software",
+      "teamcenter plm",
+      "software teamcenter",
+      "plm",
+      "teamcenter",
+      "siemens",
+      "product",
+      "lifecycle",
+      "software",
+      "cloud",
+      "leader",
+      "digital",
+      "research",
+      "saas"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "zusammenarbeit",
+      "digitaler_zwilling",
+      "ki_und_agenten",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Plans and pricing",
+      "Contact us",
+      "Access the report",
+      "Learn more",
+      "Explore solutions",
+      "Read more",
+      "Calculate your ROI",
+      "Explore",
+      "Teamcenter X",
+      "View more customer experiences"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb",
+      "dokumentation",
+      "preise"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "product lifecycle",
+     1
+    ],
+    [
+     "plm software",
+     1
+    ],
+    [
+     "teamcenter plm",
+     1
+    ],
+    [
+     "software teamcenter",
+     1
+    ],
+    [
+     "plm",
+     1
+    ],
+    [
+     "teamcenter",
+     1
+    ],
+    [
+     "siemens",
+     1
+    ],
+    [
+     "product",
+     1
+    ],
+    [
+     "lifecycle",
+     1
+    ],
+    [
+     "software",
+     1
+    ],
+    [
+     "cloud",
+     1
+    ],
+    [
+     "leader",
+     1
+    ],
+    [
+     "digital",
+     1
+    ],
+    [
+     "research",
+     1
+    ],
+    [
+     "saas",
+     1
+    ]
+   ],
+   "themen": {
+    "streaming_grosser_daten": 1,
+    "zusammenarbeit": 1,
+    "digitaler_zwilling": 1,
+    "ki_und_agenten": 1,
+    "service_und_wartung": 1,
+    "fertigung_und_produktion": 1,
+    "plm_integration": 1,
+    "cloud_und_saas": 1,
+    "skalierbarkeit_enterprise": 1,
+    "kosten_und_roi": 1
+   },
+   "cta_typen": {
+    "kontakt_vertrieb": 1,
+    "dokumentation": 1,
+    "preise": 1
+   },
+   "belege": [],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "Teamcenter PLM software"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "EU",
+     "titel": "3D-CAD-Visualisierung in Siemens Teamcenter - DIGITAL ENGINEERING Magazin",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUxGR1BNdE52Y0hDX3luZEdYY0RfUnVzeXJGbjlpM09BZjJFYWQxNEhySEFTaFp4ZWpyNGNzaFdGYzltZVhKNkRoZl9yWmZRQWxteVFIRHI3dmtvZGFsRDlueFN6aUZLQjdVYU1KcGROUGFXUURSWEtBMWRoM0hsYWdLSWxobGw2WS13R3dha1VHaTFfX3FXQTV6R1h6UVlsOUtaYXBLZDhhbTBlS3pUY1ZFUXVxSEhGelR1VXJWbw?oc=5",
+     "quelle": "DIGITAL ENGINEERING Magazin",
+     "datum": "2026-05-18"
+    },
+    {
+     "region": "EU",
+     "titel": "KISTERS 3DViewStation-Integrationen für Siemens Teamcenter und Active Workspace sind ab sofort verfügbar - PresseBox",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM213ZFVXWm1HR2o1Zjk3N2xldkhkQ1FucDBGZVQta2tHNDM1TVlwb0JuRWRYNzhLdy14TUdaOF9XQ3g3MmxLdzllR0J3TXZqYjIxVTR6S2hiTmNBN29TSUxBTjUwRmFyOHRuQzRmUG5PbFl4V3VZSFJFV2ZOUWZaYzNQV2FMTGZwRWZvNFlCS281a0NwQjZwTjczQ3JZSFBWS0F0THVUblI2MXNUaGpLT0JqdDQ2enlUYzBzeWs5N0JqT0oxVjd1NEtuYW1XQmpDM1A2b0Q5VFpYMmlEOXZZcDluRkJUVERyMWxUcDRURnBhdG9jVU84T1ZiUjBZdw?oc=5",
+     "quelle": "PresseBox",
+     "datum": "2026-05-12"
+    },
+    {
+     "region": "EU",
+     "titel": "GeForce und Studio und Quadro Grafiktreiber 596.36 sowie Quadro 582.53 noch hinterher - Deskmodder.de",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDE5WkhsTVpDVDhvTEFFWlpmU1Y0ZURKVno0VGZSZkE3T01nZkxyRFdRYVEtdmFJbkQwV1FHeEw0UWE2UnRkT3BNUVF0aExvZ0RvSEQ4dHJldkJaMWRSb0tSVkJRTWRFVnVVTUEyMjFRbmJvdXlNQ3JNdGhHN2Z2MHV2MkJRTXRmNlE?oc=5",
+     "quelle": "Deskmodder.de",
+     "datum": "2026-04-28"
+    },
+    {
+     "region": "USA",
+     "titel": "Digital Reality Viewer & Digital Twin Composer - India - Siemens Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZXlBYWRpc2VQQm90Rk9jN2g5M18tdGNrX1pzZU5iUFI0bnpvZ3pwOXNSQ1RybmNIRDNxbEFwY0gyM2JnLXlSclpBSVBMSjBLQUNOeVh6QVh0YUxDdTdFZWFUNE02U2U4djRyemtwTkRqSDRySk4w?oc=5",
+     "quelle": "Siemens Newsroom",
+     "datum": "2026-03-25"
+    },
+    {
+     "region": "USA",
+     "titel": "Building Photorealistic Digital Twins With Siemens Teamcenter Digital Reality Viewer | NVIDIA Technical Blog - NVIDIA Developer",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEdSYWtma3QzUlZxQVR2SFlWN2libFEza1p1WXNRcjNQTVBMbU02TllmRTBNVUZoaTBtZ3ZJYlE1SDFaLVZiaW9pZDFqSTRjd2F0VXFzTHltQjlaT2E3dW12V2VVYUZkSnhqNE5pV2dSOGlGbzV0ckQybm5LSnlnRHhIbmoxMmpKNzVXbmdRVUhDX2JpT2k0YmtDOHg4N1dIcUt5S044OFFvdU1nZF94WC0wRlpIVTdfQmRR?oc=5",
+     "quelle": "NVIDIA Developer",
+     "datum": "2025-06-11"
+    },
+    {
+     "region": "USA",
+     "titel": "Siemens to deliver photorealism-enhanced digital twin with NVIDIA Omniverse and Teamcenter Digital Reality Viewer - Siemens Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SekpjRDFoaUV1NUd3ZFpxaGpMMWd1ZGlhald2aDJuRzh5VjFXaUhpeU0xQTl3NThHRm1NbVJTa00yZDYxbFB5OVYyeXZvNGJncFRsRkdFRUFiMEZrc0lLVTZ0TmhINlZnYjNwaldOME5LTzQ2bVU1cWFLVVBSdw?oc=5",
+     "quelle": "Siemens Newsroom",
+     "datum": "2025-01-07"
+    },
+    {
+     "region": "USA",
+     "titel": "Siemens unveils breakthrough innovations in industrial AI and digital twin technology at CES 2025 - Siemens Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wN3FIVGVyTl9hZWVoUlhreXB3SFhCQ016RmM2ZGdQdVVwem1PSG9lUXFYQ1YyM0xOREs4cWh4bExPSFRoMHJiWnIwLWlNNVZOaHF4S0hoanRadFh5?oc=5",
+     "quelle": "Siemens Newsroom",
+     "datum": "2025-01-06"
+    },
+    {
+     "region": "USA",
+     "titel": "Siemens makes PLM more accessible with Teamcenter X Essential - Siemens Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yWGdFckpJQjYyUDJOTTQzQVk4UVRvaUZGSnRMNFVUb0tJZ3RfS2F1b0JYSTFDRHJzdUtIYkdQaUFWNzlEbm9BTWNjZGR6eGlXRmdUcVhHLTM3aFViRS14bDVPMmpWaXZsTkpwT1JGeTNUS0NyR2o4?oc=5",
+     "quelle": "Siemens Newsroom",
+     "datum": "2024-05-14"
+    },
+    {
+     "region": "EU",
+     "titel": "Siemens und NVIDIA erweitern Zusammenarbeit bei generativer KI fü ... - Siemens Press",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3pEMDBmY2I4cDdpRTR5R0JocnNudlBveThtMm9MS2Z6M0VvODh3bU83UXl2SDR2OEZZMlBnQlh1TWFyQ0pfY3dYQWliUzJ5Uy1XV2pKeTVveEZXVnI2bHBMSnRBMGhFbkhLbl9DUDFORVlGcEJPSGxoVkJuNUR2emxmaGNPRW5XT2tsOENFMFYzWjRwOGprRXp4cng3SHRnRmFieHc1T3N6V0psOTV6X3RqdW1LbkZwWkNRV1FoYTd4cVRoeGk1VzZR?oc=5",
+     "quelle": "Siemens Press",
+     "datum": "2024-03-18"
+    },
+    {
+     "region": "USA",
+     "titel": "Siemens and NVIDIA expand collaboration on generative AI for immersive real-time visualization - Siemens Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uZGdFZHdSWVp2LTZIMWZaYjhpa0Y3Sjd3ZXZtT0Y2WHppY19hTzlsc1V0azNzZFk0dHNpWE1xemNKWjQzeHpOc1hTMTNMUUZ5bzB5bk5rY29TTTVyRUQ0YlFn?oc=5",
+     "quelle": "Siemens Newsroom",
+     "datum": "2024-03-18"
+    }
+   ]
+  },
+  {
+   "name": "Dassault 3DEXPERIENCE",
+   "region": "EU",
+   "start": "https://www.3ds.com/3dexperience",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://www.3ds.com/3dexperience",
+     "region": "EU",
+     "datum": "2026-11-04",
+     "titel": "3DEXPERIENCE | Dassault Systèmes",
+     "seitentyp": "startseite",
+     "sprache": "en",
+     "hauptbotschaft": "3DEXPERIENCE",
+     "ueberschriften": [
+      "3DEXPERIENCE",
+      "Synchronized Data as Industrial Knowledge",
+      "Data Forward",
+      "Featured Topics",
+      "News & Offers"
+     ],
+     "keywords": [
+      "does dexperience",
+      "dexperience connect",
+      "dexperience",
+      "data",
+      "industrial",
+      "does",
+      "dassault",
+      "connect",
+      "syst",
+      "mes",
+      "brings",
+      "together",
+      "virtual",
+      "companions",
+      "collective"
+     ],
+     "themen": [
+      "zusammenarbeit",
+      "digitaler_zwilling",
+      "ki_und_agenten",
+      "ar_vr",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise",
+      "kosten_und_roi"
+     ],
+     "ctas": [
+      "Featured Topics",
+      "All Topics",
+      "3DLive for Apple Vision Pro",
+      "AI-Guided Part Procurement Savings",
+      "AI-Maximized Asset Performance",
+      "AI-Optimized Capital Intensive Programs",
+      "AI-Powered Virtual Twin Experiences",
+      "Disciplines",
+      "Agentic Process Orchestration",
+      "Collaborative Innovation"
+     ],
+     "cta_typen": [
+      "kontakt_vertrieb",
+      "dokumentation"
+     ],
+     "belege": [
+      "Offers Less Friction, Faster Decisions, Stronger Execution 3DEXPERIENCE Brand R2026x FD03 Key Highlights Article Read the article Dassault Systè",
+      "Dear 3DEXPERIENCE platform users,We will upgrade the 3DEXPERIENCE platform to R2027x on Saturday, November 21 and Sunday, November 22, 2026",
+      "Dear 3DEXPERIENCE platform users,We will upgrade the 3DEXPERIENCE platform to R2027x on Saturday, November 21 and Sunday, November 22, 2026",
+      "og Trusted Governance, Smarter Collaboration, Powered by AI 3DEXPERIENCE Brand R2026x FD04 Key Highlights Article New 3DEXPERIENCE Webinars Thous",
+      "Article Less Friction, Faster Decisions, Stronger Execution 3DEXPERIENCE Brand R2026x FD03 Key Highlights Article Smarter Supply Chains: How AI-P"
+     ],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "does dexperience",
+     1
+    ],
+    [
+     "dexperience connect",
+     1
+    ],
+    [
+     "dexperience",
+     1
+    ],
+    [
+     "data",
+     1
+    ],
+    [
+     "industrial",
+     1
+    ],
+    [
+     "does",
+     1
+    ],
+    [
+     "dassault",
+     1
+    ],
+    [
+     "connect",
+     1
+    ],
+    [
+     "syst",
+     1
+    ],
+    [
+     "mes",
+     1
+    ],
+    [
+     "brings",
+     1
+    ],
+    [
+     "together",
+     1
+    ],
+    [
+     "virtual",
+     1
+    ],
+    [
+     "companions",
+     1
+    ],
+    [
+     "collective",
+     1
+    ]
+   ],
+   "themen": {
+    "zusammenarbeit": 1,
+    "digitaler_zwilling": 1,
+    "ki_und_agenten": 1,
+    "ar_vr": 1,
+    "service_und_wartung": 1,
+    "fertigung_und_produktion": 1,
+    "plm_integration": 1,
+    "cloud_und_saas": 1,
+    "skalierbarkeit_enterprise": 1,
+    "kosten_und_roi": 1
+   },
+   "cta_typen": {
+    "kontakt_vertrieb": 1,
+    "dokumentation": 1
+   },
+   "belege": [
+    "Offers Less Friction, Faster Decisions, Stronger Execution 3DEXPERIENCE Brand R2026x FD03 Key Highlights Article Read the article Dassault Systè",
+    "Dear 3DEXPERIENCE platform users,We will upgrade the 3DEXPERIENCE platform to R2027x on Saturday, November 21 and Sunday, November 22, 2026",
+    "og Trusted Governance, Smarter Collaboration, Powered by AI 3DEXPERIENCE Brand R2026x FD04 Key Highlights Article New 3DEXPERIENCE Webinars Thous",
+    "Article Less Friction, Faster Decisions, Stronger Execution 3DEXPERIENCE Brand R2026x FD03 Key Highlights Article Smarter Supply Chains: How AI-P"
+   ],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "3DEXPERIENCE"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "EU",
+     "titel": "Dassault Systèmes wächst dank Cloud und hebt Jahresziel an - Produktion Online",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR25UZ1VtdjdrMkRqZXVkU0xibllQLTRIVkkyRWRaOHQ1dnZMcWxkcUdfcGdkWF9yVGNzVnFwZWxoNGpyNVVoQ2R3RC1OUW5HTHZlT19FVnJTSVB4SUd1b21XeHh5cDk0Nlp3MlF2cERQWFdQbHZBakhIVHhjU3VMUkNzVGNRbVJ4LTk0aXhhcE9pQVNIX2ppUmgtOFdwUzVBbnUwUXFUMA?oc=5",
+     "quelle": "Produktion Online",
+     "datum": "2026-11-03"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systèmes Names Pierre Barnabé Chief Operating Officer - Dassault Systèmes",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjcwWHhoczdMSzU0cS1FYlMxTlpkczgxUUJySENHNGlUWkZlNXlSLUJXV2FlR1FXWU9DaC15cmtxbjhRSkx2LXRTdXFDaDc3a2ZQajFFak9DcXdBejdUa0FfQjhkLXdKUkNxWWtUankwdExtWGV2Mi1EYmk0Y3RuTUphVTl0U05Fb1N2YTFjekZnNklrZDdfem8yMndJd0RUTkxZTUR2SQ?oc=5",
+     "quelle": "Dassault Systèmes",
+     "datum": "2026-10-30"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systemes SE (DASTF) (Q3 2026) Earnings Call Highlights: Raised Guidance, 3DEXPERIENCE ... - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNlY4MHRLd01JWUcxREtKNzlLYUVTQUxxXzlOVEhDQlZXcTRIbXhMQWExbjJWdUNTbkp2ajgzQXh2QW9PSmxuWXp5aGd5TnBZVGpRb2JoOGFXYk9CUEVqdlF6d2c2LW44aDlkOW9LNmxwZVlzc2xLNzliRV9jUElvbEtaVlhwaGpBRV9wSE9xZzdzU2hfMTEzTVBR?oc=5",
+     "quelle": "Yahoo Finance",
+     "datum": "2026-10-28"
+    },
+    {
+     "region": "USA",
+     "titel": "Strong Q3 Performance with Improved FY26 Objectives and a Step Change in Life Sciences - Dassault Systèmes",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXFTUUxsZk5mREFyQndJU2kydllKdkxqcTd1X2hxUm45ZVF2cG1zcVJrb25Xd2JBajBHTEppU0xrQllXTTVvS3ZZZ0tPZFMtUWxiVGQ2cWplcTl1MUd2bkdSWlltSmNCSzJ5eHlIcXJ5S1pEVnhxQ1hnREhXdHJVRWJhOEpaUHhhRmFodnZTZWs4T09aQWR0OHduTncwcnhZNE5vS1lEUXJIUFB6NnF1Ql9fWnQzd2dDWmFXeEkxcnNia1UybE9JUEdadlpMMndMVU1ZVA?oc=5",
+     "quelle": "Dassault Systèmes",
+     "datum": "2026-10-28"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systèmes’ 3DEXPERIENCE used to develop first UAE-made aircraft - Aerospace Manufacturing",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejcyWFgyQ3AxSXZRZFlHbzZTVk1yR0NaZlB6anZIZDFTa25lR1oyY0V1T2ZROEMtUER2WVI5LWNiMFVaRnh1SmRkZ1hqWERBTVVKbkFjZnMxVEc4bnJiMlpRRDhwazUwUVVRQ3I3VjBEd21IWEhubHpYTjlaYl9udmdrQ2pFNnVKcFN3d0cwNUwwYnpFSjJZ?oc=5",
+     "quelle": "Aerospace Manufacturing",
+     "datum": "2026-10-26"
+    },
+    {
+     "region": "EU",
+     "titel": "Unbemannte Systeme: Die nächste Ära der Verteidigung - Dassault Systèmes",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmtzYjBaTDBmOVFMNUVDQjlYTUhTUU1BNFBnQ0phWHFDRUdFeXJsSzBaZ3dyTVpYWHNBbWxsdXVnV0RQTF9FcHMxYXhLc3NHd3JDMmlWOFV3NWRfakFBbFdDZFlfZ1BraGMwc2xhVG9RVXpyVy1yRW1ldnBNYWg0Mjg0WkJvMFpEZmkzQXI1dlUwbzNIVVlqMmVObUl5NUk?oc=5",
+     "quelle": "Dassault Systèmes",
+     "datum": "2026-10-24"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systèmes and Vertiv Team to Accelerate AI Factory Design and Deployment - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUlSeDZSUHdCNWZGYWFSaDY5VDZOMnByVVZsMkkzNnpNUmhSMFpoQ2dReXk4NXhTazA5OFdmMFhiYmx6SUh3QVo4TmRsZzRzNjhMS3B5bjRaeXpGR0lHVE9JSm1NTUZBdlk1TWRSa3RnaFRHdHVJTEtRQllWZXZVeUNOUEZiYVFicElsVnNQRmhkTVB3R2R5dFdKSEY1WTFOZmdTc0FiZUVpOUxUOVllUjlqUGJjeGptYTBIbHJfb3pwNmN4azVSRWt3NWNpUGJnaWc?oc=5",
+     "quelle": "Business Wire",
+     "datum": "2026-10-22"
+    },
+    {
+     "region": "EU",
+     "titel": "Dassault Systèmes präsentiert KI-gestützte Virtual-Twin-Fabriken auf der NVIDIA GTC Berlin 2026 - Dassault Systèmes",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlBINkY4QXdmQWRVbHlHWVJPREE0dEhLZFl5Q0xWWVJ1YTQ5elJXb0FxbnhWV0dmclVBLXdsN1ZtVW1sUVFHZW1kMlNzMmxWazkwdzhtM0ZDT1dYZTdKTUp0M3o4Mk52UWg2TFJ2bE5DazQ2MWpwT2M3LS1hRVZrdHlBc2IxNExCQkkzMnkzUVFNdEQwVTduNUhnNldKdkhLand4VWdrWVVCM2RvUTd5cks1NGRNSkRrbGdpYW1yVi1ORXN3Q0V3YQ?oc=5",
+     "quelle": "Dassault Systèmes",
+     "datum": "2026-10-19"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systèmes Concludes 20th Edition Of 3DEXPERIENCE Forum India, Accelerating Industrial AI And Virtual Twins From Vision To Action. - TRIPURA STAR NEWS",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTG9UcUpNVkliVVhpNzB4YjVhRVMxQWlOZW16WnJSNFNFMTVIWHI2M0JGZXlaYWZfd0NNbThhWEVnb3BMaVpPak9hSkdSYU5sQlZBT1I2ZTRWYVI1SldKb3NSalU3RTFVOXlqaHFXNGppUU9ySmhVSWRGWUVFckRKM1FZOElVaEVrR1Y5RzhicVhBM1R6VzFVbl9kNHZKUkp6RnFGdlZYSkkzMkJZWUd4MVpaeHBlWjFqbEZhVFV5X1NZM2JPc2xwTXZ5RVA4UG0wRzRCcVdVZ0ZQejBfMEpiVE5pZG94ZVBTZEkwOFhTOWwxaTd0REhtY3cwZXU?oc=5",
+     "quelle": "TRIPURA STAR NEWS",
+     "datum": "2026-10-14"
+    },
+    {
+     "region": "USA",
+     "titel": "Dassault Systèmes Concludes 20th 3DEXPERIENCE Forum India - Machine Maker",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmJJblBqdGpMZU1kYnp5aWFydmRVMEZHcW5oV1otQzA4ZmNqcnlJODJFQjB0RHhEZC1qQnNiZU5udlB3M2NUSWZRcl9GOE5hLUxYMXZJeFRDTFdCMHQyRkRGVDRaaWNESVNBV1JQOFBFMVllSUthdWFRQlZQTDMzVVNibll4dl9fZmVFRDRqSmFRb0JYREE?oc=5",
+     "quelle": "Machine Maker",
+     "datum": "2026-10-13"
+    }
+   ]
+  },
+  {
+   "name": "NVIDIA Omniverse",
+   "region": "USA",
+   "start": "https://www.nvidia.com/en-us/omniverse/",
+   "referenz": false,
+   "seiten": [
+    {
+     "url": "https://www.nvidia.com/en-us/omniverse/",
+     "region": "USA",
+     "datum": "2026-11-04",
+     "titel": "Develop Physical AI Applications | NVIDIA Omniverse",
+     "seitentyp": "produkt",
+     "sprache": "en",
+     "hauptbotschaft": "NVIDIA Omniverse",
+     "ueberschriften": [
+      "NVIDIA Omniverse",
+      "What is NVIDIA Omniverse?",
+      "NVIDIA Omniverse Libraries Give AI Agents Tools to Build Physical AI Applications",
+      "Core Omniverse Libraries and Services",
+      "Connect and Structure 3D Data"
+     ],
+     "keywords": [
+      "nvidia omniverse",
+      "digital twins",
+      "learning path",
+      "physical applications",
+      "applications nvidia",
+      "omniverse build",
+      "industrial digital",
+      "omniverse nvidia",
+      "omniverse",
+      "physical",
+      "nvidia",
+      "build",
+      "digital",
+      "simulation",
+      "libraries"
+     ],
+     "themen": [
+      "streaming_grosser_daten",
+      "multi_cad_formate",
+      "design_review",
+      "zusammenarbeit",
+      "digitaler_zwilling",
+      "ki_und_agenten",
+      "service_und_wartung",
+      "fertigung_und_produktion",
+      "plm_integration",
+      "sdk_und_api",
+      "cloud_und_saas",
+      "skalierbarkeit_enterprise"
+     ],
+     "ctas": [
+      "Continue",
+      "Omniverse",
+      "Use Cases",
+      "Core Technologies",
+      "Hardware",
+      "Partners",
+      "Resources",
+      "Start Developing",
+      "Starting Options",
+      "Try OpenUSD Samples"
+     ],
+     "cta_typen": [
+      "testversion",
+      "dokumentation"
+     ],
+     "belege": [],
+     "kunden": [],
+     "branchen": [],
+     "zielgruppe": "",
+     "differenzierung": "",
+     "ersatz": true
+    }
+   ],
+   "keywords": [
+    [
+     "nvidia omniverse",
+     1
+    ],
+    [
+     "digital twins",
+     1
+    ],
+    [
+     "learning path",
+     1
+    ],
+    [
+     "physical applications",
+     1
+    ],
+    [
+     "applications nvidia",
+     1
+    ],
+    [
+     "omniverse build",
+     1
+    ],
+    [
+     "industrial digital",
+     1
+    ],
+    [
+     "omniverse nvidia",
+     1
+    ],
+    [
+     "omniverse",
+     1
+    ],
+    [
+     "physical",
+     1
+    ],
+    [
+     "nvidia",
+     1
+    ],
+    [
+     "build",
+     1
+    ],
+    [
+     "digital",
+     1
+    ],
+    [
+     "simulation",
+     1
+    ],
+    [
+     "libraries",
+     1
+    ]
+   ],
+   "themen": {
+    "streaming_grosser_daten": 1,
+    "multi_cad_formate": 1,
+    "design_review": 1,
+    "zusammenarbeit": 1,
+    "digitaler_zwilling": 1,
+    "ki_und_agenten": 1,
+    "service_und_wartung": 1,
+    "fertigung_und_produktion": 1,
+    "plm_integration": 1,
+    "sdk_und_api": 1,
+    "cloud_und_saas": 1,
+    "skalierbarkeit_enterprise": 1
+   },
+   "cta_typen": {
+    "testversion": 1,
+    "dokumentation": 1
+   },
+   "belege": [],
+   "kunden": [],
+   "branchen": [],
+   "hauptbotschaften": [
+    "NVIDIA Omniverse"
+   ],
+   "stand": "2026-11-04",
+   "news": [
+    {
+     "region": "EU",
+     "titel": "Modellbasierte Digital-Twin-Technik von Vertiv für Rechenzentren - DataCenter-Insider",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM2JPRWE3YUQwRHdsMHJ4U3FQNDJqcVNrWFdiZ2pOZEFGMzRvRnJtTjkxeF9Od2hnOFFWVHEzeEVaUTl3RnVrTzZtMlJiWVR5VTI1RmtaMG5GazYyaWlId1JLZ3NvMmVaTHo2UE5VcHdVcW5ocTVEZzIxYVlvajJqbnFGdUlaUlBST2RjR1pIZ3BZUWdSRWRPdDN6cmtuVmtydjI3Ni1sbE5mS082OXpyMGVvamxIdUphZF9MbXA0dzFPS29nMUZkblVlN1cwWmht?oc=5",
+     "quelle": "DataCenter-Insider",
+     "datum": "2026-06-12"
+    },
+    {
+     "region": "USA",
+     "titel": "SK Telecom Advances Semiconductor Fab Digital Twins using NVIDIA Omniverse Libraries – SK telecom newsroom - SK텔레콤 뉴스룸",
+     "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBodUY3WVAwdmU3Vm56Vk81UUlITHBMRWFmNEZ2QkdtMmFua2JIT3h1bkxmRUs0Y3had1FoZTBlM3JFT3hySV9JdmlB?oc=5",
+     "quelle": "SK텔레콤 뉴스룸",
+     "datum": "2026-06-01"
+    },
+    {
+     "region": "USA",
+     "titel": "ABB Genix™ advances industrial digital twins through immersive 3D visualization with NVIDIA Omniverse and Microsoft Azure - ABB",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2RPRS1rVGdDd2g5Vk5BTXJ0SGhSWkFxVldqQVhoM2k2dVVGWGd0U3JDS1JieHNWUVhPWTZudnhBckJ1aDhiUkpqRkpOSlNHMldFaGNDb0dWeW55Z1BpSlVJVDNQN1JheFlBVVFNWlhfWU1vRFZJcFYxWEpocGxET0ZiTFp5N05JQTRsODBzSnJNRkM0X3hoQ0tsWDVmUURDVU5QYWVNVUVGdnZ0ekVrUXVXV0hmU1VuRXdOQUxER1JfdWZJSEhjNEd2TW5EWUJBbVFybXU5YjhxWEtqelBKcnpUS1Uxck9obmVrenZsaW0?oc=5",
+     "quelle": "ABB",
+     "datum": "2026-04-21"
+    },
+    {
+     "region": "USA",
+     "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - NVIDIA Developer",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEF3MXdOVW53NFhnVHFWUy12U01oVV9Vd0RrT3BCRXE1bnVTeWtSQk5jVjhOVnJfbExCWnh5TWxrMVpsU19Hc3hTVG14cmgtVjVya2V0TWc0eTNoZVQyUEtzRm00UVR6Zlctak1HYU9Fd3kwcjFPS1V6bEhJTlI3dlNRTnhtdG44eGxsWmhUQko5LVp2Z2V1enBWMEg5TFR1cDhvOTNwdERDOEotZnZPQmx5TFQ0blh5UUxuYg?oc=5",
+     "quelle": "NVIDIA Developer",
+     "datum": "2026-04-08"
+    },
+    {
+     "region": "EU",
+     "titel": "Aveva und Nvidia entwickeln Digital Twin für KI-Fabriken - Produktion Online",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVTZUVmWm9Wallwa1ZUOTYwUmJyVWpYdi1qTjAtYnY4T0JwM2RTaDEwRDJOZHpPX1N0SGlZZ0R4OTdKUGV3S2Zka0pMQk5mMS0wcjBnel9LYjBkU1VhMTJUaTBzYjlLT2k3N1ZRU0RSZ252Tm1qSW5HeGxQQTJjbmxKTy1wZHNFQ1JNMkg3MnF6Y0xFMEZ3NEg1ejBEaDg?oc=5",
+     "quelle": "Produktion Online",
+     "datum": "2026-03-18"
+    },
+    {
+     "region": "USA",
+     "titel": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support - NVIDIA Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkdlMGNINWd6cnBFQjJybGNPMy03QXpQX3I0cWNEVXdKWWVyN3ZyNWhGVkVqQVRvTkpGdDU5SmZuVjFmLVlBb3JDV01sN1BhRWY3MFNFaGV5d04tc3ZHcmNYRWNfU28tRVNfT3EyVjIxUUcwLUczUHZSSEdwcTdOcllJQjN0eV9DQWxHcUZ2Mmx3TTJpTGxvck5udnpHZHpVYlRqbHRfcTRxajAzbHRjUWFhQmhOY3JhNnA3el85dU9iWmVvZThQeV83VDlwWVo4S1Q1aWJMRTUxMmpzZUQ1OTN3R205bXpaTzRVX0lCQnBodGs?oc=5",
+     "quelle": "NVIDIA Newsroom",
+     "datum": "2026-03-16"
+    },
+    {
+     "region": "USA",
+     "titel": "Assembling Industrial Digital Twins with OpenUSD and NVIDIA Omniverse Libraries - NVIDIA",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZdnVzX29xOHFqSG90R3p1bjZIekxOZnVRaW5feUtTUTFnVmh2TE8xSVpGTS1CN0NQZ1NDdGlFb1pJT1BtRWlkZjhpMVZrUk83Ti0yaGNHWW0wMG5MUC1ZNmR1b2xDb2JmQ3hvdzZ0Y18?oc=5",
+     "quelle": "NVIDIA",
+     "datum": "2026-03-15"
+    },
+    {
+     "region": "USA",
+     "titel": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design - NVIDIA Blog",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HN21QWnFUeWNkMHhRVEoyd05hUmpIdklTQUtURmgwVWVKaFpiV3Q5U0R3VHhPUy0xZnBteXNMVXdYeGRLa05wNGJ6WjZnVnBRbHdPM1FwXzZna1BUTl9OVFlWZHh1aXBWd0EzcldFZjd3ZjZScDg0?oc=5",
+     "quelle": "NVIDIA Blog",
+     "datum": "2026-03-12"
+    },
+    {
+     "region": "USA",
+     "titel": "Deloitte unveils physical AI solutions built with NVIDIA Omniverse Libraries to help accelerate industrial transformation - Deloitte",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzl6NkNxczBnQjNEQ0pvUFYzeUZBbjdieDZOQUNlRjZxVHh3WWhId3RHR0kwSHNFYU8xX1lxR2llNm5TUy1JVE1DeEpWVnFWY0FEUHN2VjJNODM4NHI0c0NqS0pzWk05TWw4UGo0cjhTX0hGa1FhU3Q1RUozbmtCSjZNUDdLTUU5TWs5SWwwZWVESUkwdmJHeDFLN2N5TkFvcVlnYWFRQmhldVFtaTFmaA?oc=5",
+     "quelle": "Deloitte",
+     "datum": "2026-03-02"
+    },
+    {
+     "region": "EU",
+     "titel": "Dassault Systèmes und NVIDIA schließen Partnerschaft zum Aufbau einer industriellen KI-Plattform für virtuelle Zwillinge - Dassault Systèmes",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWpWMDI2SUg2SU5hZzdReWhIYVBfYTZRcUMycnFIWVB6bDk1RjVmNE9fRXp6Rk8tTVl2aU1mOTlxN0loOWVoY0hocTJiRGpEaGVlbVI4c1BtZDd4NWJQZ3FSZ2pZaS1wRDBEX3JCMVJtVFpZbVBJSlg0cTUyVlhnSFhOMnJfLWtTcXFsc2ZjWVlEcHFtNGVFTWZpTmpHUEJWdnFJYnk3MkZ2b1pESzhEOWxpek1wMzB1am5CaEttLVZWWU53TFU0Vm9zajB6WW5a?oc=5",
+     "quelle": "Dassault Systèmes",
+     "datum": "2026-02-11"
+    }
+   ]
+  }
+ ],
+ "luecken": {
+  "themen": [
+   {
+    "thema": "digitaler_zwilling",
+    "firmen": 5
+   }
+  ],
+  "keywords": [
+   {
+    "keyword": "enterprise",
+    "firmen": 3
+   },
+   {
+    "keyword": "product",
+    "firmen": 2
+   },
+   {
+    "keyword": "digital",
+    "firmen": 2
+   }
+  ]
+ },
+ "aenderungen": [
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "https://www.3ds.com/3dexperience",
+   "art": "geändert",
+   "vorher": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json",
+   "neue_ueberschriften": [],
+   "entfernte_ueberschriften": [],
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "NVIDIA Omniverse",
+   "url": "https://www.nvidia.com/en-us/omniverse/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "https://www.3ds.com/3dexperience",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Siemens Teamcenter Visualization",
+   "url": "https://plm.sw.siemens.com/en-US/teamcenter/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "https://www.ptc.com/de/products/creo/creo-view",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "https://www.ptc.com/en/products/creo/creo-view",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/en/products/3dviewstation-product-family.html",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/en/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/cpq/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/cam/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/enterprise/product-lifecycle-management/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/industries/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/developers/solutions/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/products/vertex-connect",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/factory-floor",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/supplier-rfq",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/solutions/service",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/products",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "https://vertex3d.com/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/product/instant3dhub-lkd",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/product/instant3dhub",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/instant-visualization",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/3d-visualization",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  },
+  {
+   "firma": "Threedy",
+   "url": "https://threedy.io/",
+   "art": "neu erfasst",
+   "datum": "2026-11-04"
+  }
+ ],
+ "fehler": [
+  {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/digital-machine-file-at-trumpf-for-on-demand-visualization-of-250-000-machines",
+   "fehler": "kaum Text auf der Seite (evtl. nur per JavaScript geladen)"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html",
+   "fehler": "robots.txt verbietet den Abruf"
+  }
+ ],
+ "themenliste": [
+  "browserbasiert",
+  "streaming_grosser_daten",
+  "multi_cad_formate",
+  "design_review",
+  "zusammenarbeit",
+  "digitaler_zwilling",
+  "ki_und_agenten",
+  "ar_vr",
+  "service_und_wartung",
+  "fertigung_und_produktion",
+  "vertrieb_und_marketing",
+  "plm_integration",
+  "sdk_und_api",
+  "cloud_und_saas",
+  "sicherheit_und_datenschutz",
+  "skalierbarkeit_enterprise",
+  "nachhaltigkeit",
+  "kosten_und_roi"
+ ],
+ "cta_typen": [
+  "demo",
+  "testversion",
+  "kontakt_vertrieb",
+  "video",
+  "dokumentation",
+  "download",
+  "event",
+  "preise",
+  "newsletter",
+  "sonstiges"
+ ],
+ "zusammenfassung": ""
+}

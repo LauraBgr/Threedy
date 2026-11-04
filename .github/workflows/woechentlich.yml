@@ -1,0 +1,53 @@
+name: Wöchentliche Wettbewerbsanalyse
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"      # jeden Montag um 5 Uhr UTC (6/7 Uhr deutscher Zeit)
+  workflow_dispatch:          # Knopf "Run workflow" für einen Lauf von Hand
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: analyse
+  cancel-in-progress: false
+
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Sammeln, auswerten, Dashboard bauen
+        run: python -m ci alles
+        env:
+          KI_BASIS_URL: ${{ secrets.KI_BASIS_URL }}
+          KI_SCHLUESSEL: ${{ secrets.KI_SCHLUESSEL }}
+          KI_MODELL: ${{ secrets.KI_MODELL }}
+      - name: Ergebnisse im Repository speichern
+        run: |
+          git config user.name "wettbewerbsanalyse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          git commit -m "Analyse vom $(date +%F)" || echo "Keine Änderungen"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  veroeffentlichen:
+    needs: analyse
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.seite.outputs.page_url }}
+    steps:
+      - id: seite
+        uses: actions/deploy-pages@v4
