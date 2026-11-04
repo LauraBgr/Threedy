@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: analyse
-  cancel-in-progress: false
+  cancel-in-progress: true   # ein neuer Lauf ersetzt einen hängenden alten
 
 jobs:
   analyse:
