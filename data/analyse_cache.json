@@ -3309,5 +3309,5608 @@
   ],
   "zielgruppe": "Entwickler, Ingenieure, Softwarehersteller, AI-Entwickler, Systemintegratoren, Produktmanager",
   "differenzierung": "NVIDIA Omniverse ermöglicht die Integration modularer, agentenfähiger Bibliotheken in bestehende Anwendungen und Workflows, um simulationssichere 3D-Welten für physische KI-Anwendungen zu erstellen, ohne die bestehenden Anwendungen oder Benutzererfahrungen zu ersetzen."
+ },
+ "3c73d465c5303e4b|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "startseite",
+  "sprache": "en",
+  "hauptbotschaft": "Make complex 3D data available in real time across departments and devices.",
+  "ueberschriften": [
+   "3D for Every Team and Every AI Agent",
+   "3D Solutions and AI Workflows for Every Department",
+   "Industrial AI, Grounded in Your Live 3D Data",
+   "Our Customers Win on Decision Quality, Speed, and Cost",
+   "Frequently Asked Questions"
+  ],
+  "keywords": [
+   "3d visualization software",
+   "industrial 3d",
+   "live cad data",
+   "browser-based 3d viewer",
+   "ai agents",
+   "plm integration",
+   "cad data sharing",
+   "digital twin",
+   "spatial streaming",
+   "multi cad formats",
+   "enterprise 3d",
+   "3d collaboration",
+   "ai copilots",
+   "instant3dhub",
+   "mcp connect"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Talk to an Expert",
+   "Discover Agentic 3D Platform",
+   "Sales: Product Demos",
+   "Learn more",
+   "Publication",
+   "Ask ChatGPT",
+   "Ask Claude",
+   "Ask Perplexity"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "50+ GB Full-vehicle models at full fidelity in a standard browser",
+   "~99% Faster 3D data access at Daimler Truck",
+   "0 GPUs Needed on server or client",
+   "3D access for 250,000+ machines",
+   "99% reduction in 3D loading times",
+   "15 years of development with German OEMs"
+  ],
+  "kunden": [
+   "Daimler Truck"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial manufacturing",
+   "engineering",
+   "aerospace",
+   "energy"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management, Sales",
+  "differenzierung": "Threedy enables AI agents and teams to access live, full-fidelity 3D CAD data in the browser without file exports, local installs, or GPU requirements, while maintaining enterprise security and integration with existing PLM, CAD, and ERP systems.",
+  "wertversprechen": [
+   "instant 3d visualization",
+   "no software installation",
+   "secure browser-based access",
+   "live cad data access",
+   "ai agents with live 3d data",
+   "single source of truth"
+  ],
+  "anwendungsfaelle": [
+   "sales configurator",
+   "design review",
+   "service documentation",
+   "shop floor instructions",
+   "parts identification",
+   "ai-assisted configuration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization software",
+    "browser-based 3d viewer",
+    "plm integration",
+    "digital twin",
+    "spatial streaming",
+    "multi cad formats",
+    "ai copilots",
+    "3d collaboration"
+   ],
+   "produkt": [
+    "instant3dhub",
+    "mcp connect"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "collaborate on cad data",
+    "speed up design reviews",
+    "improve service response time",
+    "enable ai with cad data"
+   ]
+  },
+  "beleg_arten": [
+   "zahlen",
+   "kundenlogos",
+   "technische_tiefe",
+   "sicherheit",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "8b766337b32ae9d6|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Make 3D visualization instant and interactive for every team in your workflow with instant3Dhub – fast, secure, and without disrupting your IT landscape.",
+  "ueberschriften": [
+   "Make 3D visualization instant and interactive for every team in your workflow",
+   "Make your 3D and CAD software data work harder across the value chain",
+   "One 3D access layer beats a dozen copies and parallel tools",
+   "End fragmented 3D and CAD software workflows: results from leading manufacturers",
+   "Connect your 3D data seamlessly across systems with instant3Dhub – fast, secure, and without disrupting your IT landscape"
+  ],
+  "keywords": [
+   "3d visualization",
+   "instant3dhub",
+   "cad data",
+   "plm integration",
+   "browser based 3d viewer",
+   "streaming large data",
+   "collaborative review",
+   "ar vr",
+   "digital twin",
+   "enterprise security",
+   "cloud saas",
+   "multi cad formats",
+   "data protection",
+   "product lifecycle",
+   "industrial metaverse"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Book a Demo Book a Demo",
+   "Connect With an Expert",
+   "Book a demo",
+   "contact@threedy.io"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "demo",
+   "sonstiges"
+  ],
+  "belege": [
+   "DARC became the #1 Augmented Reality solution in Mercedes-Benz Engineering",
+   "Waiting time for any assembly structure reduced by ~99% – down to around 30 seconds",
+   "Standardized instant3Dhub access across North America",
+   "Global access for engineers in Europe, Mexico, and the US without local installations",
+   "Cloud-native deployment on Azure",
+   "Built on Threedy’s web technology, delivering a seamlessly integrated E2E application"
+  ],
+  "kunden": [
+   "Mercedes-Benz Engineering",
+   "Siemens SIDRIVE IQ"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial",
+   "manufacturing",
+   "energy",
+   "aerospace"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management, Sales",
+  "differenzierung": "Threedy bietet eine browserbasierte, cloud-native 3D-Visualisierungslösung, die native CAD-Daten ohne lokale Installationen und ohne Datenkopien über alle Wertketten hinweg in Echtzeit streamt und dabei die bestehende IT-Infrastruktur und den PLM-Systeme als Single Source of Truth respektiert.",
+  "wertversprechen": [
+   "instant 3d visualization",
+   "no software installation",
+   "single source of truth",
+   "cloud-native deployment",
+   "secure collaboration",
+   "browser-based access"
+  ],
+  "anwendungsfaelle": [
+   "sales configurator",
+   "service documentation",
+   "engineering review",
+   "training material",
+   "customer collaboration",
+   "technical quoting"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "browser based 3d viewer",
+    "streaming large data",
+    "plm integration",
+    "multi cad formats",
+    "digital twin",
+    "cloud saas",
+    "collaborative review",
+    "ar vr",
+    "product lifecycle"
+   ],
+   "produkt": [
+    "instant3dhub",
+    "threedy"
+   ],
+   "problem": [
+    "fragmented workflows",
+    "data sprawl",
+    "long waiting times",
+    "no software installation",
+    "secure collaboration",
+    "reduce prototypes"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "zahlen",
+   "enterprise",
+   "technische_tiefe",
+   "sicherheit",
+   "partner"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "d98621d4b68bd779|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "instant3Dhub gives every team instant access to live 3D CAD data in any browser. No exports, no conversions, no CAD license required.",
+  "ueberschriften": [
+   "Visualize Complex Products Instantly, Across Your Entire Organization",
+   "The Bottleneck Isn't the Design. It's Access to It",
+   "Why the Real Model Rarely Reaches the People Who Need It",
+   "What Changes When Access Is Instant",
+   "How instant3Dhub Makes It Instant"
+  ],
+  "keywords": [
+   "instant 3d visualization",
+   "cad data access",
+   "plm integration",
+   "3d viewer",
+   "browser based 3d",
+   "streaming large data",
+   "multi cad formats",
+   "no cad license",
+   "live 3d model",
+   "digital twin",
+   "collaborative review",
+   "product lifecycle",
+   "api integration",
+   "cloud saas",
+   "security and privacy"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Talk to an Expert",
+   "Talk to an Expert About Instant Visualization",
+   "contact@threedy.io"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "sonstiges"
+  ],
+  "belege": [
+   "~99% Faster load times for large assemblies at Daimler Truck, from around 30 seconds to instant",
+   "250,000 Machines made visually accessible on demand at Trumpf",
+   "0 CAD licenses needed to open a model",
+   "instant3dhub was hardened over more than 15 years alongside leading German OEMs"
+  ],
+  "kunden": [
+   "Daimler Truck",
+   "Trumpf"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial equipment",
+   "manufacturing",
+   "engineering"
+  ],
+  "zielgruppe": "Engineering, Manufacturing, Quality, Sales, Service, Suppliers, IT",
+  "differenzierung": "instant3Dhub streams live 3D CAD data directly from source systems without conversions, exports, or CAD licenses, enabling instant access for every team across the organization.",
+  "wertversprechen": [
+   "instant 3d access",
+   "no cad licenses",
+   "live model streaming",
+   "no conversions needed",
+   "multi cad formats",
+   "browser based"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "manufacturing planning",
+   "sales configurator",
+   "service documentation",
+   "supplier collaboration",
+   "quality inspection"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm integration",
+    "streaming large data",
+    "multi cad formats",
+    "digital twin",
+    "api integration",
+    "cloud saas",
+    "browser based 3d"
+   ],
+   "produkt": [
+    "instant3dhub",
+    "threedy"
+   ],
+   "problem": [
+    "no cad license",
+    "slow 3d access",
+    "outdated cad copies",
+    "collaboration bottleneck",
+    "large cad file sharing"
+   ]
+  },
+  "beleg_arten": [
+   "zahlen",
+   "kundenlogos",
+   "technische_tiefe",
+   "sicherheit",
+   "enterprise"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "8225d46dfab10870|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "instant3Dhub streams million-part CAD assemblies live from your PLM to any browser. No exports, no conversions, no CAD seats.",
+  "ueberschriften": [
+   "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+   "Built for industrial complexity. Designed for everyone who touches it",
+   "Success Stories",
+   "Pick your path",
+   "Frequently Asked Questions"
+  ],
+  "keywords": [
+   "instant3dhub",
+   "3d viewer",
+   "cad streaming",
+   "plm integration",
+   "browser based 3d",
+   "multi cad formats",
+   "live cad data",
+   "streaming large data",
+   "digital twin",
+   "3d collaboration",
+   "api sdk",
+   "ar vr",
+   "engineering review",
+   "product data management",
+   "industrial 3d"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Talk to an Expert",
+   "See AI Capabilities",
+   "Book a Demo Now",
+   "Read the completed story",
+   "Explore Solutions",
+   "contact@threedy.io"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "belege": [
+   "Trusted by BMW and Porsche",
+   "99% Faster load times Daimler Truck reduced assembly wait time from 30s to near-instant in production.",
+   "15,000+ Daily Active Users Across leading OEMs like Stadler, Mercedes-Benz, BMW, and Porsche.",
+   "20+ Years of research Threedy was founded as a spin-off from Fraunhofer IGD, Europe’s leading research institute for visual computing."
+  ],
+  "kunden": [
+   "BMW",
+   "Porsche",
+   "Daimler Truck",
+   "Stadler",
+   "Mercedes-Benz"
+  ],
+  "branchen": [
+   "automotive",
+   "rail",
+   "industrial"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Manufacturing, Sales, Management",
+  "differenzierung": "instant3Dhub streams live 3D CAD data directly from PLM to any browser without exports, conversions, or CAD seats, enabling instant access for all teams.",
+  "wertversprechen": [
+   "live 3d cad data",
+   "no exports or conversions",
+   "no cad seats",
+   "instant streaming",
+   "single source of truth",
+   "multi-cad formats"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "collaboration",
+   "service and maintenance",
+   "manufacturing validation",
+   "sales configurator",
+   "digital twin"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad streaming",
+    "plm integration",
+    "browser based 3d",
+    "multi cad formats",
+    "streaming large data",
+    "digital twin",
+    "3d collaboration",
+    "api sdk",
+    "ar vr"
+   ],
+   "produkt": [
+    "instant3dhub"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "collaborate on 3d data",
+    "avoid data silos",
+    "stream cad without conversion"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "zahlen",
+   "enterprise",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "082d25893f1d8afe|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "instant3Dhub streams million-part CAD assemblies live from your PLM to any browser. No exports, no conversions, no CAD seats. Trusted by BMW and Porsche.",
+  "ueberschriften": [
+   "Millions of Parts, in seconds. Industrial CAD running live globally, in any browser, app, or device.",
+   "Built for industrial complexity. Designed for everyone who touches it",
+   "Success Stories",
+   "Pick your path",
+   "Frequently Asked Questions"
+  ],
+  "keywords": [
+   "instant3dhub",
+   "3d viewer",
+   "plm integration",
+   "cad streaming",
+   "browser-based 3d",
+   "multi-cad formats",
+   "live cad",
+   "digital twin",
+   "collaborative review",
+   "3d visualization",
+   "industrial 3d",
+   "streaming large data",
+   "api sdk",
+   "ar vr",
+   "enterprise 3d"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Book a Demo",
+   "Book a Demo Now",
+   "Read the completed story",
+   "Explore Solutions",
+   "Talk to an Expert",
+   "contact@threedy.io"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "Trusted by BMW and Porsche",
+   "99% Faster load times",
+   "Daimler Truck reduced assembly wait time from 30s to near-instant in production",
+   "15,000+ Daily Active Users Across leading OEMs like Stadler, Mercedes-Benz, BMW, and Porsche",
+   "20+ Years of research Threedy was founded as a spin-off from Fraunhofer IGD"
+  ],
+  "kunden": [
+   "BMW",
+   "Porsche",
+   "Daimler Truck",
+   "Stadler",
+   "Mercedes-Benz"
+  ],
+  "branchen": [
+   "automotive",
+   "oem",
+   "industrial"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Manufacturing, Sales, Management",
+  "differenzierung": "instant3Dhub streamt millionenfach komplexes CAD live aus dem PLM direkt in jeden Browser – ohne Exporte, Konvertierungen oder CAD-Lizenzen.",
+  "wertversprechen": [
+   "live 3d from plm",
+   "no exports or conversions",
+   "instant streaming",
+   "browser-based access",
+   "multi-cad formats",
+   "single source of truth"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "service documentation",
+   "collaborative validation",
+   "sales configurator",
+   "manufacturing support",
+   "quality inspection"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm integration",
+    "cad streaming",
+    "browser-based 3d",
+    "multi-cad formats",
+    "live cad",
+    "digital twin",
+    "collaborative review",
+    "3d visualization",
+    "industrial 3d"
+   ],
+   "produkt": [
+    "instant3dhub"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "collaborate on 3d data",
+    "avoid outdated cad copies",
+    "enable non-engineers to view cad",
+    "stream complex assemblies"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "zahlen",
+   "enterprise",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "a211502c3eed3117|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Extend PLM governance without exporting CAD files. Vertex streams secure 3D access across suppliers, apps, and enterprise systems.",
+  "ueberschriften": [
+   "The Digital Thread",
+   "Breaks at File Export",
+   "Derivative Files Become the Operational Truth",
+   "Keep PLM Authoritative Beyond Engineering",
+   "Governance-Preserving 3D Access Architecture"
+  ],
+  "keywords": [
+   "vertex software",
+   "3d access layer",
+   "plm governance",
+   "streaming 3d",
+   "context-aware pixel streaming",
+   "governance-preserving",
+   "no cad export",
+   "enterprise 3d access",
+   "digital thread",
+   "multi cad formats",
+   "secure 3d viewing",
+   "plm integration",
+   "cloud saas",
+   "enterprise deployment",
+   "digital twin"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "SEE VERTEX IN ACTION",
+   "EXPLORE THE ARCHITECTURE",
+   "Explore Solutions",
+   "Explore Customer Success Stories",
+   "CONTACT US",
+   "Learn More",
+   "Extend PLM governance across your enterprise."
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "350,000+ enterprise users",
+   "500,000+ daily 3d sessions",
+   "60,000+ daily plm changes",
+   "22,000+ suppliers in production",
+   "Vermeer Design Engineer",
+   "Atlas Copco Sales Manager",
+   "Terex Utilities End Customer",
+   "Carmelite Gothic Project Manager",
+   "Atlas Copco Case Study",
+   "Vertex + Snowflake for Governed Operational Intelligence"
+  ],
+  "kunden": [
+   "Vermeer",
+   "Atlas Copco",
+   "Terex Utilities",
+   "Carmelite Gothic"
+  ],
+  "branchen": [
+   "manufacturing",
+   "service operations",
+   "automotive",
+   "industrial equipment",
+   "energy"
+  ],
+  "zielgruppe": "Engineering, IT, Manufacturing, Service, Management",
+  "differenzierung": "Vertex ist die governance-preserving 3D Access Layer, die PLM-Governance bewahrt, indem sie kontextbewusste Pixel statt CAD-Dateien streamt, ohne Dateien zu exportieren oder zu verteilen.",
+  "wertversprechen": [
+   "governance-preserving",
+   "secure 3d access",
+   "no file export",
+   "context-aware pixel streaming",
+   "plm authoritative",
+   "enterprise scale integration"
+  ],
+  "anwendungsfaelle": [
+   "supplier collaboration",
+   "manufacturing operations",
+   "service and maintenance",
+   "sales configurator",
+   "design review",
+   "plm integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d access layer",
+    "plm governance",
+    "streaming 3d",
+    "context-aware pixel streaming",
+    "governance-preserving",
+    "secure 3d viewing",
+    "enterprise 3d access",
+    "digital thread",
+    "multi cad formats",
+    "plm integration"
+   ],
+   "produkt": [
+    "vertex software",
+    "vertex"
+   ],
+   "problem": [
+    "breaks at file export",
+    "derivative files become truth",
+    "configuration drift",
+    "version divergence",
+    "uncontrolled data exposure",
+    "supplier collaboration fails"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "zahlen",
+   "kundenlogos",
+   "auszeichnung",
+   "partner",
+   "enterprise",
+   "sicherheit",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "technisch",
+  "klarheit": 5
+ },
+ "b9fee5e97de3ba40|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Vertex extends authoritative product definition access beyond engineering without exporting geometry files or introducing new systems of record.",
+  "ueberschriften": [
+   "Governed 3D Access Architecture",
+   "What Is a Governed 3D Access Layer?",
+   "Architectural Principles",
+   "Why File-Based Architecture Breaks the Digital Thread",
+   "Proven at Enterprise Scale"
+  ],
+  "keywords": [
+   "governed 3d access architecture",
+   "vertex software",
+   "plm governance",
+   "pixel streaming",
+   "3d viewer",
+   "streaming large data",
+   "multi cad formats",
+   "digital twin",
+   "secure 3d access",
+   "enterprise scale",
+   "cloud saas",
+   "sdk api",
+   "data security",
+   "nist cybersecurity",
+   "soc 2"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "TALK TO AN EXPERT",
+   "Talk to an expert",
+   "Learn More",
+   "Watch how Vertex ensures your IP remains secure",
+   "Talk to an expert"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "belege": [
+   "500,000+ daily 3D sessions",
+   "60,000+ daily PLM changes",
+   "12M+ monthly streamed frames",
+   "22,000+ suppliers in production",
+   "Vermeer Corp",
+   "Atlas Copco",
+   "Terex Utilities",
+   "Fortune 100 Manufacturing company",
+   "NIST CyberSecurity & SOC 2 Frameworks",
+   "Case Study Vermeer Case Study"
+  ],
+  "kunden": [
+   "Vermeer Corp",
+   "Atlas Copco",
+   "Terex Utilities",
+   "Fortune 100 Manufacturing company"
+  ],
+  "branchen": [
+   "manufacturing",
+   "aerospace",
+   "automotive",
+   "energy",
+   "industrial equipment"
+  ],
+  "zielgruppe": "Engineering, IT, Manufacturing, Service, Management",
+  "differenzierung": "Vertex preserves PLM governance by streaming context-aware pixels instead of exporting derivative geometry files, enabling secure, real-time access across the enterprise without introducing new systems of record.",
+  "wertversprechen": [
+   "no file exports",
+   "preserves plm governance",
+   "secure pixel streaming",
+   "real-time access",
+   "no configuration drift",
+   "enterprise-scale performance"
+  ],
+  "anwendungsfaelle": [
+   "manufacturing use cases",
+   "service and maintenance",
+   "supply chain access",
+   "customer visualization",
+   "sales configurator",
+   "engineering review"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm governance",
+    "streaming large data",
+    "multi cad formats",
+    "digital twin",
+    "cloud saas",
+    "sdk api",
+    "data security"
+   ],
+   "produkt": [
+    "vertex software",
+    "governed 3d access architecture"
+   ],
+   "problem": [
+    "breaks digital thread",
+    "configuration divergence",
+    "uncontrolled exposure",
+    "file export problems",
+    "version misalignment"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "zahlen",
+   "kundenlogos",
+   "zertifikat",
+   "enterprise",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "technisch",
+  "klarheit": 5
+ },
+ "5ccc1eff64c9a9eb|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Enhance efficiency, elevate service quality, and differentiate customer experience with 3D visualization software for field service",
+  "ueberschriften": [
+   "Transform Field Service Repairs with 3D",
+   "Challenge",
+   "Business Impact",
+   "Solution",
+   "How Vertex Helps"
+  ],
+  "keywords": [
+   "3d visualization software",
+   "field service",
+   "service repair",
+   "context-aware 3d",
+   "interactive 3d parts catalog",
+   "as-built service instructions",
+   "plm integration",
+   "erp integration",
+   "data integration",
+   "digital twin",
+   "service documentation",
+   "work instructions",
+   "technician training",
+   "aftermarket parts",
+   "fsm integration"
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "service_und_wartung",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "kosten_und_roi",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "Get a demo",
+   "Contact US",
+   "Talk to sales",
+   "Let's Talk",
+   "Learn More"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "belege": [
+   "White Paper From Digital Twin Vision To Reality",
+   "Blog The Future of Manufacturing: True Alignment Between Silos",
+   "Blog Digital Engineering in the DoD"
+  ],
+  "kunden": [],
+  "branchen": [
+   "industrial equipment",
+   "automotive",
+   "aerospace",
+   "energy",
+   "manufacturing"
+  ],
+  "zielgruppe": "Field Service Engineers, Service Managers, IT, PLM/ERP Teams, OEMs",
+  "differenzierung": "Vertex Software differentiates itself by enabling context-aware 3D visualization directly integrated with enterprise systems like PLM, ERP, and FSM to deliver accurate, real-time service data to field technicians, reducing repair time and improving first-time fix rates.",
+  "wertversprechen": [
+   "technician productivity",
+   "great customer experiences",
+   "right part first time",
+   "context-aware 3d",
+   "dynamic 3d work instructions",
+   "direct enterprise integration"
+  ],
+  "anwendungsfaelle": [
+   "field service repairs",
+   "parts identification",
+   "service documentation",
+   "training applications",
+   "aftermarket support",
+   "maintenance instructions"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization software",
+    "field service",
+    "service documentation",
+    "work instructions",
+    "digital twin",
+    "plm integration",
+    "erp integration",
+    "data integration"
+   ],
+   "produkt": [
+    "vertex software",
+    "vertex"
+   ],
+   "problem": [
+    "service delays",
+    "wrong parts",
+    "paper-based content",
+    "tribal knowledge",
+    "warranty void",
+    "high inventory costs"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "2296defcf69a3f93|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "3D Visualization to Simplify the Supplier RFQ Process",
+  "ueberschriften": [
+   "Simplify the Supplier RFQ Process",
+   "Challenge",
+   "Business Impact",
+   "Solution",
+   "How Vertex Helps"
+  ],
+  "keywords": [
+   "3d visualization",
+   "supplier rfq",
+   "cad data sharing",
+   "rfq process",
+   "collaborative review",
+   "plm integration",
+   "data security",
+   "multi cad formats",
+   "cloud based",
+   "3d viewer",
+   "digital twin",
+   "enterprise collaboration",
+   "product configuration",
+   "rfq optimization",
+   "vertex software"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "Get a demo",
+   "CONTACT US",
+   "Talk to sales",
+   "Let's Talk",
+   "Learn More"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "belege": [
+   "Vertex Named Top 10 Collaboration Solution Provider from CIOReview",
+   "Case Study RFQ Optimization at Atlas Copco"
+  ],
+  "kunden": [
+   "Atlas Copco"
+  ],
+  "branchen": [
+   "manufacturing",
+   "automotive",
+   "industrial equipment"
+  ],
+  "zielgruppe": "Engineering, IT, Procurement, Management",
+  "differenzierung": "Vertex Software bietet eine skalierbare, browserbasierte 3D-Visualisierungslösung, die den Austausch großer CAD-Dateien bei der Lieferanten-Abfrage (RFQ) überflüssig macht und gleichzeitig den Schutz von IP gewährleistet.",
+  "wertversprechen": [
+   "reduce cost of sales",
+   "accelerate time to market",
+   "secure ip protection",
+   "enable seamless collaboration",
+   "support multiple cad formats",
+   "streamline rfq process"
+  ],
+  "anwendungsfaelle": [
+   "supplier rfq process",
+   "design collaboration",
+   "product configuration",
+   "engineering review",
+   "sales enablement",
+   "plm integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "3d viewer",
+    "plm integration",
+    "multi_cad_formate",
+    "design_review",
+    "zusammenarbeit",
+    "digitaler_zwilling",
+    "cloud_und_saas"
+   ],
+   "produkt": [
+    "vertex software",
+    "vertex stories",
+    "developer portal"
+   ],
+   "problem": [
+    "share large cad files",
+    "inefficient rfq process",
+    "protect ip",
+    "reduce prototypes",
+    "slow time to market"
+   ]
+  },
+  "beleg_arten": [
+   "auszeichnung",
+   "fallstudie"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "8dcd455b59b1d288|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "3D visualization on the floor will transform your factory operations into a competitive advantage.",
+  "ueberschriften": [
+   "Unleash 3D on your Factory Floor",
+   "Challenge",
+   "Business Impact",
+   "Solution",
+   "How Vertex Helps"
+  ],
+  "keywords": [
+   "3d visualization",
+   "factory floor",
+   "shop floor",
+   "plm integration",
+   "cad data",
+   "cloud based",
+   "browser based",
+   "mobile devices",
+   "low power devices",
+   "streaming large data",
+   "multi cad formats",
+   "digital twin",
+   "manufacturing operations",
+   "assembly line",
+   "real-time access"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "fertigung_und_produktion",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "Get a demo",
+   "Talk to sales",
+   "Learn More",
+   "Let's Talk"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "belege": [
+   "Media Connect Your Enterprise: How To Overcome Challenges in Change Management & 3D Visualization",
+   "Legacy to Leading: How to Transform into a Cutting-Edge Manufacturer",
+   "What is Digital Manufacturing?",
+   "Accelerate Your Smart Factory with 3D Visuals"
+  ],
+  "kunden": [],
+  "branchen": [
+   "manufacturing",
+   "industrial",
+   "automotive",
+   "aerospace",
+   "energy"
+  ],
+  "zielgruppe": "Engineering, IT, Manufacturing Operations, Production Management",
+  "differenzierung": "Vertex Software ermöglicht den Einsatz von 3D-Produktdaten direkt auf der Fertigungsfläche durch cloud-basierte, browserbasierte Visualisierung ohne Software-Installation und ohne große Dateiübertragungen, wodurch die Produktionsgenauigkeit steigt und Papierprozesse abgebaut werden.",
+  "wertversprechen": [
+   "increase yield",
+   "reduce scrap",
+   "real-time access",
+   "no software installation",
+   "stream pixels not files",
+   "as-built = as-ordered"
+  ],
+  "anwendungsfaelle": [
+   "assembly instructions",
+   "build reporting",
+   "defect identification",
+   "quality issues",
+   "real-time collaboration",
+   "paperless processes"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "plm integration",
+    "cloud based",
+    "browser based",
+    "mobile devices",
+    "low power devices",
+    "streaming large data",
+    "multi cad formats",
+    "digital twin",
+    "manufacturing operations"
+   ],
+   "produkt": [
+    "vertex software"
+   ],
+   "problem": [
+    "complex product customization",
+    "build accuracy issues",
+    "paper-based processes",
+    "large cad files",
+    "communication gaps",
+    "rework costs"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "a63004ed7a24db90|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Enable governed 3D access for collaboration, manufacturing, and service workflows without exporting CAD or geometry files.",
+  "ueberschriften": [
+   "Operational 3D Access",
+   "Operational 3D Access Capabilities",
+   "Extend governed product access beyond engineering",
+   "Resources",
+   "Keep PLM Authoritative Across the Enterprise"
+  ],
+  "keywords": [
+   "vertex connect",
+   "operational 3d access",
+   "plm integration",
+   "3d viewer",
+   "browserbased 3d",
+   "secure 3d streaming",
+   "large cad files",
+   "product definition",
+   "collaborative review",
+   "digital twin",
+   "cloud saas",
+   "multi cad formats",
+   "enterprise access",
+   "service documentation",
+   "manufacturing support"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "TALK TO AN EXPERT",
+   "Download Overview",
+   "Talk to an Expert",
+   "Schedule a demo"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "sonstiges"
+  ],
+  "belege": [
+   "Terex Utilities Case Study"
+  ],
+  "kunden": [
+   "Terex Utilities"
+  ],
+  "branchen": [
+   "utilities",
+   "manufacturing",
+   "service"
+  ],
+  "zielgruppe": "Engineering, IT, Manufacturing, Service, Management",
+  "differenzierung": "Vertex Connect enables secure, governed 3D access across the enterprise without exporting CAD or geometry files, keeping PLM as the authoritative source of truth.",
+  "wertversprechen": [
+   "governed 3d access",
+   "secure collaboration",
+   "no geometry export",
+   "plm authoritative",
+   "instant product access",
+   "contextual coordination"
+  ],
+  "anwendungsfaelle": [
+   "supplier collaboration",
+   "manufacturing workflows",
+   "service workflows",
+   "enterprise access",
+   "design review",
+   "product exploration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm integration",
+    "browserbased 3d",
+    "secure 3d streaming",
+    "large cad files",
+    "digital twin",
+    "cloud saas",
+    "multi cad formats",
+    "enterprise access",
+    "service documentation"
+   ],
+   "produkt": [
+    "vertex connect"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "manage product definition",
+    "collaborate without exports",
+    "keep plm authoritative"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "f733452247a34c42|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "startseite",
+  "sprache": "en",
+  "hauptbotschaft": "Whether you’re building an ambitious engineering application or looking for best-in-class tools and apps, we've got you covered",
+  "ueberschriften": [
+   "Fueling Innovation for Developers & Enterprises",
+   "Developer Toolkits",
+   "Enterprise Applications",
+   "How Tech Soft 3D Fuels Innovation",
+   "Big on Talent, Seriously Fun"
+  ],
+  "keywords": [
+   "3d viewer",
+   "cad software",
+   "3d data",
+   "engineering applications",
+   "sdk",
+   "api",
+   "hoops sdk",
+   "spinfire",
+   "cad interoperability",
+   "3d visualization",
+   "software development",
+   "enterprise applications",
+   "3d data exchange",
+   "engineering tools",
+   "3d modeling"
+  ],
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "kosten_und_roi",
+   "sicherheit_und_datenschutz"
+  ],
+  "ctas": [
+   "Contact",
+   "Support",
+   "Explore SDKs",
+   "Explore Apps"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "download"
+  ],
+  "belege": [
+   "three decades of engineering experience",
+   "global team of 3D specialists"
+  ],
+  "kunden": [],
+  "branchen": [
+   "engineering",
+   "aerospace",
+   "automotive",
+   "manufacturing",
+   "industrial"
+  ],
+  "zielgruppe": "Developers, IT, Engineering, Product Managers",
+  "differenzierung": "Tech Soft 3D empowers software innovators and enterprise teams with ready-made toolkits and applications to unlock the full value of 3D data, enabling faster, lower-risk development and seamless CAD interoperability.",
+  "wertversprechen": [
+   "unparalleled momentum",
+   "seamless cad access",
+   "faster time to market",
+   "lower risk",
+   "ready-made capabilities",
+   "full value from 3d data"
+  ],
+  "anwendungsfaelle": [
+   "cad interoperability",
+   "design data conversion",
+   "3d visualization",
+   "engineering applications",
+   "data exchange",
+   "enterprise cad access"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad software",
+    "3d data",
+    "engineering applications",
+    "sdk",
+    "api",
+    "3d visualization",
+    "3d modeling",
+    "3d data exchange",
+    "cad interoperability"
+   ],
+   "produkt": [
+    "hoops sdk",
+    "spinfire"
+   ],
+   "problem": [
+    "cad interoperability",
+    "3d data exchange",
+    "engineering applications"
+   ]
+  },
+  "beleg_arten": [
+   "enterprise",
+   "technische_tiefe",
+   "sicherheit"
+  ],
+  "ton": "technisch",
+  "klarheit": 4
+ },
+ "1e2253d546fd0612|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Tech Soft 3D’s Software Development Kits (SDKs) power hundreds of leading engineering applications worldwide. Offload core features like data access, 3D visualization, simulation and analysis, and 3D modeling so you can launch faster and focus on what makes your software stand out.",
+  "ueberschriften": [
+   "SDK Solutions for 3D Engineering Applications",
+   "Data",
+   "Modeling",
+   "Simulation",
+   "Graphics"
+  ],
+  "keywords": [
+   "sdk solutions",
+   "3d engineering applications",
+   "data access",
+   "3d visualization",
+   "simulation and analysis",
+   "3d modeling",
+   "cad interoperability",
+   "aecom interoperability",
+   "cae interoperability",
+   "hoops visualize",
+   "hoops exchange",
+   "hoops access",
+   "hoops mesh",
+   "hoops solve",
+   "autodesk inventor oem"
+  ],
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "streaming_grosser_daten",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contact",
+   "Support",
+   "Read More",
+   "Try the HOOPS Visualize demo"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo"
+  ],
+  "belege": [
+   "Powering Bentley’s Construction Modeling",
+   "TENADO Builds Its Metal 3D",
+   "Powering Engineering Automation at Synera"
+  ],
+  "kunden": [
+   "Bentley",
+   "TENADO",
+   "Synera"
+  ],
+  "branchen": [
+   "construction",
+   "manufacturing",
+   "aerospace",
+   "automotive",
+   "energy"
+  ],
+  "zielgruppe": "Developers, Engineering Software Companies, Enterprise IT",
+  "differenzierung": "Tech Soft 3D’s SDKs offload core engineering features like data access, 3D visualization, simulation, and modeling, enabling developers to launch faster and focus on their software’s unique value proposition.",
+  "wertversprechen": [
+   "launch faster",
+   "focus on differentiation",
+   "fast and accurate access",
+   "smooth collaboration",
+   "high-performance simulation",
+   "instant visualization"
+  ],
+  "anwendungsfaelle": [
+   "engineering automation",
+   "construction modeling",
+   "metalworking tools",
+   "cae solutions",
+   "3d visualization",
+   "multi-format integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "sdk solutions",
+    "3d visualization",
+    "simulation and analysis",
+    "3d modeling",
+    "cad interoperability",
+    "aecom interoperability",
+    "cae interoperability",
+    "multi_cad_formate",
+    "sdk_und_api",
+    "cloud_und_saas"
+   ],
+   "produkt": [
+    "hoops visualize",
+    "hoops exchange",
+    "hoops access",
+    "hoops mesh",
+    "hoops solve",
+    "autodesk inventor oem"
+   ],
+   "problem": [
+    "data access",
+    "3d visualization",
+    "simulation and analysis",
+    "3d modeling",
+    "cad interoperability",
+    "aecom interoperability",
+    "cae interoperability"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "enterprise",
+   "technische_tiefe"
+  ],
+  "ton": "technisch",
+  "klarheit": 4
+ },
+ "e7b2b392a71552f6|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Discover how Tech Soft 3D SDKs power innovative applications across industries with advanced CAD data access, visualization, and interoperability.",
+  "ueberschriften": [
+   "SDKs for 3D Engineering Applications",
+   "Talk to an Expert",
+   "SDKs for Developers",
+   "Apps for Enterprise",
+   "Developer Tools for 3D Printing Software"
+  ],
+  "keywords": [
+   "3d sdk",
+   "cad data access",
+   "3d visualization",
+   "interoperability",
+   "additive manufacturing",
+   "ar vr toolkits",
+   "plm integration",
+   "digital twin",
+   "geoscience applications",
+   "metrology software",
+   "cam applications",
+   "generative design",
+   "cae software",
+   "eda software",
+   "software development"
+  ],
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "ar_vr",
+   "fertigung_und_produktion",
+   "ki_und_agenten",
+   "streaming_grosser_daten",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Talk to an Expert",
+   "Contact",
+   "Support"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb"
+  ],
+  "belege": [
+   "Trusted by leaders like Stratasys, 3D Systems, nTop, and Xometry",
+   "Trusted by industry leaders such as Virtalis, SOLIDWORKS, and Halocline",
+   "Trusted by industry leaders like Trimble, RIB, Bentley, and Causeway",
+   "Trusted by industry leaders such as Aras, Oracle, Proplanner, and Eurostep",
+   "Industry leaders such as NAPA, ABS, Mitsubishi, and DNV rely on these capabilities",
+   "Industry leaders such as Faro, Hexagon, Eleven Dynamics, and Mitutoyo rely on HOOPS",
+   "Leaders like Datamine, MineRP, GEOVIA, and RPM Global build on our technology",
+   "Companies like Samsung, Dürr, and Visual Components trust HOOPS",
+   "Industry leaders such as Hexagon, TRUMPF, OPEN MIND, CloudNC, and Amada rely on our technology",
+   "Global leaders, including Mentor Graphics, Zuken, and Altair, build on HOOPS"
+  ],
+  "kunden": [
+   "Stratasys",
+   "3D Systems",
+   "nTop",
+   "Xometry",
+   "Virtalis",
+   "SOLIDWORKS",
+   "Halocline",
+   "Trimble",
+   "RIB",
+   "Bentley",
+   "Causeway",
+   "Aras",
+   "Oracle",
+   "Proplanner",
+   "Eurostep"
+  ],
+  "branchen": [
+   "aerospace",
+   "automotive",
+   "additive_manufacturing",
+   "shipbuilding",
+   "mining",
+   "geosciences",
+   "plm",
+   "digital_factory",
+   "cae",
+   "eda"
+  ],
+  "zielgruppe": "developers, software engineers, engineering teams, enterprise IT, product managers",
+  "differenzierung": "Tech Soft 3D differentiates itself by providing comprehensive, high-performance SDKs that enable seamless CAD data access, visualization, and interoperability across diverse industrial applications, trusted by global industry leaders.",
+  "wertversprechen": [
+   "advanced cad data access",
+   "high-performance visualization",
+   "seamless interoperability",
+   "robust data access",
+   "accelerate innovation",
+   "reduce complexity"
+  ],
+  "anwendungsfaelle": [
+   "3d printing workflows",
+   "ar & vr applications",
+   "aec digital construction",
+   "plm & spdm integration",
+   "marine shipbuilding",
+   "digital factory automation"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d sdk",
+    "cad data access",
+    "3d visualization",
+    "interoperability",
+    "ar vr toolkits",
+    "plm integration",
+    "digital twin",
+    "geoscience applications",
+    "metrology software",
+    "cam applications"
+   ],
+   "produkt": [
+    "tech soft 3d",
+    "hoops sdk",
+    "sdks"
+   ],
+   "problem": [
+    "seamless file import",
+    "large-scale model review",
+    "complex cad data access",
+    "performance in immersive environments",
+    "integration of cad and bim data",
+    "handling massive geological datasets"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "enterprise",
+   "technische_tiefe",
+   "partner",
+   "sicherheit",
+   "roi"
+  ],
+  "ton": "technisch",
+  "klarheit": 5
+ },
+ "c6cdad60f63b9361|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Tech Soft 3D provides CAD data conversion solutions that can be integrated into existing workflows and PLM environments, enabling seamless data processing within controlled workflows.",
+  "ueberschriften": [
+   "Product Lifecycle Management Integrations",
+   "Popular CAD Converters for PTC Windchill",
+   "CATIA V5 to Creo View",
+   "3DEXPERIENCE to Creo View",
+   "Popular CAD Converters for Siemens Teamcenter"
+  ],
+  "keywords": [
+   "plm integration",
+   "cad data conversion",
+   "spinfire convert",
+   "spinfire xr",
+   "3d pdf",
+   "jt format",
+   "creo view",
+   "windchill integration",
+   "teamcenter integration",
+   "3d visualization",
+   "visualization pipeline",
+   "sdk for plm",
+   "api integration",
+   "batch processing",
+   "multi cad formats"
+  ],
+  "themen": [
+   "plm_integration",
+   "sdk_und_api",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "vertrieb_und_marketing",
+   "fertigung_und_produktion",
+   "service_und_wartung"
+  ],
+  "ctas": [
+   "Talk to an Expert",
+   "Contact",
+   "Support",
+   "Explore our SDKs for PLM applications",
+   "Explore our SpinFire Convert 3D PDF solutions"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "kontakt_vertrieb",
+   "dokumentation"
+  ],
+  "belege": [
+   "Built on Theorem technology",
+   "Developed in technical partnership with PTC",
+   "Powered by the Visualization Pipeline"
+  ],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "industrial equipment",
+   "energy"
+  ],
+  "zielgruppe": "engineering, IT, PLM specialists, automation specialists",
+  "differenzierung": "Tech Soft 3D offers deep, API-driven PLM integrations with native CAD translation and automated workflows, enabling secure, scalable data conversion without disrupting existing processes.",
+  "wertversprechen": [
+   "seamless data processing",
+   "no workflow disruption",
+   "automated batch processing",
+   "direct cad translation",
+   "secure data control",
+   "lightweight 3d formats"
+  ],
+  "anwendungsfaelle": [
+   "3d pdf generation",
+   "xr data preparation",
+   "plm workflow automation",
+   "design collaboration",
+   "technical data packages",
+   "downstream visualization"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "plm integration",
+    "cad data conversion",
+    "3d pdf",
+    "jt format",
+    "3d visualization",
+    "visualization pipeline",
+    "sdk for plm",
+    "api integration",
+    "batch processing",
+    "multi cad formats"
+   ],
+   "produkt": [
+    "spinfire convert",
+    "spinfire xr",
+    "theorems technology",
+    "hoops sdk",
+    "visualization pipeline"
+   ],
+   "problem": [
+    "seamless data processing",
+    "no workflow disruption",
+    "automated batch processing",
+    "secure data control",
+    "lightweight 3d formats"
+   ]
+  },
+  "beleg_arten": [
+   "technische_tiefe",
+   "partner",
+   "technische_tiefe"
+  ],
+  "ton": "technisch",
+  "klarheit": 4
+ },
+ "54489c2e9f919579|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Trusted by industry leaders, Tech Soft 3D’s SDKs give CAM developers robust CAD access, real-time 3D visualization, and advanced modeling to reduce complexity.",
+  "ueberschriften": [
+   "Computer Aided Manufacturing (CAM)",
+   "CAM PDF Examples",
+   "Case Studies",
+   "HOOPS Luminate Helps TopSolid Provide Comprehensive CAD, CAM, ERP, and PDM solutions to a Wide Array of Markets",
+   "Frequently Asked Questions"
+  ],
+  "keywords": [
+   "sdk for cam",
+   "cam software development",
+   "3d visualization sdk",
+   "cad data access",
+   "3d pdf export",
+   "hoops exchange",
+   "hoops visualize",
+   "siemens parasolid",
+   "multi cad formats",
+   "cnc programming",
+   "manufacturing documentation",
+   "interactive 3d pdf",
+   "b-rep geometry",
+   "pmi data",
+   "feature tree intelligence"
+  ],
+  "themen": [
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Talk to an Expert",
+   "Contact",
+   "Support",
+   "Read More"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb"
+  ],
+  "belege": [
+   "Trusted by hundreds of engineering teams around the world",
+   "HOOPS Luminate Helps TopSolid Provide Comprehensive CAD, CAM, ERP, and PDM solutions",
+   "May 16, 2024"
+  ],
+  "kunden": [
+   "TopSolid"
+  ],
+  "branchen": [
+   "manufacturing",
+   "engineering",
+   "industrial automation",
+   "aerospace",
+   "automotive"
+  ],
+  "zielgruppe": "CAM developers, software engineers, engineering teams",
+  "differenzierung": "Tech Soft 3D’s SDKs provide a comprehensive, industry-proven foundation for CAM developers with integrated access to CAD data, high-performance 3D visualization, and precise modeling, enabling faster development and seamless integration into existing workflows.",
+  "wertversprechen": [
+   "robust cad access",
+   "real-time 3d visualization",
+   "advanced modeling",
+   "reduce complexity",
+   "faster development",
+   "universal 3d pdf access"
+  ],
+  "anwendungsfaelle": [
+   "cnc programming",
+   "toolpath visualization",
+   "machine simulation",
+   "interactive documentation",
+   "paperless workflows",
+   "manufacturing reporting"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization sdk",
+    "cad data access",
+    "multi cad formats",
+    "3d pdf export",
+    "cnc programming",
+    "manufacturing documentation",
+    "interactive 3d pdf",
+    "b-rep geometry",
+    "pmi data",
+    "feature tree intelligence"
+   ],
+   "produkt": [
+    "hoops exchange",
+    "hoops visualize",
+    "siemens parasolid",
+    "hoops luminate"
+   ],
+   "problem": [
+    "share manufacturing data",
+    "reduce documentation complexity",
+    "enable paperless workflows",
+    "access cad files",
+    "visualize toolpaths",
+    "integrate multiple cad formats"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "fallstudie",
+   "technische_tiefe",
+   "enterprise"
+  ],
+  "ton": "technisch",
+  "klarheit": 4
+ },
+ "2f0fc668024bc077|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "HOOPS SDKs are here to make that journey easier with best-in-class CAD data access and visualization toolkits.",
+  "ueberschriften": [
+   "Configure, Price, & Quote (CPQ)",
+   "Frequently Asked Questions",
+   "What capabilities do CPQ applications need?",
+   "What is the benefit of data access over data translation?",
+   "Talk to an Expert"
+  ],
+  "keywords": [
+   "cpq software",
+   "cad data access",
+   "3d visualization",
+   "hoops sdk",
+   "hoops exchange",
+   "hoops visualize",
+   "web-based 3d viewer",
+   "multi cad formats",
+   "prc format",
+   "modeling engines",
+   "parasolid integration",
+   "polygonica integration",
+   "data translation",
+   "cad import",
+   "enterprise apps"
+  ],
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "digitaler_zwilling",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Talk to an Expert",
+   "Contact",
+   "Support"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "kontakt_vertrieb"
+  ],
+  "belege": [
+   "over 30 CAD formats",
+   "CATIA®, STEP, SOLIDWORKS®, Inventor™, Revit™, Creo®, NX™, Solid Edge®",
+   "PRC (product representation compressed)",
+   "MachineWorks’ Polygonica",
+   "Siemens’ Parasolid"
+  ],
+  "kunden": [],
+  "branchen": [
+   "manufacturing",
+   "engineering",
+   "automotive",
+   "aerospace",
+   "industrial equipment"
+  ],
+  "zielgruppe": "developers, software engineers, enterprise architects",
+  "differenzierung": "HOOPS SDKs provide best-in-class CAD data access and visualization with direct support for over 30 CAD formats and preservation of critical engineering data through the PRC format, enabling faster, more accurate CPQ application development.",
+  "wertversprechen": [
+   "best-in-class cad data access",
+   "high-performance visualization",
+   "multi-cad support",
+   "preserve engineering data",
+   "web-based 3d visualization",
+   "seamless integration"
+  ],
+  "anwendungsfaelle": [
+   "sales configurator",
+   "product catalog creation",
+   "interactive pricing",
+   "engineering review",
+   "crm integration",
+   "digital twin visualization"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "cad data access",
+    "multi_cad_formate",
+    "sdk_und_api",
+    "cloud_und_saas",
+    "plm_integration",
+    "design_review",
+    "digitaler_zwilling"
+   ],
+   "produkt": [
+    "hoops sdk",
+    "hoops exchange",
+    "hoops visualize",
+    "polygonica",
+    "parasolid",
+    "prc format"
+   ],
+   "problem": [
+    "data translation",
+    "preserve engineering data",
+    "multi cad formats",
+    "complex cad data",
+    "integration with crm",
+    "web-based 3d viewer"
+   ]
+  },
+  "beleg_arten": [
+   "technische_tiefe",
+   "partner",
+   "kundenlogos",
+   "technische_tiefe"
+  ],
+  "ton": "technisch",
+  "klarheit": 4
+ },
+ "35b1fcf1db225591|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Use 3D CAD data for everyone – through a fast, intuitive and easy-to-use viewer.",
+  "ueberschriften": [
+   "Kisters 3DViewStation 3D Viewer",
+   "300.000",
+   "3D Viewer: why us?",
+   "KISTERS 3DViewStation: KISTERS Viewer, 3D Viewer, CatPart Viewer",
+   "180+ functionalities"
+  ],
+  "keywords": [
+   "3d viewer",
+   "kisters 3dviewstation",
+   "catpart viewer",
+   "cad viewer",
+   "multi cad formats",
+   "native cad files",
+   "neutral cad formats",
+   "2d file support",
+   "plm integration",
+   "web viewer",
+   "desktop viewer",
+   "mobile viewer",
+   "vr viewer",
+   "api integration",
+   "download free trial"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact",
+   "Downloads",
+   "Download free trial now",
+   "Download & Online trial",
+   "Get in touch",
+   "Talk to us now",
+   "Register for newsletter"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "demo",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "300.000 users",
+   "25+ years customer satisfaction",
+   "3,000 companies trust us",
+   "1 day API integration",
+   "25 years of experience",
+   "v2026.3 release"
+  ],
+  "kunden": [],
+  "branchen": [
+   "mechanical engineering",
+   "automotive",
+   "aerospace",
+   "defense industry",
+   "plant construction",
+   "petrochemical",
+   "shipbuilding"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "Only we combine high performance with rich functionality, easy handling, Multi CAD and integration capability.",
+  "wertversprechen": [
+   "fast intuitive viewer",
+   "no training required",
+   "multi cad viewing",
+   "browser based",
+   "easy integration",
+   "high performance"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "technical documentation",
+   "service and maintenance",
+   "sales configurator",
+   "plm integration",
+   "digital twin"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "multi cad formats",
+    "plm integration",
+    "web viewer",
+    "desktop viewer",
+    "mobile viewer",
+    "vr viewer",
+    "api integration"
+   ],
+   "produkt": [
+    "kisters 3dviewstation",
+    "catpart viewer"
+   ],
+   "problem": [
+    "share large cad files",
+    "view multiple cad formats",
+    "integrate cad in plm",
+    "visualize cad on mobile",
+    "reduce training time"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "zahlen",
+   "enterprise",
+   "technische_tiefe",
+   "sicherheit",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "0c68cbc538274f7a|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Cost-Efficient & MultiCAD-Capable Viewer | 3DViewStation",
+  "ueberschriften": [
+   "3DViewStation product family",
+   "Powerful 3D/2D visualization for your business: for desktops, browsers, mobile devices and VR",
+   "An overview",
+   "Desktop Version",
+   "WebViewer"
+  ],
+  "keywords": [
+   "3dviewstation",
+   "cad viewer",
+   "3d viewer",
+   "multi cad",
+   "browser based",
+   "webviewer",
+   "desktop viewer",
+   "vr edition",
+   "visshare",
+   "kas",
+   "file formats",
+   "plm integration",
+   "api",
+   "digital mockup",
+   "fast cad loading"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contact",
+   "Download & Online Test",
+   "Get in touch",
+   "Talk to us now - we will be happy to advise you"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "demo",
+   "sonstiges"
+  ],
+  "belege": [
+   "Over 3,000 companies",
+   "125.000 parts aircraft assembly line as 3DVS: 1 sec",
+   "400.000 parts plant as 3DVS: 7 sec",
+   "Passenger ship with 10 million parts, as 3DVS: 15 sec",
+   "3DVS much faster than JT",
+   "50.000 parts turbine JT: 13 seconds, 3DVS: 1 sec"
+  ],
+  "kunden": [],
+  "branchen": [
+   "manufacturing",
+   "automotive",
+   "aerospace",
+   "energy",
+   "industrial"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "3DViewStation is a cost-efficient, multi-CAD capable, and extremely fast CAD viewer with full integration capabilities into PLM and other systems, offering enterprise-grade security and performance across desktop, browser, mobile, and VR environments.",
+  "wertversprechen": [
+   "cost-efficient",
+   "multi-cad capable",
+   "fast loading",
+   "no client installation",
+   "secure data access",
+   "easy integration"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "collaboration",
+   "service and maintenance",
+   "sales configurator",
+   "digital twin",
+   "plm integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "plm integration",
+    "browser based",
+    "digital mockup",
+    "api",
+    "file formats"
+   ],
+   "produkt": [
+    "3dviewstation",
+    "webviewer",
+    "visshare",
+    "vr edition",
+    "kas",
+    "desktop version"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "secure cad data",
+    "integrate cad in plm",
+    "view cad on mobile",
+    "collaborate on cad"
+   ]
+  },
+  "beleg_arten": [
+   "zahlen",
+   "technische_tiefe",
+   "enterprise",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "e618defe93ccb541|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "PTC Product View is a simple but powerful enterprise visualization solution for MCAD and ECAD data enabling collaboration across engineering and manufacturing teams.",
+  "ueberschriften": [
+   "PTC Product View Visualization Software",
+   "Enterprise visualization technology in 2D, 3D, and augmented reality",
+   "The PTC Product View suite of viewers",
+   "PTC Product View MCAD",
+   "PTC Product View ECAD"
+  ],
+  "keywords": [
+   "ptc product view",
+   "cad visualization",
+   "ecad visualization",
+   "3d viewer",
+   "mcad viewer",
+   "plm visualization",
+   "ar visualization",
+   "design collaboration",
+   "product data access",
+   "windchill navigate",
+   "free cad viewer",
+   "electrical schematics",
+   "pcb data",
+   "2d drawings",
+   "digital product data"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Free Download",
+   "Try Windchill Navigate",
+   "Download PTC Product View Express",
+   "Compare PTC Product Viewers",
+   "Learn More",
+   "Contact an Expert",
+   "Join the PTC Community",
+   "Explore PTC"
+  ],
+  "cta_typen": [
+   "download",
+   "demo",
+   "testversion",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "Windchill Navigate",
+   "PTC Community",
+   "PTC Store",
+   "Support Portal"
+  ],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrial equipment",
+   "electronics",
+   "manufacturing"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "PTC Product View enables seamless, browser-based visualization and collaboration on MCAD, ECAD, and PLM data across the entire product lifecycle without requiring software installation.",
+  "wertversprechen": [
+   "faster design reviews",
+   "no software installation",
+   "single source of truth",
+   "collaborative review",
+   "real-time data access",
+   "multi cad formats"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "service documentation",
+   "collaboration across teams",
+   "product validation",
+   "engineering review",
+   "sales configurator"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm software",
+    "cad visualization",
+    "ecad visualization",
+    "digital product data",
+    "ar visualization"
+   ],
+   "produkt": [
+    "ptc product view",
+    "ptc product view express",
+    "windchill navigate",
+    "ptc product view mcad",
+    "ptc product view ecad",
+    "ptc product view lite"
+   ],
+   "problem": [
+    "share large cad files",
+    "collaborate across teams",
+    "access product data",
+    "reduce design errors",
+    "improve design reviews",
+    "visualize ecad data"
+   ]
+  },
+  "beleg_arten": [
+   "partner",
+   "enterprise",
+   "technische_tiefe",
+   "sicherheit",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "0517763cf4e46e10|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "de",
+  "hauptbotschaft": "PTC Product View ist eine einfache und zugleich leistungsfähige Visualisierungstechnologie, die eine nahezu mühelose Zusammenarbeit zwischen mehreren lokalen und globalen Entwicklungs-Teams ermöglicht.",
+  "ueberschriften": [
+   "PTC Product View Visualisierungs-Software",
+   "Unternehmensweite Visualisierungstechnologie in 2D, 3D und Augmented Reality",
+   "PTC Product View MCAD",
+   "PTC Product View ECAD",
+   "Upgrade von PTC Product View Express"
+  ],
+  "keywords": [
+   "ptc product view",
+   "cad visualisierung",
+   "ecad visualisierung",
+   "mcad viewer",
+   "3d cad modell",
+   "2d zeichnung",
+   "leiterplatten visualisierung",
+   "augmented reality",
+   "digitaler zwilling",
+   "plm integration",
+   "kosten senken",
+   "entwurfsprüfung",
+   "design review",
+   "share cad files",
+   "enterprise visualization"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Kostenloser Download",
+   "Upgrade von PTC Product View Express",
+   "PTC Product View Express herunterladen"
+  ],
+  "cta_typen": [
+   "download",
+   "download"
+  ],
+  "belege": [
+   "mehr als 200 Leistungsmerkmale im direkten Vergleich"
+  ],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrie",
+   "energie",
+   "fertigung"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "PTC Product View bietet eine umfassende, skalierbare und browserbasierte Visualisierungslösung für MCAD-, ECAD- und PLM-Daten mit integrierter AR-Unterstützung und nahtloser Integration in bestehende Workflows.",
+  "wertversprechen": [
+   "einfache visualisierung",
+   "nahezu mühelose zusammenarbeit",
+   "interaktiver zugriff",
+   "einzelne ansicht für alle daten",
+   "schnellere entwurfsprüfungen",
+   "niedrigere kosten"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "zusammenarbeit",
+   "service und wartung",
+   "vertrieb und marketing",
+   "plm integration",
+   "digitaler zwilling"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm software",
+    "cad software",
+    "ecad software",
+    "digitaler zwilling",
+    "design review",
+    "zusammenarbeit",
+    "cloud und saas",
+    "sicherheit und datenschutz"
+   ],
+   "produkt": [
+    "ptc product view",
+    "ptc product view express",
+    "ptc product view mcad",
+    "ptc product view ecad"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "improve collaboration",
+    "stream large data",
+    "visualize ecad data",
+    "collaborate globally"
+   ]
+  },
+  "beleg_arten": [
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "200c65cd3f115200|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Connect people and processes throughout your product lifecycle with a single source of data with Siemens Teamcenter product lifecycle management (PLM) software.",
+  "ueberschriften": [
+   "Teamcenter PLM software | Siemens recognized as a Leader in PLM software",
+   "Why Teamcenter?",
+   "Leverage the digital twin",
+   "Collaborate and innovate",
+   "Rely on the leader"
+  ],
+  "keywords": [
+   "teamcenter plm",
+   "product lifecycle management",
+   "digital twin",
+   "collaborative review",
+   "ai in plm",
+   "generative ai",
+   "cloud plm",
+   "saas plm",
+   "on premises plm",
+   "plm software",
+   "engineering depth",
+   "business breadth",
+   "digital backbone",
+   "product innovation",
+   "regulatory compliance"
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "zusammenarbeit",
+   "plm_integration",
+   "ki_und_agenten",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi",
+   "design_review",
+   "fertigung_und_produktion"
+  ],
+  "ctas": [
+   "Plans and pricing",
+   "Contact us",
+   "Access the report",
+   "Learn more",
+   "Explore solutions",
+   "Read more",
+   "Calculate your ROI",
+   "Explore",
+   "Teamcenter X",
+   "View more customer experiences"
+  ],
+  "cta_typen": [
+   "preise",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "belege": [
+   "Siemens recognized as a Leader in PLM software in the 2026 Gartner® Magic Quadrant™ for Product Lifecycle Management (PLM) software",
+   "2026 Gartner® AI Vendor Race, Siemens Is the Company to Beat in Manufacturing AI",
+   "ABI Research, Product Lifecycle Management (PLM), for large discrete manufacturers",
+   "Forrester Research The Forrester Wave™: Product Lifecycle Management for Discrete Manufacturers, Q3 2025",
+   "Forrester Consulting study - The Total Economic Impact™ of Siemens Teamcenter X",
+   "Siemens Teamcenter accelerates the product engineering process from concept to prototype in months, not years"
+  ],
+  "kunden": [
+   "Movu Robotics"
+  ],
+  "branchen": [
+   "industrial machinery"
+  ],
+  "zielgruppe": "Engineering, IT, Management",
+  "differenzierung": "Siemens Teamcenter bietet eine einheitliche, skalierbare und künstliche Intelligenz-erweiterte PLM-Lösung mit SaaS-Option, die von Start-ups bis zu globalen Unternehmen genutzt werden kann.",
+  "wertversprechen": [
+   "single source of truth",
+   "faster decisions with ai",
+   "cloud saas plm",
+   "instant-on for fast time to value",
+   "grow with your business",
+   "digital backbone for global growth"
+  ],
+  "anwendungsfaelle": [
+   "design and document product",
+   "connect product development",
+   "optimize product lifecycle",
+   "service documentation",
+   "sales configurator",
+   "digital thread"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "plm software",
+    "digital twin",
+    "ai in plm",
+    "cloud plm",
+    "saas plm",
+    "on premises plm",
+    "product lifecycle management"
+   ],
+   "produkt": [
+    "teamcenter",
+    "teamcenter x",
+    "teamcenter copilot",
+    "siemens teamcenter"
+   ],
+   "problem": [
+    "share large cad files",
+    "reduce prototypes",
+    "manage regulatory compliance",
+    "connect product development",
+    "stream large data",
+    "collaborate across teams"
+   ]
+  },
+  "beleg_arten": [
+   "auszeichnung",
+   "zahlen",
+   "zahlen",
+   "auszeichnung",
+   "roi",
+   "zahlen"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "c07385b83223b55e|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "startseite",
+  "sprache": "en",
+  "hauptbotschaft": "3DEXPERIENCE brings together virtual companions, collective intelligence and science-grade AI in one unified environment, supporting faster product development.",
+  "ueberschriften": [
+   "3DEXPERIENCE | Synchronized Data as Industrial Knowledge",
+   "Data Forward",
+   "Featured Topics",
+   "News & Offers",
+   "Customer Stories"
+  ],
+  "keywords": [
+   "3dexperience",
+   "dassault systèmes",
+   "industrial world models",
+   "ai-powered virtual twin",
+   "collaborative innovation",
+   "enterprise data science",
+   "agentic process orchestration",
+   "sense experience",
+   "data forward",
+   "digital continuity",
+   "cloud platform",
+   "multi cad formats",
+   "streaming larger data",
+   "browser based",
+   "plm integration"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Get in touch",
+   "Visit a user community",
+   "Read more 3DEXPERIENCE topics",
+   "Read the article",
+   "Learn more",
+   "3DEXPERIENCE in Action eBook",
+   "Read Dassault Aviation story",
+   "Learn more",
+   "Watch more 3DEXPERIENCE E-Seminars",
+   "Join a user community"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "event",
+   "dokumentation",
+   "newsletter",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "belege": [
+   "Dassault Aviation",
+   "Mahindra & Mahindra",
+   "Renault Group",
+   "Valeo",
+   "Sonaca España",
+   "Silesian Phoenix",
+   "ITEROP",
+   "R2026x FD03",
+   "R2026x FD04",
+   "November 21st & 22nd, 2026 platform upgrade"
+  ],
+  "kunden": [
+   "Dassault Aviation",
+   "Mahindra & Mahindra",
+   "Renault Group",
+   "Valeo",
+   "Sonaca España",
+   "Silesian Phoenix",
+   "ITEROP"
+  ],
+  "branchen": [
+   "aerospace",
+   "automotive",
+   "energy",
+   "manufacturing",
+   "defense",
+   "education"
+  ],
+  "zielgruppe": "Engineering, IT, Management, Service, R&D",
+  "differenzierung": "3DEXPERIENCE unterscheidet sich durch die Integration von wissenschaftsbasiertem KI, Industrial World Models und einem einheitlichen Umfeld, das Wissen, Daten und Prozesse über den gesamten Produktlebenszyklus hinweg synchronisiert.",
+  "wertversprechen": [
+   "synchronized data as industrial knowledge",
+   "science-grade ai",
+   "faster product development",
+   "single source of truth",
+   "actionable knowledge",
+   "connected data and decisions"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "service and maintenance",
+   "supply chain risk management",
+   "capital-intensive programs",
+   "virtual twin experiences",
+   "procurement savings"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3dexperience",
+    "industrial world models",
+    "ai-powered virtual twin",
+    "collaborative innovation",
+    "enterprise data science",
+    "agentic process orchestration",
+    "sense experience",
+    "data forward",
+    "digital continuity",
+    "cloud platform"
+   ],
+   "produkt": [
+    "3dexperience",
+    "dassault systèmes",
+    "aura",
+    "3dlive",
+    "r2026x",
+    "r2027x"
+   ],
+   "problem": [
+    "manage billions of events",
+    "heterogenous data",
+    "knowledge buried in design history",
+    "scattered enterprise knowledge",
+    "connect data teams and decisions",
+    "reduce time to market"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "fallstudie",
+   "zahlen",
+   "zertifikat",
+   "auszeichnung",
+   "partner",
+   "enterprise",
+   "sicherheit",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "visionaer",
+  "klarheit": 4
+ },
+ "aaa7696c26de6042|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "produkt",
+  "sprache": "en",
+  "hauptbotschaft": "Build industrial digital twins and robotics simulation applications using NVIDIA Omniverse, a collection of libraries and microservices.",
+  "ueberschriften": [
+   "NVIDIA Omniverse | What is NVIDIA Omniverse?",
+   "NVIDIA Omniverse Libraries Give AI Agents Tools to Build Physical AI Applications",
+   "Core Omniverse Libraries and Services",
+   "Connect and Structure 3D Data",
+   "Check Asset Readiness"
+  ],
+  "keywords": [
+   "nvidia omniverse",
+   "physical ai",
+   "digital twin",
+   "robotics simulation",
+   "simulation-ready",
+   "openusd",
+   "rtx rendering",
+   "physics simulation",
+   "sensor simulation",
+   "synthetic data",
+   "ai agents",
+   "developer libraries",
+   "cloud integration",
+   "enterprise scalability",
+   "ai factory"
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "fertigung_und_produktion",
+   "sicherheit_und_datenschutz",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Start Developing",
+   "Try OpenUSD Samples",
+   "Validate an Asset",
+   "Run an ovrtx Example",
+   "Start With ovphysx Quickstart",
+   "Explore Libraries",
+   "View Blueprints",
+   "Explore Omniverse Labs",
+   "Explore Digital Twin Workflows",
+   "Explore Robot Simulation"
+  ],
+  "cta_typen": [
+   "demo",
+   "testversion",
+   "download",
+   "video",
+   "dokumentation",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "Skild AI",
+   "Lightwheel",
+   "Siemens",
+   "Agility",
+   "Apptronik",
+   "Fourier Intelligence",
+   "Unitree"
+  ],
+  "kunden": [
+   "Skild AI",
+   "Lightwheel",
+   "Siemens",
+   "Agility",
+   "Apptronik",
+   "Fourier Intelligence",
+   "Unitree"
+  ],
+  "branchen": [
+   "industrial",
+   "automotive",
+   "manufacturing",
+   "robotics",
+   "ai_factory",
+   "energy"
+  ],
+  "zielgruppe": "developers, software makers, AI engineers, robotics teams, industrial engineers",
+  "differenzierung": "NVIDIA Omniverse enables developers to integrate simulation-ready 3D workflows—like physics, rendering, and sensor simulation—into existing applications without replacing them, while empowering AI agents to act as tools within these workflows.",
+  "wertversprechen": [
+   "simulation-ready worlds",
+   "agent-ready workflows",
+   "gpu-accelerated physics",
+   "openusd interoperability",
+   "no replacement of existing tools",
+   "free for development and production"
+  ],
+  "anwendungsfaelle": [
+   "ai factory digital twins",
+   "industrial digital twins",
+   "robot simulation and learning",
+   "synthetic data generation",
+   "autonomous vehicle simulation",
+   "simulation-ready 3d data"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "digital twin",
+    "robotics simulation",
+    "simulation-ready",
+    "openusd",
+    "rtx rendering",
+    "physics simulation",
+    "sensor simulation",
+    "synthetic data",
+    "ai agents",
+    "developer libraries"
+   ],
+   "produkt": [
+    "nvidia omniverse",
+    "ovrtx",
+    "ovphysx",
+    "simready",
+    "nvidia isaac",
+    "nvidia cosmos"
+   ],
+   "problem": [
+    "prepare 3d content for simulation",
+    "validate simulation-ready assets",
+    "integrate physics into workflows",
+    "generate synthetic sensor data",
+    "connect disparate 3d data",
+    "enable ai agents to work with 3d data"
+   ]
+  },
+  "beleg_arten": [
+   "kundenlogos",
+   "fallstudie",
+   "enterprise",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "technisch",
+  "klarheit": 5
+ },
+ "f84a0aa884549bdc|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "en",
+  "hauptbotschaft": "Discover instant3Dhub licensing packages for 3D streaming and collaboration. Usage-based pricing, no hidden costs.",
+  "ueberschriften": [
+   "License Overview",
+   "Find the right package for you",
+   "Frequently Asked Questions",
+   "Choose your plan",
+   "Sign Up to See Prices"
+  ],
+  "keywords": [
+   "instant3dhub",
+   "3d streaming",
+   "collaboration",
+   "licensing packages",
+   "usage-based pricing",
+   "no hidden costs",
+   "api access",
+   "sdk access",
+   "cloud saas",
+   "data formats",
+   "service level",
+   "scale up",
+   "enterprise deployment",
+   "macc agreement",
+   "azure marketplace"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Sign Up to See Prices",
+   "Sign Up",
+   "contact@threedy.io"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "preise",
+   "sonstiges"
+  ],
+  "belege": [
+   "Microsoft Azure Consumption Commitment (MACC)",
+   "Azure marketplace",
+   "Azure portal"
+  ],
+  "kunden": [],
+  "branchen": [],
+  "zielgruppe": "Engineering, IT, Management",
+  "differenzierung": "Die Lizenzierung basiert auf Nutzungsvolumen mit transparenten, nutzungsabhängigen Kosten und ermöglicht eine flexible Skalierung ohne versteckte Gebühren.",
+  "wertversprechen": [
+   "usage-based pricing",
+   "no hidden costs",
+   "unlimited data formats",
+   "unlimited users",
+   "sdk & api access",
+   "technical support"
+  ],
+  "anwendungsfaelle": [
+   "3d real-time streaming",
+   "visualization",
+   "collaboration across teams",
+   "cross-organizational use",
+   "large-scale deployment",
+   "multi-user access"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d streaming",
+    "collaboration",
+    "licensing packages",
+    "usage-based pricing",
+    "api access",
+    "sdk access",
+    "cloud saas",
+    "data formats",
+    "service level",
+    "enterprise deployment"
+   ],
+   "produkt": [
+    "instant3dhub"
+   ],
+   "problem": [
+    "no hidden costs",
+    "scale up",
+    "enterprise deployment",
+    "macc agreement",
+    "azure marketplace"
+   ]
+  },
+  "beleg_arten": [
+   "partner",
+   "enterprise",
+   "technische_tiefe"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "5f051250167572c7|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "feature",
+  "sprache": "en",
+  "hauptbotschaft": "instant3Dhub's XR Red Green Compare delivers real value in mixed reality use cases.",
+  "ueberschriften": [
+   "Feature Sneak Peek: XR Red Green Compare",
+   "Why it matters:",
+   "Use Case: Bolts Analysis",
+   "Use Case: Welding Point Inspection",
+   "Stay Connected!"
+  ],
+  "keywords": [
+   "xr red green compare",
+   "instant3dhub",
+   "mixed reality",
+   "automated deviation detection",
+   "quality inspection",
+   "ar inspection",
+   "bolt placement analysis",
+   "welding point tolerance",
+   "3d visualization",
+   "industrial metaverse",
+   "digital twin",
+   "plm integration",
+   "cloud saas",
+   "browser based",
+   "streaming grosser daten"
+  ],
+  "themen": [
+   "ar_vr",
+   "design_review",
+   "service_und_wartung",
+   "digitaler_zwilling",
+   "plm_integration",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Book a meeting with me!",
+   "contact@threedy.io",
+   "instant3Dhub Product Newsletter"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [
+   "Daimler Truck cuts 3D visualization wait time by 99%",
+   "BIMSWARM certifies instant3Dhub IFC/BIM conformance",
+   "Siemens and Threedy partner on visual computing platform",
+   "Threedy and 4soft strengthen their successful partnership",
+   "Joint Use Case and Roadmap Presentation with Mercedes-Benz AG"
+  ],
+  "kunden": [
+   "Daimler Truck",
+   "Siemens",
+   "4Soft",
+   "Mercedes-Benz AG",
+   "BMW Group",
+   "Porsche",
+   "VW",
+   "TRUMPF",
+   "BIMSWARM"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial",
+   "manufacturing",
+   "engineering",
+   "construction"
+  ],
+  "zielgruppe": "Engineering, IT, Quality Assurance, Product Development",
+  "differenzierung": "Threedy unterscheidet sich durch die Integration automatisierter Qualitätsprüfungen direkt im Mixed-Reality-Viewer, die Verbindung von CAD-Daten mit AR/VR und die enge Partnerschaft mit führenden Industrieunternehmen.",
+  "wertversprechen": [
+   "automated deviation detection",
+   "accelerated quality inspection",
+   "step toward semi-automated workflows",
+   "developer empowerment",
+   "real-time validation in ar",
+   "no manual checking required"
+  ],
+  "anwendungsfaelle": [
+   "bolts analysis",
+   "welding point inspection",
+   "quality inspection",
+   "geometric validation",
+   "ar-based qa",
+   "digital twin verification"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "mixed reality",
+    "digital twin",
+    "plm integration",
+    "cloud saas",
+    "browser based",
+    "streaming grosser daten"
+   ],
+   "produkt": [
+    "instant3dhub",
+    "xr red green compare"
+   ],
+   "problem": [
+    "automated deviation detection",
+    "quality inspection",
+    "manual checking",
+    "time-consuming inspection",
+    "paper-based process"
+   ]
+  },
+  "beleg_arten": [
+   "zahlen",
+   "zertifikat",
+   "partner",
+   "enterprise",
+   "technische_tiefe"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "52d99d65c315e8a9|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Embed 3D visualization in your aftermarket parts ordering experience to ensure customers and dealers find the right parts the first time.",
+  "ueberschriften": [
+   "Own Your Aftermarket Parts Experience",
+   "Challenge",
+   "Business Impact",
+   "Solution",
+   "How Vertex Helps"
+  ],
+  "keywords": [
+   "aftermarket parts",
+   "3d visualization",
+   "3d viewer",
+   "parts ordering",
+   "interactive 3d",
+   "oem parts",
+   "digital twin",
+   "plm integration",
+   "api integration",
+   "sdk",
+   "cloud based",
+   "ecommerce",
+   "product data",
+   "vin lookup",
+   "model identification"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Get a demo",
+   "Contact Us",
+   "Talk to Sales",
+   "Learn More",
+   "Request a demo"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "video",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "belege": [
+   "Vertex Software Awarded US Patent"
+  ],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "industrial equipment",
+   "manufacturing",
+   "energy",
+   "aerospace"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "Vertex Software ermöglicht die Integration hochwertiger, interaktiver 3D-Visualisierung in den Aftermarket-Teilebestellprozess, um Fehler zu reduzieren, den Umsatz zu sichern und die Kundenzufriedenheit zu steigern, indem echte digitale Zwillinge in bestehende eCommerce- und ERP-Systeme eingebunden ",
+  "wertversprechen": [
+   "reduce ordering mistakes",
+   "streamline ordering process",
+   "improve dealer support",
+   "secure aftermarket revenue",
+   "protect your ip",
+   "intuitive customer experience"
+  ],
+  "anwendungsfaelle": [
+   "parts identification",
+   "aftermarket ordering",
+   "service documentation",
+   "ecommerce integration",
+   "dealer support",
+   "product configuration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization",
+    "3d viewer",
+    "plm integration",
+    "api integration",
+    "sdk",
+    "ecommerce",
+    "product data",
+    "digital twin"
+   ],
+   "produkt": [
+    "vertex software",
+    "vertex 3d"
+   ],
+   "problem": [
+    "identify right parts",
+    "ordering mistakes",
+    "2d imaging issues",
+    "knockoff parts",
+    "excess inventory",
+    "poor user experience"
+   ]
+  },
+  "beleg_arten": [
+   "auszeichnung"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "0e08536939b18a26|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "loesung",
+  "sprache": "en",
+  "hauptbotschaft": "Create engaging and differentiated customer experiences with 3D visualization software.",
+  "ueberschriften": [
+   "Differentiate on Customer Experience",
+   "Challenge",
+   "Business Impact",
+   "Solution",
+   "How Vertex Helps"
+  ],
+  "keywords": [
+   "3d visualization software",
+   "customer experience",
+   "engineering to order",
+   "configure price quote",
+   "interactive 3d",
+   "digital product representation",
+   "real-time collaboration",
+   "3d markup",
+   "product configuration",
+   "sales process improvement",
+   "customer satisfaction",
+   "design collaboration",
+   "low power devices",
+   "device agnostic",
+   "online 3d"
+  ],
+  "themen": [
+   "design_review",
+   "zusammenarbeit",
+   "vertrieb_und_marketing",
+   "digitaler_zwilling",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Get a Demo",
+   "Developer Portal",
+   "Get a demo",
+   "CONTACT US",
+   "Talk to Sales",
+   "Learn More"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "belege": [
+   "Case Study Terex Utilities Improves Sales Process and Reduces Rework",
+   "Media Pioneering Visualization, 3D Collaboration in Manufacturing Industry",
+   "White Paper Uncovering the Pain of Design Collaboration",
+   "Webinar Legacy to Leading: How to Transform into a Cutting-Edge Manufacturer"
+  ],
+  "kunden": [
+   "Terex Utilities"
+  ],
+  "branchen": [
+   "manufacturing",
+   "industrial equipment"
+  ],
+  "zielgruppe": "Sales, Marketing, Engineering, Product Management",
+  "differenzierung": "Vertex Software enables manufacturers to deliver immersive, interactive 3D experiences across the customer journey, reducing errors, shortening sales cycles, and building trust through real-time collaboration and digital product visualization.",
+  "wertversprechen": [
+   "hands-on engagement",
+   "real-time collaboration",
+   "reduce sales cycle",
+   "increase close rates",
+   "reduce order errors",
+   "improve trust"
+  ],
+  "anwendungsfaelle": [
+   "product selection",
+   "design review",
+   "sales configurator",
+   "service documentation",
+   "customer collaboration",
+   "marketing visualization"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d visualization software",
+    "interactive 3d",
+    "online 3d",
+    "3d markup",
+    "real-time collaboration",
+    "digital product representation",
+    "product configuration"
+   ],
+   "produkt": [
+    "vertex software",
+    "vertex stories"
+   ],
+   "problem": [
+    "engineering to order",
+    "configure price quote",
+    "2d printouts",
+    "static 2d images",
+    "miscommunication",
+    "long sales cycles",
+    "order errors"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 5
+ },
+ "b12fba6f43d19e10|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "en",
+  "hauptbotschaft": "Discover SpinFire's Insight's flexible pricing options tailored to meet your business needs.",
+  "ueberschriften": [
+   "SpinFire Insight Pricing",
+   "View, measure, mark-up, and fully analyze your 2D and 3D CAD data",
+   "Convert and Export your 3D CAD data to share and re-use",
+   "Struggling to get the most from your CAD data?",
+   "Let us Help"
+  ],
+  "keywords": [
+   "spinfire insight pricing",
+   "cad viewer",
+   "3d cad data",
+   "view cad files",
+   "export cad data",
+   "multi cad formats",
+   "cad data sharing",
+   "enterprise visualization",
+   "floating licenses",
+   "sdk for developers",
+   "apps for enterprise",
+   "cad format support",
+   "step iges stl",
+   "catia solidworks nx",
+   "3dpdf export"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz"
+  ],
+  "ctas": [
+   "Contact Sales",
+   "Try SpinFire Insight today",
+   "Schedule time to learn more about SpinFire Insight",
+   "Contact Us",
+   "Contact"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "testversion",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "belege": [],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "industrial equipment",
+   "energy",
+   "defense"
+  ],
+  "zielgruppe": "Engineering, IT, Product Management, Service, Manufacturing",
+  "differenzierung": "SpinFire Insight offers flexible, scalable pricing with broad multi-CAD format support and enterprise-ready features for viewing, analyzing, and sharing 3D CAD data across teams and systems.",
+  "wertversprechen": [
+   "instant access",
+   "enterprise-wide access",
+   "view and interrogate",
+   "export to neutral formats",
+   "support for major cad formats",
+   "no software installation"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "collaborative review",
+   "service documentation",
+   "sales configurator",
+   "data sharing",
+   "engineering analysis"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "plm integration",
+    "multi_cad_formate",
+    "design_review",
+    "sdk_und_api",
+    "cloud_und_saas",
+    "sicherheit_und_datenschutz"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "sdk",
+    "apps"
+   ],
+   "problem": [
+    "struggling to get the most from your cad data",
+    "share cad data",
+    "convert cad files",
+    "view large cad files"
+   ]
+  },
+  "beleg_arten": [],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "abeca53c8759a02d|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "de",
+  "hauptbotschaft": "Entdecken Sie die flexiblen Preisoptionen von SpinFire Insight, die auf Ihre Geschäftsanforderungen zugeschnitten sind.",
+  "ueberschriften": [
+   "SpinFire Insight Preise",
+   "Anzeigen, messen, markieren und vollständige Analyse Ihrer 2D- und 3D-CAD-Daten",
+   "Konvertieren und exportieren Sie Ihre 3D-CAD-Daten zum Teilen und Wiederverwenden",
+   "Haben Sie Schwierigkeiten, das Beste aus Ihren CAD-Daten herauszuholen?",
+   "Lassen Sie uns helfen"
+  ],
+  "keywords": [
+   "spinfire insight",
+   "preise",
+   "cad viewer",
+   "3d cad daten",
+   "export cad",
+   "konvertieren cad",
+   "supportierte cad formate",
+   "cloud cad viewer",
+   "browserbasiert",
+   "multi cad formate",
+   "3dpdf",
+   "stl",
+   "step",
+   "jt",
+   "parasolid"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api"
+  ],
+  "ctas": [
+   "Vertrieb kontaktieren",
+   "Testen Sie SpinFire Insight heute",
+   "Kontakt Vertrieb",
+   "Kontaktieren Sie uns",
+   "Support"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "testversion",
+   "kontakt_vertrieb"
+  ],
+  "belege": [],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrie",
+   "engineering",
+   "manufacturing"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "SpinFire Insight bietet unternehmensweiten, browserbasierten Zugriff auf alle gängigen CAD-Formate mit direktem Export in CAD-neutrale Dateiformate, ohne Softwareinstallation.",
+  "wertversprechen": [
+   "unternehmensweiter zugriff",
+   "direkter zugriff auf cad-daten",
+   "keine softwareinstallation",
+   "vollständige analyse",
+   "export in cad-neutrale formate"
+  ],
+  "anwendungsfaelle": [
+   "cad-daten analysieren",
+   "daten teilen und wiederverwenden",
+   "engineering review",
+   "service documentation",
+   "vertrieb und marketing",
+   "design review"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d cad daten",
+    "cad viewer",
+    "cloud cad viewer",
+    "browserbasiert",
+    "multi cad formate",
+    "3dpdf",
+    "stl",
+    "step",
+    "jt",
+    "parasolid"
+   ],
+   "produkt": [
+    "spinfire insight"
+   ],
+   "problem": [
+    "schwierigkeiten mit cad daten",
+    "beste aus cad daten herausholen",
+    "daten teilen und wiederverwenden"
+   ]
+  },
+  "beleg_arten": [],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "35cabaa68263db8e|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "fr",
+  "hauptbotschaft": "Découvrez les options de tarification flexibles de SpinFire Insight adaptées à vos besoins professionnels.",
+  "ueberschriften": [
+   "Tarification de SpinFire Insight",
+   "Visualisez, mesurez, annotez et analysez complètement vos données CAO 2D et 3D",
+   "Convertissez et exportez vos données CAO 3D pour les partager et les réutiliser",
+   "Avez-vous du mal à tirer le meilleur parti de vos données CAO ?",
+   "Laissez-nous aider"
+  ],
+  "keywords": [
+   "spinfire insight",
+   "tarification spinfire",
+   "visualisation cad",
+   "export cad",
+   "formats cad",
+   "support cad",
+   "3d viewer",
+   "entreprise",
+   "abonnement",
+   "sdk",
+   "apps",
+   "cloud",
+   "solutions cad",
+   "gestion des données",
+   "collaboration cad"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Planifiez un moment pour en savoir plus sur SpinFire Insight",
+   "Besoin d'une visualisation CAD SpinFire pour des individus et petites équipes ?",
+   "Besoin de savoir quels formats CAD natifs sont pris en charge par SpinFire Insight ?",
+   "Vous voulez voir SpinFire Insight en action par vous-même ?",
+   "Contactez les Ventes",
+   "Essayez SpinFire Insight aujourd'hui",
+   "Contactez les ventes"
+  ],
+  "cta_typen": [
+   "demo",
+   "testversion",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "belege": [
+   "Des licences flottantes sont disponibles pour les équipes nécessitant un accès partagé.",
+   "Découvrez la puissance de la visualisation d'entreprise pour l'ensemble de votre organisation."
+  ],
+  "kunden": [],
+  "branchen": [
+   "industrie",
+   "ingénierie",
+   "manufacturing",
+   "automotive",
+   "aerospace",
+   "energy"
+  ],
+  "zielgruppe": "Engineering, IT, Management, Service",
+  "differenzierung": "SpinFire Insight bietet flexible Preismodelle und umfassende Unterstützung für mehr als 50 CAD-Formate, inklusive der wichtigsten industriellen Standards, für eine skalierbare, unternehmensweite Nutzung.",
+  "wertversprechen": [
+   "accès instantané à l'échelle entreprise",
+   "visualisation complète des données cao",
+   "export vers des formats neutres",
+   "prise en charge de nombreux formats cad",
+   "collaboration simplifiée",
+   "intégration dans les flux métier"
+  ],
+  "anwendungsfaelle": [
+   "visualisation de données cao",
+   "analyse de modèles 3d",
+   "partage de fichiers cao",
+   "collaboration entre équipes",
+   "documentation technique",
+   "révision de conception"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "visualisation cad",
+    "export cad",
+    "formats cad",
+    "solutions cad",
+    "gestion des données",
+    "collaboration cad",
+    "cloud",
+    "sdk",
+    "apps"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "sdk",
+    "apps"
+   ],
+   "problem": [
+    "mal à tirer parti des données cad",
+    "partage de fichiers cad",
+    "gestion des formats cad",
+    "collaboration entre équipes"
+   ]
+  },
+  "beleg_arten": [
+   "enterprise",
+   "technische_tiefe"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "3e3316010328a16e|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "es",
+  "hauptbotschaft": "Descubra las opciones de precios flexibles de SpinFire Insight adaptadas para satisfacer las necesidades de su negocio.",
+  "ueberschriften": [
+   "Precios de SpinFire Insight",
+   "Visualiza, mide, anota y analiza completamente tus datos CAD 2D y 3D",
+   "Convierte y exporta tus datos CAD 3D para compartir y reutilizar",
+   "¿Tiene dificultades para sacar el máximo provecho de sus datos CAD?",
+   "Déjanos ayudarte"
+  ],
+  "keywords": [
+   "precios spinfire insight",
+   "spinfire insight",
+   "visualización cad",
+   "exportar cad",
+   "formatos cad",
+   "licencias flotantes",
+   "suscripción cad",
+   "soporte multi cad",
+   "sdk desarrolladores",
+   "apps para empresas",
+   "visualización 3d",
+   "análisis cad",
+   "medición cad",
+   "notas cad",
+   "empresa cad"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api"
+  ],
+  "ctas": [
+   "Contactar Ventas",
+   "Prueba SpinFire Insight hoy",
+   "Contactar con ventas",
+   "SDKs para desarrolladores",
+   "Apps para empresas"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "testversion",
+   "kontakt_vertrieb"
+  ],
+  "belege": [],
+  "kunden": [],
+  "branchen": [],
+  "zielgruppe": "Engineering, IT, Management",
+  "differenzierung": "SpinFire Insight bietet flexible Preismodelle mit umfassendem Multi-CAD-Format- und Export-Unterstützung für Unternehmen, die CAD-Daten effizient visualisieren, analysieren und teilen müssen.",
+  "wertversprechen": [
+   "visualización completa cad",
+   "exportación multi-formato",
+   "soporte multi-cad",
+   "acceso empresarial",
+   "integración fácil",
+   "análisis y medición"
+  ],
+  "anwendungsfaelle": [
+   "visualización de cad",
+   "compartir datos cad",
+   "análisis de diseño",
+   "documentación técnica",
+   "revisión colaborativa",
+   "reutilización de datos"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "multi cad formats",
+    "cad export",
+    "cad visualization",
+    "cloud cad",
+    "sdk",
+    "api",
+    "enterprise software"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "sdk",
+    "apps"
+   ],
+   "problem": [
+    "compartir grandes archivos cad",
+    "extraer valor de datos cad",
+    "revisión colaborativa cad",
+    "gestión de formatos cad"
+   ]
+  },
+  "beleg_arten": [],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "81e681650dfd41f4|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "ko",
+  "hauptbotschaft": "SpinFire Insight의 유연한 가격 옵션을 통해 귀사의 비즈니스 필요에 맞는 적절한 솔루션을 찾으세요.",
+  "ueberschriften": [
+   "SpinFire Insight 가격 | 2D 및 3D CAD 데이터를 보기, 측정, 표시하고 완전히 분석",
+   "3D CAD 데이터를 변환 및 내보내기하여 공유 및 재사용",
+   "CAD 데이터를 최대한 활용하는 데 어려움을 겪고 계십니까?",
+   "도와드리겠습니다",
+   "영업팀에 문의"
+  ],
+  "keywords": [
+   "spinfire insight",
+   "cad viewer",
+   "3d cad data",
+   "cad file conversion",
+   "multi cad formats",
+   "enterprise cad",
+   "cloud cad viewer",
+   "sdk for cad",
+   "license options",
+   "cad data sharing",
+   "2d 3d visualization",
+   "cad data analysis",
+   "business needs",
+   "pricing plans",
+   "cad data reuse"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "영업팀에 문의",
+   "오늘 SpinFire Insight를 시도해 보세요",
+   "영업팀에 문의하기",
+   "개발자용 SDK",
+   "기업용 앱",
+   "회사 연락처",
+   "지원",
+   "KO",
+   "SpinFire Insight 가격",
+   "공유"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "download",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "belege": [
+   "12개월 구독 포함",
+   "플로팅 라이선스 제공",
+   "지원 형식 목록 완전히 볼 수 있음"
+  ],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "engineering",
+   "industrial",
+   "energy"
+  ],
+  "zielgruppe": "Engineering, IT, Management, Service",
+  "differenzierung": "다양한 CAD 형식을 지원하고, 기업 전반에 걸쳐 3D CAD 데이터를 쉽게 공유하고 분석할 수 있는 유연한 가격 모델을 제공합니다.",
+  "wertversprechen": [
+   "immediate access to cad data",
+   "multi-cad format support",
+   "easy data sharing",
+   "no software installation",
+   "enterprise scalability",
+   "full data analysis"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "collaboration",
+   "data sharing",
+   "service documentation",
+   "sales configurator",
+   "plm integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "cad viewer",
+    "3d cad data",
+    "multi cad formats",
+    "cloud cad viewer",
+    "cad data sharing",
+    "cad data analysis",
+    "enterprise cad",
+    "sdk for cad"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "3dpdf",
+    "jt",
+    "step",
+    "parasolid",
+    "igess",
+    "stl",
+    "html",
+    "prc"
+   ],
+   "problem": [
+    "cad data reuse",
+    "share large cad files",
+    "analyze cad data",
+    "collaborate on cad",
+    "convert cad files",
+    "manage cad formats"
+   ]
+  },
+  "beleg_arten": [
+   "technische_tiefe",
+   "enterprise"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "9fd7f69d6fbce09c|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "pt",
+  "hauptbotschaft": "Descubra as opções de preços flexíveis do SpinFire Insight, adaptadas para atender às necessidades do seu negócio.",
+  "ueberschriften": [
+   "Preços do SpinFire Insight",
+   "Veja, meça, marque e analise completamente seus dados CAD 2D e 3D",
+   "Converta e Exporte seus dados CAD 3D para compartilhar e reutilizar",
+   "Dificuldade em tirar o máximo dos seus dados CAD?",
+   "Deixe-nos ajudar"
+  ],
+  "keywords": [
+   "spinfire insight",
+   "preços spinfire insight",
+   "visualização cad",
+   "exportação cad",
+   "suporte a formatos cad",
+   "cad 2d 3d",
+   "visualizador cad",
+   "plm integration",
+   "sdk para desenvolvedores",
+   "apps para empresas",
+   "licenças flutuantes",
+   "planos de assinatura",
+   "empresa",
+   "contato vendas",
+   "experimente agora"
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "ctas": [
+   "Contatar Vendas",
+   "Experimente o SpinFire Insight hoje",
+   "Agende um horário para saber mais sobre o SpinFire Insight",
+   "Entre em Contato para Mais Informações",
+   "Contato Comercial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "testversion",
+   "preise",
+   "sonstiges"
+  ],
+  "belege": [],
+  "kunden": [],
+  "branchen": [],
+  "zielgruppe": "Engineering, IT, Management",
+  "differenzierung": "SpinFire Insight bietet flexible Preismodelle mit umfassendem CAD-Format- und Export-Support für Unternehmen, die eine skalierbare, browserbasierte Lösung für die Zusammenarbeit und den Austausch von CAD-Daten benötigen.",
+  "wertversprechen": [
+   "acesso instantâneo",
+   "visualização completa",
+   "exportação multi-formato",
+   "suporte a múltiplos cad",
+   "colaboração empresarial",
+   "gestão de dados cad"
+  ],
+  "anwendungsfaelle": [
+   "visualização cad",
+   "análise de dados",
+   "compartilhamento de dados",
+   "reutilização de modelos",
+   "revisão de design",
+   "documentação técnica"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "plm software",
+    "cad visualization",
+    "cad export",
+    "multi cad formats",
+    "cloud based",
+    "sdk api",
+    "enterprise software"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "spinfire cad viewing"
+   ],
+   "problem": [
+    "dificuldade em tirar o máximo dos seus dados cad",
+    "compartilhar dados cad",
+    "gestão de múltiplos formatos cad"
+   ]
+  },
+  "beleg_arten": [],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "b8b205d1dfde4a21|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "preis",
+  "sprache": "ja",
+  "hauptbotschaft": "SpinFire Insightの柔軟な価格オプションをご確認いただき、貴社のビジネスニーズに合わせたソリューションを見つけましょう。",
+  "ueberschriften": [
+   "SpinFire Insightの価格設定",
+   "2Dおよび3DのCADデータを表示、測定、マークアップ、完全に解析",
+   "3D CADデータを変換してエクスポートし、共有と再利用",
+   "CADデータを最大限に活用できずに悩んでいませんか？",
+   "お問い合わせください"
+  ],
+  "keywords": [
+   "spinfire insight",
+   "cad viewer",
+   "3d viewer",
+   "cad data sharing",
+   "cad file conversion",
+   "multi cad formats",
+   "cloud based cad",
+   "enterprise cad",
+   "cad visualization",
+   "cad data reuse",
+   "3d pdf",
+   "stl export",
+   "step file",
+   "igess",
+   "jt format"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "お問い合わせください",
+   "営業に連絡",
+   "SpinFire Insight を今日試す",
+   "営業に問い合わせる",
+   "開発者向けSDK",
+   "企業向けアプリ"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "download",
+   "sonstiges"
+  ],
+  "belege": [],
+  "kunden": [],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "energy",
+   "industrial equipment",
+   "construction"
+  ],
+  "zielgruppe": "Engineering, IT, Service, Management",
+  "differenzierung": "SpinFire Insight bietet eine skalierbare, cloud-basierte Lösung mit umfassender Unterstützung für mehrere CAD-Formate und eine nahtlose Integration in bestehende PLM- und Arbeitsabläufe.",
+  "wertversprechen": [
+   "即時アクセス",
+   "エンタープライズ全体でのアクセス",
+   "cadデータの共有と再利用",
+   "多様なcadフォーマット対応",
+   "クラウドベースの可視化"
+  ],
+  "anwendungsfaelle": [
+   "design review",
+   "service documentation",
+   "sales configurator",
+   "collaborative review",
+   "digital twin",
+   "plm integration"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "cad viewer",
+    "plm integration",
+    "multi_cad_formate",
+    "design_review",
+    "digitaler_zwilling",
+    "cloud_und_saas",
+    "sicherheit_und_datenschutz"
+   ],
+   "produkt": [
+    "spinfire insight",
+    "3dpdf",
+    "stl",
+    "step",
+    "iges",
+    "jt",
+    "parasolid"
+   ],
+   "problem": [
+    "cad data sharing",
+    "share large cad files",
+    "reduce prototypes",
+    "collaborate on cad",
+    "access cad data"
+   ]
+  },
+  "beleg_arten": [],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "news|e60be3425851500d|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "Threedy is positioning itself as a leader in browser-based 3D data access and collaboration infrastructure, emphasizing real-time, scalable, and secure handling of large CAD datasets. The company is actively advancing AI integration, particularly through experimental AI agent capabilities in its instant3Dhub platform, while expanding its ecosystem via certifications (e.g., BIMSWARM) and strategic alignment with industrial standards like Catena-X.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-06",
+    "art": "produkt",
+    "beschreibung": "Threedy releases instant3Dhub 3.12 with new features, improvements, and fixes.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-10-06",
+    "art": "produkt",
+    "beschreibung": "Threedy launches instant3Dhub 3.13 with an experimental AI MCP server for querying and editing live 3D CAD data.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-10-05",
+    "art": "partnerschaft",
+    "beschreibung": "Threedy demonstrates a working prototype enabling 3D engineering data to travel through Catena-X and open instantly in the browser.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-09-02",
+    "art": "produkt",
+    "beschreibung": "BIMSWARM certifies instant3Dhub for IFC/BIM conformance, enabling full IFC data access for building industry application builders.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2024-12-18",
+    "art": "sonstiges",
+    "beschreibung": "A German publication highlights Threedy's speed in 3D data processing in Darmstadt.",
+    "quelle": "aktiv - Meine Arbeit. Mein Leben. Meine Zukunft."
+   },
+   {
+    "datum": "2024-12-18",
+    "art": "sonstiges",
+    "beschreibung": "A German publication highlights Threedy's speed in 3D data processing in Darmstadt.",
+    "quelle": "aktiv - Meine Arbeit. Mein Leben. Meine Zukunft."
+   },
+   {
+    "datum": "2020-11-19",
+    "art": "produkt",
+    "beschreibung": "Threedy AI introduces automatic conversion of 2D photos into 3D assets for AR.",
+    "quelle": "The Ghost Howls"
+   },
+   {
+    "datum": "2019-02-27",
+    "art": "produkt",
+    "beschreibung": "Threedy.ai launches capability to convert any 2D photo into a 3D object in seconds.",
+    "quelle": "Forbes"
+   }
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "botschaften": [
+   "Wir revolutionieren den Einsatz von 3D-Daten",
+   "Keiner kann 3-D schneller als Threedy in Darmstadt",
+   "Threedy AI automatically converts 2D photos in 3D assets for AR!",
+   "Threedy.ai Can Turn Any 2D Photo Into A 3D Object In Seconds"
+  ],
+  "keywords": [
+   "3d",
+   "data",
+   "cad",
+   "instant3dhub",
+   "browserbasiert",
+   "ai",
+   "streaming",
+   "collaboration",
+   "bim",
+   "catena-x"
+  ]
+ },
+ "news|6a90d67b8ba26801|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage indicates that Vertex Software is positioning itself as a leader in industrial 3D visualization and digital twin technologies, emphasizing browser-based access, multi-CAD support, and PLM integration. The company is actively promoting its role in enabling real-time, fileless collaboration and governance across the product lifecycle, particularly in manufacturing and supplier ecosystems. Recent content highlights a strategic focus on digital thread continuity, AI-driven workflows, and cloud-based rendering for enterprise scalability.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-25",
+    "art": "produkt",
+    "beschreibung": "Vertex introduces Vertex Sol™, a connected, AI-powered tax and compliance experience.",
+    "quelle": "TMCnet"
+   },
+   {
+    "datum": "2026-11-02",
+    "art": "sonstiges",
+    "beschreibung": "Vertex enables integration of 3D product data into business applications via distributed cloud rendering.",
+    "quelle": "GitHub"
+   }
+  ],
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "plm_integration",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "zusammenarbeit",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise"
+  ],
+  "botschaften": [
+   "Authoritative Product Definition Doesn't Live in One System",
+   "The Digital Thread Breaks at File Export",
+   "Why Supplier Collaboration Keeps Failing—and Tools Aren’t the Problem",
+   "Why do manufacturing AI initiatives struggle to deliver ROI?",
+   "Real-time, fileless 3D access is now critical"
+  ],
+  "keywords": [
+   "3d product data",
+   "browserbasiert",
+   "multi_cad",
+   "plm integration",
+   "digital twin",
+   "cloud rendering",
+   "fileless",
+   "ai-powered",
+   "supplier collaboration",
+   "digital thread"
+  ]
+ },
+ "news|637bca93ff5b6d93|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Tech Soft 3D's strategic focus on expanding its software development toolkits (SDKs) and industrial applications, particularly around AI integration, browser-based visualization, and multi-CAD format support. Recent launches like HOOPS AI and VizStreamer emphasize their push toward intelligent CAD data processing, cloud-based streaming, and seamless interoperability, positioning the company as a key enabler for digital twins and collaborative engineering workflows.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-04",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D launches new content on SpinFire Insight, including CAD-to-HTML conversion, design analysis tools, and guidance on replacing legacy CAD viewers.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-10-31",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D publishes a guide on sharing CAD models via secure 3D-PDF.",
+    "quelle": "Foro3D"
+   },
+   {
+    "datum": "2026-09-29",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D releases a guide on using extended reality to improve design reviews and accelerate validation in shipbuilding.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-09-22",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D publishes a guide to choosing between CAD viewers, CAD translation, and 3D-PDF for technical data exchange.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-07-14",
+    "art": "partnerschaft",
+    "beschreibung": "Synera releases an advanced AI add-in powered by Tech Soft 3D’s HOOPS AI.",
+    "quelle": "Business Wire"
+   },
+   {
+    "datum": "2026-04-19",
+    "art": "produkt",
+    "beschreibung": "HOOPS AI reaches general availability with new features to bridge the CAD-ML gap.",
+    "quelle": "3D Printing Industry"
+   },
+   {
+    "datum": "2026-03-30",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D announces the full launch of HOOPS AI with embeddings and Linux support.",
+    "quelle": "Business Wire"
+   },
+   {
+    "datum": "2025-11-07",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D launches HOOPS AI, the first AI framework to integrate machine learning into CAD applications.",
+    "quelle": "3D Printing Industry"
+   }
+  ],
+  "themen": [
+   "ki_und_agenten",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas"
+  ],
+  "botschaften": [
+   "Convert CAD files to HTML with SpinFire Insight and share interactive 3D models that open in any browser, with PMI preserved and no software to install.",
+   "Learn the signs it’s time to replace your CAD viewer, what to look for in a replacement, and how SpinFire Insight can help.",
+   "How can you analyze CAD data in a viewer? Learn about the design analysis, measurement, and volume analysis tools in SpinFire Insight.",
+   "The first AI framework to bring machine learning into CAD applications.",
+   "Seamless path to web-based CAE visualization with VizStreamer."
+  ],
+  "keywords": [
+   "cad",
+   "html",
+   "spinfire insight",
+   "ai",
+   "hoops ai",
+   "browserbasiert",
+   "streaming",
+   "multi cad",
+   "sdk",
+   "cloud"
+  ]
+ },
+ "news|4f6201eab10e1aed|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights KISTERS 3DViewStation's strategic focus on seamless integration within enterprise PLM ecosystems, particularly with Siemens Teamcenter, and its growing adoption in manufacturing and supplier collaboration. The company emphasizes high-performance visualization, cost savings on CAD licenses, and browser-based access to full 3D models, reinforcing its positioning as a scalable, secure solution for digital twin workflows and design review across industries.",
+  "ereignisse": [
+   {
+    "datum": "2026-05-12",
+    "art": "produkt",
+    "beschreibung": "KISTERS 3DViewStation integrations for Siemens Teamcenter and Active Workspace are now available.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-09-15",
+    "art": "partnerschaft",
+    "beschreibung": "KISTERS 3DViewStation WebViewer integration for Mendix is now available.",
+    "quelle": "The Burlington Free Press"
+   },
+   {
+    "datum": "2026-02-20",
+    "art": "kunde",
+    "beschreibung": "KISTERS 3DViewStation is recognized as the leading integration solution for visualization in automotive product configurators.",
+    "quelle": "Milwaukee Journal Sentinel"
+   },
+   {
+    "datum": "2025-06-13",
+    "art": "produkt",
+    "beschreibung": "3DViewStation sets a new standard for high-performance 3D CAD visualization and analysis.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2024-06-12",
+    "art": "sonstiges",
+    "beschreibung": "3DViewStation helps reduce CAD license costs.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2024-07-23",
+    "art": "sonstiges",
+    "beschreibung": "3DViewStation supports 3D CAD collaboration with suppliers.",
+    "quelle": "Metrology and Quality News"
+   }
+  ],
+  "themen": [
+   "browserbasiert",
+   "plm_integration",
+   "design_review",
+   "zusammenarbeit",
+   "kosten_und_roi",
+   "digitaler_zwilling",
+   "multi_cad_formate",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "streaming_grosser_daten"
+  ],
+  "botschaften": [
+   "Wo war noch gleich dieses eine Bauteil?",
+   "The goal is not to work with reduced data, but to use and to have access to the 100% model at all times",
+   "3DViewStation Sets New Standard for High-Performance 3D CAD Visualization and Analysis",
+   "3DViewStation Saves on CAD License Cost",
+   "3DViewStation Supports 3D CAD Collaboration With Suppliers"
+  ],
+  "keywords": [
+   "3dviewstation",
+   "cad",
+   "visualization",
+   "plm",
+   "siemens",
+   "teamcenter",
+   "browserbasiert",
+   "integration",
+   "collaboration",
+   "cost"
+  ]
+ },
+ "news|e1cd09af39e929d1|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights PTC Creo View's strategic positioning within a broader ecosystem focused on digital transformation, particularly through integration with AI, PLM, and cloud-based collaboration. The acquisition by Schneider Electric underscores a shift toward enterprise scalability and industrial digital thread integration, emphasizing use cases in manufacturing, medical devices, and smart production. Recent announcements around AI assistants, Omniverse integration, and design review capabilities reinforce PTC's focus on innovation and interoperability.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-05",
+    "art": "uebernahme",
+    "beschreibung": "Schneider Electric acquires PTC for $205 per share in a transaction valued at approximately €21 billion.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2025-09-19",
+    "art": "produkt",
+    "beschreibung": "PTC introduces Arena AI Assistant for PLM to enhance product development workflows.",
+    "quelle": "develop3d"
+   },
+   {
+    "datum": "2025-08-05",
+    "art": "partnerschaft",
+    "beschreibung": "NVIDIA Omniverse is integrated into PTC Creo and Windchill for enhanced simulation and visualization.",
+    "quelle": "Engineering.com"
+   },
+   {
+    "datum": "2025-03-26",
+    "art": "produkt",
+    "beschreibung": "PTC launches Windchill AI, a new AI-powered PLM solution, at Hannover Messe 2025.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2024-12-09",
+    "art": "personal",
+    "beschreibung": "PTC appoints Robert Dahdah as Executive Vice President, Chief Revenue Officer.",
+    "quelle": "citybiz"
+   },
+   {
+    "datum": "2025-11-17",
+    "art": "studie",
+    "beschreibung": "PTC discusses the impact of AI and digital thread on the machinery industry in a public presentation.",
+    "quelle": "produktion.de"
+   },
+   {
+    "datum": "2025-02-10",
+    "art": "studie",
+    "beschreibung": "ServiceMax develops a data store to unify the digital thread across PTC’s product suite.",
+    "quelle": "Diginomica"
+   },
+   {
+    "datum": "2025-07-02",
+    "art": "event",
+    "beschreibung": "PTC CEO Neil Barua shares vision for faster product development at the Automotive Executive Exchange in Delhi.",
+    "quelle": "DirectIndustry e-Magazine"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "design_review",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "fertigung_und_produktion",
+   "zusammenarbeit",
+   "browserbasiert"
+  ],
+  "botschaften": [
+   "Burning the Backlog",
+   "Unlocking the future of manufacturing with AI-powered digital thread",
+   "Visualize 3D-CATIA V5 to Creo View Adapter",
+   "How KI and Digital Thread shape the machine industry",
+   "ServiceMax is building a data store that will knit a digital thread across PTC's products"
+  ],
+  "keywords": [
+   "digital thread",
+   "ai",
+   "plm",
+   "creo view",
+   "cloud",
+   "collaboration",
+   "manufacturing",
+   "integration",
+   "enterprise",
+   "visualization"
+  ]
+ },
+ "news|b33b710d05112e7f|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Siemens Teamcenter Visualization's strategic focus on integrating advanced visualization, digital twins, and AI-driven workflows within a cloud-based, collaborative PLM environment. Key activities center on expanding ecosystem partnerships, enhancing photorealistic rendering and real-time collaboration, and strengthening integration with cloud platforms and simulation tools, reinforcing its position as a leader in enterprise-grade industrial visualization and digital twin solutions.",
+  "ereignisse": [
+   {
+    "datum": "2026-08-14",
+    "art": "produkt",
+    "beschreibung": "Siemens Teamcenter enables faster HPC simulations with AWS ParallelCluster, reducing simulation cycle times from days to hours.",
+    "quelle": "aws.amazon"
+   },
+   {
+    "datum": "2026-05-12",
+    "art": "partnerschaft",
+    "beschreibung": "KISTERS launches 3DViewStation integrations for Siemens Teamcenter and Active Workspace, enhancing CAD visualization capabilities.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2025-06-11",
+    "art": "produkt",
+    "beschreibung": "Siemens Teamcenter Digital Reality Viewer enables photorealistic digital twins using NVIDIA Omniverse.",
+    "quelle": "NVIDIA Developer"
+   },
+   {
+    "datum": "2025-01-07",
+    "art": "partnerschaft",
+    "beschreibung": "Siemens and NVIDIA collaborate to deliver photorealistic digital twins via Teamcenter Digital Reality Viewer.",
+    "quelle": "Siemens Newsroom"
+   },
+   {
+    "datum": "2025-01-07",
+    "art": "partnerschaft",
+    "beschreibung": "Siemens and Sony launch Immersive Engineering for the industrial metaverse using Teamcenter and other platforms.",
+    "quelle": "Siemens Newsroom"
+   },
+   {
+    "datum": "2024-03-18",
+    "art": "partnerschaft",
+    "beschreibung": "Siemens and NVIDIA expand collaboration on generative AI for immersive real-time visualization.",
+    "quelle": "Siemens Press"
+   },
+   {
+    "datum": "2025-04-22",
+    "art": "produkt",
+    "beschreibung": "Siemens expands Teamcenter X with new Standard and Advanced offerings to improve PLM access across businesses.",
+    "quelle": "Engineering"
+   },
+   {
+    "datum": "2025-08-27",
+    "art": "produkt",
+    "beschreibung": "Siemens launches Teamcenter X Essential to make PLM more accessible for smaller businesses.",
+    "quelle": "Siemens Newsroom"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "plm_integration",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "design_review",
+   "zusammenarbeit"
+  ],
+  "botschaften": [
+   "3D-CAD-Visualisierung in Siemens Teamcenter",
+   "Digital Reality Viewer & Digital Twin Composer",
+   "Siemens makes PLM more accessible with Teamcenter X Essential",
+   "Siemens and NVIDIA expand collaboration on generative AI",
+   "Siemens Teamcenter enables faster HPC simulations with AWS ParallelCluster"
+  ],
+  "keywords": [
+   "siemens",
+   "teamcenter",
+   "visualization",
+   "digital twin",
+   "cloud",
+   "plm",
+   "cad",
+   "ai",
+   "collaboration",
+   "simulation"
+  ]
+ },
+ "news|6b82e1d89a9d5948|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Dassault 3DEXPERIENCE's strategic focus on expanding its cloud-based, AI-native platform with strong emphasis on digital twins, industrial AI, and ecosystem partnerships. Key activities include customer wins in automotive, aerospace, and infrastructure, alongside global expansion and leadership appointments, reinforcing its positioning as a leader in enterprise-grade digital transformation. The consistent messaging around cloud growth, platform scalability, and cross-industry innovation underscores a mature, market-driven strategy.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-03",
+    "art": "kunde",
+    "beschreibung": "Dassault Systèmes reports growth driven by cloud adoption and raises annual revenue targets.",
+    "quelle": "Produktion Online"
+   },
+   {
+    "datum": "2026-11-03",
+    "art": "partnerschaft",
+    "beschreibung": "Dassault Systèmes and Systra form a technology partnership to develop next-generation digital twins for transportation infrastructure.",
+    "quelle": "Produktion Online"
+   },
+   {
+    "datum": "2026-10-30",
+    "art": "personal",
+    "beschreibung": "Pierre Barnabé appointed Chief Operating Officer at Dassault Systèmes.",
+    "quelle": "Dassault Systèmes"
+   },
+   {
+    "datum": "2026-10-28",
+    "art": "finanzierung",
+    "beschreibung": "Dassault Systèmes raises full-year guidance following strong Q3 performance and a 25% surge in 3DEXPERIENCE revenue.",
+    "quelle": "Dassault Systèmes"
+   },
+   {
+    "datum": "2026-10-21",
+    "art": "partnerschaft",
+    "beschreibung": "Dassault Systèmes and Vertiv collaborate to accelerate AI factory design and deployment.",
+    "quelle": "Dassault Systèmes"
+   },
+   {
+    "datum": "2026-10-21",
+    "art": "event",
+    "beschreibung": "Dassault Systèmes opens a new office in Bandar Utama, Malaysia, to support Industrial AI and virtual twin adoption.",
+    "quelle": "Dassault Systèmes"
+   },
+   {
+    "datum": "2026-10-19",
+    "art": "event",
+    "beschreibung": "Dassault Systèmes showcases AI-powered virtual twin factories at NVIDIA GTC Berlin 2026.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-10-07",
+    "art": "kunde",
+    "beschreibung": "Jakson Green Vehicles adopts the 3DEXPERIENCE platform for EV development.",
+    "quelle": "Manufacturing Today India"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "cloud_und_saas",
+   "plm_integration",
+   "vertrieb_und_marketing",
+   "fertigung_und_produktion",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit",
+   "kosten_und_roi"
+  ],
+  "botschaften": [
+   "3DEXPERIENCE Works from Dassault Systèmes SE - cloud bundles pull Solidworks into the browser",
+   "Dassault Systèmes erweitert KI-native agentische 3DEXPERIENCE Plattform um neue Funktionen für Virtual Companions – Co-Engineering von Mensch und KI",
+   "Dassault Systèmes und SYSTRA schließen Technologiepartnerschaft: Entwicklung einer neuen Generation virtueller Zwillinge für Verkehrsinfrastruktur",
+   "Dassault Systèmes kündigt Partnerschaft mit NEURA Robotics an: Skalierung von Physical AI durch virtuelle Zwillinge und reale Automatisierung",
+   "Dassault Systèmes zeigt am 20. bis 22. Oktober 2026 auf der NVIDIA GTC in Berlin, wie seine industrielle KI-Architektur die Zukunft der Fertigung gestaltet"
+  ],
+  "keywords": [
+   "3dexperience",
+   "digitaler_zwilling",
+   "cloud",
+   "ai",
+   "virtual_twin",
+   "plm",
+   "kosten",
+   "roi",
+   "skalierbarkeit",
+   "partnerschaft"
+  ]
+ },
+ "news|34d655874b63e849|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights NVIDIA Omniverse's strategic positioning as a central platform for industrial digital twins, emphasizing AI integration, cross-industry collaboration, and scalable 3D visualization. Key activities focus on expanding ecosystem partnerships, advancing physical AI and agent-driven workflows, and enabling real-time, cloud-based digital twin deployments across manufacturing, energy, and infrastructure sectors.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-28",
+    "art": "partnerschaft",
+    "beschreibung": "TCS and Volvo explore adaptive industrial robotics using NVIDIA Omniverse Libraries for Physical AI.",
+    "quelle": "Tata Consultancy Services"
+   },
+   {
+    "datum": "2026-10-27",
+    "art": "partnerschaft",
+    "beschreibung": "Schneider Electric, Nscale, and Start Campus deploy an AI factory environment using the NVIDIA Omniverse DSX Blueprint.",
+    "quelle": "Markets Insider"
+   },
+   {
+    "datum": "2026-10-21",
+    "art": "produkt",
+    "beschreibung": "NVIDIA introduces an agent-assisted workflow for developing AI factory digital twins.",
+    "quelle": "NVIDIA Developer"
+   },
+   {
+    "datum": "2026-10-19",
+    "art": "kunde",
+    "beschreibung": "NTT DATA demonstrates 5G-controlled robot arms via NVIDIA Omniverse in a smart factory.",
+    "quelle": "NTT Data"
+   },
+   {
+    "datum": "2026-09-28",
+    "art": "produkt",
+    "beschreibung": "Visual Components launches FactoryLens, a Nvidia-powered tool for industrial digital twins.",
+    "quelle": "Robotics & Automation News"
+   },
+   {
+    "datum": "2026-06-05",
+    "art": "kunde",
+    "beschreibung": "Vertiv announces the first converged infrastructure digital twin for NVIDIA Omniverse DSX.",
+    "quelle": "Tech Critter"
+   },
+   {
+    "datum": "2026-06-04",
+    "art": "partnerschaft",
+    "beschreibung": "Micron teams with MetAI to build AI-ready digital twins of chip fabs on NVIDIA Omniverse.",
+    "quelle": "finance.biggo.com"
+   },
+   {
+    "datum": "2026-06-01",
+    "art": "kunde",
+    "beschreibung": "SK Telecom unveils an NVIDIA Omniverse-based digital twin for SK hynix semiconductor fab.",
+    "quelle": "THE ELEC, Korea Electronics Industry Media"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "design_review",
+   "zusammenarbeit",
+   "cloud_und_saas",
+   "streaming_grosser_daten",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "fertigung_und_produktion"
+  ],
+  "botschaften": [
+   "NVIDIA Omniverse Cloud now offers manufacturers scalable tools for industrial digital twins and collaborative 3D workflows across",
+   "Helping to Advance industrial intelligence through digital twins, simulation, and AI infrastructure at scale",
+   "Built on NVIDIA Omniverse Libraries",
+   "Accelerate Grid Modernization for AI Growth Using NVIDIA Omniverse",
+   "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI"
+  ],
+  "keywords": [
+   "omniverse",
+   "digital twin",
+   "ai",
+   "industrial",
+   "collaborative",
+   "cloud",
+   "physical ai",
+   "agent",
+   "scalable",
+   "workflow"
+  ]
+ },
+ "news|94da06107fcb503e|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights a strong market momentum around agentic AI and digital twins in industrial contexts, with a focus on manufacturing, product development, and operational optimization. Key players are advancing AI-driven workflows, real-time 3D visualization, and cloud-based collaboration, signaling a shift toward integrated, intelligent systems across the industrial value chain.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-04",
+    "art": "personal",
+    "beschreibung": "Quantiphi named a Leader in Agentic AI Services by ISG Provider Lens® 2026.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-11-03",
+    "art": "produkt",
+    "beschreibung": "Keysight Technologies launched the XR3 oscilloscope and an Agentic AI solution at electronica 2026.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-11-02",
+    "art": "produkt",
+    "beschreibung": "RELEX Solutions unveiled agentic operating capabilities for its Open platform.",
+    "quelle": "PR Newswire"
+   },
+   {
+    "datum": "2026-11-02",
+    "art": "produkt",
+    "beschreibung": "Tripo AI launched Tripo Agentic Canvas, an AI agent for 3D workflow automation.",
+    "quelle": "PR Newswire"
+   },
+   {
+    "datum": "2026-10-28",
+    "art": "produkt",
+    "beschreibung": "Visual Components introduced FactoryLens, a visualization tool for realistic 3D manufacturing simulations.",
+    "quelle": "The Fabricator"
+   },
+   {
+    "datum": "2026-10-01",
+    "art": "produkt",
+    "beschreibung": "CAD-Viewer, a web-based CAD editor for DWG/DXF, was released on GitHub.",
+    "quelle": "GitHub"
+   },
+   {
+    "datum": "2026-08-09",
+    "art": "produkt",
+    "beschreibung": "L&T Technology Services launched AgenticIQ™, an end-to-end agentic AI platform for engineering and manufacturing.",
+    "quelle": "Business Wire"
+   },
+   {
+    "datum": "2026-01-07",
+    "art": "kunde",
+    "beschreibung": "PepsiCo deployed AI-powered digital twins to test manufacturing expansion plans.",
+    "quelle": "Retail TouchPoints"
+   }
+  ],
+  "themen": [
+   "ki_und_agenten",
+   "digitaler_zwilling",
+   "fertigung_und_produktion",
+   "design_review",
+   "cloud_und_saas",
+   "plm_integration",
+   "browserbasiert",
+   "streaming_grosser_daten"
+  ],
+  "botschaften": [
+   "Digital twins are the cornerstone of enterprise AI and industrial automation strategies",
+   "AI agents and physics-based digital twins as 'co-designers'",
+   "Agentic AI is the future of continuous improvement",
+   "From insight to action: moving manufacturing from simulation to execution",
+   "Real-time 3D visualization enables smarter decisions"
+  ],
+  "keywords": [
+   "agentic ai",
+   "digital twin",
+   "3d visualization",
+   "manufacturing",
+   "ai",
+   "cloud",
+   "real-time",
+   "collaboration",
+   "workflow",
+   "simulation"
+  ]
+ },
+ "radar|f30626cf3f0cc8af1281": {
+  "kandidaten": [
+   {
+    "name": "Synera",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "AI-powered engineering co-worker with CAD visualization",
+    "schlagwoerter": [
+     "agentic AI",
+     "engineering co-worker",
+     "CAD visualization",
+     "AI add-in"
+    ],
+    "begruendung": "Synera's focus on AI-driven engineering workflows with integrated CAD visualization and its use of Tech Soft 3D's HOOPS AI toolkit indicates a strong overlap with Threedy's use cases in industrial AI and 3D data interaction, particularly in digital twin and design collaboration scenarios.",
+    "artikel": [
+     61,
+     89,
+     90
+    ]
+   },
+   {
+    "name": "Visual Components",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "FactoryLens – 3D manufacturing simulation with NVIDIA-powered visualization",
+    "schlagwoerter": [
+     "3D manufacturing simulations",
+     "NVIDIA-powered",
+     "visualization tool"
+    ],
+    "begruendung": "Visual Components' FactoryLens delivers realistic 3D manufacturing simulations with real-time visualization, directly overlapping with Threedy's industrial use cases in digital twins, production planning, and service visualization.",
+    "artikel": [
+     23,
+     65
+    ]
+   },
+   {
+    "name": "Tripo AI",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "Tripo Agentic Canvas – AI agent for 3D workflow execution",
+    "schlagwoerter": [
+     "Agentic Canvas",
+     "AI agent",
+     "3D workflows",
+     "node-based"
+    ],
+    "begruendung": "Tripo AI's Agentic Canvas enables AI-driven 3D workflow automation, which aligns with Threedy's 'Agentic 3D' vision, particularly in automating design, review, and configuration tasks using AI agents on 3D data.",
+    "artikel": [
+     9
+    ]
+   },
+   {
+    "name": "L&T Technology Services",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "AgenticIQ™ – end-to-end agentic AI platform for engineering and manufacturing",
+    "schlagwoerter": [
+     "AgenticIQ",
+     "agentic AI platform",
+     "engineering",
+     "manufacturing"
+    ],
+    "begruendung": "L&T Technology Services' launch of AgenticIQ for engineering and manufacturing suggests a strategic move toward AI-driven product development, potentially integrating 3D data visualization and collaboration—core areas of Threedy’s platform.",
+    "artikel": [
+     78
+    ]
+   },
+   {
+    "name": "AVEVA",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "Lifecycle digital twin architecture with NVIDIA integration",
+    "schlagwoerter": [
+     "digital twin architecture",
+     "NVIDIA",
+     "industrial intelligence",
+     "gigawatt-scale AI factories"
+    ],
+    "begruendung": "AVEVA’s collaboration with NVIDIA to build lifecycle digital twin architectures for large-scale AI factories indicates a strong focus on industrial 3D visualization and data integration, directly competing with Threedy’s digital twin and industrial AI use cases.",
+    "artikel": [
+     142,
+     143,
+     144
+    ]
+   },
+   {
+    "name": "RELEX Solutions",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "Agentic AI platform for orchestrating the value chain",
+    "schlagwoerter": [
+     "agentic AI platform",
+     "orchestrate the value chain",
+     "Open platform"
+    ],
+    "begruendung": "RELEX’s agentic AI platform aims to connect systems across the value chain, which could include 3D data workflows and digital twin integration, making it a potential competitor in industrial AI and digital twin orchestration.",
+    "artikel": [
+     8
+    ]
+   },
+   {
+    "name": "KISTERS",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "3DViewStation – CAD visualization and integration",
+    "schlagwoerter": [
+     "3DViewStation",
+     "CAD visualization",
+     "integration",
+     "Siemens Teamcenter"
+    ],
+    "begruendung": "KISTERS' 3DViewStation is a direct competitor in CAD visualization, especially with its integrations into PLM systems like Siemens Teamcenter, overlapping with Threedy’s core offering of browser-based 3D data access and visualization.",
+    "artikel": [
+     119,
+     120
+    ]
+   },
+   {
+    "name": "Tech Soft 3D",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "HOOPS AI and CAD visualization SDKs",
+    "schlagwoerter": [
+     "HOOPS AI",
+     "CAD visualization",
+     "SDK",
+     "embeddings",
+     "Linux support"
+    ],
+    "begruendung": "Tech Soft 3D provides the underlying 3D visualization SDKs used by several competitors, including Synera and Oasys, making it a key enabler in the 3D visualization ecosystem and a potential indirect competitor through its technology stack.",
+    "artikel": [
+     89,
+     90,
+     137,
+     138
+    ]
+   },
+   {
+    "name": "Delta Ushers",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "AI digital twins based on NVIDIA Omniverse",
+    "schlagwoerter": [
+     "AI digital twins",
+     "NVIDIA Omniverse",
+     "building automation",
+     "smart manufacturing"
+    ],
+    "begruendung": "Delta Ushers' deployment of AI digital twins using NVIDIA Omniverse for building automation and manufacturing aligns with Threedy’s industrial digital twin use cases, particularly in service and facility management.",
+    "artikel": [
+     145
+    ]
+   },
+   {
+    "name": "Schneider Electric",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "NVIDIA Omniverse DSX Blueprint for AI factories",
+    "schlagwoerter": [
+     "NVIDIA Omniverse DSX Blueprint",
+     "AI factory",
+     "digital twin",
+     "Immersive Twin"
+    ],
+    "begruendung": "Schneider Electric’s use of NVIDIA Omniverse DSX to build AI-powered digital twins in industrial environments directly competes with Threedy’s digital twin and AI-driven 3D visualization applications.",
+    "artikel": [
+     25,
+     26
+    ]
+   },
+   {
+    "name": "Dassault Systèmes",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 5,
+    "produkt": "3DEXPERIENCE platform with AI-native agentic capabilities",
+    "schlagwoerter": [
+     "3DEXPERIENCE",
+     "AI-native agentic platform",
+     "virtual twin",
+     "digital twin"
+    ],
+    "begruendung": "Dassault Systèmes is a direct competitor with its 3DEXPERIENCE platform, which offers full-stack 3D data access, digital twin capabilities, and agentic AI—core features of Threedy’s instant3Dhub.",
+    "artikel": [
+     0,
+     1,
+     2,
+     3,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76,
+     77,
+     78,
+     79,
+     80,
+     81,
+     82,
+     83,
+     84,
+     85,
+     86,
+     87,
+     88,
+     89,
+     90,
+     91,
+     92,
+     93,
+     94,
+     95,
+     96,
+     97,
+     98,
+     99,
+     100,
+     101,
+     102,
+     103,
+     104,
+     105,
+     106,
+     107,
+     108,
+     109,
+     110,
+     111,
+     112,
+     113,
+     114,
+     115,
+     116,
+     117,
+     118,
+     119,
+     120,
+     121,
+     122,
+     123,
+     124,
+     125,
+     126,
+     127,
+     128,
+     129,
+     130,
+     131,
+     132,
+     133,
+     134,
+     135,
+     136,
+     137,
+     138,
+     139,
+     140,
+     141,
+     142,
+     143,
+     144,
+     145,
+     146,
+     147,
+     148,
+     149
+    ]
+   },
+   {
+    "name": "NVIDIA",
+    "art": "partner",
+    "region": "USA",
+    "gefahr": 3,
+    "produkt": "Omniverse and Omniverse Libraries for industrial digital twins",
+    "schlagwoerter": [
+     "NVIDIA Omniverse",
+     "digital twin",
+     "Omniverse DSX",
+     "RTX Sensor Simulation"
+    ],
+    "begruendung": "NVIDIA is a key technology partner for many industrial digital twin platforms, including Dassault Systèmes, AVEVA, and Schneider Electric, and its Omniverse ecosystem enables 3D visualization and AI workflows that could be leveraged by competitors to challenge Threedy.",
+    "artikel": [
+     22,
+     25,
+     26,
+     38,
+     39,
+     41,
+     42,
+     43,
+     54,
+     55,
+     56,
+     57,
+     58,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67,
+     68,
+     69,
+     70,
+     71,
+     72,
+     73,
+     74,
+     75,
+     76,
+     77,
+     78,
+     79,
+     80,
+     81,
+     82,
+     83,
+     84,
+     85,
+     86,
+     87,
+     88,
+     89,
+     90,
+     91,
+     92,
+     93,
+     94,
+     95,
+     96,
+     97,
+     98,
+     99,
+     100,
+     101,
+     102,
+     103,
+     104,
+     105,
+     106,
+     107,
+     108,
+     109,
+     110,
+     111,
+     112,
+     113,
+     114,
+     115,
+     116,
+     117,
+     118,
+     119,
+     120,
+     121,
+     122,
+     123,
+     124,
+     125,
+     126,
+     127,
+     128,
+     129,
+     130,
+     131,
+     132,
+     133,
+     134,
+     135,
+     136,
+     137,
+     138,
+     139,
+     140,
+     141,
+     142,
+     143,
+     144,
+     145,
+     146,
+     147,
+     148,
+     149
+    ]
+   }
+  ]
+ },
+ "sicht|d34c70a968f2f8b8": "1. Autodesk Viewer – A free, cloud-based tool that enables real-time viewing, markup, and sharing of large CAD models directly in a web browser, supporting formats like DWG, DXF, and STEP.\n\n2. Dassault Systèmes 3DEXPERIENCE Platform – Offers robust web-based visualization and collaboration for large CAD models across engineering teams, with integrated PLM capabilities.\n\n3. Siemens Teamcenter Visualize – Provides high-performance web visualization of large CAD files with support for complex assemblies and real-time collaboration.\n\n4. Onshape – A cloud-native CAD platform that allows teams to view, edit, and share large models in a browser with real-time collaboration and version control.\n\n5. Trimble SketchUp Viewer (3D Warehouse) – Enables simple web-based viewing of large 3D models, especially effective for architectural and design workflows.\n\n6. GrabCAD Workbench – A collaborative platform that supports web-based viewing and sharing of large CAD files with team annotation and version tracking.\n\n7. PTC Creo View – A lightweight web-based viewer for large CAD models, ideal for reviewing and sharing engineering data across departments.\n\n8. NVIDIA Omniverse Viewer – A high-fidelity web-based viewer for large, complex 3D models, leveraging GPU acceleration for smooth rendering and real-time collaboration.",
+ "sicht|41d04706e4f2870f": "1. Siemens – Offers the Digital Twin solution via its MindSphere platform, enabling 3D visualization and real-time simulation for industrial applications.  \n2. GE Digital – Provides the Predix platform with 3D visualization capabilities for industrial digital twins in manufacturing and energy.  \n3. Dassault Systèmes – Delivers 3DEXPERIENCE platform, featuring 3D visualization and immersive digital twin environments for industrial design and operations.  \n4. Autodesk – Offers Autodesk Construction Cloud and BIM 360 with 3D visualization tools for digital twin development in industrial projects.  \n5. PTC – Provides ThingWorx platform with 3D visualization and augmented reality features for industrial digital twins.  \n6. SAP – Integrates 3D visualization into its SAP Digital Manufacturing Cloud for real-time digital twin monitoring and simulation.  \n7. Ansys – Offers Ansys Twin Builder with 3D visualization and physics-based modeling for industrial digital twin applications.  \n8. NVIDIA – Provides the Omniverse platform, enabling high-fidelity 3D visualization and simulation for industrial digital twins across industries.",
+ "sicht|d1b2f58a59e145aa": "1. **Autodesk Viewer** – Offers web-based access to 3D CAD models from Autodesk Inventor, AutoCAD, and Fusion 360 without requiring CAD software installation.  \n2. **GrabCAD Workbench** – Provides a cloud platform where technicians can view, measure, and annotate 3D CAD files directly in a browser.  \n3. **Onshape** – Enables real-time collaboration and browser-based viewing of 3D models using a web browser, no local software needed.  \n4. **3D PDF (via Adobe Acrobat)** – Converts CAD files into interactive 3D PDFs that technicians can open and explore using Adobe Reader.  \n5. **SolidWorks Visualize (Web Viewer)** – Allows sharing of 3D models via a web link with interactive viewing capabilities without installing SolidWorks.  \n6. **PTC ThingWorx** – Delivers web-based 3D model visualization and augmented reality access for service technicians using any modern browser.  \n7. **Dassault Systèmes 3DEXPERIENCE** – Offers cloud-based access to 3D CAD data through a secure web portal, accessible without local CAD software.  \n8. **Siemens Teamcenter Visualization** – Provides browser-based 3D model viewing and markup tools for technicians using a standard web browser.",
+ "sicht|d06124701cf7ad24": "1. Autodesk Fusion 360 – Offers cloud-based collaborative design reviews with real-time feedback and markup tools for large 3D assemblies.  \n2. Siemens Teamcenter – Supports collaborative engineering reviews with integrated 3D visualization and version control for complex assemblies.  \n3. Dassault Systèmes 3DEXPERIENCE – Enables multi-user collaboration on large 3D models with advanced review, annotation, and simulation tools.  \n4. PTC Windchill – Provides secure, scalable collaboration for design reviews with 3D model visualization and approval workflows.  \n5. Onshape – Cloud-native CAD platform with real-time co-editing and built-in review tools for large 3D assemblies.  \n6. Autodesk Navisworks – Allows stakeholders to review and coordinate large 3D models from multiple sources with clash detection and markup features.  \n7. SolidWorks Visualize – Supports collaborative review sessions with photorealistic rendering and interactive 3D model sharing.  \n8. Trimble SketchUp Viewer – Enables easy sharing and collaborative review of 3D models with markup and annotation capabilities.",
+ "sicht|d456c7decb53f256": "Autodesk Fusion 360 integrates with PLM systems like Teamcenter and Windchill, enabling seamless design and product data management.  \nSiemens NX offers native integration with Teamcenter, supporting end-to-end product lifecycle workflows.  \nPTC Creo provides strong compatibility with Windchill, allowing synchronized 3D modeling and PLM data exchange.",
+ "sicht|6f4546eeee46cbbe": "1. Autodesk Viewer – Kostenlos und einfach zu nutzen, ermöglicht es die Anzeige von großen CAD-Dateien wie DWG, IFC und STEP direkt im Browser.  \n2. Trimble Connect – Bietet Cloud-basierte Zusammenarbeit mit integrierter 3D-Visualisierung für BIM- und CAD-Daten.  \n3. Navisworks Manage – Ermöglicht die Visualisierung und Überprüfung großer CAD- und BIM-Modelle mit umfangreichen Analysefunktionen.  \n4. Onshape – Cloud-native CAD-Software mit integrierter Browser-Visualisierung und direkter Freigabe von Projekten innerhalb des Unternehmens.  \n5. Sketchfab – Plattform zur Präsentation und Freigabe von 3D-Modellen, unterstützt viele CAD-Formate und ermöglicht direkte Einbettung im Browser.  \n6. 3D Repo – Cloud-basierte Lösung für die Zusammenarbeit und Visualisierung von BIM- und CAD-Daten mit Fokus auf Sicherheit und Skalierbarkeit.  \n7. Siemens Teamcenter Visualize – Spezialisiert auf die Visualisierung großer Produkt- und Bauteilmodelle mit integrierter Datenverwaltung.  \n8. Dassault Systèmes 3DEXPERIENCE – Umfassende Plattform mit leistungsstarker Browser-Visualisierung für CAD- und BIM-Daten im Unternehmen.",
+ "sicht|10815a1998d99c72": "1. Siemens AG – Anbieter von Teamcenter und NX mit integrierter 3D-Visualisierung für die Fertigungsplanung.  \n2. Dassault Systèmes – Entwickler von 3DEXPERIENCE und SOLIDWORKS mit leistungsstarker 3D-Visualisierung für Produktentwicklung und Fertigung.  \n3. Autodesk – Bietet Fusion 360 und Navisworks für 3D-Visualisierung, Simulation und Zusammenarbeit in der Fertigungsindustrie.  \n4. PTC – Anbieter von Creo und Vuforia für 3D-Modellierung und Augmented Reality in der Fertigungsplanung.  \n5. Ansys – Spezialist für Simulation und 3D-Visualisierung von Produktverhalten unter realen Bedingungen.  \n6. Hexagon Manufacturing Intelligence – Bietet 3D-Scanning- und Visualisierungslösungen für Qualitätssicherung in der Fertigung.  \n7. Siemens Digital Industries Software – Mit Tecnomatix für 3D-Visualisierung von Produktionsprozessen und Fertigungsstraßen.  \n8. SAP – Anbieter von SAP Digital Manufacturing Cloud mit 3D-Visualisierung für die Planung und Überwachung von Fertigungsprozessen.",
+ "luecken|b449db12711b1ad60230": {
+  "positionierung": "Threedy stands as a strong contender in browser-based, real-time 3D visualization for industrial workflows, matching competitors in core capabilities like cloud delivery, security, and PLM integration. While most rivals emphasize broad enterprise ecosystems and AI-driven workflows, Threedy differentiates through its focus on instant, secure access to large CAD data without CAD licenses or conversions—positioning itself as a lightweight, scalable infrastructure layer for digital twins and collaboration.",
+  "empfehlungen": [
+   {
+    "titel": "Highlight real-time streaming of million-part assemblies",
+    "prioritaet": "hoch",
+    "art": "beleg",
+    "begruendung": "Only 4 competitors (Vertex Software, Tech Soft 3D, PTC Creo View, Dassault 3DEXPERIENCE) mention 'streaming large data' in their messaging, and only Threedy explicitly states 'million-part CAD assemblies' in its own messaging. This is a unique, high-impact proof point.",
+    "empfehlung": "Add a dedicated proof point on the homepage and in product pages: 'Stream million-part CAD assemblies live from PLM to any browser—no exports, no conversions, no CAD seats.'",
+    "beispiel": "Stream million-part CAD assemblies live from your PLM to any browser—no exports, no conversions, no CAD seats."
+   },
+   {
+    "titel": "Showcase AI agent capabilities with real use cases",
+    "prioritaet": "hoch",
+    "art": "botschaft",
+    "begruendung": "Competitors like NVIDIA Omniverse, Siemens, and Dassault 3DEXPERIENCE are actively promoting 'agentic 3D' and AI-driven workflows in press coverage. Threedy mentions AI experimentation but lacks concrete messaging.",
+    "empfehlung": "Create a dedicated section on the website titled 'Agentic 3D: AI Agents for Real-Time 3D Workflows' with use cases like automated design review or anomaly detection in CAD data.",
+    "beispiel": "Agentic 3D: AI agents that analyze, annotate, and act on live CAD data in your browser—no code, no delays."
+   },
+   {
+    "titel": "Add a 'Test Version' CTA on the homepage",
+    "prioritaet": "hoch",
+    "art": "cta",
+    "begruendung": "All major competitors (Tech Soft 3D, PTC Creo View, NVIDIA Omniverse) offer a 'test version' CTA. Threedy currently has 0, while 8 competitors use it—this is a key conversion lever.",
+    "empfehlung": "Add a prominent 'Try instant3Dhub Free' CTA button on the homepage, linked to a no-credit-card trial with access to live CAD streaming.",
+    "beispiel": "Try instant3Dhub Free – Stream live CAD in your browser, no credit card required."
+   },
+   {
+    "titel": "Publish customer proof points with named enterprises",
+    "prioritaet": "hoch",
+    "art": "beleg",
+    "begruendung": "Competitors like Vertex Software and Tech Soft 3D use strong customer proof points (e.g., '350,000+ enterprise users', 'Powering Bentley’s Construction Modeling'). Threedy has 15 customer mentions but lacks named enterprise clients.",
+    "empfehlung": "Add a section on the homepage with 3–5 named enterprise customers (e.g., 'Used by [Company X] in automotive design') and include a testimonial quote.",
+    "beispiel": "Used by a leading European automotive OEM to accelerate design reviews across 12 global sites."
+   },
+   {
+    "titel": "Create a dedicated 'Enterprise Integration' page",
+    "prioritaet": "mittel",
+    "art": "thema",
+    "begruendung": "Competitors like Vertex Software, Tech Soft 3D, and PTC Creo View emphasize PLM integration and API access in their messaging. Threedy has strong PLM integration but lacks a dedicated page to showcase it.",
+    "empfehlung": "Build a new page titled 'Seamless PLM Integration' with technical details, integration partners (e.g., Catena-X), and API documentation links.",
+    "beispiel": "Integrate instant3Dhub with your PLM in hours—not weeks—with native support for Teamcenter, Windchill, and 3DEXPERIENCE."
+   },
+   {
+    "titel": "Add a 'Service & Support' section with SLAs",
+    "prioritaet": "mittel",
+    "art": "thema",
+    "begruendung": "Only 4 competitors (Vertex Software, Tech Soft 3D, PTC Creo View, Dassault 3DEXPERIENCE) mention service and maintenance in their messaging. Threedy has low coverage here despite offering it.",
+    "empfehlung": "Create a new page titled 'Enterprise Support & Service' with SLAs, onboarding timelines, and 24/7 support details.",
+    "beispiel": "Enterprise-grade support: 24/7 SLA-backed service with dedicated account managers for EU and US customers."
+   },
+   {
+    "titel": "Use '3D Viewer' and 'CAD Data Sharing' keywords in content",
+    "prioritaet": "mittel",
+    "art": "keyword",
+    "begruendung": "These keywords are used by 4–6 competitors (e.g., Vertex Software, Tech Soft 3D, KISTERS) but are missing from Threedy’s current content and SEO strategy.",
+    "empfehlung": "Optimize product and landing pages with '3D viewer' and 'CAD data sharing' in headlines, meta descriptions, and body copy.",
+    "beispiel": "The fastest browser-based 3D viewer for CAD data sharing—no installations, no conversions."
+   },
+   {
+    "titel": "Publish a 'Use Case' video series for manufacturing",
+    "prioritaet": "niedrig",
+    "art": "cta",
+    "begruendung": "Competitors like Tech Soft 3D and NVIDIA Omniverse use video content to demonstrate workflows. Threedy has 3 videos but lacks a focused series on manufacturing use cases.",
+    "empfehlung": "Create a 3-part video series titled 'How Manufacturing Teams Use instant3Dhub' showing real workflows in design review, production planning, and supplier collaboration.",
+    "beispiel": "Watch how a German automotive supplier reduced design review time by 60% using instant3Dhub."
+   }
+  ],
+  "nicht_verfolgen": [
+   {
+    "luecke": "Fertigung und Produktion",
+    "grund": "Threedy’s core strength is data access and visualization, not production execution. Competitors like Siemens and NVIDIA focus on production AI, which is outside Threedy’s current product scope."
+   },
+   {
+    "luecke": "Nachhaltigkeit",
+    "grund": "No competitor mentions sustainability in messaging, and Threedy has no public data or proof points in this area. It does not align with Threedy’s current product focus on data delivery."
+   },
+   {
+    "luecke": "Vertrieb und Marketing",
+    "grund": "Threedy’s B2B sales model relies on technical differentiation and enterprise integration, not broad marketing campaigns. Competitors with high coverage in this area (e.g., PTC, Dassault) operate at a different scale and channel mix."
+   }
+  ]
  }
 }

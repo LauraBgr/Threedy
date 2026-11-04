@@ -1,6 +1,6 @@
 {
  "datum": "2026-11-04",
- "seiten": 24,
+ "seiten": 30,
  "fehler": [
   {
    "firma": "Threedy",
@@ -16,122 +16,57 @@
  "aenderungen": [
   {
    "firma": "Threedy",
-   "url": "https://threedy.io/",
+   "url": "https://www.threedy.io/pricing",
    "art": "neu erfasst"
   },
   {
    "firma": "Threedy",
-   "url": "https://www.threedy.io/3d-visualization",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/instant-visualization",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/product/instant3dhub",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/product/instant3dhub-lkd",
+   "url": "https://www.threedy.io/customer-stories/feature-sneak-peek-xr-red-green-compare",
    "art": "neu erfasst"
   },
   {
    "firma": "Vertex Software",
-   "url": "https://vertex3d.com/",
+   "url": "https://vertex3d.com/solutions/aftermarket-parts",
    "art": "neu erfasst"
   },
   {
    "firma": "Vertex Software",
-   "url": "https://vertex3d.com/products",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/service",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/supplier-rfq",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/factory-floor",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/products/vertex-connect",
+   "url": "https://vertex3d.com/solutions/customer-experience",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/",
+   "url": "https://www.techsoft3d.com/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/solutions/",
+   "url": "https://www.techsoft3d.com/de/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/",
+   "url": "https://www.techsoft3d.com/fr/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/enterprise/product-lifecycle-management/",
+   "url": "https://www.techsoft3d.com/es/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/cam/",
+   "url": "https://www.techsoft3d.com/ko/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
    "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/cpq/",
+   "url": "https://www.techsoft3d.com/pt/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   },
   {
-   "firma": "KISTERS 3DViewStation",
-   "url": "https://viewer.kisters.de/en/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "KISTERS 3DViewStation",
-   "url": "https://viewer.kisters.de/en/products/3dviewstation-product-family.html",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "PTC Creo View",
-   "url": "https://www.ptc.com/en/products/creo/creo-view",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "PTC Creo View",
-   "url": "https://www.ptc.com/de/products/creo/creo-view",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Siemens Teamcenter Visualization",
-   "url": "https://plm.sw.siemens.com/en-US/teamcenter/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Dassault 3DEXPERIENCE",
-   "url": "https://www.3ds.com/3dexperience",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "NVIDIA Omniverse",
-   "url": "https://www.nvidia.com/en-us/omniverse/",
+   "firma": "Tech Soft 3D",
+   "url": "https://www.techsoft3d.com/ja-jp/enterprise/spinfire-insight/pricing/",
    "art": "neu erfasst"
   }
  ]

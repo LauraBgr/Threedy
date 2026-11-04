@@ -1,0 +1,307 @@
+{
+ "synera": {
+  "name": "Synera",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "AI-powered engineering co-worker with CAD visualization",
+  "begruendung": "Synera's focus on AI-driven engineering workflows with integrated CAD visualization and its use of Tech Soft 3D's HOOPS AI toolkit indicates a strong overlap with Threedy's use cases in industrial AI and 3D data interaction, particularly in digital twin and design collaboration scenarios.",
+  "schlagwoerter": [
+   "agentic AI",
+   "engineering co-worker",
+   "CAD visualization",
+   "AI add-in"
+  ],
+  "quellen": [
+   {
+    "titel": "Synera Names Ben Hesseldieck Head of Engineering, Advances Agentic AI Vision for Global Product Manufacturing",
+    "link": "https://www.morningstar.com/news/business-wire/20261001266558/synera-names-ben-hesseldieck-head-of-engineering-advances-agentic-ai-vision-for-global-product-manufacturing",
+    "datum": "2026-10-01",
+    "quelle": "Morningstar%2c Inc."
+   },
+   {
+    "titel": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjBZTy1pU3lvd0JYdHg1YXJiT2dyZ1pXY0RXd2NScW5PeUFMaXRZUXRXaGU2ZG41cGlYdUFxbkI3VHFLaExKblBPc3pIdE9DQm1kQ0NlYjd5R1hRN2NDbFR4N0hkQUxHWG9Uc09Fb0ZEVHhwanQ4TUhOR2YyelM2VVRYa1BqZm9kT25zcW4xNUpKc200SjVyTnFpWlV3TnFXUU5Oa1ktVGlaWUVzVy1VdDVXMnlBTDRreHdBVmUwX2dBckk?oc=5",
+    "datum": "2026-07-14",
+    "quelle": "Business Wire"
+   },
+   {
+    "titel": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjBZTy1pU3lvd0JYdHg1YXJiT2dyZ1pXY0RXd2NScW5PeUFMaXRZUXRXaGU2ZG41cGlYdUFxbkI3VHFLaExKblBPc3pIdE9DQm1kQ0NlYjd5R1hRN2NDbFR4N0hkQUxHWG9Uc09Fb0ZEVHhwanQ4TUhOR2YyelM2VVRYa1BqZm9kT25zcW4xNUpKc200SjVyTnFpWlV3TnFXUU5Oa1ktVGlaWUVzVy1VdDVXMnlBTDRreHdBVmUwX2dBckk?oc=5",
+    "datum": "2026-07-14",
+    "quelle": "Business Wire"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "aufgenommen",
+  "erwaehnungen": 3,
+  "website": ""
+ },
+ "visualcomponents": {
+  "name": "Visual Components",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "FactoryLens – 3D manufacturing simulation with NVIDIA-powered visualization",
+  "begruendung": "Visual Components' FactoryLens delivers realistic 3D manufacturing simulations with real-time visualization, directly overlapping with Threedy's industrial use cases in digital twins, production planning, and service visualization.",
+  "schlagwoerter": [
+   "3D manufacturing simulations",
+   "NVIDIA-powered",
+   "visualization tool"
+  ],
+  "quellen": [
+   {
+    "titel": "Visualization tool delivers realistic 3D manufacturing simulations",
+    "link": "https://www.thefabricator.com/thefabricator/product/cadcamsoftware/visualization-tool-delivers-realistic-3d-manufacturing-simulations",
+    "datum": "2026-10-28",
+    "quelle": "The Fabricator"
+   },
+   {
+    "titel": "Visual Components launches Nvidia-powered FactoryLens for industrial digital twins",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1J6U3ZXUDdZSWc4ZnRzYklWVXU4YmJDdU1Uc2FXbTRwS3FIcUwxaVYyVEJMU2lIV25xNkdJRnpiUnIyNzJ4NmdTbGtPbmdyTkVJVlNnWnJqcEZKdzNhdVd1QWQxUG9VajEwUldkWWFfX3VLbHpXUElkVG5Mcm5IOWJvM0ZQcFRvelpwV0NVeDVsLXdYTTFFNVp5MmI3N0tqYWY2TC0zN195ekZZVEMwMUNLWnZQZkM0cV82dzFlc2hFRld3bVVSb1FYcWQzTE9Kalp6WVRR?oc=5",
+    "datum": "2026-09-28",
+    "quelle": "Robotics & Automation News"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "aufgenommen",
+  "erwaehnungen": 2,
+  "website": ""
+ },
+ "tripoai": {
+  "name": "Tripo AI",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "Tripo Agentic Canvas – AI agent for 3D workflow execution",
+  "begruendung": "Tripo AI's Agentic Canvas enables AI-driven 3D workflow automation, which aligns with Threedy's 'Agentic 3D' vision, particularly in automating design, review, and configuration tasks using AI agents on 3D data.",
+  "schlagwoerter": [
+   "Agentic Canvas",
+   "AI agent",
+   "3D workflows",
+   "node-based"
+  ],
+  "quellen": [
+   {
+    "titel": "Tripo AI Unveils Agentic Canvas to Make AI 3D More Accessible and Scalable",
+    "link": "https://www.prnewswire.com/news-releases/tripo-ai-unveils-agentic-canvas-to-make-ai-3d-more-accessible-and-scalable-302926715.html",
+    "datum": "2026-11-02",
+    "quelle": "PR Newswire"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "ltservices": {
+  "name": "L&T Technology Services",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "AgenticIQ™ – end-to-end agentic AI platform for engineering and manufacturing",
+  "begruendung": "L&T Technology Services' launch of AgenticIQ for engineering and manufacturing suggests a strategic move toward AI-driven product development, potentially integrating 3D data visualization and collaboration—core areas of Threedy’s platform.",
+  "schlagwoerter": [
+   "AgenticIQ",
+   "agentic AI platform",
+   "engineering",
+   "manufacturing"
+  ],
+  "quellen": [
+   {
+    "titel": "L&T Technology Services Launches AgenticIQ™, an End-to-End Agentic AI Platform for Engineering, Manufacturing and Customer Experience",
+    "link": "https://www.businesswire.com/news/home/20260810580127/en/LT-Technology-Services-Launches-AgenticIQ-an-End-to-End-Agentic-AI-Platform-for-Engineering-Manufacturing-and-Customer-Experience",
+    "datum": "2026-08-09",
+    "quelle": "Business Wire"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "aveva": {
+  "name": "AVEVA",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "Lifecycle digital twin architecture with NVIDIA integration",
+  "begruendung": "AVEVA’s collaboration with NVIDIA to build lifecycle digital twin architectures for large-scale AI factories indicates a strong focus on industrial 3D visualization and data integration, directly competing with Threedy’s digital twin and industrial AI use cases.",
+  "schlagwoerter": [
+   "digital twin architecture",
+   "NVIDIA",
+   "industrial intelligence",
+   "gigawatt-scale AI factories"
+  ],
+  "quellen": [
+   {
+    "titel": "AVEVA develops lifecycle digital twin architecture that delivers industrial intelligence for gigawatt-scale AI factories with Nvidia",
+    "link": "https://www.dqindia.com/esdm/aveva-develops-lifecycle-digital-twin-architecture-that-delivers-industrial-intelligence-for-gigawatt-scale-ai-factories-with-nvidia-11223286",
+    "datum": "2026-03-18",
+    "quelle": "Dataquest"
+   },
+   {
+    "titel": "AVEVA develops a new lifecycle digital twin architecture that delivers industrial intelligence for gigawatt-scale AI Factories accelerated by NVIDIA",
+    "link": "https://www.albawaba.com/business/pr/aveva-develops-new-lifecycle-digital-1623943",
+    "datum": "2026-03-17",
+    "quelle": "Albawaba.com English"
+   },
+   {
+    "titel": "AVEVA Develops Lifecycle Digital Twin Architecture for Gigawatt-Scale AI Factories: Collaboration with NVIDIA",
+    "link": "https://www.arcweb.com/blog/aveva-develops-lifecycle-digital-twin-architecture-gigawatt-scale-ai-factories-collaboration",
+    "datum": "2026-03-17",
+    "quelle": "arcweb"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "aufgenommen",
+  "erwaehnungen": 6,
+  "website": "http://www.aveva.com/"
+ },
+ "relexsolutions": {
+  "name": "RELEX Solutions",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "Agentic AI platform for orchestrating the value chain",
+  "begruendung": "RELEX’s agentic AI platform aims to connect systems across the value chain, which could include 3D data workflows and digital twin integration, making it a potential competitor in industrial AI and digital twin orchestration.",
+  "schlagwoerter": [
+   "agentic AI platform",
+   "orchestrate the value chain",
+   "Open platform"
+  ],
+  "quellen": [
+   {
+    "titel": "RELEX Advances Agentic AI Platform to Orchestrate the Value Chain",
+    "link": "https://www.prnewswire.com/news-releases/relex-advances-agentic-ai-platform-to-orchestrate-the-value-chain-302926381.html",
+    "datum": "2026-11-02",
+    "quelle": "PR Newswire"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "deltaushers": {
+  "name": "Delta Ushers",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "AI digital twins based on NVIDIA Omniverse",
+  "begruendung": "Delta Ushers' deployment of AI digital twins using NVIDIA Omniverse for building automation and manufacturing aligns with Threedy’s industrial digital twin use cases, particularly in service and facility management.",
+  "schlagwoerter": [
+   "AI digital twins",
+   "NVIDIA Omniverse",
+   "building automation",
+   "smart manufacturing"
+  ],
+  "quellen": [
+   {
+    "titel": "Delta Ushers a New Era of AI Digital Twins based on NVIDIA Omniverse at NVIDIA GTC with Real Applications for its Building Automation and Smart Manufacturing Solutions",
+    "link": "https://finance.yahoo.com/news/delta-ushers-era-ai-digital-203500774.html",
+    "datum": "2026-03-16",
+    "quelle": "Yahoo Finance"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "schneiderelectric": {
+  "name": "Schneider Electric",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 4,
+  "produkt": "NVIDIA Omniverse DSX Blueprint for AI factories",
+  "begruendung": "Schneider Electric’s use of NVIDIA Omniverse DSX to build AI-powered digital twins in industrial environments directly competes with Threedy’s digital twin and AI-driven 3D visualization applications.",
+  "schlagwoerter": [
+   "NVIDIA Omniverse DSX Blueprint",
+   "AI factory",
+   "digital twin",
+   "Immersive Twin"
+  ],
+  "quellen": [
+   {
+    "titel": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment",
+    "link": "https://markets.businessinsider.com/news/stocks/schneider-electric-nscale-and-start-campus-bring-the-nvidia-omniverse-dsx-blueprint-into-a-live-ai-factory-environment-1036670716",
+    "datum": "2026-10-27",
+    "quelle": "Markets Insider"
+   },
+   {
+    "titel": "How are Schneider Electric, Nscale and Start Campus using NVIDIA digital twin technology to develop AI data centers?",
+    "link": "https://www.msn.com/en-us/technology/iot/how-are-schneider-electric-nscale-and-start-campus-using-nvidia-digital-twin-technology-to-develop-ai-data-centers/ar-AA2gbpdn",
+    "datum": "2026-10-27",
+    "quelle": "InvestorsHub on MSN"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "aufgenommen",
+  "erwaehnungen": 6,
+  "website": "http://www.schneider-electric-dms.com"
+ },
+ "nvidia": {
+  "name": "NVIDIA",
+  "art": "partner",
+  "region": "USA",
+  "gefahr": 3,
+  "produkt": "Omniverse and Omniverse Libraries for industrial digital twins",
+  "begruendung": "NVIDIA is a key technology partner for many industrial digital twin platforms, including Dassault Systèmes, AVEVA, and Schneider Electric, and its Omniverse ecosystem enables 3D visualization and AI workflows that could be leveraged by competitors to challenge Threedy.",
+  "schlagwoerter": [
+   "NVIDIA Omniverse",
+   "digital twin",
+   "Omniverse DSX",
+   "RTX Sensor Simulation"
+  ],
+  "quellen": [
+   {
+    "titel": "TCS and Volvo explore Physical AI for adaptive industrial robotics with NVIDIA Omniverse Libraries",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMk83eTFPT01pYnZHaDVZTlVneWk3OEhmQnZBNEdSSDNKdWppRS1TLU1wNUhxdWMzb1BRYzBHU2F0ekFleDlaYW1ySTNKTmFqbEp0d3V3dHVSMzBNOXVuM2RIQlBrdTg2eXM5X1N1ZXN1Rjdva0ZnUjk4MFFDa0RiemxaOWdaTGY4RjhDOHN6SGlGbWtJbDdr?oc=5",
+    "datum": "2026-10-28",
+    "quelle": "Tata Consultancy Services"
+   },
+   {
+    "titel": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment",
+    "link": "https://markets.businessinsider.com/news/stocks/schneider-electric-nscale-and-start-campus-bring-the-nvidia-omniverse-dsx-blueprint-into-a-live-ai-factory-environment-1036670716",
+    "datum": "2026-10-27",
+    "quelle": "Markets Insider"
+   },
+   {
+    "titel": "How are Schneider Electric, Nscale and Start Campus using NVIDIA digital twin technology to develop AI data centers?",
+    "link": "https://www.msn.com/en-us/technology/iot/how-are-schneider-electric-nscale-and-start-campus-using-nvidia-digital-twin-technology-to-develop-ai-data-centers/ar-AA2gbpdn",
+    "datum": "2026-10-27",
+    "quelle": "InvestorsHub on MSN"
+   },
+   {
+    "titel": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOENhcDF2TER4WG14MXBkMmlJYm1JR0xpUUlYajJudUhqV0VxN2d0a3FaeTNHNXR6X2pKOVZwVHNLd0VRdUE4QzVJNHZ2aVRZenVPN0dMcXJZb1ZKWERFdVVoQWY1ZlpKdVlUTDhOcURCNDhoU2tuYjJZb0E3eUFfVTVDcjFKd2dZM3JJQzdkak9GbXlJZkFoYXhBNUxGdE55RXVGVEZXQQ?oc=5",
+    "datum": "2026-10-21",
+    "quelle": "NVIDIA Developer"
+   },
+   {
+    "titel": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWU1MdmtIaFVyYU56aXRGWk1JTk9QSXhVcWtUSlB6MDJUdlhvY0ZzajdQR2pGNE1UWmEwcWlIYVZ5X1hCTzRFQ00yY0NCUDhrdjc3ZGljWHJuLXZiT0FWMU1wUV8tY1kyNmpDYk5JWDgwZG5BekpzOENFYWxOUmdHSFc2UXR3dWNDZXc?oc=5",
+    "datum": "2026-10-21",
+    "quelle": "NVIDIA Blog"
+   }
+  ],
+  "erstmals": "2026-11-04",
+  "zuletzt": "2026-11-04",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 34
+ }
+}

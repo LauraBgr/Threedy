@@ -3,32 +3,165 @@
  "abgerufen": "2026-11-04",
  "artikel": [
   {
+   "titel": "Vertex Software",
+   "link": "https://github.com/Vertexvis",
+   "quelle": "GitHub",
+   "datum": "2026-11-02",
+   "auszug": "Vertex allows you to easily integrate 3D product data into your business applications using Vertex's distributed cloud rendering ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Software\" 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex Introduces Vertex Sōl, a Connected, AI-Powered Tax and Compliance Experience",
+   "link": "https://www.cpapracticeadvisor.com/2026/10/26/vertex-introduces-vertex-sol-a-connected-ai-powered-tax-and-compliance-experience/192535/",
+   "quelle": "CPA Practice Advisor",
+   "datum": "2026-10-26",
+   "auszug": "Vertex Sōl is a connected compliance system that brings intelligence, workflows, decisions, and evidence together across the tax lifecycle.",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex, Inc. (VERX) Stock: Unveils Vertex Sōl to Transform Tax Compliance With AI",
+   "link": "https://blockonomi.com/vertex-inc-verx-stock-unveils-vertex-sol-to-transform-tax-compliance-with-ai/",
+   "quelle": "Blockonomi",
+   "datum": "2026-10-26",
+   "auszug": "Vertex, Inc. (VERX) unveils Vertex Sōl, an AI-driven tax compliance platform that connects reporting, audit records, and decisions as shares fall 1.49%.",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex, Inc. Introduces Vertex Sol, A Connected, Ai-Powered Tax and Compliance Experience",
+   "link": "https://www.marketscreener.com/news/vertex-inc-introduces-vertex-sol-a-connected-ai-powered-tax-and-compliance-experience-ce785fdadd8af122",
+   "quelle": "MarketScreener",
+   "datum": "2026-10-26",
+   "auszug": "Vertex, Inc. introduced Vertex Sol?, a connected compliance experience that brings intelligence, workflows, decisions, and evidence together across the tax lifecycle. The transaction is the atomic ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex Introduces Vertex Sol™, a Connected, AI-Powered Tax and Compliance Experience",
+   "link": "https://www.tmcnet.com/usubmit/2026/10/26/10469801.htm",
+   "quelle": "TMCnet",
+   "datum": "2026-10-25",
+   "auszug": "(NASDAQ:VERX) (\"Vertex\" or the \"Company\"), the Decision-to-Defense™ global indirect tax and compliance company, today introduced Vertex Sol™, a connected compliance experience that brings intelligence ...",
    "region": "USA",
-   "titel": "Spotlight on Industry Solutions: Discover AWS Partner Offerings Through the “This is My Offer” Series - Amazon Web Services (AWS)",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Industrial AI Has a Product-Context Problem",
+   "link": "https://vertex3d.com/resources/blog/industrial-ai-has-a-product-context-problem",
+   "quelle": "eigene Website",
+   "datum": "2026-10-20",
+   "auszug": "Why do manufacturing AI initiatives struggle to deliver ROI? Explore how fragmented product data and missing context limit AI-driven decisions.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Authoritative Product Definition Doesn't Live in One System",
+   "link": "https://vertex3d.com/resources/blog/authoritative-product-definition",
+   "quelle": "eigene Website",
+   "datum": "2026-09-23",
+   "auszug": "Explore why authoritative product definition spans CAD, PLM, ERP, MES, quality, and service systems—and what that means for the digital thread.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "The Digital Thread Breaks at File Export: Extending Governance Across the Lifecycle",
+   "link": "https://vertex3d.com/resources/blog/the-digital-thread-breaks-at-file-export-extending-governance-across-the-lifecycle",
+   "quelle": "eigene Website",
+   "datum": "2026-08-11",
+   "auszug": "The digital thread breaks at file export, separating product definition from PLM governance. Learn why manufacturers are shifting from file distribution to governed access beyond engineering.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "File Export Breaks PLM Governance A New Model for Supplier Collaboration with Teamcenter",
+   "link": "https://vertex3d.com/resources/blog/file-export-breaks-plm-governance",
+   "quelle": "eigene Website",
+   "datum": "2026-07-07",
+   "auszug": "Why file export breaks PLM continuity in supplier collaboration and how manufacturers are rethinking product definition access.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Why Supplier Collaboration Keeps Failing—and Tools Aren’t the Problem",
+   "link": "https://vertex3d.com/resources/blog/why-supplier-collaboration-keeps-failing-and-tools-arent-the-problem",
+   "quelle": "eigene Website",
+   "datum": "2026-03-26",
+   "auszug": "Why supplier collaboration fails: file-based workflows break PLM governance, causing risk, delays, and misalignment.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "What Recent Defense RFIs Reveal About Fixing Delivery",
+   "link": "https://vertex3d.com/resources/blog/what-recent-defense-rfis-reveal-about-fixing-delivery",
+   "quelle": "eigene Website",
+   "datum": "2026-03-06",
+   "auszug": "Recent defense RFIs reveal how delivery pressure is reshaping supplier collaboration—and why real-time, fileless 3D access is now critical.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Localized geometry detection in scale-free random graphs | Journal of Applied Probability",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTTBkdFUyTEFBNURQSGgzU1lLXzhQTXhFd2RmMi1ETnd4eklpWTlMaExqQ0VLNzBtVEN3ZW5UMnpJb1NGcnNJbXZSVncwcGZNU2RzRHk2OXQyckJwYkNwcUZUd3NYUTJabnFRZlU3RVVvTUw4eDRSSzE3MW5NMGxlRVlnT0FUYUNhVFZLTlZMeGRoZ3ZUQU9TZmRIYXhIN3VlT3pNZ1hKVW44Qm54eXc0U3ZMcXZmYmd4ZFZGOWZQWFJxcmZjSU56NjJ3TlUtY3U2NXJISlktdHlIUnN4NEp6TFMzQ2RQeWtfQU5WNVlfbWlidUhDSHNjXzZzWQ?oc=5",
+   "quelle": "Cambridge University Press & Assessment",
+   "datum": "2026-02-10",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Spotlight on Industry Solutions: Discover AWS Partner Offerings Through the “This is My Offer” Series",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUVBNTdCTmJZNC1JczVTZ3hkS1RFMHgzZVZBRUtHNlNHSk8zb0FkcWI3eV9xYnVZNzAxcWpub1g3dWZ4WjNISldkX3dmR2pva2NaQjB6eVV1RVBtd1V4OG5rMS1IeEpvZXJmdm5qNnI5OWZFdjIxbF9icDRLdEpWbUswa0hrdE9uYW9PeW5IUk1RWVlpZ2Vhb3dQcFg4TXh6dFhtSHdYTHFKRHNpSlVOOTBodjJwR2x1UVJZQkdHdk56Z2NTX3RWLTMwVDc?oc=5",
    "quelle": "Amazon Web Services (AWS)",
-   "datum": "2024-12-16"
+   "datum": "2024-12-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Vertex Software\" 3D",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "3D Visualization Software To Drive Industry 4.0 Initiatives at John Deere - Metrology and Quality News",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmNuUjZGdHlBZl9qSWtyZ19YZnlKZlZ6eWdMX3hJd1hyamhEcmVNWWQ1ZFlQVmRiVW12X3d5UWg3b3RQSmxVQlFfaHpOSl9qS0gzRW93X0l0WkJqT2x1eTNjVEpsOHhfd2pULThIWW1tUzFOa0ZzX1R6MUlqQTZKQUtQc3BGd0hKdk5mYl9sU3d3T3lKU3VhV1kwcUJWUQ?oc=5",
    "quelle": "Metrology and Quality News",
-   "datum": "2023-08-15"
+   "datum": "2023-08-15",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Lift up the design game with Vertex G4Plant - The Australian Pipeliner",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yT1VZN1V2LWZPX3N3eE55SkI4MVJHbXR5bWFOSGxkV2d0U3o0OGVSdWtDdW01dVRzRmN5VU9IbUhuSjZDZDVnc3VCcFUwTnROWHJoenpNTW8yeDdTTUF6M01OdVppOTkweVBFUDVwcjNWSGFpWUFWWlhhTE1GZw?oc=5",
    "quelle": "The Australian Pipeliner",
-   "datum": "2023-06-05"
+   "datum": "2023-06-05",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Vertex Software Enables Digital Twins for Teams - Engineering.com",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdldYS19Ud3Awc3dqRFN5ZFJsdlYtbXhncjJKaFNMLUVLVUlzb3ZzcE5ISk41U3FCRktjS1hqZWgtVnFDYlloWjFwYUZIN194Z3IwbjM5ZjI1ZXRiT2NLbWhjLXl5WW5iNnExOU4xQVVLYlQxdnRVWXFocWZRdXBOZVR3?oc=5",
    "quelle": "Engineering.com",
-   "datum": "2019-11-05"
+   "datum": "2019-11-05",
+   "erstmals": "2026-11-04"
   }
  ]
 }

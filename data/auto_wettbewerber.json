@@ -1,0 +1,50 @@
+[
+ {
+  "name": "AVEVA",
+  "region": "USA",
+  "start": "http://www.aveva.com/",
+  "sitemap": true,
+  "news": [
+   "\"AVEVA\""
+  ],
+  "automatisch": true,
+  "aufgenommen": "2026-11-04",
+  "grund": "Gefahr 4/5, 6 Erwähnungen: AVEVA’s collaboration with NVIDIA to build lifecycle digital twin architectures for large-scale AI factories indicates a strong focus on industrial 3D visualization and data integration, directly competing with Threedy’s digital twin and industrial AI use cases."
+ },
+ {
+  "name": "Schneider Electric",
+  "region": "USA",
+  "start": "http://www.schneider-electric-dms.com",
+  "sitemap": true,
+  "news": [
+   "\"Schneider Electric\""
+  ],
+  "automatisch": true,
+  "aufgenommen": "2026-11-04",
+  "grund": "Gefahr 4/5, 6 Erwähnungen: Schneider Electric’s use of NVIDIA Omniverse DSX to build AI-powered digital twins in industrial environments directly competes with Threedy’s digital twin and AI-driven 3D visualization applications."
+ },
+ {
+  "name": "Synera",
+  "region": "USA",
+  "start": "",
+  "sitemap": false,
+  "news": [
+   "\"Synera\""
+  ],
+  "automatisch": true,
+  "aufgenommen": "2026-11-04",
+  "grund": "Gefahr 4/5, 3 Erwähnungen: Synera's focus on AI-driven engineering workflows with integrated CAD visualization and its use of Tech Soft 3D's HOOPS AI toolkit indicates a strong overlap with Threedy's use cases in industrial AI and 3D data interaction, particularly in digital twin and design collaboration scenarios."
+ },
+ {
+  "name": "Visual Components",
+  "region": "USA",
+  "start": "",
+  "sitemap": false,
+  "news": [
+   "\"Visual Components\""
+  ],
+  "automatisch": true,
+  "aufgenommen": "2026-11-04",
+  "grund": "Gefahr 4/5, 2 Erwähnungen: Visual Components' FactoryLens delivers realistic 3D manufacturing simulations with real-time visualization, directly overlapping with Threedy's industrial use cases in digital twins, production planning, and service visualization."
+ }
+]

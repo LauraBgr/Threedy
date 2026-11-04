@@ -1,0 +1,1317 @@
+{
+ "https://threedy.io/": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "instant 3d visualization",
+   "no software installation",
+   "secure browser-based access",
+   "live cad data access",
+   "ai agents with live 3d data",
+   "single source of truth"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial manufacturing",
+   "engineering",
+   "aerospace",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Make complex 3D data available in real time across departments and devices."
+ },
+ "https://www.threedy.io/3d-visualization": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "instant 3d visualization",
+   "no software installation",
+   "single source of truth",
+   "cloud-native deployment",
+   "secure collaboration",
+   "browser-based access"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial",
+   "manufacturing",
+   "energy",
+   "aerospace"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "demo",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Make 3D visualization instant and interactive for every team in your workflow with instant3Dhub – fast, secure, and without disrupting your IT landscape."
+ },
+ "https://www.threedy.io/instant-visualization": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "instant 3d access",
+   "no cad licenses",
+   "live model streaming",
+   "no conversions needed",
+   "multi cad formats",
+   "browser based"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial equipment",
+   "manufacturing",
+   "engineering"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "instant3Dhub gives every team instant access to live 3D CAD data in any browser. No exports, no conversions, no CAD license required."
+ },
+ "https://www.threedy.io/product/instant3dhub": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "live 3d cad data",
+   "no exports or conversions",
+   "no cad seats",
+   "instant streaming",
+   "single source of truth",
+   "multi-cad formats"
+  ],
+  "branchen": [
+   "automotive",
+   "rail",
+   "industrial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "instant3Dhub streams million-part CAD assemblies live from your PLM to any browser. No exports, no conversions, no CAD seats."
+ },
+ "https://www.threedy.io/product/instant3dhub-lkd": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "live 3d from plm",
+   "no exports or conversions",
+   "instant streaming",
+   "browser-based access",
+   "multi-cad formats",
+   "single source of truth"
+  ],
+  "branchen": [
+   "automotive",
+   "oem",
+   "industrial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "instant3Dhub streams million-part CAD assemblies live from your PLM to any browser. No exports, no conversions, no CAD seats. Trusted by BMW and Porsche."
+ },
+ "https://www.threedy.io/pricing": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "usage-based pricing",
+   "no hidden costs",
+   "unlimited data formats",
+   "unlimited users",
+   "sdk & api access",
+   "technical support"
+  ],
+  "branchen": [],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "preise",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Discover instant3Dhub licensing packages for 3D streaming and collaboration. Usage-based pricing, no hidden costs."
+ },
+ "https://www.threedy.io/customer-stories/feature-sneak-peek-xr-red-green-compare": {
+  "themen": [
+   "ar_vr",
+   "design_review",
+   "service_und_wartung",
+   "digitaler_zwilling",
+   "plm_integration",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "automated deviation detection",
+   "accelerated quality inspection",
+   "step toward semi-automated workflows",
+   "developer empowerment",
+   "real-time validation in ar",
+   "no manual checking required"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial",
+   "manufacturing",
+   "engineering",
+   "construction"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "instant3Dhub's XR Red Green Compare delivers real value in mixed reality use cases."
+ },
+ "https://vertex3d.com/": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "governance-preserving",
+   "secure 3d access",
+   "no file export",
+   "context-aware pixel streaming",
+   "plm authoritative",
+   "enterprise scale integration"
+  ],
+  "branchen": [
+   "manufacturing",
+   "service operations",
+   "automotive",
+   "industrial equipment",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Extend PLM governance without exporting CAD files. Vertex streams secure 3D access across suppliers, apps, and enterprise systems."
+ },
+ "https://vertex3d.com/products": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "no file exports",
+   "preserves plm governance",
+   "secure pixel streaming",
+   "real-time access",
+   "no configuration drift",
+   "enterprise-scale performance"
+  ],
+  "branchen": [
+   "manufacturing",
+   "aerospace",
+   "automotive",
+   "energy",
+   "industrial equipment"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Vertex extends authoritative product definition access beyond engineering without exporting geometry files or introducing new systems of record."
+ },
+ "https://vertex3d.com/solutions/service": {
+  "themen": [
+   "digitaler_zwilling",
+   "service_und_wartung",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "kosten_und_roi",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit"
+  ],
+  "wertversprechen": [
+   "technician productivity",
+   "great customer experiences",
+   "right part first time",
+   "context-aware 3d",
+   "dynamic 3d work instructions",
+   "direct enterprise integration"
+  ],
+  "branchen": [
+   "industrial equipment",
+   "automotive",
+   "aerospace",
+   "energy",
+   "manufacturing"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Enhance efficiency, elevate service quality, and differentiate customer experience with 3D visualization software for field service"
+ },
+ "https://vertex3d.com/solutions/supplier-rfq": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "reduce cost of sales",
+   "accelerate time to market",
+   "secure ip protection",
+   "enable seamless collaboration",
+   "support multiple cad formats",
+   "streamline rfq process"
+  ],
+  "branchen": [
+   "manufacturing",
+   "automotive",
+   "industrial equipment"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "3D Visualization to Simplify the Supplier RFQ Process"
+ },
+ "https://vertex3d.com/solutions/factory-floor": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "fertigung_und_produktion",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "increase yield",
+   "reduce scrap",
+   "real-time access",
+   "no software installation",
+   "stream pixels not files",
+   "as-built = as-ordered"
+  ],
+  "branchen": [
+   "manufacturing",
+   "industrial",
+   "automotive",
+   "aerospace",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "3D visualization on the floor will transform your factory operations into a competitive advantage."
+ },
+ "https://vertex3d.com/products/vertex-connect": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "governed 3d access",
+   "secure collaboration",
+   "no geometry export",
+   "plm authoritative",
+   "instant product access",
+   "contextual coordination"
+  ],
+  "branchen": [
+   "utilities",
+   "manufacturing",
+   "service"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Enable governed 3D access for collaboration, manufacturing, and service workflows without exporting CAD or geometry files."
+ },
+ "https://vertex3d.com/solutions/aftermarket-parts": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "reduce ordering mistakes",
+   "streamline ordering process",
+   "improve dealer support",
+   "secure aftermarket revenue",
+   "protect your ip",
+   "intuitive customer experience"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial equipment",
+   "manufacturing",
+   "energy",
+   "aerospace"
+  ],
+  "cta_typen": [
+   "demo",
+   "kontakt_vertrieb",
+   "video",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Embed 3D visualization in your aftermarket parts ordering experience to ensure customers and dealers find the right parts the first time."
+ },
+ "https://vertex3d.com/solutions/customer-experience": {
+  "themen": [
+   "design_review",
+   "zusammenarbeit",
+   "vertrieb_und_marketing",
+   "digitaler_zwilling",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "hands-on engagement",
+   "real-time collaboration",
+   "reduce sales cycle",
+   "increase close rates",
+   "reduce order errors",
+   "improve trust"
+  ],
+  "branchen": [
+   "manufacturing",
+   "industrial equipment"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "video",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Create engaging and differentiated customer experiences with 3D visualization software."
+ },
+ "https://www.techsoft3d.com/": {
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "kosten_und_roi",
+   "sicherheit_und_datenschutz"
+  ],
+  "wertversprechen": [
+   "unparalleled momentum",
+   "seamless cad access",
+   "faster time to market",
+   "lower risk",
+   "ready-made capabilities",
+   "full value from 3d data"
+  ],
+  "branchen": [
+   "engineering",
+   "aerospace",
+   "automotive",
+   "manufacturing",
+   "industrial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "download"
+  ],
+  "hauptbotschaft": "Whether you’re building an ambitious engineering application or looking for best-in-class tools and apps, we've got you covered"
+ },
+ "https://www.techsoft3d.com/developers/solutions/": {
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "streaming_grosser_daten",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "launch faster",
+   "focus on differentiation",
+   "fast and accurate access",
+   "smooth collaboration",
+   "high-performance simulation",
+   "instant visualization"
+  ],
+  "branchen": [
+   "construction",
+   "manufacturing",
+   "aerospace",
+   "automotive",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo"
+  ],
+  "hauptbotschaft": "Tech Soft 3D’s Software Development Kits (SDKs) power hundreds of leading engineering applications worldwide. Offload core features like data access, 3D visualization, simulation and analysis, and 3D modeling so you can launch faster and focus on what makes your software stand out."
+ },
+ "https://www.techsoft3d.com/developers/industries/": {
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "ar_vr",
+   "fertigung_und_produktion",
+   "ki_und_agenten",
+   "streaming_grosser_daten",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "advanced cad data access",
+   "high-performance visualization",
+   "seamless interoperability",
+   "robust data access",
+   "accelerate innovation",
+   "reduce complexity"
+  ],
+  "branchen": [
+   "aerospace",
+   "automotive",
+   "additive_manufacturing",
+   "shipbuilding",
+   "mining",
+   "geosciences",
+   "plm",
+   "digital_factory",
+   "cae",
+   "eda"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "Discover how Tech Soft 3D SDKs power innovative applications across industries with advanced CAD data access, visualization, and interoperability."
+ },
+ "https://www.techsoft3d.com/enterprise/product-lifecycle-management/": {
+  "themen": [
+   "plm_integration",
+   "sdk_und_api",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "vertrieb_und_marketing",
+   "fertigung_und_produktion",
+   "service_und_wartung"
+  ],
+  "wertversprechen": [
+   "seamless data processing",
+   "no workflow disruption",
+   "automated batch processing",
+   "direct cad translation",
+   "secure data control",
+   "lightweight 3d formats"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "industrial equipment",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "kontakt_vertrieb",
+   "dokumentation"
+  ],
+  "hauptbotschaft": "Tech Soft 3D provides CAD data conversion solutions that can be integrated into existing workflows and PLM environments, enabling seamless data processing within controlled workflows."
+ },
+ "https://www.techsoft3d.com/developers/industries/cam/": {
+  "themen": [
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "robust cad access",
+   "real-time 3d visualization",
+   "advanced modeling",
+   "reduce complexity",
+   "faster development",
+   "universal 3d pdf access"
+  ],
+  "branchen": [
+   "manufacturing",
+   "engineering",
+   "industrial automation",
+   "aerospace",
+   "automotive"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "Trusted by industry leaders, Tech Soft 3D’s SDKs give CAM developers robust CAD access, real-time 3D visualization, and advanced modeling to reduce complexity."
+ },
+ "https://www.techsoft3d.com/developers/industries/cpq/": {
+  "themen": [
+   "sdk_und_api",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "digitaler_zwilling",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "best-in-class cad data access",
+   "high-performance visualization",
+   "multi-cad support",
+   "preserve engineering data",
+   "web-based 3d visualization",
+   "seamless integration"
+  ],
+  "branchen": [
+   "manufacturing",
+   "engineering",
+   "automotive",
+   "aerospace",
+   "industrial equipment"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "HOOPS SDKs are here to make that journey easier with best-in-class CAD data access and visualization toolkits."
+ },
+ "https://www.techsoft3d.com/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz"
+  ],
+  "wertversprechen": [
+   "instant access",
+   "enterprise-wide access",
+   "view and interrogate",
+   "export to neutral formats",
+   "support for major cad formats",
+   "no software installation"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "industrial equipment",
+   "energy",
+   "defense"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "testversion",
+   "video",
+   "dokumentation",
+   "download",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Discover SpinFire's Insight's flexible pricing options tailored to meet your business needs."
+ },
+ "https://www.techsoft3d.com/de/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api"
+  ],
+  "wertversprechen": [
+   "unternehmensweiter zugriff",
+   "direkter zugriff auf cad-daten",
+   "keine softwareinstallation",
+   "vollständige analyse",
+   "export in cad-neutrale formate"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrie",
+   "engineering",
+   "manufacturing"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "testversion",
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "Entdecken Sie die flexiblen Preisoptionen von SpinFire Insight, die auf Ihre Geschäftsanforderungen zugeschnitten sind."
+ },
+ "https://www.techsoft3d.com/fr/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "accès instantané à l'échelle entreprise",
+   "visualisation complète des données cao",
+   "export vers des formats neutres",
+   "prise en charge de nombreux formats cad",
+   "collaboration simplifiée",
+   "intégration dans les flux métier"
+  ],
+  "branchen": [
+   "industrie",
+   "ingénierie",
+   "manufacturing",
+   "automotive",
+   "aerospace",
+   "energy"
+  ],
+  "cta_typen": [
+   "demo",
+   "testversion",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "download",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Découvrez les options de tarification flexibles de SpinFire Insight adaptées à vos besoins professionnels."
+ },
+ "https://www.techsoft3d.com/es/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api"
+  ],
+  "wertversprechen": [
+   "visualización completa cad",
+   "exportación multi-formato",
+   "soporte multi-cad",
+   "acceso empresarial",
+   "integración fácil",
+   "análisis y medición"
+  ],
+  "branchen": [],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "testversion",
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "Descubra las opciones de precios flexibles de SpinFire Insight adaptadas para satisfacer las necesidades de su negocio."
+ },
+ "https://www.techsoft3d.com/ko/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "immediate access to cad data",
+   "multi-cad format support",
+   "easy data sharing",
+   "no software installation",
+   "enterprise scalability",
+   "full data analysis"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "engineering",
+   "industrial",
+   "energy"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "download",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "SpinFire Insight의 유연한 가격 옵션을 통해 귀사의 비즈니스 필요에 맞는 적절한 솔루션을 찾으세요."
+ },
+ "https://www.techsoft3d.com/pt/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "acesso instantâneo",
+   "visualização completa",
+   "exportação multi-formato",
+   "suporte a múltiplos cad",
+   "colaboração empresarial",
+   "gestão de dados cad"
+  ],
+  "branchen": [],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "testversion",
+   "preise",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Descubra as opções de preços flexíveis do SpinFire Insight, adaptadas para atender às necessidades do seu negócio."
+ },
+ "https://www.techsoft3d.com/ja-jp/enterprise/spinfire-insight/pricing/": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "即時アクセス",
+   "エンタープライズ全体でのアクセス",
+   "cadデータの共有と再利用",
+   "多様なcadフォーマット対応",
+   "クラウドベースの可視化"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "manufacturing",
+   "energy",
+   "industrial equipment",
+   "construction"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "download",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "SpinFire Insightの柔軟な価格オプションをご確認いただき、貴社のビジネスニーズに合わせたソリューションを見つけましょう。"
+ },
+ "https://viewer.kisters.de/en/": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "fast intuitive viewer",
+   "no training required",
+   "multi cad viewing",
+   "browser based",
+   "easy integration",
+   "high performance"
+  ],
+  "branchen": [
+   "mechanical engineering",
+   "automotive",
+   "aerospace",
+   "defense industry",
+   "plant construction",
+   "petrochemical",
+   "shipbuilding"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "demo",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Use 3D CAD data for everyone – through a fast, intuitive and easy-to-use viewer."
+ },
+ "https://viewer.kisters.de/en/products/3dviewstation-product-family.html": {
+  "themen": [
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "cost-efficient",
+   "multi-cad capable",
+   "fast loading",
+   "no client installation",
+   "secure data access",
+   "easy integration"
+  ],
+  "branchen": [
+   "manufacturing",
+   "automotive",
+   "aerospace",
+   "energy",
+   "industrial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "demo",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Cost-Efficient & MultiCAD-Capable Viewer | 3DViewStation"
+ },
+ "https://www.ptc.com/en/products/creo/creo-view": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "faster design reviews",
+   "no software installation",
+   "single source of truth",
+   "design review",
+   "real-time data access",
+   "multi cad formats"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrial equipment",
+   "electronics",
+   "manufacturing"
+  ],
+  "cta_typen": [
+   "download",
+   "demo",
+   "testversion",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "event",
+   "preise",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "PTC Product View is a simple but powerful enterprise visualization solution for MCAD and ECAD data enabling collaboration across engineering and manufacturing teams."
+ },
+ "https://www.ptc.com/de/products/creo/creo-view": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "plm_integration",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise"
+  ],
+  "wertversprechen": [
+   "einfache visualisierung",
+   "nahezu mühelose zusammenarbeit",
+   "interaktiver zugriff",
+   "einzelne ansicht für alle daten",
+   "schnellere entwurfsprüfungen",
+   "niedrigere kosten"
+  ],
+  "branchen": [
+   "automotive",
+   "aerospace",
+   "industrie",
+   "energie",
+   "fertigung"
+  ],
+  "cta_typen": [
+   "download",
+   "download"
+  ],
+  "hauptbotschaft": "PTC Product View ist eine einfache und zugleich leistungsfähige Visualisierungstechnologie, die eine nahezu mühelose Zusammenarbeit zwischen mehreren lokalen und globalen Entwicklungs-Teams ermöglicht."
+ },
+ "https://plm.sw.siemens.com/en-US/teamcenter/": {
+  "themen": [
+   "digitaler_zwilling",
+   "zusammenarbeit",
+   "plm_integration",
+   "ki_und_agenten",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi",
+   "design_review",
+   "fertigung_und_produktion"
+  ],
+  "wertversprechen": [
+   "single source of truth",
+   "faster decisions with ai",
+   "cloud saas plm",
+   "instant-on for fast time to value",
+   "grow with your business",
+   "digital backbone for global growth"
+  ],
+  "branchen": [
+   "industrial machinery"
+  ],
+  "cta_typen": [
+   "preise",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Connect people and processes throughout your product lifecycle with a single source of data with Siemens Teamcenter product lifecycle management (PLM) software."
+ },
+ "https://www.3ds.com/3dexperience": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "synchronized data as industrial knowledge",
+   "science-grade ai",
+   "faster product development",
+   "single source of truth",
+   "actionable knowledge",
+   "connected data and decisions"
+  ],
+  "branchen": [
+   "aerospace",
+   "automotive",
+   "energy",
+   "manufacturing",
+   "defense",
+   "education"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "event",
+   "dokumentation",
+   "newsletter",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "3DEXPERIENCE brings together virtual companions, collective intelligence and science-grade AI in one unified environment, supporting faster product development."
+ },
+ "https://www.nvidia.com/en-us/omniverse/": {
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "fertigung_und_produktion",
+   "sicherheit_und_datenschutz",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "simulation-ready worlds",
+   "agent-ready workflows",
+   "gpu-accelerated physics",
+   "openusd interoperability",
+   "no replacement of existing tools",
+   "free for development and production"
+  ],
+  "branchen": [
+   "industrial",
+   "automotive",
+   "manufacturing",
+   "robotics",
+   "ai_factory",
+   "energy"
+  ],
+  "cta_typen": [
+   "demo",
+   "testversion",
+   "download",
+   "video",
+   "dokumentation",
+   "event",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Build industrial digital twins and robotics simulation applications using NVIDIA Omniverse, a collection of libraries and microservices."
+ }
+}

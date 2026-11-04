@@ -3,116 +3,337 @@
  "abgerufen": "2026-11-04",
  "artikel": [
   {
+   "titel": "How to Convert CAD to HTML with SpinFire Insight",
+   "link": "https://www.techsoft3d.com/resources/blog/convert-cad-to-html/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "Convert CAD files to HTML with SpinFire Insight and share interactive 3D models that open in any browser, with PMI preserved and no software to install.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "How (and when) to Replace a Legacy CAD Viewer with SpinFire Insight ",
+   "link": "https://www.techsoft3d.com/resources/blog/how-to-replace-a-legacy-cad-viewer-with-spinfire-insight/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "Learn the signs it’s time to replace your CAD viewer, what to look for in a replacement, and how SpinFire Insight can help.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "What Analysis Can Be Done Directly in SpinFire Insight?",
+   "link": "https://www.techsoft3d.com/resources/blog/what-analysis-can-be-done-directly-in-spinfire-insight-/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "How can you analyze CAD data in a viewer? Learn about the design analysis, measurement, and volume analysis tools in SpinFire Insight.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Wie man CAD in HTML mit SpinFire Insight konvertiert ",
+   "link": "https://www.techsoft3d.com/de/resources/blog/convert-cad-to-html/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "Konvertieren Sie CAD-Dateien in HTML mit SpinFire Insight und teilen Sie interaktive 3D-Modelle, die in jedem Browser geöffnet werden können, wobei PMI erhalten bleibt und keine Software installiert werden muss.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Wie (und wann) ein veralteter CAD-Viewer mit SpinFire Insight ersetzt werden kann",
+   "link": "https://www.techsoft3d.com/de/resources/blog/how-to-replace-a-legacy-cad-viewer-with-spinfire-insight/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "Erfahren Sie, wann es Zeit ist, Ihren CAD-Viewer zu ersetzen, was bei einem Ersatz wichtig ist und wie SpinFire Insight helfen kann.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Welche Analysen können direkt in SpinFire Insight durchgeführt werden?",
+   "link": "https://www.techsoft3d.com/de/resources/blog/what-analysis-can-be-done-directly-in-spinfire-insight-/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-04",
+   "auszug": "Wie kann man CAD-Daten in einem Viewer analysieren? Erfahren Sie mehr über die Werkzeuge zur Designanalyse, Messung und Volumenanalyse in SpinFire Insight.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-04"
+  },
+  {
    "region": "USA",
    "titel": "Tech Soft 3D guide to sharing CAD models with secure 3D-PDF - Foro3D",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlZrNzFCSkwzYmV1QVZPNFRGZ3Ria0NRQkI2Vk1zOGVOQ1JhczdKM0YtZHJIdDBwSFo0SWo5RzAzMUJ6Sm5uTmxPVWcxT09nTzc3aVMyN1hzbGVJOUJ3R1psOGxCbVA1YkNvaHVpVTdweGR3ckJpRUZUeTd6QmxYVm1DMm1TSGZCaktyY2l2REFlQkFqSjRNc0ZobzBmaWV4d21ybjFyeFA?oc=5",
    "quelle": "Foro3D",
-   "datum": "2026-10-31"
+   "datum": "2026-10-31",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "EU",
-   "titel": "Tech Soft 3D hebt Zusammenarbeit mit US Farathane hervor: Vereinfachter CAD-Zugriff für die Konstruktion und Fertigung von Kunststoffteilen - PresseBox",
+   "titel": "Tech Soft 3D guide to sharing CAD models with secure 3D-PDF",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTlZrNzFCSkwzYmV1QVZPNFRGZ3Ria0NRQkI2Vk1zOGVOQ1JhczdKM0YtZHJIdDBwSFo0SWo5RzAzMUJ6Sm5uTmxPVWcxT09nTzc3aVMyN1hzbGVJOUJ3R1psOGxCbVA1YkNvaHVpVTdweGR3ckJpRUZUeTd6QmxYVm1DMm1TSGZCaktyY2l2REFlQkFqSjRNc0ZobzBmaWV4d21ybjFyeFA?oc=5",
+   "quelle": "Foro3D",
+   "datum": "2026-10-31",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D hebt Zusammenarbeit mit US Farathane hervor: Vereinfachter CAD-Zugriff für die Konstruktion und Fertigung von Kunststoffteilen",
    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWmhtbG1CU0VYZEppVy1ndTBFWmV2ZXpmRWJBanZVOS14WE1wcTMwN3FJUVFEVkI4clA5ODdYN0pEQ0FMM0dPLTlzX1BUM0dmSHRiazBZb0h6X2VtcGdLWHZ1NXVPYWpCQ1ItN2RHX2c5MUx0Y0F2UW55U1VkbmF1ZWlTZTdYZGdJTG16X0tNdzY5Skp2cnRPNERzVE83OEYyRFF5WEVHOUNDZWtCVVV3bFdkYk5uZkk4eWVuUFNOZ3ZETm1kX1hLNzk3RERaYmEwVkxwdWR2TWtQZEVnZmdHTVlicFhyRUsxQ05rajFfSzA5M3c1MFdjSm5SLVd2Ums3VkhNb1RleDRaR3RMZ2I2WUFnM2k3ME54NGZzY2llcVpiaVNTN0ZMeHJNakxSQVlURlY4c3pn?oc=5",
    "quelle": "PresseBox",
-   "datum": "2026-10-29"
+   "datum": "2026-10-29",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "EU",
    "titel": "Marktgröße für 3D-Rendering- und Visualisierungssoftware [2034] - Fortune Business Insights",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxfMzhWdGozc0ctSGpwQ2wzNW1kUnBHWjNZa2hWelNKSWtLbDkxVVN2U3JhWEN1clRYWm0yNnUyWUlsS0FwOVBOcXU5S0Q0QUlSZzJfZ29GLVRoNm1BYTkweVA0TXhVUlN1T3J4S2JJNkFHU25OM01UVDl2OFNZOGxwQklnYWt0?oc=5",
    "quelle": "Fortune Business Insights",
-   "datum": "2026-10-05"
+   "datum": "2026-10-05",
+   "erstmals": "2026-11-04"
   },
   {
+   "titel": "Marktgröße für 3D-Rendering- und Visualisierungssoftware [2034]",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmxfMzhWdGozc0ctSGpwQ2wzNW1kUnBHWjNZa2hWelNKSWtLbDkxVVN2U3JhWEN1clRYWm0yNnUyWUlsS0FwOVBOcXU5S0Q0QUlSZzJfZ29GLVRoNm1BYTkweVA0TXhVUlN1T3J4S2JJNkFHU25OM01UVDl2OFNZOGxwQklnYWt0?oc=5",
+   "quelle": "Fortune Business Insights",
+   "datum": "2026-10-05",
+   "auszug": "",
    "region": "EU",
-   "titel": "Tech Soft 3D veröffentlicht Leitfaden zum Einsatz von Extended Reality zur Behebung von Kommunikationslücken und Beschleunigung von Konstruktionsprüfungen im Schiffbau - PresseBox",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D veröffentlicht Leitfaden zum Einsatz von Extended Reality zur Behebung von Kommunikationslücken und Beschleunigung von Konstruktionsprüfungen im Schiffbau",
    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeG9Ld2VZNnRLbmpkTkJhaXBpcEZIc2x0ckJqdjVnTFVZS0hiZlFSQ1A2aWFlS1R2MTU2RUhwTnNTczgtNHBjTkdjSjFpQTJpUjRlU0dGWk1pU2xKR0tlNTJ2TEpKYXdGMXI1N2RNazNrUVNyekxfal9yaDlkX0F2VFl6Umh1NjYway11X09tUmRFLWF6NWFndE5VZWZfUThWWXJHOTFUdGtxY1U4Q1U1Sy1tSjNpdGowTS1xd1hfOWlDUFRCR2toTDhhOUdWc2VZSkJBcVVENDZqQXJtU2o1TVY5cVJLVUlldzRiOXRERGUza3RmSVZXZVVVVTk0QnJIbmhXT01ZSVlXQ0ZYcU56QUZKOUhJaEhSZlNMT3NtMWZzZWZVY1Rkdi1mV0VOMG1abU10ODJydEVjZkxjeHlNd1p2THhOMUtNUTBULUlUNV8wZVpyR0dWU0xB?oc=5",
    "quelle": "PresseBox",
-   "datum": "2026-09-29"
+   "datum": "2026-09-29",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Tech Soft 3D Unveils Independent Research Report on How Manufacturers Are Meeting Growing Engineering Data Demands - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORld5NVIxUjBXTF9TdW5MaFExdDg5QUc3SWtDTUE2aEQ1NXJ4Nkh0aEhHTzFxc3dGYzFVYWdWRk9McllhbnFDVENrMkF3RlRvbXRKQnBHNTVVUDBWZ0FnUUVKeEVYbTJOdHRWVHMxOUFfMUpkNVZPZXBoakdsZlh5Y1dkaVkwVVo0aDBubjZiN3lTdEFsRER5RA?oc=5",
+   "titel": "Tech Soft 3D veröffentlicht Leitfaden zur Wahl zwischen CAD-Viewern, CAD-Übersetzung und 3D-PDF für den Austausch technischer Konstruktionsdaten",
+   "link": "https://www.pressebox.de/pressemitteilung/tech-soft-3d-gmbh/tech-soft-3d-verffentlicht-leitfaden-zur-wahl-zwischen-cad-viewern-cad-bersetzung-und-3d-pdf-fr-den-austausch-technischer-konstruktionsdaten/boxid/1313256",
+   "quelle": "PresseBox",
+   "datum": "2026-09-22",
+   "auszug": "Tech Soft 3D veröffentlicht Leitfaden zur Wahl zwischen CAD-Viewern, CAD-Übersetzung und 3D-PDF für den Austausch technischer Konstruktionsdaten Neuer Leitfaden von Tech Soft 3D zeigt, wie Engineering ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Unveils Independent Research Report on How Manufacturers Are Meeting Growing Engineering Data Demands",
+   "link": "https://finance.yahoo.com/technology/articles/tech-soft-3d-unveils-independent-130000117.html",
    "quelle": "Yahoo Finance",
-   "datum": "2026-09-15"
+   "datum": "2026-09-15",
+   "auszug": "New qualitative research from Tech-Clarity explores how manufacturing leaders are expanding access to engineering data, balancing ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI - Business Wire",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjBZTy1pU3lvd0JYdHg1YXJiT2dyZ1pXY0RXd2NScW5PeUFMaXRZUXRXaGU2ZG41cGlYdUFxbkI3VHFLaExKblBPc3pIdE9DQm1kQ0NlYjd5R1hRN2NDbFR4N0hkQUxHWG9Uc09Fb0ZEVHhwanQ4TUhOR2YyelM2VVRYa1BqZm9kT25zcW4xNUpKc200SjVyTnFpWlV3TnFXUU5Oa1ktVGlaWUVzVy1VdDVXMnlBTDRreHdBVmUwX2dBckk?oc=5",
    "quelle": "Business Wire",
-   "datum": "2026-07-14"
+   "datum": "2026-07-14",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Oasys LS-DYNA Environment Uses Tech Soft 3D's HOOPS Exchange to Expand CAD Import Support in Oasys PRIMER 23 - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdnhlbHFkYWZQWmhyUXFPTVZNTVBaeU1wU0NMeV9qVFh6MmVNNkMzNmExcWVTanpMOXBGS0kwNGIyTWQxQ0Y5OElETGFadXV5aHE0NmZtR2xzejlnZm5iNHU4M2Z1UUNTWHpHOWFVT2xUZFZIMS0ta1VDRzZZeVVtVFU1MzZ5M2pIQjh2dnBqVzJIQWVBeTVEX1VFaVpOb1VhblZ0Z0xFNlpnajVRRTdDMms1ak5SWk01bmtlR0Rab09pNjg4T0g3aFBhNTYyblIzLU1DaGVYSEMyaGdtUXhPaThHLTlUSEhlcDNLUFNGVXZEcG5JalVV?oc=5",
+   "titel": "Synera Releases Advanced AI Add-in Powered by Tech Soft 3D’s HOOPS AI",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjBZTy1pU3lvd0JYdHg1YXJiT2dyZ1pXY0RXd2NScW5PeUFMaXRZUXRXaGU2ZG41cGlYdUFxbkI3VHFLaExKblBPc3pIdE9DQm1kQ0NlYjd5R1hRN2NDbFR4N0hkQUxHWG9Uc09Fb0ZEVHhwanQ4TUhOR2YyelM2VVRYa1BqZm9kT25zcW4xNUpKc200SjVyTnFpWlV3TnFXUU5Oa1ktVGlaWUVzVy1VdDVXMnlBTDRreHdBVmUwX2dBckk?oc=5",
    "quelle": "Business Wire",
-   "datum": "2026-07-01"
+   "datum": "2026-07-14",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Oasys LS-DYNA Environment Uses Tech Soft 3D's HOOPS Exchange to Expand CAD Import Support in Oasys PRIMER 23",
+   "link": "https://www.morningstar.com/news/business-wire/20260701764524/oasys-ls-dyna-environment-uses-tech-soft-3ds-hoops-exchange-to-expand-cad-import-support-in-oasys-primer-23",
+   "quelle": "Morningstar%2c Inc.",
+   "datum": "2026-07-01",
+   "auszug": "Tech Soft 3D, the leading provider of engineering software development toolkits and industrial applications for CAD and CAE data ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "HOOPS AI reaches general availability with new features to tackle the CAD-ML gap - 3D Printing Industry",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUNES1I5YjlkNFFONDlUME9EOXhxdGRPSlpzaWZCZl9iai05VjBLV2V2NVRzdE5SSWZtZDlZdEhKR25yMzNfdy1GcE1nRlF5OFVtaUVyMHhqSXl5eXdNQTdqUWdnRWc0QXQtazg3NTROeFFCNTYzVXBXMnAyaGlOcmRwNnBfYkNUSlJDMjJ3Z2lKRVR6elBiN3gxRTljREVoTS1ndjhQNm9oNUdOZm82ZmN5TmtBczdzZkI1ZmFuX0hIZw?oc=5",
    "quelle": "3D Printing Industry",
-   "datum": "2026-04-19"
+   "datum": "2026-04-19",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "HOOPS AI reaches general availability with new features to tackle the CAD-ML gap",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUNES1I5YjlkNFFONDlUME9EOXhxdGRPSlpzaWZCZl9iai05VjBLV2V2NVRzdE5SSWZtZDlZdEhKR25yMzNfdy1GcE1nRlF5OFVtaUVyMHhqSXl5eXdNQTdqUWdnRWc0QXQtazg3NTROeFFCNTYzVXBXMnAyaGlOcmRwNnBfYkNUSlJDMjJ3Z2lKRVR6elBiN3gxRTljREVoTS1ndjhQNm9oNUdOZm82ZmN5TmtBczdzZkI1ZmFuX0hIZw?oc=5",
+   "quelle": "3D Printing Industry",
+   "datum": "2026-04-19",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Tech Soft 3D Announces Full Launch of HOOPS AI, Adding Embeddings & Linux Support - Business Wire",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0I0ci1lMkhXWmhoM01kOHJEVjdIX0l4b2dSdjByWW9MYzV3OWp6eUxpYTU1T3dJZDJ4eFdhM0VPUEo0cHVER2VrUy0wT1FMVWhkakx5Q3hsNzJBcncyc095LWI0eEEzb2VjdzV5YUVYOUN2ZDNNQjRmUUQ2S2N5b3pJVXZEdVpjYVVhcFRJZ3FXdTFsUHZGbzBjaklwTDd1RzJHSHlMTlJVTFh5Rk9ZUzdtcHFsWXdUMW92QlNDaGpuT1NBWmdqWFlXb2xiRGRP?oc=5",
    "quelle": "Business Wire",
-   "datum": "2026-03-30"
+   "datum": "2026-03-30",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Tech Soft 3D Expands HOOPS Exchange Format Support with Full DGN Import Capabilities - Business Wire",
+   "titel": "Tech Soft 3D Announces Full Launch of HOOPS AI, Adding Embeddings & Linux Support",
+   "link": "https://www.01net.it/tech-soft-3d-announces-full-launch-of-hoops-ai-adding-embeddings-linux-support/",
+   "quelle": "01Net",
+   "datum": "2026-03-30",
+   "auszug": "BEND, Ore.--(BUSINESS WIRE)--Tech Soft 3D, the world leader in providing engineering software development toolkits (SDKs ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Expands HOOPS Exchange Format Support with Full DGN Import Capabilities",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYVowQVFiSndNM05xVWhpek9zMklWMHN3UTJlY3MwRjNRYzExUmM5M3k1Y1hWal91SG95ZTNKOHoyYmlnUXdyWmpwQjlZSS1aVlFwZFZ1b1pBNlhKbWdmeGxWV1hQdmNkTWFHY2s3UEJlVTMtLTFUZkh5UjJZdFFyZ3Q5YkhIYnQxbFZudnVSQ0NDWFduTHh0ZjYzT2ZMYlFnTGJ6bk9QeXl6ZVBYZU02Umw1OVJRcFVBY0ZvOTlrYTgtenNYVHM5bDZ4RkdmcWt6eUJJc2VwZ2c?oc=5",
    "quelle": "Business Wire",
-   "datum": "2026-02-05"
+   "datum": "2026-02-05",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Tech Soft 3D launches HOOPS AI - 3D Printing Industry",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVGpQVS10aEZHUHdJY01NTXlQQ0xyTFRnOE1LVWtzS0pHS3NtZUJCOF9FXzl1SHVOUzBONDlnNnJybG5kTWctQmlSSEljb0k5WWJCV0hBUEpqdU9fMEFCOGVtRy1KbFRuOWJGamNMYWpHMVkxdk9qMGl2RFpvdGc?oc=5",
    "quelle": "3D Printing Industry",
-   "datum": "2025-11-07"
+   "datum": "2025-11-07",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Tech Soft 3D Launches HOOPS AI: The First AI Framework to Bring Machine Learning into CAD Applications - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOHFNaHlMSWJUX0pjNi1ESHp1bndNMi11OUFKNE1mVzRVdmE4UUVlMjBoSTNBSWxEZTQ4dWxsNHplaWNQcFJGQmtxcjJRTTB3cjJGUHFmdDJzRkN4SXp0Zy1tc3c4d0dQejVaNGxnWTcwN3dqeEtsU256LVJRZlhHcGNUZTA1RmlPUlZJOUY0WHBaRDVINkgzb01tU0RBZFE0ejVXLVU3cVdQUFQ1Vktvay1NS0c3U0dxdlJCTGtIUUIwT1IyRXVESldFVnpiUmZjX1FBZ0lTOVVPb2tGYzhBZmNnOUZBZl9kOXJnbHFGZw?oc=5",
-   "quelle": "Business Wire",
-   "datum": "2025-11-06"
+   "titel": "Tech Soft 3D launches HOOPS AI",
+   "link": "https://3dprintingindustry.com/news/tech-soft-3d-launches-hoops-ai-245979/",
+   "quelle": "3DPrintingIndustry",
+   "datum": "2025-11-07",
+   "auszug": "Tech Soft 3D, a U.S. developer of engineering software toolkits for visualization and data exchange, has launched HOOPS AI, a ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Tech Soft 3D Names Robbie Payne Chief Executive Officer to Drive Next Phase of Growth - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRTUzWWs1Sk1JZHlRLTVtQlIyZXlMZlNicFNQbUZRaFNwcjhPTkdraHZCaF9iSGhtbGY2YXRiT1I3UFY2RTFKMXl2a0JWN1cxN0YtcWVINFlVdVpwTzdKQ3c3SjJKSnZIUndXaGRoQ0JjSms4dVhrQUdoOUdQR2JLNzdId0Z3RjV0LVZiN1E0SzBWb08wZDV4OEdzMHRvOU1BM1BQOW9SMUlXQUJMd09TMlBkS0NzLXdHcVJtUEItYVNWY1pRSTBaRVc4U2FnUGFjNjU4X0paelRVQQ?oc=5",
-   "quelle": "Business Wire",
-   "datum": "2025-11-03"
+   "titel": "Tech Soft 3D Launches HOOPS AI: The First AI Framework to Bring Machine Learning into CAD Applications",
+   "link": "https://markets.financialcontent.com/prnews.pressre/article/bizwire-2025-11-6-tech-soft-3d-launches-hoops-ai-the-first-ai-framework-to-bring-machine-learning-into-cad-applications",
+   "quelle": "markets.financialcontent",
+   "datum": "2025-11-06",
+   "auszug": "ⓘ This article is third-party content and does not represent the views of this site. We make no guarantees regarding its ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Names Robbie Payne Chief Executive Officer to Drive Next Phase of Growth",
+   "link": "https://finance.yahoo.com/news/tech-soft-3d-names-robbie-150000564.html",
+   "quelle": "Yahoo Finance",
+   "datum": "2025-11-03",
+   "auszug": "BEND, Ore., November 03, 2025--(BUSINESS WIRE)--Tech Soft 3D, a global leader in engineering software toolkits and 3D data ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Tech Soft 3D Acquires Redway3D | The News Wire | Winter 2022 - Photonics Spectra",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uUXZndFdEd1ZpQlV4eVFOYU1fWjB2ckJ1THR4V09kOTZmREtGYkMtM3RVQXJVRjhqWlo1RmNwUjUyVS1RYUhickdFVG5uSHJVcU50SGFKQnhxQmtVOEdOLW1lT2VNaHY2eFlEMFVabUFHS1RlUXBlR2hvdEs?oc=5",
    "quelle": "Photonics Spectra",
-   "datum": "2025-09-26"
+   "datum": "2025-09-26",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Acquires Redway3D | The News Wire | Winter 2022",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uUXZndFdEd1ZpQlV4eVFOYU1fWjB2ckJ1THR4V09kOTZmREtGYkMtM3RVQXJVRjhqWlo1RmNwUjUyVS1RYUhickdFVG5uSHJVcU50SGFKQnhxQmtVOEdOLW1lT2VNaHY2eFlEMFVabUFHS1RlUXBlR2hvdEs?oc=5",
+   "quelle": "Photonics Spectra",
+   "datum": "2025-09-26",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "CAD to OpenUSD export gets easier - Engineering.com",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qSTVVN1IzczlNVWNMZmJkaW5FanRhYXItUG8xV1Mzb1hCd0ppU2pKQ3oxZFlKMENaaENMNUFhdDU2M0pKbE9FOUZYeWNWeG1IYmtaZmxOT0hOTC1qVzZwQ3FST3dmSUFCSVFNR1JMUQ?oc=5",
    "quelle": "Engineering.com",
-   "datum": "2025-06-24"
+   "datum": "2025-06-24",
+   "erstmals": "2026-11-04"
   },
   {
+   "titel": "CAD to OpenUSD export gets easier",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qSTVVN1IzczlNVWNMZmJkaW5FanRhYXItUG8xV1Mzb1hCd0ppU2pKQ3oxZFlKMENaaENMNUFhdDU2M0pKbE9FOUZYeWNWeG1IYmtaZmxOT0hOTC1qVzZwQ3FST3dmSUFCSVFNR1JMUQ?oc=5",
+   "quelle": "Engineering.com",
+   "datum": "2025-06-24",
+   "auszug": "",
    "region": "USA",
-   "titel": "Tech Soft 3D Joins AOUSD, Adds Support to Accelerate 3D Interoperability with CAD in OpenUSD and NVIDIA Omniverse Workflows - Business Wire",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSU9XZ0xhWVp0ZHp4elU4UnZLLTAwR2J4NjVHR1RZTTd5Q0g4MHBtXzdIN1dtSFFweHJlX1RFNWthYWJZclFGTFVqRmdzY2NHRF93aFZidEgxWWFPQVdYWmNBUnlpRXhQRURLVTNEMFo0NGJRM3pBSDd6VzcxUXpVVnVzaUlIYWF6SDM5NXpKN3FPUE5oVzhsWFdMUHhEUW1BaG0ySHR4ZzlMY1dlX2ZvaW1YbW9mV3dsamQwRnZscjJtTUdORngxbVRldDRTWWl0aVpnRGg5alBLUTlBSk5CY3JFN1BGa3AwRUFSaTMxd01rR193cGI5Z0ZhaUFvUzliOUxoTFkwQ01jUVE?oc=5",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Joins AOUSD, Adds Support to Accelerate 3D Interoperability with CAD in OpenUSD and NVIDIA Omniverse Workflows",
+   "link": "https://finance.yahoo.com/news/tech-soft-3d-joins-aousd-120000588.html",
+   "quelle": "Yahoo Finance",
+   "datum": "2025-06-19",
+   "auszug": "The above button links to Coinbase. Yahoo Finance is not a broker-dealer or investment adviser and does not offer securities or cryptocurrencies for sale or facilitate trading. Coinbase pays us for ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Introduces VizStreamer: A Seamless Path to Web-Based CAE Visualization",
+   "link": "https://www.pr.com/press-release/938191",
+   "quelle": "PR",
+   "datum": "2025-05-12",
+   "auszug": "Bend, OR, May 12, 2025 --(PR.com)-- Tech Soft 3D, the world leader in providing engineering software development toolkits (SDKs), will showcase their new VizStreamer tool as a novel part of their ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Simerics, Inc. and Tech Soft 3D Announce Simerics-CAD Software",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzZHWmsxWnVxN042YnQ2Zmw4VHk1WUx1a29yclg1YXZnZ0JlYmdrZ2JtaVgweFR0czg5RUJpQ3FMWTNhWnFWSTlFOG5HdmdJd2J6dFhBTzBSbnF2aVVxajRtakcxWGN5MnU5MEdVbUFlQk14ZnBOdjNWbUtId3psdjd0VlhNREZUUEgta0xZNGxINjQ5TjNTZG94MGFITmFzV2FDTUVoVDFNT29adGxxVzQ3SlQ3S2xNYmc?oc=5",
    "quelle": "Business Wire",
-   "datum": "2025-06-19"
+   "datum": "2025-03-31",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-04"
   }
  ]
 }

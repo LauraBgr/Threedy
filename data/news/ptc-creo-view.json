@@ -3,95 +3,317 @@
  "abgerufen": "2026-11-04",
  "artikel": [
   {
+   "titel": "PTC Solutions for Realizing a 'Digital Thread' in the Medical Device Industry",
+   "link": "https://note.com/ptcjapan/n/ne25e5f063dbd?hl=en",
+   "quelle": "note",
+   "datum": "2026-10-28",
+   "auszug": "In the design and development of medical devices, design data, bills of materials, and quality-related documents are often managed by individual departments, which can make it time-consuming to ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
    "region": "EU",
    "titel": "Wie der PTC-Deal Schneider im Wettbewerb mit Siemens stärkt - all-electronics.de",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFJNSDRyYmVsWTNXUm9iS01UM1hDank2b3l4S05BaV9HT21xcVktSzdwczk3aXlzSnhDcnJDNkdFU1VhYi1GNnJ3dDVEdnQzWVNIaGQtS29zNlZMMXR0SjVNNGlRTHo2MmNoYWpzZTVEaUJ2aktrQW1PbVJvUXZfQkhlb003RWdEczc1WncxMkVYeG9NUnRnTnljYkpKR0NrY3lUOWdjVjJmUUlCUUhYdjFNUXluZw?oc=5",
    "quelle": "all-electronics.de",
-   "datum": "2026-10-06"
+   "datum": "2026-10-06",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Schneider Electric übernimmt PTC für 22,6 Milliarden Dollar",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObXNkZU5HU1ltR1dlUjRwQmV5a0JRM2RhMGNIc3VtRU54TXhSem5GMXNwN0FiTDlmcC1nMjI3YXFmV0tIaDNsUUVDY0xnV0dNX09jOEUyR2ZIeHN5TWpMOWhDZ1A2MHU1dkJGdWt3clNkRFptWnJ4Xy1scGtrUWp5RkxCRDhETUplSU9rcWg2ZUFzZkpQMnpHaVY3QXlmZzBKZldZdGpaX0ZvTlZRNHh3WnJxQWZsOGNfcTdzTGF6ZmVrRTVkZ1NTX2V5a1NKeEp6dkJz?oc=5",
+   "quelle": "konstruktionspraxis",
+   "datum": "2026-10-06",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "EU",
    "titel": "Schneider Electric kauft Softwareanbieter PTC für 22,6 Mrd. $ - Finanz und Wirtschaft",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ19tRXFQWVZqZWtkenZ3aVlRX1d5cHZRcHk4QVBiZG1GV0ZYYWpFbVhpdFpNOWVCaFRlSENUVnNud1BTbzQ3UXJHdG9JLS1RVTE2OXQtbHBkSnRodmgzZEpVS3B1MXE4TWJOTnpvNU5EYkszd1pSYXBVVWU4UmRrXzk4eTVNUmhQaHZzNWt0cXRlQQ?oc=5",
    "quelle": "Finanz und Wirtschaft",
-   "datum": "2026-10-05"
+   "datum": "2026-10-05",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Schneider Electric to Acquire PTC for $205 a Share in €21B Industrial Software Deal",
+   "link": "https://finance.yahoo.com/technology/articles/schneider-electric-acquire-ptc-205-180219993.html",
+   "quelle": "Yahoo Finance",
+   "datum": "2026-10-05",
+   "auszug": "Schneider Electric said it has entered into a definitive agreement to acquire PTC (NASDAQ:PTC) for $205 per share in cash, a transaction that implies an enterprise value of about €21 billion and is ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Liebherr sprengt Datensilos für smarte Baumaschinen",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakhyZHR1bnBxV01nTnpYanRCRy04Y0liN1lONzQ0TTlrWXJpOGJ2MV9FRi1yRjlReTRSbUNvSWVJY2JReWZHY3NORlVoTC1OX0l5dWw0Rmltc3BtcmZ2dXJPdlh3ZlZXQmxaTUdsQ1B5QzV0Snh5aFdQVWl3ZFNLdDQ0aGdEd2Z2YzA0ZmVfOVNJT19vcjhN?oc=5",
+   "quelle": "CIO DE",
+   "datum": "2026-07-29",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps | NVIDIA Technical Blog",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFRdTZRT2ZnS1pKTHVITDNxSm1HU1lQc3VmNDlNZjZONGtJa3BxR2g2SF9QVWJFSFM1NDFVTy1GYWhWVS1uNE9LdnlvNUlEQ3RzdUNlazdleGtOXy1Sclk3ZWtjdk5JZGlhRlZhQTNCVmhWeXhQTmxvOWhhNkF1Q3lpV2lod2dJM3lYaUdhWUxJMkVuNHlrYWJNUHBCUTJRd2tGZA?oc=5",
+   "quelle": "NVIDIA Developer",
+   "datum": "2026-07-20",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" visualization 3D",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "PTC Introduces Onshape Labs to Accelerate AI Inside the Product Development Process - PR Newswire",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTDdNRWJYMUtBUUZLWHFKbUxjV1h1MW0xcV9lNjFDa1FPVHBLckY1S05FdlVjU21uRTdVN056dUJiVzF4RERkMUtxem5hUF96M0NLTm9xNTMzb2trTVVfajBveXZYLWw5NF84OXF1T01aSDRua2FGM0x3azljZEJFSF83WWhNVjdvYXltVXZMS081U0lWcDlvcjdYUGxDaEZ5MnJxb1lGTmhOVEdCazZwcThXMkRFUTdXNHZJcXB2RXlTRzF0Z3B2ZDVhTEYtUDY3OVl5cktR?oc=5",
    "quelle": "PR Newswire",
-   "datum": "2026-07-14"
+   "datum": "2026-07-14",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Future of AI, Digital Thread With PTC : Automotive Executive Exchange In Delhi",
+   "link": "https://www.ndtv.com/auto/future-of-ai-digital-thread-with-ptc-automotive-executive-exchange-in-delhi-11493676",
+   "quelle": "NDTV",
+   "datum": "2026-05-14",
+   "auszug": "The Automotive Executive Exchange in Delhi turned into a timely checkpoint for the auto industry's next phase, where the ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Visualizing malignant progression: in situ CD109-based spatial immunofluorescence assay delineates papillary to anaplastic thyroid carcinoma transformation within the tumor microenvironment | Scientific Reports - Nature",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjUThhd2NFcWJaaFA2c2pseS1KSVdzQ1FwOUlwYmkwbWJGNTdNUHZxRTE1MXBrUEZIOVlqS0wwV1BpSzRUeW9DOEo4RFh6RGU0TnN4SXhNX2lCUFVpUWs0?oc=5",
    "quelle": "Nature",
-   "datum": "2026-02-26"
+   "datum": "2026-02-26",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Wie Fresenius Medical Care die gesamte Wertschöpfungskette digitalisiert",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVoxWUwtSkJEWHJuWmdtOFhLV2dwQll0a3pzZXZ6V0NWR0RtZjFrXzd6RElvOEJvSTBGUmlhS2FHWlNiazZqYkxjYWgwWVNMUTFIOV8tQk82VGg0cjFtemFQMlh5U0dWR0dhX2RPOFFmUmtWUy1oZW5QemhILV92dktITUg3Uk9ycnYzMERkNkplX1JoeUUxSWxkOTlTSDI4eFdSZVN4Q3hVUjdvcEx3eER6UQ?oc=5",
+   "quelle": "CIO DE",
+   "datum": "2026-01-05",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "3HTi Launches AI-Driven Engineering Solutions & Support with PTC Creo, Windchill, and Codebeamer",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmp1bUR4cHlfb3dzM3JXa00zd21FLURSb1lTM3JOUU5tdFA3NzFvMVY0STRidk9Ic253WkhfZ1Y0UUwzU2dCNk1PWGZybE5mcHVJZndwX0VHemR3VnBKNTFhWkJzZ1psSTd2eDlTOHVyTm9kZjNZWUx2S0tMR0VSenZacXc0cnhJVndlUTI2NUIyMktUOHVHTWlOMmVkUWVEMnBTbllvYWdpQWI3OC13STA0RFNrWkluODBfUVd0R3Q2RUJMN0ZtSVJaX1FvenAt?oc=5",
+   "quelle": "Issuewire.com",
+   "datum": "2025-12-17",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Das Rückgrat moderner Fahrzeugentwicklung",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3lWM2FoUmc5V00weUpOTzh6LVg4OE5wUUFPNVhIcmphRkxFbXFSeVA1Sll0ZV90WEQ2VTdjZ2lDSjdhOERjRzV2ci1aQjdkREV0NURCakVjSUlGRlNHTk9kQkswb3k0NkIxTVhnWmJwWXo2N2dySG02WTZiVm9kQWFQOG4ySGdPOGhZM3NaN1dGY0JIdGdEZjFCOA?oc=5",
+   "quelle": "Hanser automotive",
+   "datum": "2025-12-10",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PTC: Wie KI und Digital Thread den Maschinenbau prägen",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZkVWX0VkaURfMG1iREpOM2VJM2h4bDE5aW95c1p6OW5QQmVNUXpaVDBiYVU5cERUM0hjUkxsWC1rRmJZRVJ5RV9hZGtXVXVMbkxvV0VGZ19va1NjaVdnRjl0M0tmcGZQRFo0cWE5RWtJYnFvUk5VM3hjLXB1WEgzUzlZTEpwNk1IcjdqOU5aLUdOYldxa2VjWVVaaG43UllC?oc=5",
+   "quelle": "produktion.de",
+   "datum": "2025-11-17",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "PTC’s IoT dream ends with sale of ThingWorx and Kepware - Engineering.com",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkhwd0hHa1dYYng2dkZTLWJyOTRiUlhieEpGYTZuekNtVUJkVFhRclBaaHlpU1BneWZoVTRVQU1RbEFpLU84My1OS2dxY1R1WXVZa2ZRQmZKS1FUaFRSUVVhTk5DNVFoLXJjSXJtUFhVTjlyc0JiZUJ3UWh5WmR0TDBJOEd2U0Q4YzhN?oc=5",
    "quelle": "Engineering.com",
-   "datum": "2025-11-11"
+   "datum": "2025-11-11",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PTC’s IoT dream ends with sale of ThingWorx and Kepware",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkhwd0hHa1dYYng2dkZTLWJyOTRiUlhieEpGYTZuekNtVUJkVFhRclBaaHlpU1BneWZoVTRVQU1RbEFpLU84My1OS2dxY1R1WXVZa2ZRQmZKS1FUaFRSUVVhTk5DNVFoLXJjSXJtUFhVTjlyc0JiZUJ3UWh5WmR0TDBJOEd2U0Q4YzhN?oc=5",
+   "quelle": "Engineering.com",
+   "datum": "2025-11-11",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" visualization 3D",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Single-cell transcriptome analysis reveals the potential heterogeneous mechanism of CD8 - Nature",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsRm1jSDkyRDJuLVVyS1RzaEFHeGFDZUx2YjNQUE1EN0xZd0JUQWtzZGVMdzcxdnNHWFB1NHY4VTNfU1RqRXFLU3RnQ21QcTZUaERxMmo2T1YxVEswSzcw?oc=5",
    "quelle": "Nature",
-   "datum": "2025-10-14"
+   "datum": "2025-10-14",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PTC adds Arena AI Assistant for PLM",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQRjRmTFQxWjFjS1dRLWhBOVVFUk40WFV2aWxpekZNYkhvRno0QzZFTWhEektyYzRPNVhYX29XRnNNNTc1c2tHWEx4bmVmR2pMdWJJX0E2VUNtajdzcWdVb1pyaUtGSEVJdWx0Um5Qb05WVWcxaHBoZlV3?oc=5",
+   "quelle": "develop3d",
+   "datum": "2025-09-19",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" visualization 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Warum Geschwindigkeit zur kritischen Ressource der Verteidigungsindustrie wird",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkZtNjBORnNCSmh4STVxeFo2NURUYTJkSWZSQTk3MFpJSzFDLUlKNl9CNTBpRVprR2JxZmdIRkl4alh6RWxLdjRPVFd3OF9NanZtSnh6Z0R6dC1PWGpDdFl0WS1ORGxUTUtDd09CU21IZnJuUG01cWI0cGpCTlFKSHVaLUE3dHlwcVZRNVI0SlRRSGZQcnd5alc0UUo0RG11cV9sWFNoT0tpZHdIejF0Z3dPQVIzSlVfTENQbDN5MUhISUU0QS10S2Vmcw?oc=5",
+   "quelle": "ESUT",
+   "datum": "2025-08-20",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Nvidia Omniverse coming to PTC Creo and Windchill",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdzNFMGxYOXdXTXVmWXJBcHJfWW9xc1A4WndLX3psd2JJZnVvVjljc2FKZEs4dllCeVhrSGZlMWp5bHFJcXlMeDNwVVdSaWJVUmFxYnVXZHVBc05XSnJ4SE1paG96TFJRV3g4blE2VUQ5RDNTaTBpbFdlWHhISWR4SVBmZDU?oc=5",
+   "quelle": "Engineering.com",
+   "datum": "2025-08-05",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" visualization 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "“Burning the Backlog”: PTC CEO Neil Barua’s Vision for Faster Product Development and Industrial Transformation",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2EwTnFDbTFZVHgtT3ZqcUUtdG1MUG9VQkN3bTQzU3E3OThaRXVsRzV4RU00dkVVQk95Z1pPVmoxeXpubEx2U1dTV1N4R2ltZmo2V0laYlZkdWwydDNURGl1SkYzY2FaNW41Y2xWczl2RWk0cm8zSmlac0hUOGJPcDFZeVNvNnlpUjd5VDdINmM2ZW00TWc?oc=5",
+   "quelle": "DirectIndustry e-Magazine",
+   "datum": "2025-07-02",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PTC präsentiert mit Windchill AI ein KI-basiertes PLM auf der Hannover Messe 2025, PTC, Story",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNXd3WGd2STJsS29LMnd6RXVzQldRVGdSN1F0eVBJYTZ5a0NHQU1vVHhNV3VueWs5Z2FSVkNtT0RfTkJMWkd2cjhLSTVRQlRfa1NRRy1NbVdZcWlwbkEzM1dLaGVTbFFjakdkUjJpeVNNemFyTkNBemFqWHRaQXBnTlh3S3J1bV9Fb1JGQ1dKZml1Snl4bTBVdDExZ2ZORlZPZUU1dVZxcWR2c3ItYzAwTk1ZNTdjREtRMnoyZXBCem5wN053U3JlUHFGaDdJZDcxQ1pVSHhpVQ?oc=5",
+   "quelle": "PresseBox",
+   "datum": "2025-03-26",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Unlocking the future of manufacturing with AI-powered digital thread",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbll0eWw2Qng1cmlUc1JPUktoV05sRWlVVUJNd29taHN2eW96OG1vY2hkYS1Od0gwTkZRaWE0S2wtVi1sZUFmRklQS0ZPU3luZkNnS2dLZUpUR2RDb3JhdDM2LXF0LVlzY0hZUnhUV1ZBNlNKYXk4ZU85VjNfQ2RXaTNHdkthUUN2TGY0LU03a1JVTnlQT2ZTMU41QTcyVTZybGhaZDRENXUxOEdLSUlRREppZFhpYWQ2NlBkbTJERGNfZmJfVjRkNExjTGZrN3hUZ3p0U0puUk1KSXI5X0Jaeg?oc=5",
+   "quelle": "Microsoft",
+   "datum": "2025-03-13",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "ServiceMax is building a data store that will knit a digital thread across PTC's products",
+   "link": "https://diginomica.com/servicemax-building-data-store-digital-thread-ptc-products",
+   "quelle": "Diginomica",
+   "datum": "2025-02-10",
+   "auszug": "Two years after being acquired by PTC, ServiceMax has taken its place as one of the PLM vendor's four flagship products, after an ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Wearable Body Temperature Sensing with Autonomous Self-regulated Joule Heating and Passive Cooling for Healthcare Applications - Wiley & Sons",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DMTVaUVBkcUYxdmVxUUw2dzNoTTZZb3ZCSjZ6bW9hS1dTMUpQYWN6cnNoQmw5a243NXRNWVJCS2ttYkRJNzVzR3QzTk5XWVB0bTFyUFRmek8wcEdhaTlZLUtvb3hsVFF0T1pRdXB1MzRPYzhJNlE?oc=5",
    "quelle": "Wiley & Sons",
-   "datum": "2025-02-02"
+   "datum": "2025-02-02",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PTC Appoints Robert Dahdah as Executive Vice President, Chief Revenue Officer",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMTRnYkR0bEY4Z251cVVrNlRsQUhoNjVTRFVOeWFsb0lPWVZTeVZ0Vk1SZ1RkdkNCYXlpMmliWGxrQVc1ZDh2Y1RkWDl0WTJkd0FFU05RTy04QlJPbm5zUUZCYy1EQ3plUDBzLW9PdWlyTDNhU0N1ajNpa01oenBJeHJfNWttN2Y2MGJKR1RKN0pEcktwU0JSdFpXTHBSU0ZKZXBnUGZSOEZ2cmxnWks3ZmREMXpfdw?oc=5",
+   "quelle": "citybiz",
+   "datum": "2024-12-09",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"PTC\" \"digital thread\"",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "EU",
    "titel": "Azure IoT’s industrial transformation strategy on display at Hannover Messe 2024 - Microsoft Azure",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkhtclJFYngwbkNZSWwyM3ZSOU9RNVlNSUlZMkhJeTlmbGVoZURwODQ1Q3dsVkxzS0dtVWI4ZHE2SFVCMXBlbFZxVy1jXzQyWE9MM01EbWVrX2tSekdqWmhsdEViTUpJOE5SUUZuMW5MUUdVeU5sMkQ2eXhTaXJjYmRoVTZoR25kN2xIb3FLeDVzbkVNWThROXVrcGEwNUlYVVV1cDNzS2tJazV2enlseEhhVDUtMkFWdTZZ?oc=5",
    "quelle": "Microsoft Azure",
-   "datum": "2024-04-17"
+   "datum": "2024-04-17",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "A patient with a rare co‐occurrence of papillary and follicular thyroid carcinomas - Wiley Online Library",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mV0dIa002M0c4aF96M2xDOWlRWXFId1VmeGZJZGhZVm80eGc3cm5URFVsLTJsZ0oxclI3a1pXa3A0OUlRMjJXNmFpZzRsNTZXa0RyQ2NTOVRvczVBeTlsdUJQWlF4a0hkTUE?oc=5",
    "quelle": "Wiley Online Library",
-   "datum": "2024-04-05"
+   "datum": "2024-04-05",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "New Software Helps Users Get the Most Out of 3D Data - Engineering.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMkJvYWQybjdpbW91ZGo5cDNYMGpSUm5wSVJLdnpNeEFyQmdnMDNHUjlIdzBCakVDVjQtNUJ2U1Jod2dvclU4VUkySVVRYkVQUGVZaTh5QXFDcTZyN1k5TXBGelpvTjVxYVhkUExpc2taZ1VuVmdLRHN1S0NOQ1U0bXRoc2dsUmNZ?oc=5",
    "quelle": "Engineering.com",
-   "datum": "2021-06-17"
+   "datum": "2021-06-17",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "HIROTEC Selects ThingWorx Platform from PTC for Remote Monitoring and Real-Time Insight into its World-Wide Production Systems - IoT Business News",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd19BdUQ1ZGtmN0NGU1ZsQWl1NUNlcFlLa0tKeHFTQWl2QU92UXJ0cGtsdjktRnlFd2dfSVJMWmN1LXpwT3c3Rk0yUWhpWnJBemhhYXlnaVRBLWgyTndLRGlCM2VOdzVGR0l2aWd4Wk9nVjEwa0ttSXFERGVtUHBEQTl4MllmR2FmUkZqUlVOVmR5RXhJV2ZGTmdzTXBZX3Y2bUw3MjNLM29qQUZNRmZPbXB2SW1jOTRrQlEwMTZUdk1vZUl6YVRWZE1wZHpUUzRMNnY2d0NhSXJpM2l5aWNwTUhTX0Q?oc=5",
    "quelle": "IoT Business News",
-   "datum": "2017-06-07"
+   "datum": "2017-06-07",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "EU",
    "titel": "PTC Inc. (PTC) Aktienkurs, Nachrichten, Kurs und Verlauf - Yahoo Finanzen Deutschland",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82TGtKd0VhbkxMMjc1cktFOGplNTVPdUgtZGExOFEwZ2kzbEJLZFhoT3NTMFFXYjZjQXlHOGQwS3llMnBuMVhkS3lYR3dUWkFW?oc=5",
    "quelle": "Yahoo Finanzen Deutschland",
-   "datum": "2017-05-03"
+   "datum": "2017-05-03",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Visualize 3D-CATIA V5 to Creo View Adapter: Overview and Features - Engineering.com",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmd5TmZWcGI1clBPT2RaSEdxZnVnd0VLLXc3a192a0VRSGVRYTNwVzl4RnpKX1IxMGVKS0FVVGxsb3Q5SzZGckdCa2czRWVXekJ4R2Q0UkhZQ0tLcXFCRS1acWhjRnV3Ql9hLXVzczNPdlc3bnZudW1lVXFLbU1rNFBNTXpCOWM0NGsycXBxTGwySlk1a3pjSA?oc=5",
    "quelle": "Engineering.com",
-   "datum": "2016-09-30"
+   "datum": "2016-09-30",
+   "erstmals": "2026-11-04"
   }
  ]
 }

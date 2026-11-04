@@ -3,74 +3,305 @@
  "abgerufen": "2026-11-04",
  "artikel": [
   {
+   "titel": "HPC-Simulationen mit Siemens Teamcenter und AWS ParallelCluster schneller ausführen",
+   "link": "https://aws.amazon.com/de/blogs/germany/hpc-simulationen-mit-siemens-teamcenter-und-aws-parallelcluster-schneller-ausfuehren/",
+   "quelle": "aws.amazon",
+   "datum": "2026-08-14",
+   "auszug": "Fertigungsunternehmen können jetzt die Simulationszykluszeiten von Tagen auf Stunden reduzieren, indem sie Teamcenter Simulation ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Simple Energy expands Siemens Xcelerator adoption to scale electric vehicle engineering",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4bG1TZlJBdXVqdnNEd05KUDd3NGNzdGZsYXNZUnFpcFVaaXpjdTFHR0ZqMUZZQllsVWVlMlNCcjM4cUhXYzd4YTR1X2dZSDRlU1VGT3Q0dlp2NmRlM1NvWXZfcw?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2026-08-04",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Simple Energy expands adoption of Siemens software for EV engineering",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLXFfdTBsYkN1UkViQ1ItNUNlaTVKWkVYTW9oa3pXdldaUFgwcTFoWklLMEotMUJ1dXJrTzVoek54a05DUFJyVDR5UEhoTlJXWXkwLUE5OXZyalNZY20ta0dNMEI0N1ZHeGhPcVFLRmRTXzBiRjBiS1d0c0wxclhpSElBLVl4aHBoQW9RenRscnpxZ2lUbEdqN01yTF9oNThJMkx5dExWM2U2Zm9aQUJja2RfM3FHeVBidXgwWkR6M2k0ZmdjQzFwTjlhTndUUzFxRHBzYXQyUXMya0FlNkNQVUNn0gHnAUFVX3lxTE9LS2pOdHo2NEdPUHZoQVlqNmdHVEhEU0lrMG9OYjVqaUhpWjVwOHRidlplMXd5N1dNN2wtaUJYWHRmV24zeHJtaU5JQ3BTMDYyLTF0bUdpMTUyNjh2LXB4aDlHMkpLTGZaelJXSVRtalBZbkQ3RWItU3duRW5CWERaSEhnRTE2aFZ0cXdVdWlUODc1YjNjWHk1X2t6S2tQdjVtMTJSSFNKUWdrTlNENnE4NXFvY3J3WXlSWTFjc3lJbEFDWDRvTG9rdmFzZ0IwN09KNm52N3ZTM09nWXRZUzRJV1g4U1Y0VQ?oc=5",
+   "quelle": "ET Auto",
+   "datum": "2026-08-04",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Delta IT - [New] Siemens UG NX 3D CAD PLM Teamcenter",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkZzSFVLaHdZS2lqN0R4S0pyeU5rWmszNGszanU5MkZ0a2VzWWdMblZ1aHJkcUtYRGZmWTJHRzJQWGFQcnZiUnd0ZUpSWllHZ1N2Uzdnc01WeUNIZ2RqQzBSQ3h2TDdCT3g0MWl6a1c3MzhKY1NFRmFQU2taWE5BdmRTOA?oc=5",
+   "quelle": "다아라",
+   "datum": "2026-07-11",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens is a Leader in Gartner Magic Quadrant for PLM Softwa",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QbVV0QkpaTGNYNk1ndjIzbnhaNWxvbm5LR2loMjNqMjZVcUtEXzFTMDRhMjdVdEd4X1E4ZmNwZ0lyVkM4VWZDd28zWVJ6R244WTlLRUNGUkRjcjZrVUFsaDhUY1BrQ0VTNmMybFlnZGRabFBZWkQtcGFTWTI2M0U?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2026-06-10",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens unveils new 3D electrical systems design workflow for electromechanical innovation",
+   "link": "https://www.design-reuse.com/news/202530607-siemens-unveils-new-3d-electrical-systems-design-workflow-for-electromechanical-innovation/",
+   "quelle": "Design-Reuse",
+   "datum": "2026-06-03",
+   "auszug": "Best-in-class Capital software develops and validates electrical systems in a shared 3D environment that connects wiring and physical design to reduce risk and rework Cross-domain teams can accelerate ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
    "region": "EU",
    "titel": "3D-CAD-Visualisierung in Siemens Teamcenter - DIGITAL ENGINEERING Magazin",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUxGR1BNdE52Y0hDX3luZEdYY0RfUnVzeXJGbjlpM09BZjJFYWQxNEhySEFTaFp4ZWpyNGNzaFdGYzltZVhKNkRoZl9yWmZRQWxteVFIRHI3dmtvZGFsRDlueFN6aUZLQjdVYU1KcGROUGFXUURSWEtBMWRoM0hsYWdLSWxobGw2WS13R3dha1VHaTFfX3FXQTV6R1h6UVlsOUtaYXBLZDhhbTBlS3pUY1ZFUXVxSEhGelR1VXJWbw?oc=5",
    "quelle": "DIGITAL ENGINEERING Magazin",
-   "datum": "2026-05-18"
+   "datum": "2026-05-18",
+   "erstmals": "2026-11-04"
   },
   {
+   "titel": "3D-CAD-Visualisierung in Siemens Teamcenter",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUxGR1BNdE52Y0hDX3luZEdYY0RfUnVzeXJGbjlpM09BZjJFYWQxNEhySEFTaFp4ZWpyNGNzaFdGYzltZVhKNkRoZl9yWmZRQWxteVFIRHI3dmtvZGFsRDlueFN6aUZLQjdVYU1KcGROUGFXUURSWEtBMWRoM0hsYWdLSWxobGw2WS13R3dha1VHaTFfX3FXQTV6R1h6UVlsOUtaYXBLZDhhbTBlS3pUY1ZFUXVxSEhGelR1VXJWbw?oc=5",
+   "quelle": "DIGITAL ENGINEERING Magazin",
+   "datum": "2026-05-18",
+   "auszug": "",
    "region": "EU",
-   "titel": "KISTERS 3DViewStation-Integrationen für Siemens Teamcenter und Active Workspace sind ab sofort verfügbar - PresseBox",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "KISTERS 3DViewStation-Integrationen für Siemens Teamcenter und Active Workspace sind ab sofort verfügbar",
    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQM213ZFVXWm1HR2o1Zjk3N2xldkhkQ1FucDBGZVQta2tHNDM1TVlwb0JuRWRYNzhLdy14TUdaOF9XQ3g3MmxLdzllR0J3TXZqYjIxVTR6S2hiTmNBN29TSUxBTjUwRmFyOHRuQzRmUG5PbFl4V3VZSFJFV2ZOUWZaYzNQV2FMTGZwRWZvNFlCS281a0NwQjZwTjczQ3JZSFBWS0F0THVUblI2MXNUaGpLT0JqdDQ2enlUYzBzeWs5N0JqT0oxVjd1NEtuYW1XQmpDM1A2b0Q5VFpYMmlEOXZZcDluRkJUVERyMWxUcDRURnBhdG9jVU84T1ZiUjBZdw?oc=5",
    "quelle": "PresseBox",
-   "datum": "2026-05-12"
+   "datum": "2026-05-12",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
   },
   {
+   "titel": "KISTERS 3DViewStation Integrations for Siemens Teamcenter and Active Workspace now Available",
+   "link": "https://www.freep.com/press-release/story/189493/kisters-3dviewstation-integrations-for-siemens-teamcenter-and-active-workspace-now-available/",
+   "quelle": "Detroit Free Press",
+   "datum": "2026-05-12",
+   "auszug": "Users of Siemens PLM systems benefit from user-friendly 2D and 3D CAD visualization SAN ANTONIO, TX, UNITED STATES, May 12, 2026 /EINPresswire.com/ — KISTERS ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "3D-Druck definiert die Innenausstattung neu",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFZQbmJVVEt2elFnNmNoQUhSc2MwRGFBX05IZ2x4Z1RTci1OM1l4UHl0OFN0MkZjVmgydkJBQzNZcUN4Q0JLZ0Zyb0g4NFJGcU9xU3p6bF80YWhzS3BSMkwwaWVMMEdxYnpNLXgxUGI0RmhObVhNbWg1SjVzNnVJMDRXbkl5Y2U2cjZVbVFQWHJFeVliUjl1T2E3eWVBLUFEZjFOSFNCOXF4ekE?oc=5",
+   "quelle": "Siemens",
+   "datum": "2026-05-08",
+   "auszug": "",
    "region": "EU",
-   "titel": "GeForce und Studio und Quadro Grafiktreiber 596.36 sowie Quadro 582.53 noch hinterher - Deskmodder.de",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "GeForce und Studio und Quadro Grafiktreiber 596.36 sowie Quadro 582.53 noch hinterher",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDE5WkhsTVpDVDhvTEFFWlpmU1Y0ZURKVno0VGZSZkE3T01nZkxyRFdRYVEtdmFJbkQwV1FHeEw0UWE2UnRkT3BNUVF0aExvZ0RvSEQ4dHJldkJaMWRSb0tSVkJRTWRFVnVVTUEyMjFRbmJvdXlNQ3JNdGhHN2Z2MHV2MkJRTXRmNlE?oc=5",
    "quelle": "Deskmodder.de",
-   "datum": "2026-04-28"
+   "datum": "2026-04-28",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Digital Reality Viewer & Digital Twin Composer - India - Siemens Newsroom",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZXlBYWRpc2VQQm90Rk9jN2g5M18tdGNrX1pzZU5iUFI0bnpvZ3pwOXNSQ1RybmNIRDNxbEFwY0gyM2JnLXlSclpBSVBMSjBLQUNOeVh6QVh0YUxDdTdFZWFUNE02U2U4djRyemtwTkRqSDRySk4w?oc=5",
    "quelle": "Siemens Newsroom",
-   "datum": "2026-03-25"
+   "datum": "2026-03-25",
+   "erstmals": "2026-11-04"
   },
   {
+   "titel": "Digital Reality Viewer & Digital Twin Composer - India",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HZXlBYWRpc2VQQm90Rk9jN2g5M18tdGNrX1pzZU5iUFI0bnpvZ3pwOXNSQ1RybmNIRDNxbEFwY0gyM2JnLXlSclpBSVBMSjBLQUNOeVh6QVh0YUxDdTdFZWFUNE02U2U4djRyemtwTkRqSDRySk4w?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2026-03-25",
+   "auszug": "",
    "region": "USA",
-   "titel": "Building Photorealistic Digital Twins With Siemens Teamcenter Digital Reality Viewer | NVIDIA Technical Blog - NVIDIA Developer",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens adds Simcenter X Advanced to cloud simulation platform",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQam9TVVZtMlFUQ0g4MTlZMHk0RUp1MjhTU0dITF9PQzBtLVdQZWtvUnpLMDZFQ3NzN2pxSDZ1TzF6OGlhNkFBZWRCbHNOX0R2M3I4amJLMmRQQTJ1NWZUMTJqajAyN2dMMkpyX2NHWXBib1Q1NFBWb2lXcVdPZUJCaGtqS3ZmeXpCYm9UalNmQXlhNi1BcVE?oc=5",
+   "quelle": "Engineering.com",
+   "datum": "2025-12-04",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens collaborates with SPIL to deliver a 3D verification workflow for fan-out wafer-level packaging",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14N0F0eHJUYjkyVWtJSkpHNWZxTzRVaEdJN3ZrTzdoLThyaHp2QlJwanUzRTlrZkFoekRiaWZmckpGUEpNbl9uZmNEZWxwM1VPc2dPUm8wWQ?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-08-28",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens makes PLM more accessible with Teamcenter X Essential",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weHM3V0U3cVEwblUxTjhoNGFjUXhfcDR6a0FzM0tnUXJWMUlHUjBvbWFzajNRbkpUVFcxdUFndUFLRGpaMk5YRGFCcVI1dGlUT0VsTDhZRi1yTFpoeXotMWhnQXVqM1c5bUkyMUJHZGZheUNKMnNV?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-08-27",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens' NX X delivers cloud-based 3D CAD & engineering",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SVV9QZnBpa1o2ZENqcmE1UWVJQzRqOEVfY0tLSWpyNUxqNFFHcEwydm10dmc1TFhlYU5tQVZlNV85UUxoRHVQdktlRzVHLV9nNGl5LTJSQjYtb2tTeEE?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-08-26",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Building Photorealistic Digital Twins With Siemens Teamcenter Digital Reality Viewer | NVIDIA Technical Blog",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEdSYWtma3QzUlZxQVR2SFlWN2libFEza1p1WXNRcjNQTVBMbU02TllmRTBNVUZoaTBtZ3ZJYlE1SDFaLVZiaW9pZDFqSTRjd2F0VXFzTHltQjlaT2E3dW12V2VVYUZkSnhqNE5pV2dSOGlGbzV0ckQybm5LSnlnRHhIbmoxMmpKNzVXbmdRVUhDX2JpT2k0YmtDOHg4N1dIcUt5S044OFFvdU1nZF94WC0wRlpIVTdfQmRR?oc=5",
    "quelle": "NVIDIA Developer",
-   "datum": "2025-06-11"
+   "datum": "2025-06-11",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Siemens to deliver photorealism-enhanced digital twin with NVIDIA Omniverse and Teamcenter Digital Reality Viewer - Siemens Newsroom",
+   "titel": "Siemens expands Teamcenter X to broaden PLM access for all businesses",
+   "link": "https://www.engineering.com/siemens-expands-teamcenter-x-to-broaden-plm-access-for-all-businesses/",
+   "quelle": "Engineering",
+   "datum": "2025-04-22",
+   "auszug": "New Teamcenter X Standard and Advanced offerings provide greater flexibility for faster setup and productivity. Siemens ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Bombardier will den Entwicklungsprozess von Flugzeugen mit Siemens Xcelerator digitalisieren – vom Konzept bis zur Produktion",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMk5zTFhSYjVqeFJRLVdqcVRGQ29ja256RnJuNHlfVjNzVm9rQ1VJOXYtd2RCUUx4b1E1V3RBU1k0OWdLbzFQYy1fVkxPM0lmUHM3OG9ZWXZuVnpiWFZveHhPaHFvQmMtMjd3OC13?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-04-17",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens to deliver photorealism-enhanced digital twin with NVIDIA Omniverse and Teamcenter Digital Reality Viewer",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SekpjRDFoaUV1NUd3ZFpxaGpMMWd1ZGlhald2aDJuRzh5VjFXaUhpeU0xQTl3NThHRm1NbVJTa00yZDYxbFB5OVYyeXZvNGJncFRsRkdFRUFiMEZrc0lLVTZ0TmhINlZnYjNwaldOME5LTzQ2bVU1cWFLVVBSdw?oc=5",
    "quelle": "Siemens Newsroom",
-   "datum": "2025-01-07"
+   "datum": "2025-01-07",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Teamcenter Digital Reality Viewer adds photorealistic viz with Nvidia Omniverse",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHJVWEN6VWRtR0Nyb3l2MzB3aWs2dVhmeHBFSWlmTlNKSHFLU2JSZ0FGeVRGWDlKUXdCenpualpaZnNsN2JfZzVkaFV0dlpWM3VFcXlGdGtRX3dwcDZCam10LTlJcjlZTEtrSkRXaDhVdE5vVVdMQlBpLXJodTZQOHV5bDYtVDNMR2tHbDdqcTJkVFNQMTFzTlpCUUdfOEhYS2w5M0pxcVpnMG1ZQk9vYk5LREM?oc=5",
+   "quelle": "develop3d",
+   "datum": "2025-01-07",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Siemens and Sony deliver breakthrough Immersive Engineering for the industrial metaverse",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tX1FWeEZzZlJZYzhOLXlFeHZXTTNBRzZ0d3NVbmVHdkEtS0lSbnRIM21TU0JnMDd0WWk2c0ducU9SQWNSY3h2Ml9CQkFsTEV0cXA3eHc1MGpTZU5tNGdQZ0xFSQ?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-01-07",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "HD Hyundai Samho to work with BV and Siemens on 3D model-based design",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakVtNHVra05taFZ2TWZoU1Y4cmhWNmFEWm9sVmRrd0VWRjNHYmUxOGFuOHR1a1F2OGpsYWFrZXJWX1RralU1Njl0N0g5dTAyNEZqN3hBMDlPc3piQ3hxd2hTc0NxNnlhMHo1NVBmZl95WlJqSzFscGtCaFg2S1R4cVMwZHZ5RVpGVEZiTmxrT1dHTWlLSmllZnctLUNjMHl4TlZ5b0k4ZTd0MVlWQ0gtc2hYdnk?oc=5",
+   "quelle": "Smart Maritime Network",
+   "datum": "2024-12-17",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "EU",
    "titel": "Siemens und NVIDIA erweitern Zusammenarbeit bei generativer KI fü ... - Siemens Press",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3pEMDBmY2I4cDdpRTR5R0JocnNudlBveThtMm9MS2Z6M0VvODh3bU83UXl2SDR2OEZZMlBnQlh1TWFyQ0pfY3dYQWliUzJ5Uy1XV2pKeTVveEZXVnI2bHBMSnRBMGhFbkhLbl9DUDFORVlGcEJPSGxoVkJuNUR2emxmaGNPRW5XT2tsOENFMFYzWjRwOGprRXp4cng3SHRnRmFieHc1T3N6V0psOTV6X3RqdW1LbkZwWkNRV1FoYTd4cVRoeGk1VzZR?oc=5",
    "quelle": "Siemens Press",
-   "datum": "2024-03-18"
+   "datum": "2024-03-18",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Siemens and NVIDIA expand collaboration on generative AI for immersive real-time visualization - Siemens Newsroom",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uZGdFZHdSWVp2LTZIMWZaYjhpa0Y3Sjd3ZXZtT0Y2WHppY19hTzlsc1V0azNzZFk0dHNpWE1xemNKWjQzeHpOc1hTMTNMUUZ5bzB5bk5rY29TTTVyRUQ0YlFn?oc=5",
    "quelle": "Siemens Newsroom",
-   "datum": "2024-03-18"
+   "datum": "2024-03-18",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "NVIDIA and Siemens Bring Immersive Visualization and Generative AI to Industrial Design and Manufacturing - NVIDIA Blog",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm9QNEhfT3pGM1ZHaF9TRE1PbXU3RkVEYmZ4WG90YWg2RTR2aHh2cWk1a3ZfQmhpNV9LNEliNW53NjRMaUd2eTNseUVYU0VfY2hFaU5USllhTzNtU1hnQjVjUjFSck1JVkZoOFU1Z19rNGtnb0VVS0VNbkNfeVJSV3dn?oc=5",
    "quelle": "NVIDIA Blog",
-   "datum": "2024-03-18"
+   "datum": "2024-03-18",
+   "erstmals": "2026-11-04"
   },
   {
    "region": "USA",
    "titel": "Rash of security vulnerabilities found in Siemens equipment deployed across critical infrastructure - Industrial Cyber",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRjhCcGlNX0JaRnlMMU0zdml2VHBoTW5vZG9mQ2Jsam10ODg4MVFtd0IyTG5CRGlGSXZTYUtVQzItVVZJb29yWUpLUHBxRHhHYkVMVHdBd0xyVVQydm5CbnJ3eG82c1U3ZDF1ZjFjM19GM0tWLWNWZUxPcXVNaU1lZWNUNm80ckZfV0JOUE1uUlFtNXNGZlNpTk9fZlRESVFEN25VcEEtenBfb25fNmxkMXl6Z3RmMGlSVFZxQ3JpbUtLcGVQRWRsbHcwLTg?oc=5",
    "quelle": "Industrial Cyber",
-   "datum": "2021-08-11"
+   "datum": "2021-08-11",
+   "erstmals": "2026-11-04"
   }
  ]
 }
