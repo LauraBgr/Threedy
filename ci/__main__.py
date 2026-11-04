@@ -22,7 +22,8 @@ def main():
     lade_env()
     befehl = sys.argv[1] if len(sys.argv) > 1 else "alles"
     cfg = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
-    from . import auswerten, ki, sammeln, seite
+    from . import auswerten, ki, radar, sammeln, seite
+    cfg["wettbewerber"] += radar.auto_wettbewerber(cfg)   # vom Radar automatisch aufgenommene Firmen
     if befehl == "modelle":
         for m in ki.modelle():
             print(m)

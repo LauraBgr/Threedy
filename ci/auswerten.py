@@ -1,10 +1,11 @@
 """Schnappschüsse mit der KI (oder im Ersatzmodus) auswerten und für das Dashboard zusammenfassen."""
 import datetime as dt
+import hashlib
 import json
 import re
 from collections import Counter
 
-from . import ki
+from . import ki, luecken as lueckenmodul, news, radar
 from .pfade import DATEN, PROMPTS, lies_json, schreib_json, slug
 
 THEMEN = ["browserbasiert", "streaming_grosser_daten", "multi_cad_formate", "design_review", "zusammenarbeit", "digitaler_zwilling",
@@ -94,12 +95,15 @@ def auswerten(cfg, protokoll=print):
     stand = lies_json(DATEN / "stand.json", {})
     lauf = lies_json(DATEN / "letzter_lauf.json", {"aenderungen": [], "fehler": []})
     vorlage = (PROMPTS / "seite_auswerten.md").read_text(encoding="utf-8")
+    pv = hashlib.sha256(vorlage.encode()).hexdigest()[:8]   # Prompt geändert = Seiten neu auswerten
+    texte = {}   # Firma -> gesamter Seitentext (für die Keyword-Lücken)
     mit_ki = ki.verfuegbar()
     modus = f"KI ({ki.konfiguration()['modell']})" if mit_ki else "Ersatzmodus ohne KI"
     protokoll(f"Auswertung im {modus}")
     cache = lies_json(DATEN / "analyse_cache.json", {})   # fingerabdruck+modus -> auswertung
     fehlversuche = 0   # nach 3 KI-Fehlern in Folge: Rest im Ersatzmodus, statt stundenlang zu warten
-    firmen = {w["name"]: {"name": w["name"], "region": w["region"], "start": w["start"], "referenz": bool(w.get("referenz")), "seiten": []}
+    firmen = {w["name"]: {"name": w["name"], "region": w["region"], "start": w.get("start", ""), "referenz": bool(w.get("referenz")),
+                          "automatisch": bool(w.get("automatisch")), "seiten": []}
               for w in cfg["wettbewerber"]}
     for url, info in stand.items():
         if info["firma"] not in firmen:
@@ -107,7 +111,8 @@ def auswerten(cfg, protokoll=print):
         s = lies_json(DATEN / info["datei"])
         if not s:
             continue
-        schluessel = f"{info['fingerabdruck']}|{'ki:' + ki.konfiguration()['modell'] if mit_ki else 'ersatz'}"
+        texte[info["firma"]] = texte.get(info["firma"], "") + " " + " ".join([s["titel"], s["beschreibung"], *s["ueberschriften"], s["text"]]).lower()
+        schluessel = f"{info['fingerabdruck']}|{'ki:' + ki.konfiguration()['modell'] + '|' + pv if mit_ki else 'ersatz'}"
         a = cache.get(schluessel)
         if a is None:
             if mit_ki and fehlversuche < 3:
@@ -143,19 +148,21 @@ def auswerten(cfg, protokoll=print):
                  kunden=list(dict.fromkeys(k for p in f["seiten"] for k in p["kunden"]))[:20],
                  branchen=list(dict.fromkeys(b for p in f["seiten"] for b in p["branchen"]))[:15],
                  hauptbotschaften=[p["hauptbotschaft"] for p in f["seiten"] if p["hauptbotschaft"]][:4],
-                 stand=max((p["datum"] for p in f["seiten"]), default=""),
-                 news=(lies_json(DATEN / "news" / f"{slug(f['name'])}.json", {}) or {}).get("artikel", [])[:10])
+                 stand=max((p["datum"] for p in f["seiten"]), default=""))
+    nachrichten = news.auswerten(cfg, cache, THEMEN, THEMEN_MUSTER, mit_ki, protokoll)
+    for f in firmen.values():
+        n = nachrichten.get(f["name"], {"artikel": [], "analyse": {}})
+        f.update(news=n["artikel"], news_analyse=n["analyse"])
+    markt = nachrichten.get("_markt", {"artikel": [], "analyse": {}})
+    schreib_json(DATEN / "analyse_cache.json", cache)
+    radar_daten = radar.pruefen(cfg, nachrichten, cache, mit_ki, protokoll)
+    schreib_json(DATEN / "analyse_cache.json", cache)
 
-    # Lücken für Threedy: Themen und Keywords, die Wettbewerber oft nutzen, Threedy aber nicht
-    ref = next((f for f in firmen.values() if f["referenz"]), None)
-    andere = [f for f in firmen.values() if not f["referenz"] and f["seiten"]]
-    luecken = {"themen": [], "keywords": []}
-    if ref:
-        rt, rk = set(ref["themen"]), {k for k, _ in ref["keywords"]}
-        tz = Counter(t for f in andere for t in f["themen"])
-        luecken["themen"] = [{"thema": t, "firmen": n} for t, n in tz.most_common() if t not in rt and n >= 2]
-        kz = Counter(k for f in andere for k, _ in f["keywords"])
-        luecken["keywords"] = [{"keyword": k, "firmen": n} for k, n in kz.most_common(60) if k not in rk and n >= 2][:20]
+    # Lücken für Threedy
+    luecken = lueckenmodul.berechnen(list(firmen.values()), texte, THEMEN, CTA_TYPEN)
+    if mit_ki and luecken.get("referenz"):
+        luecken["ki"] = lueckenmodul.empfehlungen(luecken, firmen, markt["analyse"], cache, protokoll)
+        schreib_json(DATEN / "analyse_cache.json", cache)
 
     # Änderungsprotokoll fortschreiben
     log = lies_json(DATEN / "aenderungen.json", [])
@@ -171,13 +178,18 @@ def auswerten(cfg, protokoll=print):
     schreib_json(DATEN / "aenderungen.json", log)
 
     ergebnis = {"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "modus": modus,
-                "firmen": list(firmen.values()), "luecken": luecken, "aenderungen": log[:60],
+                "firmen": list(firmen.values()), "luecken": luecken, "markt": markt, "radar": radar_daten, "aenderungen": log[:60],
                 "fehler": lauf.get("fehler", []), "themenliste": THEMEN, "cta_typen": CTA_TYPEN}
 
     # KI-Zusammenfassung
     if mit_ki:
         kurz = [{"firma": f["name"], "region": f["region"], "referenz": f["referenz"], "themen": f["themen"],
-                 "keywords": [k for k, _ in f["keywords"][:12]], "cta": f["cta_typen"], "botschaften": f["hauptbotschaften"]} for f in firmen.values()]
+                 "keywords": [k for k, _ in f["keywords"][:12]], "cta": f["cta_typen"], "botschaften": f["hauptbotschaften"], "automatisch_aufgenommen": f.get("automatisch", False),
+                 "news": {"einordnung": f["news_analyse"].get("einordnung", ""), "ereignisse": f["news_analyse"].get("ereignisse", [])[:5]}} for f in firmen.values()]
+        kurz.append({"markt_news": markt["analyse"]})
+        kurz.append({"luecken_fuer_threedy": [z["thema"] for z in luecken.get("themen_tabelle", []) if z["status"] in ("luecke", "schwach")],
+                     "staerken_von_threedy": [z["thema"] for z in luecken.get("themen_tabelle", []) if z["status"] == "staerke"]})
+        kurz.append({"neu_entdeckte_wettbewerber": [{"name": k["name"], "gefahr": k["gefahr"], "begruendung": k["begruendung"]} for k in radar_daten["kandidaten"] if k["gefahr"] >= 3][:6]})
         # Nur die Änderungen dieses Laufs; "neu erfasst" = erstmals beobachtet, keine Änderung durch die Firma
         art_en = {"neu erfasst": "first captured", "geändert": "changed"}
         neue = [dict(a, art=art_en.get(a["art"], a["art"])) for a in lauf.get("aenderungen", [])]

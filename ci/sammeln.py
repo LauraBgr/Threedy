@@ -12,9 +12,8 @@ import re
 import time
 import urllib.robotparser
 import xml.etree.ElementTree as ET
-from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import quote_plus, urljoin, urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -61,39 +60,45 @@ def _host(u):
     return urlparse(u).netloc.lower().removeprefix("www.") if hasattr(str, "removeprefix") else re.sub(r"^www\.", "", urlparse(u).netloc.lower())
 
 
-def seiten_aus_sitemap(start, stichworte, maximal, pause):
-    """Sucht in sitemap.xml (auch verschachtelt) nach URLs mit passenden Stichworten."""
+def sitemap_eintraege(start, pause, max_sitemaps=12):
+    """Alle URLs (mit lastmod) aus sitemap.xml und den in robots.txt genannten Sitemaps, auch verschachtelt."""
     try:   # Weiterleitungen folgen (z. B. threedy.io -> www.threedy.io)
         start = SITZUNG.head(start, allow_redirects=True, timeout=15).url or start
     except requests.RequestException:
         pass
     teile = urlparse(start)
-    kandidaten, zu_lesen, gelesen = [], [f"{teile.scheme}://{teile.netloc}/sitemap.xml"], 0
+    eintraege, zu_lesen, gelesen = {}, [f"{teile.scheme}://{teile.netloc}/sitemap.xml"], set()
     try:
         for zeile in SITZUNG.get(f"{teile.scheme}://{teile.netloc}/robots.txt", timeout=15).text.splitlines():
             if zeile.lower().startswith("sitemap:"):
                 zu_lesen.insert(0, zeile.split(":", 1)[1].strip())
     except requests.RequestException:
         pass
-    while zu_lesen and gelesen < 6 and len(kandidaten) < 200:
+    while zu_lesen and len(gelesen) < max_sitemaps and len(eintraege) < 5000:
         sm = zu_lesen.pop(0)
-        gelesen += 1
+        if sm in gelesen:
+            continue
+        gelesen.add(sm)
         try:
             xml = ET.fromstring(abrufen(sm, pause).content)
         except Exception:
             continue
-        for loc in xml.iter():
-            if not loc.tag.endswith("loc") or not loc.text:
+        for knoten in xml:
+            loc = next((c.text.strip() for c in knoten if c.tag.endswith("loc") and c.text), "")
+            lastmod = next((c.text.strip()[:10] for c in knoten if c.tag.endswith("lastmod") and c.text), "")
+            if not loc:
                 continue
-            u = loc.text.strip()
-            if u.endswith(".xml"):
-                if any(s in u.lower() for s in ("page", "product", "solution", "sitemap")):
-                    zu_lesen.append(u)
-            elif _host(u) == _host(start):
-                kandidaten.append(u)
-    # Nach Stichworten filtern, kurze Pfade (Übersichtsseiten) zuerst, Blog/News/Jobs ausschließen
+            if knoten.tag.endswith("sitemap") or loc.endswith(".xml"):
+                zu_lesen.append(loc)
+            elif _host(loc) == _host(start):
+                eintraege.setdefault(loc, lastmod)
+    return list(eintraege.items())
+
+
+def seiten_aus_sitemap(start, stichworte, maximal, pause):
+    """Produkt- und Lösungsseiten aus der Sitemap: passende Stichworte, kurze Pfade (Übersichtsseiten) zuerst."""
     sperr = re.compile(r"/(blog|news|press|career|jobs|event|webinar|tag|author|legal|privacy|imprint|impressum)", re.I)
-    passend = [u for u in dict.fromkeys(kandidaten) if any(s in u.lower() for s in stichworte) and not sperr.search(u)]
+    passend = [u for u, _ in sitemap_eintraege(start, pause) if any(s in u.lower() for s in stichworte) and not sperr.search(u)]
     passend.sort(key=lambda u: (urlparse(u).path.count("/"), len(u)))
     return passend[:maximal]
 
@@ -128,32 +133,6 @@ def seite_zerlegen(html, url):
     }
 
 
-def news_abrufen(suche, maximal):
-    """Google-News-RSS für EU (de) und USA (en)."""
-    ergebnisse = []
-    for region, hl, gl, ceid in (("EU", "de", "DE", "DE:de"), ("USA", "en-US", "US", "US:en")):
-        url = f"https://news.google.com/rss/search?q={quote_plus(suche)}&hl={hl}&gl={gl}&ceid={ceid}"
-        try:
-            root = ET.fromstring(SITZUNG.get(url, timeout=20).content)
-        except Exception:
-            continue
-        for item in root.iter("item"):
-            titel = (item.findtext("title") or "").strip()
-            try:
-                datum = parsedate_to_datetime(item.findtext("pubDate")).date().isoformat()
-            except Exception:
-                datum = ""
-            ergebnisse.append({"region": region, "titel": titel, "link": item.findtext("link") or "",
-                               "quelle": (item.find("source").text if item.find("source") is not None else ""), "datum": datum})
-    ergebnisse.sort(key=lambda x: x["datum"], reverse=True)
-    eindeutig, gesehen = [], set()
-    for n in ergebnisse:
-        k = n["titel"].lower()[:80]
-        if k not in gesehen:
-            gesehen.add(k); eindeutig.append(n)
-    return eindeutig[: maximal * 2]
-
-
 def aufraeumen(stand, behalten=8):
     """Pro Seite nur die letzten Schnappschüsse behalten, damit das Repository klein bleibt."""
     aktuell = {v["datei"] for v in stand.values()}
@@ -177,7 +156,7 @@ def sammeln(cfg, protokoll=print):
     for w in cfg["wettbewerber"]:
         name = w["name"]
         protokoll(f"– {name}")
-        ziele = [{"url": w["start"], "region": w["region"]}]
+        ziele = [{"url": w["start"], "region": w["region"]}] if w.get("start") else []   # ohne Website: nur News
         for s in w.get("seiten", []) or []:
             ziele.append({"url": s["url"], "region": s.get("region", w["region"])})
         if w.get("sitemap"):
@@ -211,8 +190,9 @@ def sammeln(cfg, protokoll=print):
             stand[url] = {"fingerabdruck": fp, "datum": heute, "datei": str(datei.relative_to(DATEN)), "firma": name, "region": z["region"]}
             seiten_gesamt += 1
             protokoll(f"   ✓ {url} ({len(inhalt['text'])} Zeichen)")
-        if w.get("news"):
-            schreib_json(DATEN / "news" / f"{slug(name)}.json", {"firma": name, "abgerufen": heute, "artikel": news_abrufen(w["news"], e["max_news_pro_firma"])})
+    protokoll("– Nachrichten und Pressemeldungen")
+    from . import news
+    fehler += news.sammeln(cfg, protokoll)
     schreib_json(DATEN / "stand.json", stand)
     aufraeumen(stand, behalten=e.get("schnappschuesse_behalten", 8))
     lauf = {"datum": heute, "seiten": seiten_gesamt, "fehler": fehler, "aenderungen": aenderungen}

@@ -6,12 +6,15 @@
 # sitemap:    true = in der Sitemap automatisch passende Produkt- und Lösungsseiten suchen
 # seiten:     feste Seiten, die immer erfasst werden. Optional mit eigener Region,
 #             z. B. die deutsche und die US-Version derselben Seite für den EU-USA-Vergleich
-# news:       Suchbegriff für Nachrichten (Google News)
+# news:       Suchbegriffe für Nachrichten (Google News und Bing News, EU und USA), ein Begriff oder eine Liste
+#             Anführungszeichen = genau dieser Ausdruck
 # referenz:   true = das ist Threedy selbst, zum Vergleich
 
 einstellungen:
   max_seiten_pro_firma: 6          # wie viele Seiten pro Firma höchstens erfasst werden
-  max_news_pro_firma: 8
+  max_news_pro_firma: 40           # neue Artikel pro Firma und Lauf (ältere bleiben im Archiv)
+  news_max_alter_tage: 730         # ältere Artikel werden ignoriert
+  max_eigene_meldungen: 6          # neueste Presse-/Blogseiten von der Firmenwebsite (nur bei sitemap: true)
   pause_sekunden: 2                # Wartezeit zwischen zwei Abrufen derselben Website
   seiten_stichworte: [product, products, solution, solutions, platform, industr, use-case, usecase, visuali, viewer, digital-twin, produkt, loesung, losung, plattform]
 
@@ -20,20 +23,20 @@ wettbewerber:
     region: EU
     start: https://threedy.io/
     sitemap: true
-    news: '"Threedy" 3D'
+    news: ['"Threedy" 3D', '"instant3Dhub"']
     referenz: true
 
   - name: Vertex Software
     region: USA
     start: https://vertex3d.com/
     sitemap: true
-    news: '"Vertex Software" 3D'
+    news: ['"Vertex Software" 3D', '"Vertex Software" PLM', '"Vertex Connect"']
 
   - name: Tech Soft 3D
     region: USA
     start: https://www.techsoft3d.com/
     sitemap: true
-    news: '"Tech Soft 3D"'
+    news: ['"Tech Soft 3D"', '"HOOPS Exchange" OR "HOOPS Communicator" OR "HOOPS Visualize"']
 
   - name: KISTERS 3DViewStation
     region: EU
@@ -41,26 +44,46 @@ wettbewerber:
     seiten:
       - {url: https://viewer.kisters.de/en/products/3dviewstation-product-family.html}
       - {url: https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html, region: EU, sprache: de}
-    news: '"3DViewStation" OR "KISTERS" viewer'
+    news: ['"3DViewStation"', '"KISTERS" 3D viewer']
 
   - name: PTC Creo View
     region: USA
     start: https://www.ptc.com/en/products/creo/creo-view
     seiten:
       - {url: https://www.ptc.com/de/products/creo/creo-view, region: EU, sprache: de}
-    news: '"Creo View" OR "PTC" visualization'
+    news: ['"Creo View"', '"PTC" visualization 3D', '"PTC" "digital thread"']
 
   - name: Siemens Teamcenter Visualization
     region: EU
     start: https://plm.sw.siemens.com/en-US/teamcenter/
-    news: '"Teamcenter" visualization Siemens'
+    news: ['"Teamcenter" visualization', '"Teamcenter" Siemens 3D']
 
   - name: Dassault 3DEXPERIENCE
     region: EU
     start: https://www.3ds.com/3dexperience
-    news: '"3DEXPERIENCE" Dassault'
+    news: ['"3DEXPERIENCE" Dassault', '"Dassault Systèmes" "virtual twin"']
 
   - name: NVIDIA Omniverse
     region: USA
     start: https://www.nvidia.com/en-us/omniverse/
-    news: '"Omniverse" industrial digital twin'
+    news: ['"Omniverse" industrial digital twin', '"Omniverse" manufacturing']
+
+# Markt-News: Branchenbegriffe ohne Firmenbezug, für Trends und neue Wettbewerber
+markt:
+  news:
+    - '"industrial 3D visualization"'
+    - '"digital twin" manufacturing 3D'
+    - '"CAD viewer" browser'
+    - '"agentic AI" manufacturing'
+    - '"3D-Visualisierung" Industrie'
+    - '"digitaler Zwilling" Fertigung'
+
+# Wettbewerber-Radar: erkennt neue Firmen in den Nachrichten und bewertet die Gefahr für Threedy (1–5).
+# Firmen mit hoher Gefahr, die oft genug erwähnt werden, werden automatisch beobachtet (data/auto_wettbewerber.json).
+radar:
+  aktiv: true
+  automatisch_hinzufuegen: true
+  min_gefahr: 4                    # 5 = direkter Wettbewerber, 4 = starke Überschneidung
+  min_erwaehnungen: 2              # in so vielen Artikeln muss die Firma vorkommen
+  max_automatisch: 6               # höchstens so viele automatisch aufgenommene Firmen
+  ausschliessen: []                # z. B. [Siemens Energy] – wird nie aufgenommen, auch nachträglich entfernt

@@ -5,220 +5,536 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Competitive Intelligence · Threedy</title>
 <style>
-  :root { --bg: #F4F5F8; --karte: #FFFFFF; --text: #1E2230; --leise: #6B7080; --linie: #E3E5EC; --akzent: #2F6FEB; --eu: #2F6FEB; --us: #E0663A; --gut: #2E9C6A; --warn: #C98A12; }
+  :root {
+    color-scheme: light;
+    --page: #f4f4f1; --surface: #fcfcfb; --surface-2: #f3f3f0; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+    --grid: #e1e0d9; --axis: #c3c2b7; --ring: rgba(11,11,11,0.10);
+    --eu: #2a78d6; --usa: #eb6834; --accent: #2a78d6;
+    --good: #0ca30c; --warning: #fab219; --serious: #ec835a; --critical: #d03b3b; --good-ink: #006300;
+    --s100: #cde2fb; --s200: #9ec5f4; --s300: #6da7ec; --s400: #3987e5; --s500: #256abf; --s600: #184f95; --s700: #0d366b;
+    --head: #12151f; --head-ink: #f0efec; --head-muted: #a9aab3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232321; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
+      --eu: #3987e5; --usa: #d95926; --accent: #3987e5; --good-ink: #0ca30c;
+      --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4;
+      --head: #000; --head-ink: #f0efec; --head-muted: #898781;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --surface-2: #232321; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --ring: rgba(255,255,255,0.10);
+    --eu: #3987e5; --usa: #d95926; --accent: #3987e5; --good-ink: #0ca30c;
+    --s100: #10243d; --s200: #133a66; --s300: #184f95; --s400: #256abf; --s500: #3987e5; --s600: #6da7ec; --s700: #9ec5f4;
+    --head: #000; --head-ink: #f0efec; --head-muted: #898781;
+  }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
-  header { background: #161A26; color: #fff; padding: 22px 24px 0; }
-  header h1 { margin: 0; font-size: 22px; } header p { margin: 4px 0 14px; color: #B5BAC8; font-size: 13px; }
-  nav { display: flex; gap: 4px; overflow-x: auto; }
-  nav button { background: none; border: 0; color: #B5BAC8; font: inherit; font-weight: 600; padding: 10px 14px; border-radius: 8px 8px 0 0; cursor: pointer; white-space: nowrap; }
-  nav button.an { background: var(--bg); color: var(--text); }
-  main { max-width: 1240px; margin: 0 auto; padding: 20px 16px 60px; }
-  .raster { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
-  .karte { background: var(--karte); border: 1px solid var(--linie); border-radius: 12px; padding: 16px; min-width: 0; }
-  .karte h3 { margin: 0 0 4px; font-size: 16px; }
-  h2 { font-size: 18px; margin: 4px 0 12px; }
-  .klein { color: var(--leise); font-size: 12.5px; }
-  .region { display: inline-block; font-size: 11px; font-weight: 700; padding: 1px 8px; border-radius: 99px; color: #fff; }
-  .region.EU { background: var(--eu); } .region.USA { background: var(--us); }
-  .ref { background: #161A26; color: #fff; font-size: 11px; font-weight: 700; padding: 1px 8px; border-radius: 99px; margin-left: 6px; }
+  body { margin: 0; background: var(--page); color: var(--ink); font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { background: var(--head); color: var(--head-ink); padding: 20px 24px 0; }
+  header .zeile { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+  header h1 { margin: 0; font-size: 21px; letter-spacing: -.01em; }
+  header p { margin: 4px 0 14px; color: var(--head-muted); font-size: 13px; }
+  nav { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
+  nav button { background: none; border: 0; color: var(--head-muted); font: inherit; font-weight: 600; padding: 10px 13px; border-radius: 8px 8px 0 0; cursor: pointer; white-space: nowrap; }
+  nav button:hover { color: var(--head-ink); }
+  nav button.an { background: var(--page); color: var(--ink); }
+  nav .zahl { display: inline-block; min-width: 18px; padding: 0 5px; margin-left: 5px; border-radius: 99px; background: var(--critical); color: #fff; font-size: 11px; line-height: 17px; text-align: center; }
+  main { max-width: 1280px; margin: 0 auto; padding: 20px 16px 60px; }
+  h2 { font-size: 17px; margin: 0 0 4px; }
+  h3 { font-size: 14px; margin: 0 0 8px; }
+  .unter { color: var(--ink-2); font-size: 13px; margin: 0 0 14px; }
+  .klein { color: var(--muted); font-size: 12px; }
+  .raster { display: grid; gap: 14px; }
+  .r2 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); }
+  .r3 { grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); }
+  .abschnitt { margin-top: 22px; }
+  .karte { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 16px; min-width: 0; }
+  .kacheln { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 14px; }
+  .kachel { background: var(--surface); border: 1px solid var(--ring); border-radius: 12px; padding: 14px 16px; }
+  .kachel .wert { font-size: 28px; font-weight: 650; letter-spacing: -.02em; line-height: 1.15; }
+  .kachel .name { color: var(--ink-2); font-size: 12.5px; }
+  .kachel .hinw { color: var(--muted); font-size: 11.5px; margin-top: 2px; }
+  .chip { display: inline-flex; align-items: center; gap: 4px; font-size: 11.5px; font-weight: 600; padding: 1px 8px; border-radius: 99px; background: var(--surface-2); color: var(--ink-2); white-space: nowrap; }
+  .region { display: inline-flex; align-items: center; gap: 5px; font-size: 11.5px; font-weight: 600; color: var(--ink-2); white-space: nowrap; }
+  .region::before { content: ""; width: 9px; height: 9px; border-radius: 3px; background: var(--muted); }
+  .region.EU::before { background: var(--eu); } .region.USA::before { background: var(--usa); }
   .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
-  .tag { background: #EEF2FB; color: #30415F; border-radius: 6px; padding: 1px 7px; font-size: 12px; }
-  table { border-collapse: collapse; width: 100%; background: var(--karte); border: 1px solid var(--linie); border-radius: 12px; overflow: hidden; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--linie); vertical-align: top; font-size: 13px; }
-  th { background: #F7F8FB; font-size: 12px; color: var(--leise); text-transform: uppercase; letter-spacing: .04em; position: sticky; top: 0; }
-  .tabwrap { overflow-x: auto; border-radius: 12px; }
-  td.zelle { text-align: center; font-weight: 600; min-width: 56px; }
-  .hinweis { background: #FFF7E6; border: 1px solid #F3D9A4; border-radius: 10px; padding: 10px 12px; margin-bottom: 14px; font-size: 13px; }
-  .md h2 { font-size: 15px; margin: 14px 0 4px; } .md p, .md li { font-size: 14px; }
-  .balken { display: flex; align-items: center; gap: 8px; font-size: 12.5px; margin: 3px 0; }
-  .balken .spur { flex: 1; height: 10px; background: #EEF0F5; border-radius: 99px; overflow: hidden; display: flex; }
-  .balken i { display: block; height: 100%; border-radius: 99px; }
-  .vergleich { display: grid; grid-template-columns: minmax(130px, 190px) 1fr 40px 1fr 40px; align-items: center; gap: 6px 10px; font-size: 12.5px; }
-  .vergleich .spur { height: 10px; background: #EEF0F5; border-radius: 99px; overflow: hidden; }
-  .vergleich .spur i { display: block; height: 100%; border-radius: 99px; }
-  .vergleich .wert { text-align: right; font-variant-numeric: tabular-nums; }
-  .vergleich .kopf { font-weight: 700; font-size: 11px; color: var(--leise); text-transform: uppercase; letter-spacing: .04em; }
-  @media (max-width: 560px) { .vergleich { grid-template-columns: 1fr 34px; } .vergleich .thema { grid-column: 1 / -1; margin-top: 6px; } .vergleich .kopf { display: none; } .nur-mobil { display: block !important; } }
-  .nur-mobil { display: none; }
-  input[type=search], select { font: inherit; padding: 7px 10px; border: 1px solid var(--linie); border-radius: 8px; background: #fff; }
-  a { color: var(--akzent); text-decoration: none; } a:hover { text-decoration: underline; }
-  .leer { color: var(--leise); }
+  .tag { background: var(--surface-2); color: var(--ink-2); border-radius: 6px; padding: 1px 7px; font-size: 12px; }
+  .status { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 600; white-space: nowrap; color: var(--ink); }
+  .status i { font-style: normal; width: 18px; height: 18px; border-radius: 99px; display: inline-grid; place-items: center; font-size: 11px; color: #fff; }
+  .s-luecke i { background: var(--critical); } .s-schwach i { background: var(--serious); } .s-staerke i { background: var(--good); }
+  .s-gleichauf i { background: var(--axis); color: var(--ink); } .s-offen i { background: transparent; border: 1.5px solid var(--axis); color: var(--muted); }
+  .s-hoch i { background: var(--critical); } .s-mittel i { background: var(--warning); color: #0b0b0b; } .s-niedrig i { background: var(--axis); color: var(--ink); }
+  .s-aufgenommen i { background: var(--good); } .s-beobachtet i { background: var(--axis); color: var(--ink); } .s-ausgeschlossen i { background: transparent; border: 1.5px solid var(--axis); color: var(--muted); }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; font-size: 13px; }
+  th { font-size: 11.5px; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; background: var(--surface); position: sticky; top: 0; z-index: 1; }
+  td.zahl, th.zahl { text-align: right; font-variant-numeric: tabular-nums; }
+  .tabwrap { overflow-x: auto; border-radius: 12px; border: 1px solid var(--ring); background: var(--surface); }
+  .tabwrap table th:first-child, .tabwrap table td:first-child { position: sticky; left: 0; background: var(--surface); z-index: 2; }
+  /* Heatmap */
+  .heat td.zelle { text-align: center; font-weight: 600; font-variant-numeric: tabular-nums; min-width: 64px; padding: 0; border: 2px solid var(--surface); border-radius: 6px; }
+  .heat td.zelle span { display: block; padding: 8px 4px; border-radius: 5px; }
+  .heat th.firma { writing-mode: horizontal-tb; min-width: 64px; text-align: center; font-size: 11px; text-transform: none; letter-spacing: 0; }
+  .skala { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); margin-top: 10px; }
+  .skala span { width: 26px; height: 10px; border-radius: 3px; }
+  /* Balken */
+  .balken { display: grid; grid-template-columns: minmax(110px, 190px) 1fr 52px; align-items: center; gap: 8px; font-size: 13px; padding: 3px 0; border-radius: 6px; }
+  .balken:hover { background: var(--surface-2); }
+  .balken .spur { height: 12px; background: var(--surface-2); border-radius: 4px; overflow: hidden; }
+  .balken .spur i { display: block; height: 100%; border-radius: 0 4px 4px 0; }
+  .balken .wert { text-align: right; font-variant-numeric: tabular-nums; color: var(--ink-2); }
+  .balken .lab { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .fett { font-weight: 700; }
+  /* Dumbbell */
+  .hantel { display: grid; grid-template-columns: minmax(120px, 200px) 1fr 70px; align-items: center; gap: 4px 12px; font-size: 13px; }
+  .hantel .spur { position: relative; height: 22px; }
+  .hantel .spur::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; border-top: 1px solid var(--grid); }
+  .hantel .verb { position: absolute; top: calc(50% - 1px); height: 2px; background: var(--axis); }
+  .hantel .punkt { position: absolute; top: 50%; width: 12px; height: 12px; margin: -6px 0 0 -6px; border-radius: 99px; border: 2px solid var(--surface); }
+  .hantel .diff { text-align: right; font-variant-numeric: tabular-nums; color: var(--ink-2); font-size: 12px; }
+  .achse { position: relative; height: 16px; font-size: 11px; color: var(--muted); }
+  .achse span { position: absolute; transform: translateX(-50%); }
+  .legende { display: flex; gap: 14px; flex-wrap: wrap; font-size: 12px; color: var(--ink-2); margin-bottom: 8px; }
+  .legende span { display: inline-flex; align-items: center; gap: 6px; }
+  .legende b { width: 10px; height: 10px; border-radius: 99px; display: inline-block; }
+  /* Säulen */
+  .saeulen svg { display: block; width: 100%; height: auto; max-height: 260px; overflow: visible; }
+  .saeulen text { fill: var(--muted); font-size: 11px; }
+  /* Zeitleiste */
+  .zeit { list-style: none; margin: 0; padding: 0; }
+  .zeit li { display: grid; grid-template-columns: 84px 1fr; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--grid); }
+  .zeit li:last-child { border-bottom: 0; }
+  .zeit .datum { color: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; padding-top: 1px; }
+  /* Gefahr */
+  .gefahr { display: inline-flex; gap: 3px; vertical-align: middle; }
+  .gefahr b { width: 10px; height: 10px; border-radius: 3px; background: var(--grid); }
+  .gefahr.g4 b.an, .gefahr.g5 b.an { background: var(--critical); } .gefahr.g3 b.an { background: var(--serious); } .gefahr.g1 b.an, .gefahr.g2 b.an { background: var(--axis); }
+  /* Empfehlungen */
+  .empf { display: grid; gap: 6px; }
+  .empf .beispiel { background: var(--surface-2); border-radius: 8px; padding: 8px 10px; font-style: italic; color: var(--ink); font-size: 13px; }
+  .md h2 { font-size: 14px; margin: 14px 0 2px; color: var(--ink); } .md h2:first-child { margin-top: 0; } .md p, .md li { font-size: 14px; color: var(--ink); margin: 4px 0; } .md ul { padding-left: 18px; margin: 4px 0; }
+  .filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; align-items: center; }
+  .filter input[type=search], .filter select { font: inherit; padding: 7px 10px; border: 1px solid var(--ring); border-radius: 8px; background: var(--surface); color: var(--ink); }
+  .filter label { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; color: var(--ink-2); }
+  .artikel { padding: 10px 0; border-bottom: 1px solid var(--grid); }
+  .artikel:last-child { border-bottom: 0; }
+  .artikel .meta { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .artikel p { margin: 4px 0 0; font-size: 13px; color: var(--ink-2); }
+  .neu { background: var(--accent); color: #fff; font-size: 10.5px; font-weight: 700; padding: 0 6px; border-radius: 99px; }
+  .hinweis { background: var(--surface); border: 1px solid var(--warning); border-left-width: 4px; border-radius: 10px; padding: 10px 12px; margin-bottom: 14px; font-size: 13px; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
+  .leer { color: var(--muted); }
+  #tip { position: fixed; pointer-events: none; z-index: 50; background: var(--surface); color: var(--ink); border: 1px solid var(--ring); box-shadow: 0 6px 24px rgba(0,0,0,.14); border-radius: 8px; padding: 8px 10px; font-size: 12.5px; max-width: 300px; display: none; }
+  #tip b { display: block; margin-bottom: 2px; }
+  #theme { background: none; border: 1px solid #ffffff33; color: var(--head-muted); border-radius: 8px; padding: 5px 10px; font: inherit; font-size: 12px; cursor: pointer; }
+  @media (max-width: 640px) {
+    .balken { grid-template-columns: minmax(90px, 120px) 1fr 44px; }
+    .hantel { grid-template-columns: 1fr 52px; } .hantel .lab { grid-column: 1 / -1; margin-top: 6px; } .achse.desk { margin-left: 0; }
+    .zeit li { grid-template-columns: 1fr; gap: 2px; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <h1>Competitive Intelligence · Threedy</h1>
-  <p id="stand"></p>
+  <div class="zeile"><div><h1>Competitive Intelligence · Threedy</h1><p id="stand"></p></div><button id="theme" type="button">Theme</button></div>
   <nav id="nav"></nav>
 </header>
 <main id="inhalt"></main>
+<div id="tip" role="tooltip"></div>
 <script>
 const D = /*DATEN*/null;
 const $ = (s) => document.querySelector(s);
-function el(tag, attrs = {}, ...k) { const e = document.createElement(tag); for (const [a, v] of Object.entries(attrs)) { if (v == null) continue; if (a === "class") e.className = v; else if (a.startsWith("on")) e.addEventListener(a.slice(2), v); else e.setAttribute(a, v); } for (const x of k) if (x != null) e.append(x); return e; }
+function el(tag, attrs = {}, ...k) {
+  const e = document.createElement(tag);
+  for (const [a, v] of Object.entries(attrs || {})) { if (v == null || v === false) continue; if (a === "class") e.className = v; else if (a === "style") e.style.cssText = v; else if (a.startsWith("on")) e.addEventListener(a.slice(2), v); else e.setAttribute(a, v); }
+  for (const x of k.flat(Infinity)) if (x != null && x !== false) e.append(x);
+  return e;
+}
+function svg(tag, attrs = {}, ...k) { const e = document.createElementNS("http://www.w3.org/2000/svg", tag); for (const [a, v] of Object.entries(attrs)) e.setAttribute(a, v); for (const x of k.flat(Infinity)) if (x != null) e.append(x); return e; }
 
-// The data uses German keys internally; these maps translate them for display.
+// ---------- Tooltip ----------
+const tipEl = $("#tip");
+function tip(node, titel, zeilen = []) {
+  const zeige = (ev) => { tipEl.replaceChildren(el("b", {}, titel), ...zeilen.map((z) => el("div", {}, z))); tipEl.style.display = "block"; pos(ev); };
+  const pos = (ev) => { const r = tipEl.getBoundingClientRect(); let x = (ev.clientX ?? node.getBoundingClientRect().right) + 14, y = (ev.clientY ?? node.getBoundingClientRect().top) + 14;
+    if (x + r.width > innerWidth - 8) x = innerWidth - r.width - 8; if (y + r.height > innerHeight - 8) y = y - r.height - 28; tipEl.style.left = x + "px"; tipEl.style.top = y + "px"; };
+  node.addEventListener("mouseenter", zeige); node.addEventListener("mousemove", pos); node.addEventListener("mouseleave", () => (tipEl.style.display = "none"));
+  node.addEventListener("focus", zeige); node.addEventListener("blur", () => (tipEl.style.display = "none"));
+  if (!node.hasAttribute("tabindex")) node.setAttribute("tabindex", "0");
+  return node;
+}
+
+// ---------- Labels (internal keys are German) ----------
 const THEMES = { browserbasiert: "Browser-based", streaming_grosser_daten: "Streaming large data", multi_cad_formate: "Multi-CAD formats", design_review: "Design review",
   zusammenarbeit: "Collaboration", digitaler_zwilling: "Digital twin", ki_und_agenten: "AI & agents", ar_vr: "AR/VR", service_und_wartung: "Service & maintenance",
-  fertigung_und_produktion: "Manufacturing & production", vertrieb_und_marketing: "Sales & marketing", plm_integration: "PLM integration", sdk_und_api: "SDK & API",
-  cloud_und_saas: "Cloud & SaaS", sicherheit_und_datenschutz: "Security & privacy", skalierbarkeit_enterprise: "Enterprise scalability", nachhaltigkeit: "Sustainability", kosten_und_roi: "Cost & ROI" };
-const CTAS = { demo: "Demo", testversion: "Free trial", kontakt_vertrieb: "Contact sales", video: "Video", dokumentation: "Documentation", download: "Download",
-  event: "Event", preise: "Pricing", newsletter: "Newsletter", sonstiges: "Other" };
+  fertigung_und_produktion: "Manufacturing", vertrieb_und_marketing: "Sales & marketing", plm_integration: "PLM integration", sdk_und_api: "SDK & API",
+  cloud_und_saas: "Cloud & SaaS", sicherheit_und_datenschutz: "Security & privacy", skalierbarkeit_enterprise: "Enterprise scale", nachhaltigkeit: "Sustainability", kosten_und_roi: "Cost & ROI" };
+const CTAS = { demo: "Demo", testversion: "Free trial", kontakt_vertrieb: "Contact sales", video: "Video", dokumentation: "Documentation", download: "Download", event: "Event", preise: "Pricing", newsletter: "Newsletter", sonstiges: "Other" };
 const PAGETYPES = { startseite: "Homepage", produkt: "Product", loesung: "Solution", branche: "Industry", preis: "Pricing", vergleich: "Comparison", presse: "Press", blog: "Blog", sonstiges: "Other" };
+const EVENTS = { produkt: "Product", partnerschaft: "Partnership", kunde: "Customer", finanzierung: "Funding", uebernahme: "Acquisition", personal: "People", event: "Event", studie: "Study", sonstiges: "Other" };
+const STATUS = { luecke: ["!", "Gap"], schwach: ["▼", "Under-weighted"], staerke: ["✓", "Strength"], gleichauf: ["=", "At parity"], offen: ["○", "Open field"],
+  hoch: ["!", "High"], mittel: ["•", "Medium"], niedrig: ["·", "Low"], aufgenommen: ["✓", "Now monitored"], beobachtet: ["○", "Watching"], ausgeschlossen: ["✕", "Excluded"] };
+const KINDS = { wettbewerber: "Competitor", partner: "Partner", kunde: "Customer", investor: "Investor", sonstiges: "Other" };
 const CHANGES = { "neu erfasst": "First captured", "geändert": "Changed" };
 const THEMA = (t) => THEMES[t] || t.replace(/_/g, " ");
-const CTA = (t) => CTAS[t] || t.replace(/_/g, " ");
-const FEHLER = (f) => f.replace("robots.txt verbietet den Abruf", "blocked by robots.txt").replace("kaum Text auf der Seite (evtl. nur per JavaScript geladen)", "almost no text (content is probably loaded via JavaScript)");
+const status = (s) => el("span", { class: "status s-" + s }, el("i", {}, (STATUS[s] || ["?"])[0]), (STATUS[s] || [s, s])[1]);
+const region = (r) => el("span", { class: "region " + (r || "") }, r || "own site");
+const pct = (x) => Math.round(x * 100) + "%";
+const FEHLER = (f) => f.replace("robots.txt verbietet den Abruf", "blocked by robots.txt").replace("kaum Text auf der Seite (evtl. nur per JavaScript geladen)", "almost no text (content probably loaded via JavaScript)");
 const ersatz = D.modus.startsWith("Ersatz");
 const modus = ersatz ? "keyword fallback (no AI)" : D.modus.replace(/^KI/, "AI");
-const datum = (s) => { const d = new Date(s); return isNaN(d) ? s.replace("T", " ") : d.toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" }); };
+const datum = (s) => { const d = new Date(s); return isNaN(d) ? String(s).replace("T", " ") : d.toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" }); };
+const heute = new Date().toISOString().slice(0, 10);
+const tageZurueck = (n) => new Date(Date.now() - n * 864e5).toISOString().slice(0, 10);
 
+// ---------- Data prep ----------
+const alleFirmen = D.firmen.filter((f) => f.seiten.length || (f.news || []).length);
 const firmen = D.firmen.filter((f) => f.seiten.length);
-const region = (r) => el("span", { class: "region " + r }, r);
-$("#stand").textContent = `Updated ${datum(D.erstellt)} · ${firmen.length} companies · ${firmen.reduce((a, f) => a + f.seiten.length, 0)} pages · Analysis: ${modus}`;
+const ref = firmen.find((f) => f.referenz);
+const L = D.luecken || {};
+const R = D.radar || { kandidaten: [] };
+const M = D.markt || { artikel: [], analyse: {} };
+const alleArtikel = [...alleFirmen.flatMap((f) => (f.news || []).map((a) => ({ ...a, firma: f.name, firmaRegion: f.region }))), ...M.artikel.map((a) => ({ ...a, firma: "Market" }))];
+const presseArtikel = alleArtikel.filter((a) => a.herkunft !== "Website");
+const neueArtikel = alleArtikel.filter((a) => a.neu).length;
+const luecken = (L.themen_tabelle || []).filter((z) => z.status === "luecke" || z.status === "schwach");
+const gefaehrlich = R.kandidaten.filter((k) => k.gefahr >= 4 && k.status !== "ausgeschlossen");
 
-const VIEWS = {
-  "Overview": overview, "Keywords": keywords, "Themes": themes, "Calls to action": cta, "Proof points": proof,
-  "EU vs. USA": euUsa, "Gaps for Threedy": gaps, "Changes": changes, "News": news, "Sources": sources,
-};
-let aktiv = location.hash.slice(1) ? decodeURIComponent(location.hash.slice(1)) : "Overview";
-function zeige(name) {
-  aktiv = VIEWS[name] ? name : "Overview"; location.hash = encodeURIComponent(aktiv);
-  $("#nav").replaceChildren(...Object.keys(VIEWS).map((n) => el("button", { class: n === aktiv ? "an" : null, onclick: () => zeige(n) }, n)));
-  const m = $("#inhalt"); m.replaceChildren();
-  if (ersatz) m.append(el("div", { class: "hinweis" }, "Fallback mode without AI: keywords and themes are only roughly estimated by keyword matching. With an AI key, every page is analysed in detail."));
-  VIEWS[aktiv](m);
+$("#stand").textContent = `Updated ${datum(D.erstellt)} · ${firmen.length} companies · ${firmen.reduce((a, f) => a + f.seiten.length, 0)} pages · ${alleArtikel.length} articles · Analysis: ${modus}`;
+
+// ---------- Reusable charts ----------
+function kacheln(liste) {
+  return el("div", { class: "kacheln" }, liste.map(([wert, name, hinw]) => el("div", { class: "kachel" }, el("div", { class: "wert" }, String(wert)), el("div", { class: "name" }, name), hinw ? el("div", { class: "hinw" }, hinw) : null)));
 }
-
-function overview(m) {
-  if (D.zusammenfassung) m.append(el("div", { class: "karte md", style: "margin-bottom:14px" }, ...md(D.zusammenfassung)));
-  const r = el("div", { class: "raster" });
-  for (const f of firmen) {
-    const top = Object.entries(f.themen).sort((a, b) => b[1] - a[1]).slice(0, 5);
-    r.append(el("div", { class: "karte" },
-      el("h3", {}, f.name, " ", region(f.region), f.referenz ? el("span", { class: "ref" }, "Reference") : null),
-      el("div", { class: "klein" }, `${f.seiten.length} ${f.seiten.length === 1 ? "page" : "pages"} · captured ${f.stand} · `, el("a", { href: f.start, target: "_blank" }, "Website")),
-      f.hauptbotschaften[0] ? el("p", { style: "margin:8px 0 4px;font-weight:500" }, "“" + f.hauptbotschaften[0] + "”") : null,
-      el("div", { class: "tags" }, ...top.map(([t]) => el("span", { class: "tag" }, THEMA(t)))),
-      el("div", { class: "tags" }, ...f.keywords.slice(0, 8).map(([k]) => el("span", { class: "tag", style: "background:#F3F4F7" }, k)))));
-  }
-  m.append(r);
+function balken(zeilen, { max, fmt = (v) => String(v), farbe = () => "var(--accent)", tipp } = {}) {
+  const m = max ?? Math.max(1, ...zeilen.map((z) => z.wert));
+  return el("div", {}, zeilen.map((z) => {
+    const row = el("div", { class: "balken" }, el("span", { class: "lab" + (z.fett ? " fett" : "") }, z.label),
+      el("span", { class: "spur" }, el("i", { style: `width:${Math.max(z.wert ? 1.5 : 0, 100 * z.wert / m)}%;background:${farbe(z)}` })), el("span", { class: "wert" }, fmt(z.wert)));
+    return tipp ? tip(row, z.label, tipp(z)) : row;
+  }));
 }
-
-function keywords(m) {
-  const filter = el("input", { type: "search", placeholder: "Search keywords …" });
-  const tab = el("div", { class: "tabwrap" });
-  const zaehler = {};
-  for (const f of firmen) for (const [k, n] of f.keywords) (zaehler[k] ||= {})[f.name] = n;
-  const zeilen = Object.keys(zaehler).map((k) => ({ k, firmen: firmen.filter((f) => zaehler[k][f.name]).length })).sort((a, b) => b.firmen - a.firmen || a.k.localeCompare(b.k));
-  function render() {
-    const q = filter.value.toLowerCase();
-    tab.replaceChildren(el("table", {}, el("tr", {}, el("th", {}, "Keyword"), el("th", {}, "Companies"), ...firmen.map((f) => el("th", {}, f.name))),
-      ...zeilen.filter((z) => z.k.includes(q)).slice(0, 150).map((z) => el("tr", {}, el("td", {}, z.k), el("td", { class: "zelle" }, z.firmen),
-        ...firmen.map((f) => el("td", { class: "zelle", style: zaehler[z.k][f.name] ? `background:${f.region === "EU" ? "#E4ECFD" : "#FCE7DE"}` : null }, zaehler[z.k][f.name] ? "●" : ""))))));
-  }
-  filter.addEventListener("input", render); render();
-  m.append(el("h2", {}, "Keyword tracker"), el("p", { class: "klein" }, "Which terms appear on which companies' pages. Blue = EU company, orange = US company."), filter, el("div", { style: "height:10px" }), tab);
+function hantel(zeilen, { a, b }) {
+  // zeilen: {label, x, y} with x,y in 0..1; a/b: {name, farbe}
+  const achse = () => el("div", { class: "achse" }, [0, .25, .5, .75, 1].map((t) => el("span", { style: `left:${t * 100}%` }, pct(t))));
+  const kopf = el("div", { class: "hantel" }, el("span"), achse(), el("span", { class: "klein", style: "text-align:right" }, "gap"));
+  return el("div", {}, el("div", { class: "legende" }, el("span", {}, el("b", { style: `background:${a.farbe}` }), a.name), el("span", {}, el("b", { style: `background:${b.farbe}` }), b.name)),
+    kopf, el("div", { class: "hantel" }, zeilen.map((z) => {
+      const lo = Math.min(z.x, z.y), hi = Math.max(z.x, z.y);
+      const spur = el("span", { class: "spur" }, el("span", { class: "verb", style: `left:${lo * 100}%;width:${(hi - lo) * 100}%` }),
+        el("span", { class: "punkt", style: `left:${z.x * 100}%;background:${a.farbe}` }), el("span", { class: "punkt", style: `left:${z.y * 100}%;background:${b.farbe}` }));
+      tip(spur, z.label, [`${a.name}: ${pct(z.x)}`, `${b.name}: ${pct(z.y)}`, ...(z.extra || [])]);
+      const d = Math.round((z.y - z.x) * 100);
+      return [el("span", { class: "lab" }, z.label), spur, el("span", { class: "diff" }, (d > 0 ? "+" : "") + d + " pt")];
+    })));
 }
-
-function themes(m) {
-  const max = Math.max(1, ...firmen.flatMap((f) => Object.values(f.themen)));
-  m.append(el("h2", {}, "Theme tracker"), el("p", { class: "klein" }, "How many of a company's pages address each theme."),
-    el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Theme"), ...firmen.map((f) => el("th", {}, f.name))),
-      ...D.themenliste.map((t) => el("tr", {}, el("td", {}, THEMA(t)), ...firmen.map((f) => {
-        const n = f.themen[t] || 0;
-        return el("td", { class: "zelle", style: n ? `background:rgba(47,111,235,${0.12 + 0.6 * n / max})` : null }, n || "");
-      }))))));
+function saeulen(monate, serien) {
+  // Grouped monthly columns. serien: [{name, farbe, werte[]}]
+  const W = 720, H = 190, unten = 22, links = 28, max = Math.max(1, ...serien.flatMap((s) => s.werte));
+  const schritt = Math.max(1, Math.ceil(max / 4)), oben = schritt * 4;
+  const gw = (W - links) / monate.length, bw = Math.min(14, (gw - 8) / serien.length);
+  const s = svg("svg", { viewBox: `0 0 ${W} ${H + unten}`, role: "img", "aria-label": "Articles per month by market" });
+  for (let t = 0; t <= 4; t++) { const y = H - (H - 8) * t / 4; s.append(svg("line", { x1: links, x2: W, y1: y, y2: y, stroke: t ? "var(--grid)" : "var(--axis)", "stroke-width": 1 }), svg("text", { x: links - 6, y: y + 4, "text-anchor": "end" }, String(schritt * t))); }
+  monate.forEach((mo, i) => {
+    const x0 = links + i * gw + (gw - bw * serien.length - 2 * (serien.length - 1)) / 2;
+    serien.forEach((se, j) => {
+      const h = (H - 8) * se.werte[i] / oben, x = x0 + j * (bw + 2);
+      const r = Math.min(4, bw / 2, h);
+      if (h) s.append(svg("path", { d: `M${x},${H} V${H - h + r} Q${x},${H - h} ${x + r},${H - h} H${x + bw - r} Q${x + bw},${H - h} ${x + bw},${H - h + r} V${H} Z`, fill: se.farbe }));
+    });
+    // Hit target spans the whole month column (bigger than the marks)
+    const hit = svg("rect", { x: links + i * gw, y: 0, width: gw, height: H, fill: "transparent" });
+    s.append(hit); tip(hit, mo.label, serien.map((q) => `${q.name}: ${q.werte[i]} articles`));
+    if (i % (monate.length > 8 ? 2 : 1) === 0) s.append(svg("text", { x: links + i * gw + gw / 2, y: H + 16, "text-anchor": "middle" }, mo.kurz));
+  });
+  return el("div", { class: "saeulen" }, el("div", { class: "legende" }, serien.map((q) => el("span", {}, el("b", { style: `background:${q.farbe};border-radius:3px` }), q.name))), s);
 }
-
-function cta(m) {
-  m.append(el("h2", {}, "Calls to action"), el("p", { class: "klein" }, "What the pages ask visitors to do. Bars show the share of each type among the company's calls to action."));
-  const r = el("div", { class: "raster" });
-  for (const f of firmen) {
-    const ges = Object.values(f.cta_typen).reduce((a, b) => a + b, 0) || 1;
-    r.append(el("div", { class: "karte" }, el("h3", {}, f.name, " ", region(f.region)),
-      ...Object.entries(f.cta_typen).sort((a, b) => b[1] - a[1]).map(([t, n]) => el("div", { class: "balken" }, el("span", { style: "width:110px" }, CTA(t)),
-        el("span", { class: "spur" }, el("i", { style: `width:${100 * n / ges}%;background:var(--akzent)` })), el("span", { style: "width:34px;text-align:right" }, Math.round(100 * n / ges) + "%"))),
-      el("div", { class: "tags" }, ...[...new Set(f.seiten.flatMap((p) => p.ctas))].slice(0, 10).map((c) => el("span", { class: "tag" }, c)))));
-  }
-  m.append(r);
+const STUFEN = ["--s100", "--s200", "--s300", "--s400", "--s500", "--s600", "--s700"];
+function heatFarbe(v) { // v 0..1
+  if (!v) return null; const i = Math.min(6, Math.floor(v * 6.999)); return { bg: `var(${STUFEN[i]})`, ink: i >= 3 ? "#fff" : "var(--ink)" };
 }
-
-function proof(m) {
-  m.append(el("h2", {}, "Proof points, customers and industries"));
-  const r = el("div", { class: "raster" });
-  for (const f of firmen) r.append(el("div", { class: "karte" }, el("h3", {}, f.name, " ", region(f.region)),
-    f.kunden.length ? el("div", {}, el("strong", {}, "Customers: "), f.kunden.join(", ")) : null,
-    f.branchen.length ? el("div", {}, el("strong", {}, "Industries: "), f.branchen.join(", ")) : null,
-    el("ul", { style: "margin:6px 0 0;padding-left:18px" }, ...(f.belege.length ? f.belege.slice(0, 8).map((b) => el("li", {}, b)) : [el("li", { class: "leer" }, "no proof points found")]))));
-  m.append(r);
-}
-
-function euUsa(m) {
-  const gruppe = { EU: firmen.filter((f) => f.region === "EU" && !f.referenz), USA: firmen.filter((f) => f.region === "USA") };
-  const anteil = (g, t) => g.length ? g.filter((f) => f.themen[t]).length / g.length : 0;
-  m.append(el("h2", {}, "EU vs. USA"), el("p", { class: "klein" }, `Share of companies per region that address a theme (EU without Threedy: ${gruppe.EU.length}, USA: ${gruppe.USA.length}). A full bar means 100 %.`));
-  const g = el("div", { class: "vergleich" },
-    el("span", { class: "kopf leer" }, "Theme"), el("span", { class: "kopf" }, region("EU")), el("span", { class: "kopf leer" }), el("span", { class: "kopf" }, region("USA")), el("span", { class: "kopf leer" }));
-  for (const t of D.themenliste) {
-    const eu = anteil(gruppe.EU, t), us = anteil(gruppe.USA, t);
-    if (!eu && !us) continue;
-    g.append(el("span", { class: "thema" }, THEMA(t)),
-      el("span", { class: "spur" }, el("i", { style: `width:${100 * eu}%;background:var(--eu)` })), el("span", { class: "wert" }, Math.round(eu * 100) + "%"),
-      el("span", { class: "spur" }, el("i", { style: `width:${100 * us}%;background:var(--us)` })), el("span", { class: "wert" }, Math.round(us * 100) + "%"));
-  }
-  m.append(el("div", { class: "klein nur-mobil", style: "margin-bottom:6px" }, region("EU"), " upper bar · ", region("USA"), " lower bar"), el("div", { class: "karte" }, g));
-  // Regional versions of the same company
-  const mehr = firmen.filter((f) => new Set(f.seiten.map((p) => p.sprache || p.region)).size > 1);
-  if (mehr.length) {
-    m.append(el("h2", { style: "margin-top:20px" }, "Same company, different language"));
-    for (const f of mehr) m.append(el("div", { class: "karte", style: "margin-bottom:10px" }, el("h3", {}, f.name),
-      ...f.seiten.map((p) => el("div", { class: "klein" }, el("strong", {}, `${(p.sprache || "?").toUpperCase()}: `), p.hauptbotschaft || p.titel))));
-  }
-}
-
-function gaps(m) {
-  m.append(el("h2", {}, "Gaps for Threedy"), el("p", { class: "klein" }, "Themes and keywords used by at least two competitors but not found on Threedy's captured pages."));
-  const r = el("div", { class: "raster" });
-  r.append(el("div", { class: "karte" }, el("h3", {}, "Themes"), ...(D.luecken.themen.length ? D.luecken.themen.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, THEMA(x.thema)), el("strong", {}, `${x.firmen} companies`))) : [el("p", { class: "leer" }, "none")])));
-  r.append(el("div", { class: "karte" }, el("h3", {}, "Keywords"), ...(D.luecken.keywords.length ? D.luecken.keywords.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, x.keyword), el("strong", {}, `${x.firmen} companies`))) : [el("p", { class: "leer" }, "none")])));
-  m.append(r);
-}
-
-function changes(m) {
-  m.append(el("h2", {}, "Change log"), el("p", { class: "klein" }, "“First captured” = the page was added to the monitoring. “Changed” = title, description, headings or buttons differ from the previous run."));
-  if (!D.aenderungen.length) { m.append(el("p", { class: "leer" }, "No changes yet.")); return; }
-  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Date"), el("th", {}, "Company"), el("th", {}, "Type"), el("th", {}, "Page"), el("th", {}, "Details")),
-    ...D.aenderungen.map((a) => el("tr", {}, el("td", {}, a.datum), el("td", {}, a.firma), el("td", {}, CHANGES[a.art] || a.art), el("td", {}, el("a", { href: a.url, target: "_blank" }, a.url.replace(/^https?:\/\//, "").slice(0, 60))),
-      el("td", {}, ...(a.neue_ueberschriften || []).map((u) => el("div", { style: "color:var(--gut)" }, "+ " + u)), ...(a.entfernte_ueberschriften || []).map((u) => el("div", { style: "color:#B54" }, "− " + u))))))));
-}
-
-function news(m) {
-  m.append(el("h2", {}, "News"), el("p", { class: "klein" }, "Recent articles from Google News, split into EU (German-language) and USA (English-language) results."));
-  const r = el("div", { class: "raster" });
-  for (const f of firmen) r.append(el("div", { class: "karte" }, el("h3", {}, f.name),
-    ...(f.news.length ? f.news.slice(0, 8).map((n) => el("div", { style: "margin:6px 0" }, region(n.region), " ", el("a", { href: n.link, target: "_blank" }, n.titel), el("div", { class: "klein" }, `${n.quelle} · ${n.datum}`))) : [el("p", { class: "leer" }, "no articles")])));
-  m.append(r);
-}
-
-function sources(m) {
-  m.append(el("h2", {}, "Captured sources"));
-  if (D.fehler.length) m.append(el("div", { class: "hinweis" }, el("strong", {}, `${D.fehler.length} ${D.fehler.length === 1 ? "page" : "pages"} could not be captured: `), ...D.fehler.map((x) => el("div", {}, `${x.firma}: ${x.url} · ${FEHLER(x.fehler)}`))));
-  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Company"), el("th", {}, "Region"), el("th", {}, "Page"), el("th", {}, "Type"), el("th", {}, "Language"), el("th", {}, "Captured")),
-    ...firmen.flatMap((f) => f.seiten.map((p) => el("tr", {}, el("td", {}, f.name), el("td", {}, region(p.region)), el("td", {}, el("a", { href: p.url, target: "_blank" }, p.titel || p.url)), el("td", {}, PAGETYPES[p.seitentyp] || p.seitentyp), el("td", {}, p.sprache), el("td", {}, p.datum)))))));
-}
-
+function skala(text) { return el("div", { class: "skala" }, "0", STUFEN.map((s) => el("span", { style: `background:var(${s})` })), "100%", el("span", { style: "width:auto;margin-left:8px" }, text)); }
+function gefahr(n) { return el("span", { class: "gefahr g" + n, "aria-label": `threat ${n} of 5` }, [1, 2, 3, 4, 5].map((i) => el("b", { class: i <= n ? "an" : null }))); }
 function md(text) {
   const out = []; let ul = null;
-  for (const z of text.split("\n")) {
+  for (const z of String(text || "").split("\n")) {
     const t = z.trim(); if (!t) { ul = null; continue; }
-    if (t.startsWith("## ")) { ul = null; out.push(el("h2", {}, t.slice(3))); }
+    if (/^#{1,3} /.test(t)) { ul = null; out.push(el("h2", {}, t.replace(/^#+ /, ""))); }
     else if (/^[-*] /.test(t)) { if (!ul) { ul = el("ul"); out.push(ul); } ul.append(el("li", {}, t.slice(2).replace(/\*\*/g, ""))); }
     else { ul = null; out.push(el("p", {}, t.replace(/\*\*/g, ""))); }
   }
   return out;
 }
+function monatsreihe(artikel, n = 12) {
+  const monate = [];
+  const d = new Date(); d.setDate(1);
+  for (let i = n - 1; i >= 0; i--) { const m = new Date(d.getFullYear(), d.getMonth() - i, 1); monate.push({ key: m.toISOString().slice(0, 7), kurz: m.toLocaleString("en-GB", { month: "short" }), label: m.toLocaleString("en-GB", { month: "long", year: "numeric" }) }); }
+  const zaehl = (r) => monate.map((m) => artikel.filter((a) => (a.datum || "").startsWith(m.key) && a.region === r).length);
+  return { monate, eu: zaehl("EU"), usa: zaehl("USA") };
+}
+
+// ---------- Views ----------
+const VIEWS = {
+  "Overview": overview, "Gaps for Threedy": gaps, "Radar": radar, "News": news, "Themes": themes, "EU vs. USA": euUsa,
+  "Keywords": keywords, "Calls to action": cta, "Proof points": proof, "Changes": changes, "Sources": sources,
+};
+const BADGE = { "Gaps for Threedy": luecken.length, "Radar": gefaehrlich.length, "News": neueArtikel };
+let aktiv = decodeURIComponent(location.hash.slice(1)) || "Overview";
+function zeige(name) {
+  aktiv = VIEWS[name] ? name : "Overview";
+  history.replaceState(null, "", "#" + encodeURIComponent(aktiv));
+  $("#nav").replaceChildren(...Object.keys(VIEWS).map((n) => el("button", { class: n === aktiv ? "an" : null, onclick: () => zeige(n) }, n, BADGE[n] ? el("span", { class: "zahl" }, String(BADGE[n])) : null)));
+  const m = $("#inhalt"); m.replaceChildren(); tipEl.style.display = "none";
+  if (ersatz) m.append(el("div", { class: "hinweis" }, "Fallback mode without AI: keywords and themes are only roughly estimated by keyword matching; news digests, recommendations and the radar need the AI key."));
+  VIEWS[aktiv](m);
+}
+
+function overview(m) {
+  const letzte30 = presseArtikel.filter((a) => (a.datum || "") >= tageZurueck(30)).length;
+  m.append(kacheln([
+    [firmen.length, "Companies monitored", alleFirmen.some((f) => f.automatisch) ? `${alleFirmen.filter((f) => f.automatisch).length} added by the radar` : "incl. Threedy as reference"],
+    [firmen.reduce((a, f) => a + f.seiten.length, 0), "Web pages analysed"],
+    [letzte30, "Articles, last 30 days", `${neueArtikel} new since last run`],
+    [luecken.length, "Theme gaps for Threedy", `${(L.themen_tabelle || []).filter((z) => z.status === "staerke").length} strengths`],
+    [gefaehrlich.length, "High-threat newcomers", "radar, threat ≥ 4 of 5"],
+  ]));
+  const oben = el("div", { class: "raster r2" });
+  if (D.zusammenfassung) oben.append(el("div", { class: "karte md" }, el("h3", {}, "This week in brief"), ...md(D.zusammenfassung)));
+  const reihe = monatsreihe(presseArtikel);
+  oben.append(el("div", { class: "karte" }, el("h3", {}, "News volume"), el("p", { class: "unter" }, "Articles per month about all monitored companies and the market, by search market."),
+    saeulen(reihe.monate, [{ name: "EU (German-language)", farbe: "var(--eu)", werte: reihe.eu }, { name: "USA (English-language)", farbe: "var(--usa)", werte: reihe.usa }])));
+  m.append(oben);
+
+  const zwei = el("div", { class: "raster r2 abschnitt" });
+  const presse = alleFirmen.map((f) => ({ label: f.name, wert: (f.news || []).filter((a) => a.herkunft !== "Website" && (a.datum || "") >= tageZurueck(365)).length, region: f.region, fett: f.referenz })).sort((a, b) => b.wert - a.wert);
+  zwei.append(el("div", { class: "karte" }, el("h3", {}, "Share of voice"), el("p", { class: "unter" }, "Articles in the last 12 months. Bar colour = home region."),
+    el("div", { class: "legende" }, el("span", {}, el("b", { style: "background:var(--eu);border-radius:3px" }), "EU"), el("span", {}, el("b", { style: "background:var(--usa);border-radius:3px" }), "USA")),
+    balken(presse, { farbe: (z) => z.region === "EU" ? "var(--eu)" : "var(--usa)", tipp: (z) => [`${z.wert} articles`, z.region] })));
+  const ereignisse = alleFirmen.flatMap((f) => ((f.news_analyse || {}).ereignisse || []).map((e) => ({ ...e, firma: f.name, region: f.region })))
+    .concat(((M.analyse || {}).ereignisse || []).map((e) => ({ ...e, firma: "Market" }))).sort((a, b) => (b.datum || "").localeCompare(a.datum || "")).slice(0, 10);
+  zwei.append(el("div", { class: "karte" }, el("h3", {}, "Latest events"), el("p", { class: "unter" }, "Launches, partnerships, customers and funding found in the news."),
+    ereignisse.length ? zeitleiste(ereignisse) : el("p", { class: "leer" }, "Appears once the AI has analysed the news.")));
+  m.append(zwei);
+
+  m.append(el("div", { class: "abschnitt" }, el("h2", {}, "Companies"), el("p", { class: "unter" }, "Main message and top themes per company.")));
+  m.append(el("div", { class: "raster r3" }, firmen.map((f) => {
+    const top = Object.entries(f.themen).sort((a, b) => b[1] - a[1]).slice(0, 5);
+    return el("div", { class: "karte" },
+      el("div", { style: "display:flex;justify-content:space-between;gap:8px;align-items:baseline" }, el("h3", { style: "margin:0" }, f.name), region(f.region)),
+      el("div", { class: "klein" }, `${f.seiten.length} ${f.seiten.length === 1 ? "page" : "pages"} · ${(f.news || []).length} articles · `, el("a", { href: f.start, target: "_blank", rel: "noopener" }, "website"),
+        f.referenz ? el("span", { class: "chip", style: "margin-left:6px" }, "Reference") : null, f.automatisch ? el("span", { class: "chip", style: "margin-left:6px" }, "Added by radar") : null),
+      f.hauptbotschaften[0] ? el("p", { style: "margin:8px 0 6px;font-weight:550" }, "“" + f.hauptbotschaften[0] + "”") : null,
+      el("div", { class: "tags" }, top.map(([t]) => el("span", { class: "tag" }, THEMA(t)))));
+  })));
+}
+
+function zeitleiste(liste) {
+  return el("ul", { class: "zeit" }, liste.map((e) => el("li", {}, el("span", { class: "datum" }, e.datum || "–"),
+    el("div", {}, el("div", { style: "display:flex;gap:8px;flex-wrap:wrap;align-items:center" }, el("strong", {}, e.firma), el("span", { class: "chip" }, EVENTS[e.art] || e.art), e.region ? region(e.region) : null),
+      el("div", { style: "font-size:13px;color:var(--ink-2);margin-top:2px" }, e.beschreibung, e.quelle ? el("span", { class: "klein" }, " · " + e.quelle) : null)))));
+}
+
+function gaps(m) {
+  if (!L.referenz) { m.append(el("p", { class: "leer" }, "No reference company with captured pages.")); return; }
+  const tab = L.themen_tabelle;
+  const anz = (s) => tab.filter((z) => z.status === s).length;
+  m.append(el("h2", {}, "Gaps for Threedy"), el("p", { class: "unter" }, `Threedy's captured pages and news compared with ${L.anzahl_wettbewerber} competitors.`));
+  m.append(kacheln([
+    [anz("luecke"), "Gaps", "≥ 2 competitors, Threedy not at all"], [anz("schwach"), "Under-weighted", "Threedy < half of competitor share"],
+    [anz("staerke"), "Strengths", "Threedy yes, ≤ 1 competitor"], [(L.keywords || []).length, "Keyword gaps", "terms not found on Threedy's pages"],
+    [`${L.presse.threedy} vs ${L.presse.schnitt}`, "Articles, 12 months", "Threedy vs competitor average"],
+  ]));
+  const ki = L.ki;
+  if (ki && (ki.positionierung || ki.empfehlungen.length)) {
+    m.append(el("div", { class: "karte", style: "margin-bottom:14px" }, el("h3", {}, "Positioning"), el("p", { style: "margin:0" }, ki.positionierung)));
+    m.append(el("h2", { class: "abschnitt" }, "Recommendations"), el("p", { class: "unter" }, "Generated by the AI from the gap data below; check before acting."));
+    m.append(el("div", { class: "raster r3" }, ki.empfehlungen.map((e) => el("div", { class: "karte empf" },
+      el("div", { style: "display:flex;justify-content:space-between;gap:8px" }, status(e.prioritaet), el("span", { class: "chip" }, e.art)),
+      el("h3", { style: "margin:4px 0 0" }, e.titel), el("div", { class: "klein" }, e.begruendung), el("div", { style: "font-size:13px" }, e.empfehlung),
+      e.beispiel ? el("div", { class: "beispiel" }, "“" + e.beispiel + "”") : null))));
+    if (ki.nicht_verfolgen.length) m.append(el("div", { class: "karte abschnitt" }, el("h3", {}, "Gaps probably not worth closing"),
+      el("ul", { style: "margin:0;padding-left:18px" }, ki.nicht_verfolgen.map((x) => el("li", {}, el("strong", {}, x.luecke + ": "), x.grund)))));
+  } else if (!ersatz) m.append(el("p", { class: "leer" }, "AI recommendations appear after the next run."));
+
+  // Positioning chart: Threedy share vs competitor share
+  const rows = tab.filter((z) => z.status !== "offen").map((z) => ({ label: THEMA(z.thema), x: z.threedy_anteil, y: z.wettbewerber_anteil, z }))
+    .sort((a, b) => (b.y - b.x) - (a.y - a.x));
+  m.append(el("div", { class: "raster r2 abschnitt" },
+    el("div", { class: "karte" }, el("h3", {}, "Theme positioning"), el("p", { class: "unter" }, "Share of pages addressing a theme: Threedy vs competitor average. Sorted by gap; positive = competitors talk about it more."),
+      hantel(rows.map((r) => ({ ...r, extra: [`Used by: ${r.z.firmen.join(", ") || "–"}`] })), { a: { name: "Threedy", farbe: "var(--eu)" }, b: { name: "Competitor average", farbe: "var(--usa)" } })),
+    el("div", { class: "karte" }, el("h3", {}, "Status per theme"), el("div", { class: "tabwrap", style: "border:0" }, el("table", {},
+      el("tr", {}, el("th", {}, "Theme"), el("th", {}, "Status"), el("th", { class: "zahl" }, "Competitors"), el("th", {}, "In Threedy news")),
+      tab.map((z) => tip(el("tr", {}, el("td", {}, THEMA(z.thema)), el("td", {}, status(z.status)), el("td", { class: "zahl" }, `${z.firmen.length}/${L.anzahl_wettbewerber}`),
+        el("td", {}, z.in_threedy_news ? "yes" : "–")), THEMA(z.thema), [`EU: ${z.eu.join(", ") || "–"}`, `USA: ${z.usa.join(", ") || "–"}`, `In competitor news: ${z.news_firmen.join(", ") || "–"}`])))))));
+
+  const unten = el("div", { class: "raster r3 abschnitt" });
+  unten.append(el("div", { class: "karte" }, el("h3", {}, "Keyword gaps"), el("p", { class: "unter" }, "Used by ≥ 2 competitors, not found anywhere on Threedy's captured pages."),
+    (L.keywords || []).length ? balken(L.keywords.slice(0, 15).map((k) => ({ label: k.keyword, wert: k.firmen.length, k })), { max: L.anzahl_wettbewerber, fmt: (v) => `${v}/${L.anzahl_wettbewerber}`, tipp: (z) => [z.k.firmen.join(", "), `EU ${z.k.eu} · USA ${z.k.usa}`] }) : el("p", { class: "leer" }, "none")));
+  unten.append(el("div", { class: "karte" }, el("h3", {}, "Calls to action"), el("p", { class: "unter" }, "How many competitors use each CTA type, and whether Threedy does."),
+    balken((L.ctas || []).map((c) => ({ label: (CTAS[c.typ] || c.typ) + (c.threedy ? " ✓" : ""), wert: c.firmen.length, c })), { max: L.anzahl_wettbewerber, fmt: (v) => `${v}/${L.anzahl_wettbewerber}`,
+      farbe: (z) => z.c.threedy ? "var(--axis)" : "var(--accent)", tipp: (z) => [z.c.threedy ? "Threedy uses it ✓" : "Threedy does not use it", z.c.firmen.join(", ")] }),
+    el("p", { class: "klein", style: "margin-top:8px" }, "Blue = Threedy is missing this CTA type; grey with ✓ = Threedy has it.")));
+  const b = L.belege;
+  unten.append(el("div", { class: "karte" }, el("h3", {}, "Proof points"), el("p", { class: "unter" }, "Named customers, proof points and industries on the captured pages."),
+    ["kunden", "belege", "branchen"].map((k) => el("div", { style: "margin-bottom:10px" }, el("div", { class: "klein" }, { kunden: "Named customers", belege: "Proof points", branchen: "Industries" }[k]),
+      balken([{ label: "Threedy", wert: b[k].threedy, fett: true }, { label: "Competitor avg.", wert: b[k].schnitt }], { max: Math.max(b[k].threedy, b[k].schnitt, 1), farbe: (z) => z.fett ? "var(--eu)" : "var(--usa)" }),
+      el("div", { class: "klein" }, `Most: ${b[k].spitze}`)))));
+  m.append(unten);
+}
+
+function radar(m) {
+  const k = R.kandidaten || [];
+  m.append(el("h2", {}, "Competitor radar"), el("p", { class: "unter" }, "Companies the AI found in market and competitor news that are not monitored yet, rated by threat to Threedy. " +
+    (R.regeln ? `Auto-added when: competitor, threat ≥ ${R.regeln.min_gefahr}, mentioned in ≥ ${R.regeln.min_erwaehnungen} articles (max. ${R.regeln.max_automatisch}).` : "")));
+  m.append(kacheln([[k.length, "Candidates found"], [gefaehrlich.length, "High threat (4–5)"], [k.filter((x) => x.status === "aufgenommen").length, "Now monitored", "added automatically"],
+    [k.filter((x) => x.erstmals === (D.erstellt || "").slice(0, 10)).length, "New this run"]]));
+  if (!k.length) { m.append(el("p", { class: "leer" }, ersatz ? "The radar needs the AI key." : "No candidates yet.")); return; }
+  m.append(el("div", { class: "tabwrap" }, el("table", {},
+    el("tr", {}, el("th", {}, "Company"), el("th", {}, "Threat"), el("th", {}, "Type"), el("th", {}, "Region"), el("th", { class: "zahl" }, "Mentions"), el("th", {}, "Why"), el("th", {}, "Status")),
+    k.map((c) => el("tr", {}, el("td", {}, el("strong", {}, c.name), c.produkt ? el("div", { class: "klein" }, c.produkt) : null, c.website ? el("div", {}, el("a", { href: c.website, target: "_blank", rel: "noopener", class: "klein" }, c.website.replace(/^https?:\/\//, ""))) : null),
+      el("td", {}, gefahr(c.gefahr), el("div", { class: "klein" }, `${c.gefahr}/5`)), el("td", {}, el("span", { class: "chip" }, KINDS[c.art] || c.art)), el("td", {}, region(c.region === "andere" ? "Other" : c.region)),
+      el("td", { class: "zahl" }, String(c.erwaehnungen || 0)),
+      el("td", { style: "min-width:260px" }, c.begruendung, c.schlagwoerter.length ? el("div", { class: "tags" }, c.schlagwoerter.map((s) => el("span", { class: "tag" }, s))) : null,
+        c.quellen.length ? el("div", { style: "margin-top:4px" }, c.quellen.slice(0, 2).map((q) => el("div", { class: "klein" }, el("a", { href: q.link, target: "_blank", rel: "noopener" }, q.titel.slice(0, 80)), ` · ${q.datum}`))) : null),
+      el("td", {}, status(c.status), el("div", { class: "klein" }, `since ${c.erstmals}`)))))));
+  m.append(el("p", { class: "klein", style: "margin-top:10px" }, "To stop monitoring a company, add its name under radar → ausschliessen in config/wettbewerber.yaml."));
+}
+
+function news(m) {
+  const reihe = monatsreihe(presseArtikel);
+  if ((M.analyse || {}).einordnung || ((M.analyse || {}).ereignisse || []).length) {
+    m.append(el("div", { class: "raster r2", style: "margin-bottom:14px" },
+      el("div", { class: "karte" }, el("h3", {}, "Market digest"), el("p", { style: "margin:0 0 8px" }, M.analyse.einordnung || ""), el("div", { class: "tags" }, (M.analyse.themen || []).map((t) => el("span", { class: "tag" }, THEMA(t))))),
+      el("div", { class: "karte" }, el("h3", {}, "News volume"), saeulen(reihe.monate, [{ name: "EU", farbe: "var(--eu)", werte: reihe.eu }, { name: "USA", farbe: "var(--usa)", werte: reihe.usa }]))));
+  }
+  // Filters in one row above everything they scope
+  const fFirma = el("select", {}, el("option", { value: "" }, "All companies"), ...alleFirmen.map((f) => el("option", { value: f.name }, f.name)), el("option", { value: "Market" }, "Market news"));
+  const fRegion = el("select", {}, el("option", { value: "" }, "All markets"), el("option", { value: "EU" }, "EU"), el("option", { value: "USA" }, "USA"), el("option", { value: "own" }, "Own press & blog"));
+  const fNeu = el("input", { type: "checkbox" });
+  const fText = el("input", { type: "search", placeholder: "Search titles …" });
+  const ziel = el("div");
+  m.append(el("div", { class: "filter" }, fFirma, fRegion, el("label", {}, fNeu, "New since last run"), fText), ziel);
+  function render() {
+    const q = fText.value.toLowerCase();
+    const liste = alleArtikel.filter((a) => (!fFirma.value || a.firma === fFirma.value) && (!fRegion.value || (fRegion.value === "own" ? a.herkunft === "Website" : a.region === fRegion.value))
+      && (!fNeu.checked || a.neu) && (!q || (a.titel + " " + (a.auszug || "")).toLowerCase().includes(q))).sort((a, b) => (b.datum || "").localeCompare(a.datum || ""));
+    const gezeigteFirmen = fFirma.value ? alleFirmen.filter((f) => f.name === fFirma.value) : [];
+    ziel.replaceChildren(
+      ...gezeigteFirmen.filter((f) => (f.news_analyse || {}).einordnung).map((f) => el("div", { class: "raster r2", style: "margin-bottom:14px" },
+        el("div", { class: "karte" }, el("h3", {}, `${f.name}: news digest`), el("p", { style: "margin:0 0 6px" }, f.news_analyse.einordnung),
+          el("div", { class: "tags" }, (f.news_analyse.themen || []).map((t) => el("span", { class: "tag" }, THEMA(t)))),
+          (f.news_analyse.botschaften || []).length ? el("div", { class: "klein", style: "margin-top:8px" }, "Recurring claims: " + f.news_analyse.botschaften.map((b) => "“" + b + "”").join(" · ")) : null),
+        el("div", { class: "karte" }, el("h3", {}, "Events"), (f.news_analyse.ereignisse || []).length ? zeitleiste(f.news_analyse.ereignisse.map((e) => ({ ...e, firma: f.name }))) : el("p", { class: "leer" }, "none")))),
+      el("div", { class: "karte" }, el("div", { class: "klein", style: "margin-bottom:4px" }, `${liste.length} articles`),
+        ...(liste.length ? liste.slice(0, 120).map((a) => el("div", { class: "artikel" },
+          el("div", {}, a.neu ? el("span", { class: "neu" }, "NEW") : null, a.neu ? " " : null, el("a", { href: a.link, target: "_blank", rel: "noopener", style: "font-weight:550" }, a.titel)),
+          el("div", { class: "meta" }, el("span", {}, a.datum || "–"), el("span", {}, a.quelle || ""), region(a.herkunft === "Website" ? "" : a.region), el("span", { class: "chip" }, a.firma), el("span", {}, a.herkunft || "")),
+          a.auszug ? el("p", {}, a.auszug) : null)) : [el("p", { class: "leer" }, "No articles match the filters.")])));
+  }
+  [fFirma, fRegion, fNeu].forEach((x) => x.addEventListener("change", render)); fText.addEventListener("input", render); render();
+}
+
+function themes(m) {
+  m.append(el("h2", {}, "Theme heatmap"), el("p", { class: "unter" }, "Share of each company's captured pages that address a theme. Hover a cell for details."));
+  const reihen = [...firmen].sort((a, b) => (b.referenz - a.referenz) || a.region.localeCompare(b.region));
+  m.append(el("div", { class: "tabwrap" }, el("table", { class: "heat" },
+    el("tr", {}, el("th", {}, "Theme"), reihen.map((f) => el("th", { class: "firma" }, f.name, el("div", {}, region(f.region))))),
+    D.themenliste.map((t) => el("tr", {}, el("td", {}, THEMA(t)), reihen.map((f) => {
+      const n = f.themen[t] || 0, v = n / f.seiten.length, c = heatFarbe(v);
+      const zelle = el("td", { class: "zelle" }, el("span", { style: c ? `background:${c.bg};color:${c.ink}` : "color:var(--muted)" }, n ? pct(v) : "·"));
+      return tip(zelle, `${f.name} · ${THEMA(t)}`, [`${n} of ${f.seiten.length} pages (${pct(v)})`]);
+    }))))));
+  m.append(skala("share of pages"));
+}
+
+function euUsa(m) {
+  const g = { EU: firmen.filter((f) => f.region === "EU" && !f.referenz), USA: firmen.filter((f) => f.region === "USA") };
+  const anteil = (liste, t) => liste.length ? liste.filter((f) => f.themen[t]).length / liste.length : 0;
+  m.append(el("h2", {}, "EU vs. USA"), el("p", { class: "unter" }, `Share of competitors per region that address a theme (EU without Threedy: ${g.EU.length}, USA: ${g.USA.length}). Sorted by difference.`));
+  const rows = D.themenliste.map((t) => ({ label: THEMA(t), x: anteil(g.EU, t), y: anteil(g.USA, t), extra: [`EU: ${g.EU.filter((f) => f.themen[t]).map((f) => f.name).join(", ") || "–"}`, `USA: ${g.USA.filter((f) => f.themen[t]).map((f) => f.name).join(", ") || "–"}`] }))
+    .filter((r) => r.x || r.y).sort((a, b) => (b.y - b.x) - (a.y - a.x));
+  m.append(el("div", { class: "karte" }, hantel(rows, { a: { name: "EU competitors", farbe: "var(--eu)" }, b: { name: "US competitors", farbe: "var(--usa)" } })));
+  const kw = (liste) => { const c = {}; liste.forEach((f) => f.seiten.flatMap((p) => p.keywords).forEach((k) => (c[k] = (c[k] || 0) + 1))); return Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 12); };
+  m.append(el("div", { class: "raster r2 abschnitt" }, ["EU", "USA"].map((r) => el("div", { class: "karte" }, el("h3", {}, `Top keywords · ${r}`),
+    balken(kw(g[r]).map(([k, n]) => ({ label: k, wert: n })), { farbe: () => `var(--${r === "EU" ? "eu" : "usa"})`, fmt: (v) => `${v} p.`, tipp: (z) => [`on ${z.wert} pages`] })))));
+  const mehr = firmen.filter((f) => new Set(f.seiten.map((p) => p.sprache)).size > 1);
+  if (mehr.length) m.append(el("div", { class: "abschnitt" }, el("h2", {}, "Same company, different language")),
+    ...mehr.map((f) => el("div", { class: "karte", style: "margin-bottom:10px" }, el("h3", {}, f.name), f.seiten.map((p) => el("div", { style: "font-size:13px;margin:3px 0" }, el("strong", {}, `${(p.sprache || "?").toUpperCase()}: `), p.hauptbotschaft || p.titel)))));
+}
+
+function keywords(m) {
+  const fText = el("input", { type: "search", placeholder: "Search keywords …" });
+  const z = {};
+  for (const f of firmen) for (const k of new Set(f.seiten.flatMap((p) => p.keywords))) (z[k] ||= {})[f.name] = f.seiten.filter((p) => p.keywords.includes(k)).length;
+  const zeilen = Object.keys(z).map((k) => ({ k, n: Object.keys(z[k]).length })).sort((a, b) => b.n - a.n || a.k.localeCompare(b.k));
+  m.append(el("h2", {}, "Keyword tracker"), el("p", { class: "unter" }, "Which terms the pages target. Cell shade = number of pages per company; first column = how many companies use the term."));
+  m.append(el("div", { class: "karte", style: "margin-bottom:14px" }, el("h3", {}, "Most shared keywords"),
+    balken(zeilen.slice(0, 12).map((r) => ({ label: r.k, wert: r.n, r })), { max: firmen.length, fmt: (v) => `${v}/${firmen.length}`, tipp: (q) => [Object.keys(z[q.r.k]).join(", ")] })));
+  const tab = el("div", { class: "tabwrap" });
+  const render = () => {
+    const q = fText.value.toLowerCase();
+    tab.replaceChildren(el("table", { class: "heat" }, el("tr", {}, el("th", {}, "Keyword"), el("th", { class: "zahl" }, "Companies"), firmen.map((f) => el("th", { class: "firma" }, f.name))),
+      zeilen.filter((r) => r.k.includes(q)).slice(0, 150).map((r) => el("tr", {}, el("td", {}, r.k), el("td", { class: "zahl" }, String(r.n)), firmen.map((f) => {
+        const n = z[r.k][f.name] || 0, c = heatFarbe(n / f.seiten.length);
+        return el("td", { class: "zelle" }, el("span", { style: c ? `background:${c.bg};color:${c.ink}` : "color:var(--muted)" }, n ? String(n) : "·"));
+      })))));
+  };
+  fText.addEventListener("input", render); render();
+  m.append(el("div", { class: "filter" }, fText), tab);
+}
+
+function cta(m) {
+  m.append(el("h2", {}, "Calls to action"), el("p", { class: "unter" }, "What the pages ask visitors to do. Cell = share of the company's pages with this CTA type."));
+  const typen = D.cta_typen.filter((c) => firmen.some((f) => f.cta_typen[c]));
+  m.append(el("div", { class: "tabwrap" }, el("table", { class: "heat" },
+    el("tr", {}, el("th", {}, "CTA type"), firmen.map((f) => el("th", { class: "firma" }, f.name, el("div", {}, region(f.region))))),
+    typen.map((c) => el("tr", {}, el("td", {}, CTAS[c] || c), firmen.map((f) => {
+      const n = f.cta_typen[c] || 0, v = n / f.seiten.length, col = heatFarbe(v);
+      return tip(el("td", { class: "zelle" }, el("span", { style: col ? `background:${col.bg};color:${col.ink}` : "color:var(--muted)" }, n ? pct(v) : "·")), `${f.name} · ${CTAS[c] || c}`, [`${n} of ${f.seiten.length} pages`]);
+    }))))));
+  m.append(skala("share of pages"));
+  m.append(el("div", { class: "raster r3 abschnitt" }, firmen.map((f) => el("div", { class: "karte" }, el("h3", {}, f.name), el("div", { class: "klein" }, "Button texts found"),
+    el("div", { class: "tags" }, [...new Set(f.seiten.flatMap((p) => p.ctas))].slice(0, 12).map((c) => el("span", { class: "tag" }, c)))))));
+}
+
+function proof(m) {
+  m.append(el("h2", {}, "Proof points, customers and industries"), el("p", { class: "unter" }, "Evidence the companies use to back their claims."));
+  const reihen = (feld) => firmen.map((f) => ({ label: f.name, wert: f[feld].length, fett: f.referenz, region: f.region })).sort((a, b) => b.wert - a.wert);
+  m.append(el("div", { class: "raster r3" }, [["kunden", "Named customers"], ["belege", "Proof points"], ["branchen", "Industries"]].map(([k, t]) => el("div", { class: "karte" }, el("h3", {}, t),
+    balken(reihen(k), { farbe: (z) => z.region === "EU" ? "var(--eu)" : "var(--usa)", tipp: (z) => [firmen.find((f) => f.name === z.label)[k].slice(0, 8).join(", ") || "none"] })))));
+  m.append(el("div", { class: "raster r3 abschnitt" }, firmen.map((f) => el("div", { class: "karte" }, el("div", { style: "display:flex;justify-content:space-between" }, el("h3", {}, f.name), region(f.region)),
+    f.kunden.length ? el("div", { style: "font-size:13px" }, el("strong", {}, "Customers: "), f.kunden.join(", ")) : null,
+    f.branchen.length ? el("div", { style: "font-size:13px;margin-top:4px" }, el("strong", {}, "Industries: "), f.branchen.join(", ")) : null,
+    el("ul", { style: "margin:6px 0 0;padding-left:18px;font-size:13px" }, f.belege.length ? f.belege.slice(0, 6).map((b) => el("li", {}, b)) : el("li", { class: "leer" }, "no proof points found"))))));
+}
+
+function changes(m) {
+  m.append(el("h2", {}, "Change log"), el("p", { class: "unter" }, "“First captured” = the page was added to the monitoring. “Changed” = title, description, headings or buttons differ from the previous run."));
+  if (!D.aenderungen.length) { m.append(el("p", { class: "leer" }, "No changes yet.")); return; }
+  const geaendert = D.aenderungen.filter((a) => a.art === "geändert");
+  m.append(kacheln([[geaendert.length, "Pages changed"], [D.aenderungen.length - geaendert.length, "Pages first captured"], [new Set(geaendert.map((a) => a.firma)).size, "Companies with changes"]]));
+  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Date"), el("th", {}, "Company"), el("th", {}, "Type"), el("th", {}, "Page"), el("th", {}, "Details")),
+    D.aenderungen.map((a) => el("tr", {}, el("td", {}, a.datum), el("td", {}, a.firma), el("td", {}, CHANGES[a.art] || a.art), el("td", {}, el("a", { href: a.url, target: "_blank", rel: "noopener" }, a.url.replace(/^https?:\/\//, "").slice(0, 60))),
+      el("td", {}, (a.neue_ueberschriften || []).map((u) => el("div", { style: "color:var(--good-ink)" }, "+ " + u)), (a.entfernte_ueberschriften || []).map((u) => el("div", { style: "color:var(--critical)" }, "− " + u))))))));
+}
+
+function sources(m) {
+  m.append(el("h2", {}, "Captured sources"), el("p", { class: "unter" }, "Public pages only; robots.txt is respected."));
+  if (D.fehler.length) m.append(el("div", { class: "hinweis" }, el("strong", {}, `${D.fehler.length} ${D.fehler.length === 1 ? "item" : "items"} could not be captured: `), D.fehler.map((x) => el("div", {}, `${x.firma}: ${x.url} · ${FEHLER(x.fehler)}`))));
+  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Company"), el("th", {}, "Region"), el("th", {}, "Page"), el("th", {}, "Type"), el("th", {}, "Language"), el("th", {}, "Captured")),
+    firmen.flatMap((f) => f.seiten.map((p) => el("tr", {}, el("td", {}, f.name), el("td", {}, region(p.region)), el("td", {}, el("a", { href: p.url, target: "_blank", rel: "noopener" }, p.titel || p.url)), el("td", {}, PAGETYPES[p.seitentyp] || p.seitentyp), el("td", {}, p.sprache), el("td", {}, p.datum)))))));
+}
+
+// ---------- Theme toggle ----------
+const themeBtn = $("#theme");
+function setTheme(t) { if (t) document.documentElement.setAttribute("data-theme", t); else document.documentElement.removeAttribute("data-theme"); themeBtn.textContent = { light: "Light", dark: "Dark" }[t] || "Auto"; try { t ? localStorage.setItem("ci-theme", t) : localStorage.removeItem("ci-theme"); } catch (e) {} }
+themeBtn.addEventListener("click", () => { const c = document.documentElement.getAttribute("data-theme"); setTheme(c === "light" ? "dark" : c === "dark" ? null : "light"); });
+try { setTheme(localStorage.getItem("ci-theme")); } catch (e) { setTheme(null); }
 addEventListener("hashchange", () => { const n = decodeURIComponent(location.hash.slice(1)); if (n !== aktiv) zeige(n); });
 zeige(aktiv);
 </script>
