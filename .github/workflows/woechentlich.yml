@@ -37,14 +37,21 @@ jobs:
           git add data docs
           git commit -m "Analyse vom $(date +%F)" || echo "Keine Änderungen"
           git push
-      - uses: actions/configure-pages@v5
+      - name: Dashboard zum Herunterladen bereitstellen
+        uses: actions/upload-artifact@v4
+        with:
+          name: dashboard
+          path: docs
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
+  # Nur aktiv, wenn GitHub Pages eingeschaltet ist (öffentliches Repo oder bezahltes Konto).
+  # Ohne Pages schlägt nur dieser Schritt fehl; Analyse und Download funktionieren trotzdem.
   veroeffentlichen:
     needs: analyse
     runs-on: ubuntu-latest
+    continue-on-error: true
     environment:
       name: github-pages
       url: ${{ steps.seite.outputs.page_url }}
