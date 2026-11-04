@@ -46,14 +46,14 @@ def _takt():
     _letzte_anfrage[0] = time.time()
 
 
-def fragen(prompt, json_antwort=True, versuche=3):
+def fragen(prompt, json_antwort=True, versuche=2):
     """Schickt einen Prompt an die KI. Bei json_antwort wird die Antwort als JSON geparst."""
     k = konfiguration()
     letzter = None
     for i in range(versuche):
         try:
             _takt()
-            r = requests.post(f"{k['basis']}/chat/completions", timeout=180,
+            r = requests.post(f"{k['basis']}/chat/completions", timeout=(15, 120),
                               headers={"Authorization": f"Bearer {k['schluessel']}", "Content-Type": "application/json"},
                               json={"model": k["modell"], "temperature": 0.1,
                                     "messages": [{"role": "user", "content": prompt}]})

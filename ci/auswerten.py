@@ -98,6 +98,7 @@ def auswerten(cfg, protokoll=print):
     modus = f"KI ({ki.konfiguration()['modell']})" if mit_ki else "Ersatzmodus ohne KI"
     protokoll(f"Auswertung im {modus}")
     cache = lies_json(DATEN / "analyse_cache.json", {})   # fingerabdruck+modus -> auswertung
+    fehlversuche = 0   # nach 3 KI-Fehlern in Folge: Rest im Ersatzmodus, statt stundenlang zu warten
     firmen = {w["name"]: {"name": w["name"], "region": w["region"], "start": w["start"], "referenz": bool(w.get("referenz")), "seiten": []}
               for w in cfg["wettbewerber"]}
     for url, info in stand.items():
@@ -109,19 +110,25 @@ def auswerten(cfg, protokoll=print):
         schluessel = f"{info['fingerabdruck']}|{'ki:' + ki.konfiguration()['modell'] if mit_ki else 'ersatz'}"
         a = cache.get(schluessel)
         if a is None:
-            if mit_ki:
+            if mit_ki and fehlversuche < 3:
                 prompt = (vorlage.replace("{firma}", s["firma"]).replace("{region}", s["region"]).replace("{url}", url)
                           .replace("{text}", f"TITEL: {s['titel']}\nBESCHREIBUNG: {s['beschreibung']}\nÜBERSCHRIFTEN: {' | '.join(s['ueberschriften'])}\n"
                                              f"BUTTONS/LINKS: {' | '.join(s['cta_kandidaten'])}\n\n{s['text'][:12000]}"))
                 try:
                     a = bereinigen(ki.fragen(prompt))
+                    fehlversuche = 0
                     protokoll(f"   KI ✓ {s['firma']}: {url}")
+                    cache[schluessel] = a
                 except Exception as ex:
+                    fehlversuche += 1
                     protokoll(f"   KI ! {url}: {ex} → Ersatzmodus")
-                    a = bereinigen(ersatz_auswertung(s)); a["ersatz"] = True
+                    if fehlversuche == 3:
+                        protokoll("   KI antwortet nicht – restliche Seiten im Ersatzmodus (Schlüssel, Modellname und GWDG-Status prüfen)")
+                    a = bereinigen(ersatz_auswertung(s)); a["ersatz"] = True   # nicht speichern: nächster Lauf fragt die KI erneut
             else:
                 a = bereinigen(ersatz_auswertung(s)); a["ersatz"] = True
-            cache[schluessel] = a
+                if not mit_ki:
+                    cache[schluessel] = a
         firmen[info["firma"]]["seiten"].append({"url": url, "region": info["region"], "datum": info["datum"], "titel": s["titel"], **a})
     schreib_json(DATEN / "analyse_cache.json", cache)
 
