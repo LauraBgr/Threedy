@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +33,14 @@
   .md h2 { font-size: 15px; margin: 14px 0 4px; } .md p, .md li { font-size: 14px; }
   .balken { display: flex; align-items: center; gap: 8px; font-size: 12.5px; margin: 3px 0; }
   .balken .spur { flex: 1; height: 10px; background: #EEF0F5; border-radius: 99px; overflow: hidden; display: flex; }
-  .balken i { display: block; height: 100%; }
+  .balken i { display: block; height: 100%; border-radius: 99px; }
+  .vergleich { display: grid; grid-template-columns: minmax(130px, 190px) 1fr 40px 1fr 40px; align-items: center; gap: 6px 10px; font-size: 12.5px; }
+  .vergleich .spur { height: 10px; background: #EEF0F5; border-radius: 99px; overflow: hidden; }
+  .vergleich .spur i { display: block; height: 100%; border-radius: 99px; }
+  .vergleich .wert { text-align: right; font-variant-numeric: tabular-nums; }
+  .vergleich .kopf { font-weight: 700; font-size: 11px; color: var(--leise); text-transform: uppercase; letter-spacing: .04em; }
+  @media (max-width: 560px) { .vergleich { grid-template-columns: 1fr 34px; } .vergleich .thema { grid-column: 1 / -1; margin-top: 6px; } .vergleich .kopf { display: none; } .nur-mobil { display: block !important; } }
+  .nur-mobil { display: none; }
   input[type=search], select { font: inherit; padding: 7px 10px; border: 1px solid var(--linie); border-radius: 8px; background: #fff; }
   a { color: var(--akzent); text-decoration: none; } a:hover { text-decoration: underline; }
   .leer { color: var(--leise); }
@@ -50,33 +57,49 @@
 const D = /*DATEN*/null;
 const $ = (s) => document.querySelector(s);
 function el(tag, attrs = {}, ...k) { const e = document.createElement(tag); for (const [a, v] of Object.entries(attrs)) { if (v == null) continue; if (a === "class") e.className = v; else if (a.startsWith("on")) e.addEventListener(a.slice(2), v); else e.setAttribute(a, v); } for (const x of k) if (x != null) e.append(x); return e; }
-const THEMA = (t) => t.replace(/_/g, " ").replace("ki und agenten", "KI & Agenten").replace("ar vr", "AR/VR").replace("sdk und api", "SDK & API").replace("plm integration", "PLM-Integration");
+
+// The data uses German keys internally; these maps translate them for display.
+const THEMES = { browserbasiert: "Browser-based", streaming_grosser_daten: "Streaming large data", multi_cad_formate: "Multi-CAD formats", design_review: "Design review",
+  zusammenarbeit: "Collaboration", digitaler_zwilling: "Digital twin", ki_und_agenten: "AI & agents", ar_vr: "AR/VR", service_und_wartung: "Service & maintenance",
+  fertigung_und_produktion: "Manufacturing & production", vertrieb_und_marketing: "Sales & marketing", plm_integration: "PLM integration", sdk_und_api: "SDK & API",
+  cloud_und_saas: "Cloud & SaaS", sicherheit_und_datenschutz: "Security & privacy", skalierbarkeit_enterprise: "Enterprise scalability", nachhaltigkeit: "Sustainability", kosten_und_roi: "Cost & ROI" };
+const CTAS = { demo: "Demo", testversion: "Free trial", kontakt_vertrieb: "Contact sales", video: "Video", dokumentation: "Documentation", download: "Download",
+  event: "Event", preise: "Pricing", newsletter: "Newsletter", sonstiges: "Other" };
+const PAGETYPES = { startseite: "Homepage", produkt: "Product", loesung: "Solution", branche: "Industry", preis: "Pricing", vergleich: "Comparison", presse: "Press", blog: "Blog", sonstiges: "Other" };
+const CHANGES = { "neu erfasst": "First captured", "geändert": "Changed" };
+const THEMA = (t) => THEMES[t] || t.replace(/_/g, " ");
+const CTA = (t) => CTAS[t] || t.replace(/_/g, " ");
+const FEHLER = (f) => f.replace("robots.txt verbietet den Abruf", "blocked by robots.txt").replace("kaum Text auf der Seite (evtl. nur per JavaScript geladen)", "almost no text (content is probably loaded via JavaScript)");
+const ersatz = D.modus.startsWith("Ersatz");
+const modus = ersatz ? "keyword fallback (no AI)" : D.modus.replace(/^KI/, "AI");
+const datum = (s) => { const d = new Date(s); return isNaN(d) ? s.replace("T", " ") : d.toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" }); };
+
 const firmen = D.firmen.filter((f) => f.seiten.length);
 const region = (r) => el("span", { class: "region " + r }, r);
-$("#stand").textContent = `Stand ${D.erstellt.replace("T", " ")} · ${firmen.length} Firmen · ${firmen.reduce((a, f) => a + f.seiten.length, 0)} Seiten · Auswertung: ${D.modus}`;
+$("#stand").textContent = `Updated ${datum(D.erstellt)} · ${firmen.length} companies · ${firmen.reduce((a, f) => a + f.seiten.length, 0)} pages · Analysis: ${modus}`;
 
-const ANSICHTEN = {
-  "Übersicht": uebersicht, "Keywords": keywords, "Themen": themen, "Call to Action": cta, "Belege": belege,
-  "EU vs. USA": euUsa, "Lücken für Threedy": luecken, "Änderungen": aenderungen, "News": news, "Quellen": quellen,
+const VIEWS = {
+  "Overview": overview, "Keywords": keywords, "Themes": themes, "Calls to action": cta, "Proof points": proof,
+  "EU vs. USA": euUsa, "Gaps for Threedy": gaps, "Changes": changes, "News": news, "Sources": sources,
 };
-let aktiv = location.hash.slice(1) ? decodeURIComponent(location.hash.slice(1)) : "Übersicht";
+let aktiv = location.hash.slice(1) ? decodeURIComponent(location.hash.slice(1)) : "Overview";
 function zeige(name) {
-  aktiv = ANSICHTEN[name] ? name : "Übersicht"; location.hash = encodeURIComponent(aktiv);
-  $("#nav").replaceChildren(...Object.keys(ANSICHTEN).map((n) => el("button", { class: n === aktiv ? "an" : null, onclick: () => zeige(n) }, n)));
+  aktiv = VIEWS[name] ? name : "Overview"; location.hash = encodeURIComponent(aktiv);
+  $("#nav").replaceChildren(...Object.keys(VIEWS).map((n) => el("button", { class: n === aktiv ? "an" : null, onclick: () => zeige(n) }, n)));
   const m = $("#inhalt"); m.replaceChildren();
-  if (D.modus.startsWith("Ersatz")) m.append(el("div", { class: "hinweis" }, "Ersatzmodus ohne KI: Keywords und Themen sind nur grob per Stichwortsuche ermittelt. Mit dem GWDG-Schlüssel wertet die KI jede Seite genau aus."));
-  ANSICHTEN[aktiv](m);
+  if (ersatz) m.append(el("div", { class: "hinweis" }, "Fallback mode without AI: keywords and themes are only roughly estimated by keyword matching. With an AI key, every page is analysed in detail."));
+  VIEWS[aktiv](m);
 }
 
-function uebersicht(m) {
+function overview(m) {
   if (D.zusammenfassung) m.append(el("div", { class: "karte md", style: "margin-bottom:14px" }, ...md(D.zusammenfassung)));
   const r = el("div", { class: "raster" });
   for (const f of firmen) {
     const top = Object.entries(f.themen).sort((a, b) => b[1] - a[1]).slice(0, 5);
     r.append(el("div", { class: "karte" },
-      el("h3", {}, f.name, " ", region(f.region), f.referenz ? el("span", { class: "ref" }, "Referenz") : null),
-      el("div", { class: "klein" }, `${f.seiten.length} Seiten · Stand ${f.stand} · `, el("a", { href: f.start, target: "_blank" }, "Website")),
-      f.hauptbotschaften[0] ? el("p", { style: "margin:8px 0 4px;font-weight:500" }, "„" + f.hauptbotschaften[0] + "“") : null,
+      el("h3", {}, f.name, " ", region(f.region), f.referenz ? el("span", { class: "ref" }, "Reference") : null),
+      el("div", { class: "klein" }, `${f.seiten.length} ${f.seiten.length === 1 ? "page" : "pages"} · captured ${f.stand} · `, el("a", { href: f.start, target: "_blank" }, "Website")),
+      f.hauptbotschaften[0] ? el("p", { style: "margin:8px 0 4px;font-weight:500" }, "“" + f.hauptbotschaften[0] + "”") : null,
       el("div", { class: "tags" }, ...top.map(([t]) => el("span", { class: "tag" }, THEMA(t)))),
       el("div", { class: "tags" }, ...f.keywords.slice(0, 8).map(([k]) => el("span", { class: "tag", style: "background:#F3F4F7" }, k)))));
   }
@@ -84,25 +107,25 @@ function uebersicht(m) {
 }
 
 function keywords(m) {
-  const filter = el("input", { type: "search", placeholder: "Keyword suchen …" });
+  const filter = el("input", { type: "search", placeholder: "Search keywords …" });
   const tab = el("div", { class: "tabwrap" });
   const zaehler = {};
-  for (const f of firmen) for (const [k, n] of f.keywords) (zaehler[k] ||= {}).__ = 0, zaehler[k][f.name] = n;
+  for (const f of firmen) for (const [k, n] of f.keywords) (zaehler[k] ||= {})[f.name] = n;
   const zeilen = Object.keys(zaehler).map((k) => ({ k, firmen: firmen.filter((f) => zaehler[k][f.name]).length })).sort((a, b) => b.firmen - a.firmen || a.k.localeCompare(b.k));
   function render() {
     const q = filter.value.toLowerCase();
-    tab.replaceChildren(el("table", {}, el("tr", {}, el("th", {}, "Keyword"), el("th", {}, "Firmen"), ...firmen.map((f) => el("th", {}, f.name))),
+    tab.replaceChildren(el("table", {}, el("tr", {}, el("th", {}, "Keyword"), el("th", {}, "Companies"), ...firmen.map((f) => el("th", {}, f.name))),
       ...zeilen.filter((z) => z.k.includes(q)).slice(0, 150).map((z) => el("tr", {}, el("td", {}, z.k), el("td", { class: "zelle" }, z.firmen),
         ...firmen.map((f) => el("td", { class: "zelle", style: zaehler[z.k][f.name] ? `background:${f.region === "EU" ? "#E4ECFD" : "#FCE7DE"}` : null }, zaehler[z.k][f.name] ? "●" : ""))))));
   }
   filter.addEventListener("input", render); render();
-  m.append(el("h2", {}, "Keyword-Tracker"), el("p", { class: "klein" }, "Welche Begriffe auf welchen Seiten vorkommen. Blau = EU-Firma, orange = US-Firma."), filter, el("div", { style: "height:10px" }), tab);
+  m.append(el("h2", {}, "Keyword tracker"), el("p", { class: "klein" }, "Which terms appear on which companies' pages. Blue = EU company, orange = US company."), filter, el("div", { style: "height:10px" }), tab);
 }
 
-function themen(m) {
+function themes(m) {
   const max = Math.max(1, ...firmen.flatMap((f) => Object.values(f.themen)));
-  m.append(el("h2", {}, "Themen-Tracker"), el("p", { class: "klein" }, "Wie oft ein Thema auf den Seiten einer Firma vorkommt (Anzahl Seiten)."),
-    el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Thema"), ...firmen.map((f) => el("th", {}, f.name))),
+  m.append(el("h2", {}, "Theme tracker"), el("p", { class: "klein" }, "How many of a company's pages address each theme."),
+    el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Theme"), ...firmen.map((f) => el("th", {}, f.name))),
       ...D.themenliste.map((t) => el("tr", {}, el("td", {}, THEMA(t)), ...firmen.map((f) => {
         const n = f.themen[t] || 0;
         return el("td", { class: "zelle", style: n ? `background:rgba(47,111,235,${0.12 + 0.6 * n / max})` : null }, n || "");
@@ -110,79 +133,80 @@ function themen(m) {
 }
 
 function cta(m) {
-  m.append(el("h2", {}, "Call to Action"), el("p", { class: "klein" }, "Wozu die Seiten auffordern."));
+  m.append(el("h2", {}, "Calls to action"), el("p", { class: "klein" }, "What the pages ask visitors to do. Bars show the share of each type among the company's calls to action."));
   const r = el("div", { class: "raster" });
   for (const f of firmen) {
     const ges = Object.values(f.cta_typen).reduce((a, b) => a + b, 0) || 1;
     r.append(el("div", { class: "karte" }, el("h3", {}, f.name, " ", region(f.region)),
-      ...Object.entries(f.cta_typen).sort((a, b) => b[1] - a[1]).map(([t, n]) => el("div", { class: "balken" }, el("span", { style: "width:110px" }, t.replace("_", " ")),
-        el("span", { class: "spur" }, el("i", { style: `width:${100 * n / ges}%;background:var(--akzent)` })), el("span", {}, n))),
+      ...Object.entries(f.cta_typen).sort((a, b) => b[1] - a[1]).map(([t, n]) => el("div", { class: "balken" }, el("span", { style: "width:110px" }, CTA(t)),
+        el("span", { class: "spur" }, el("i", { style: `width:${100 * n / ges}%;background:var(--akzent)` })), el("span", { style: "width:34px;text-align:right" }, Math.round(100 * n / ges) + "%"))),
       el("div", { class: "tags" }, ...[...new Set(f.seiten.flatMap((p) => p.ctas))].slice(0, 10).map((c) => el("span", { class: "tag" }, c)))));
   }
   m.append(r);
 }
 
-function belege(m) {
-  m.append(el("h2", {}, "Belege, Kunden und Branchen"));
+function proof(m) {
+  m.append(el("h2", {}, "Proof points, customers and industries"));
   const r = el("div", { class: "raster" });
   for (const f of firmen) r.append(el("div", { class: "karte" }, el("h3", {}, f.name, " ", region(f.region)),
-    f.kunden.length ? el("div", {}, el("strong", {}, "Kunden: "), f.kunden.join(", ")) : null,
-    f.branchen.length ? el("div", {}, el("strong", {}, "Branchen: "), f.branchen.join(", ")) : null,
-    el("ul", { style: "margin:6px 0 0;padding-left:18px" }, ...(f.belege.length ? f.belege.slice(0, 8).map((b) => el("li", {}, b)) : [el("li", { class: "leer" }, "keine Belege erfasst")]))));
+    f.kunden.length ? el("div", {}, el("strong", {}, "Customers: "), f.kunden.join(", ")) : null,
+    f.branchen.length ? el("div", {}, el("strong", {}, "Industries: "), f.branchen.join(", ")) : null,
+    el("ul", { style: "margin:6px 0 0;padding-left:18px" }, ...(f.belege.length ? f.belege.slice(0, 8).map((b) => el("li", {}, b)) : [el("li", { class: "leer" }, "no proof points found")]))));
   m.append(r);
 }
 
 function euUsa(m) {
   const gruppe = { EU: firmen.filter((f) => f.region === "EU" && !f.referenz), USA: firmen.filter((f) => f.region === "USA") };
   const anteil = (g, t) => g.length ? g.filter((f) => f.themen[t]).length / g.length : 0;
-  m.append(el("h2", {}, "EU vs. USA"), el("p", { class: "klein" }, `Anteil der Firmen je Region, die ein Thema nutzen (EU ohne Threedy: ${gruppe.EU.length}, USA: ${gruppe.USA.length}).`));
-  const k = el("div", { class: "karte" });
+  m.append(el("h2", {}, "EU vs. USA"), el("p", { class: "klein" }, `Share of companies per region that address a theme (EU without Threedy: ${gruppe.EU.length}, USA: ${gruppe.USA.length}). A full bar means 100 %.`));
+  const g = el("div", { class: "vergleich" },
+    el("span", { class: "kopf leer" }, "Theme"), el("span", { class: "kopf" }, region("EU")), el("span", { class: "kopf leer" }), el("span", { class: "kopf" }, region("USA")), el("span", { class: "kopf leer" }));
   for (const t of D.themenliste) {
     const eu = anteil(gruppe.EU, t), us = anteil(gruppe.USA, t);
     if (!eu && !us) continue;
-    k.append(el("div", { class: "balken" }, el("span", { style: "width:170px" }, THEMA(t)),
-      el("span", { class: "spur" }, el("i", { style: `width:${50 * eu}%;background:var(--eu)` })), el("span", { style: "width:34px" }, Math.round(eu * 100) + "%"),
-      el("span", { class: "spur" }, el("i", { style: `width:${50 * us}%;background:var(--us)` })), el("span", { style: "width:34px" }, Math.round(us * 100) + "%")));
+    g.append(el("span", { class: "thema" }, THEMA(t)),
+      el("span", { class: "spur" }, el("i", { style: `width:${100 * eu}%;background:var(--eu)` })), el("span", { class: "wert" }, Math.round(eu * 100) + "%"),
+      el("span", { class: "spur" }, el("i", { style: `width:${100 * us}%;background:var(--us)` })), el("span", { class: "wert" }, Math.round(us * 100) + "%"));
   }
-  m.append(el("div", { class: "klein", style: "margin-bottom:6px" }, region("EU"), " links · ", region("USA"), " rechts"), k);
-  // Regionale Seitenversionen derselben Firma
+  m.append(el("div", { class: "klein nur-mobil", style: "margin-bottom:6px" }, region("EU"), " upper bar · ", region("USA"), " lower bar"), el("div", { class: "karte" }, g));
+  // Regional versions of the same company
   const mehr = firmen.filter((f) => new Set(f.seiten.map((p) => p.sprache || p.region)).size > 1);
   if (mehr.length) {
-    m.append(el("h2", { style: "margin-top:20px" }, "Gleiche Firma, andere Sprache"));
+    m.append(el("h2", { style: "margin-top:20px" }, "Same company, different language"));
     for (const f of mehr) m.append(el("div", { class: "karte", style: "margin-bottom:10px" }, el("h3", {}, f.name),
       ...f.seiten.map((p) => el("div", { class: "klein" }, el("strong", {}, `${(p.sprache || "?").toUpperCase()}: `), p.hauptbotschaft || p.titel))));
   }
 }
 
-function luecken(m) {
-  m.append(el("h2", {}, "Lücken für Threedy"), el("p", { class: "klein" }, "Themen und Keywords, die mindestens zwei Wettbewerber nutzen, Threedy auf seinen erfassten Seiten aber nicht."));
+function gaps(m) {
+  m.append(el("h2", {}, "Gaps for Threedy"), el("p", { class: "klein" }, "Themes and keywords used by at least two competitors but not found on Threedy's captured pages."));
   const r = el("div", { class: "raster" });
-  r.append(el("div", { class: "karte" }, el("h3", {}, "Themen"), ...(D.luecken.themen.length ? D.luecken.themen.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, THEMA(x.thema)), el("strong", {}, `${x.firmen} Firmen`))) : [el("p", { class: "leer" }, "keine")])));
-  r.append(el("div", { class: "karte" }, el("h3", {}, "Keywords"), ...(D.luecken.keywords.length ? D.luecken.keywords.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, x.keyword), el("strong", {}, `${x.firmen} Firmen`))) : [el("p", { class: "leer" }, "keine")])));
+  r.append(el("div", { class: "karte" }, el("h3", {}, "Themes"), ...(D.luecken.themen.length ? D.luecken.themen.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, THEMA(x.thema)), el("strong", {}, `${x.firmen} companies`))) : [el("p", { class: "leer" }, "none")])));
+  r.append(el("div", { class: "karte" }, el("h3", {}, "Keywords"), ...(D.luecken.keywords.length ? D.luecken.keywords.map((x) => el("div", { class: "balken" }, el("span", { style: "flex:1" }, x.keyword), el("strong", {}, `${x.firmen} companies`))) : [el("p", { class: "leer" }, "none")])));
   m.append(r);
 }
 
-function aenderungen(m) {
-  m.append(el("h2", {}, "Änderungsprotokoll"));
-  if (!D.aenderungen.length) { m.append(el("p", { class: "leer" }, "Noch keine Änderungen.")); return; }
-  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Datum"), el("th", {}, "Firma"), el("th", {}, "Art"), el("th", {}, "Seite"), el("th", {}, "Details")),
-    ...D.aenderungen.map((a) => el("tr", {}, el("td", {}, a.datum), el("td", {}, a.firma), el("td", {}, a.art), el("td", {}, el("a", { href: a.url, target: "_blank" }, a.url.replace(/^https?:\/\//, "").slice(0, 60))),
+function changes(m) {
+  m.append(el("h2", {}, "Change log"), el("p", { class: "klein" }, "“First captured” = the page was added to the monitoring. “Changed” = title, description, headings or buttons differ from the previous run."));
+  if (!D.aenderungen.length) { m.append(el("p", { class: "leer" }, "No changes yet.")); return; }
+  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Date"), el("th", {}, "Company"), el("th", {}, "Type"), el("th", {}, "Page"), el("th", {}, "Details")),
+    ...D.aenderungen.map((a) => el("tr", {}, el("td", {}, a.datum), el("td", {}, a.firma), el("td", {}, CHANGES[a.art] || a.art), el("td", {}, el("a", { href: a.url, target: "_blank" }, a.url.replace(/^https?:\/\//, "").slice(0, 60))),
       el("td", {}, ...(a.neue_ueberschriften || []).map((u) => el("div", { style: "color:var(--gut)" }, "+ " + u)), ...(a.entfernte_ueberschriften || []).map((u) => el("div", { style: "color:#B54" }, "− " + u))))))));
 }
 
 function news(m) {
-  m.append(el("h2", {}, "News"), el("p", { class: "klein" }, "Aktuelle Artikel aus Google News, getrennt nach EU (deutsch) und USA (englisch)."));
+  m.append(el("h2", {}, "News"), el("p", { class: "klein" }, "Recent articles from Google News, split into EU (German-language) and USA (English-language) results."));
   const r = el("div", { class: "raster" });
   for (const f of firmen) r.append(el("div", { class: "karte" }, el("h3", {}, f.name),
-    ...(f.news.length ? f.news.slice(0, 8).map((n) => el("div", { style: "margin:6px 0" }, region(n.region), " ", el("a", { href: n.link, target: "_blank" }, n.titel), el("div", { class: "klein" }, `${n.quelle} · ${n.datum}`))) : [el("p", { class: "leer" }, "keine Artikel")])));
+    ...(f.news.length ? f.news.slice(0, 8).map((n) => el("div", { style: "margin:6px 0" }, region(n.region), " ", el("a", { href: n.link, target: "_blank" }, n.titel), el("div", { class: "klein" }, `${n.quelle} · ${n.datum}`))) : [el("p", { class: "leer" }, "no articles")])));
   m.append(r);
 }
 
-function quellen(m) {
-  m.append(el("h2", {}, "Erfasste Quellen"));
-  if (D.fehler.length) m.append(el("div", { class: "hinweis" }, el("strong", {}, `${D.fehler.length} Seiten konnten nicht abgerufen werden: `), ...D.fehler.map((x) => el("div", {}, `${x.firma}: ${x.url} · ${x.fehler}`))));
-  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Firma"), el("th", {}, "Region"), el("th", {}, "Seite"), el("th", {}, "Typ"), el("th", {}, "Sprache"), el("th", {}, "Stand")),
-    ...firmen.flatMap((f) => f.seiten.map((p) => el("tr", {}, el("td", {}, f.name), el("td", {}, region(p.region)), el("td", {}, el("a", { href: p.url, target: "_blank" }, p.titel || p.url)), el("td", {}, p.seitentyp), el("td", {}, p.sprache), el("td", {}, p.datum)))))));
+function sources(m) {
+  m.append(el("h2", {}, "Captured sources"));
+  if (D.fehler.length) m.append(el("div", { class: "hinweis" }, el("strong", {}, `${D.fehler.length} ${D.fehler.length === 1 ? "page" : "pages"} could not be captured: `), ...D.fehler.map((x) => el("div", {}, `${x.firma}: ${x.url} · ${FEHLER(x.fehler)}`))));
+  m.append(el("div", { class: "tabwrap" }, el("table", {}, el("tr", {}, el("th", {}, "Company"), el("th", {}, "Region"), el("th", {}, "Page"), el("th", {}, "Type"), el("th", {}, "Language"), el("th", {}, "Captured")),
+    ...firmen.flatMap((f) => f.seiten.map((p) => el("tr", {}, el("td", {}, f.name), el("td", {}, region(p.region)), el("td", {}, el("a", { href: p.url, target: "_blank" }, p.titel || p.url)), el("td", {}, PAGETYPES[p.seitentyp] || p.seitentyp), el("td", {}, p.sprache), el("td", {}, p.datum)))))));
 }
 
 function md(text) {

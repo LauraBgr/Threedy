@@ -170,7 +170,7 @@ def auswerten(cfg, protokoll=print):
     log = log[:300]
     schreib_json(DATEN / "aenderungen.json", log)
 
-    ergebnis = {"erstellt": dt.datetime.now().isoformat(timespec="minutes"), "modus": modus,
+    ergebnis = {"erstellt": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"), "modus": modus,
                 "firmen": list(firmen.values()), "luecken": luecken, "aenderungen": log[:60],
                 "fehler": lauf.get("fehler", []), "themenliste": THEMEN, "cta_typen": CTA_TYPEN}
 
@@ -178,13 +178,20 @@ def auswerten(cfg, protokoll=print):
     if mit_ki:
         kurz = [{"firma": f["name"], "region": f["region"], "referenz": f["referenz"], "themen": f["themen"],
                  "keywords": [k for k, _ in f["keywords"][:12]], "cta": f["cta_typen"], "botschaften": f["hauptbotschaften"]} for f in firmen.values()]
-        neue = [a for a in log if a.get("datum") == lauf.get("datum")]
+        # Nur die Änderungen dieses Laufs; "neu erfasst" = erstmals beobachtet, keine Änderung durch die Firma
+        art_en = {"neu erfasst": "first captured", "geändert": "changed"}
+        neue = [dict(a, art=art_en.get(a["art"], a["art"])) for a in lauf.get("aenderungen", [])]
+        frueher = any(a.get("datum", "") < lauf.get("datum", "") for a in log)
+        erster = bool(neue) and not frueher and all(a["art"] == "first captured" for a in neue)
+        status = (f"FIRST_RUN ({sum(len(f['seiten']) for f in firmen.values())} pages, {len([f for f in firmen.values() if f['seiten']])} companies)"
+                  if erster else "FOLLOW_UP_RUN")
         p = (PROMPTS / "zusammenfassung.md").read_text(encoding="utf-8").replace("{daten}", json.dumps(kurz, ensure_ascii=False)) \
-            .replace("{aenderungen}", json.dumps(neue[:40], ensure_ascii=False) if neue else "keine")
+            .replace("{laufstatus}", status) \
+            .replace("{aenderungen}", json.dumps(neue[:40], ensure_ascii=False) if neue else "none")
         try:
             ergebnis["zusammenfassung"] = ki.fragen(p, json_antwort=False)
         except Exception as ex:
-            ergebnis["zusammenfassung"] = f"(Zusammenfassung fehlgeschlagen: {ex})"
+            ergebnis["zusammenfassung"] = f"(Summary failed: {ex})"
     else:
         ergebnis["zusammenfassung"] = ""
     schreib_json(DATEN / "ergebnis.json", ergebnis)
