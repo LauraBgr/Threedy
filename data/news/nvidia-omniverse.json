@@ -4,10 +4,73 @@
  "artikel": [
   {
    "region": "USA",
+   "titel": "Visual Components launches Nvidia-powered FactoryLens for industrial digital twins - Robotics & Automation News",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1J6U3ZXUDdZSWc4ZnRzYklWVXU4YmJDdU1Uc2FXbTRwS3FIcUwxaVYyVEJMU2lIV25xNkdJRnpiUnIyNzJ4NmdTbGtPbmdyTkVJVlNnWnJqcEZKdzNhdVd1QWQxUG9VajEwUldkWWFfX3VLbHpXUElkVG5Mcm5IOWJvM0ZQcFRvelpwV0NVeDVsLXdYTTFFNVp5MmI3N0tqYWY2TC0zN195ekZZVEMwMUNLWnZQZkM0cV82dzFlc2hFRld3bVVSb1FYcWQzTE9Kalp6WVRR?oc=5",
+   "quelle": "Robotics & Automation News",
+   "datum": "2026-09-28"
+  },
+  {
+   "region": "USA",
+   "titel": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps | NVIDIA Technical Blog - NVIDIA Developer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFRdTZRT2ZnS1pKTHVITDNxSm1HU1lQc3VmNDlNZjZONGtJa3BxR2g2SF9QVWJFSFM1NDFVTy1GYWhWVS1uNE9LdnlvNUlEQ3RzdUNlazdleGtOXy1Sclk3ZWtjdk5JZGlhRlZhQTNCVmhWeXhQTmxvOWhhNkF1Q3lpV2lod2dJM3lYaUdhWUxJMkVuNHlrYWJNUHBCUTJRd2tGZA?oc=5",
+   "quelle": "NVIDIA Developer",
+   "datum": "2026-07-20"
+  },
+  {
+   "region": "USA",
+   "titel": "Vertiv announces industry-first converged infrastructure digital twin for NVIDIA Omniverse DSX - Tech Critter",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VEalV4dF9Ga1N5RGhQQml3MFNUWmhNN0tXVEJNZU5KQUg3bm5vMmktZy1vOWxOc1FkelNYaWdOc1U0Rnp5RG1OcFNZX25kTHlYQ2NBWTQxQ2wwelYwLVQ5d3g2OGdXTnVrWmoyeGRiTm00aU0wUlNzNWlwLW11Yg?oc=5",
+   "quelle": "Tech Critter",
+   "datum": "2026-06-05"
+  },
+  {
+   "region": "USA",
+   "titel": "Micron Teams With MetAI to Build AI-Ready Digital Twins of Chip Fabs on Nvidia Omniverse - finance.biggo.com",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWDdtV21qOGxBYk13QkVSSlRPOFZ0ZWM2THJhWGhYZnFkR0Y4YUR5MFBUZGh4RFMzWTNhc3FoSVFDUmVySnVEeldRRzJSWHFHcEhCdjZTNjAteDBvYVNxNw?oc=5",
+   "quelle": "finance.biggo.com",
+   "datum": "2026-06-04"
+  },
+  {
+   "region": "USA",
+   "titel": "SK Telecom Builds NVIDIA Omniverse Digital Twin Factory - Telecom Review Asia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHJBYUhTc2JTZ2F6am1PZW1Cc21QbzNKbm1USFdncTdPVEt3Wmttb3RkOWRHWFF0Wi1YWUNIUWJPYlZCY19wdlN0X0lBWm5iNDJwSnQ2ODJoTDFNak45R0t4NElrSUVHMFhkdGN4b3d1bGVJMUw2M295UkxuWWxqWWJSU3U0Q0gwSkpOR00tV3JudlNxXzhjZ1FrRjZrWUI5Q3lUN0dvM0RqQUg1MEhYVlV4alZtQQ?oc=5",
+   "quelle": "Telecom Review Asia",
+   "datum": "2026-06-03"
+  },
+  {
+   "region": "USA",
+   "titel": "Commonwealth Fusion Systems Accelerates Commercial Fusion With Siemens and NVIDIA, Leveraging AI-Powered Digital Twins - Commonwealth Fusion Systems",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdG1KbEdzVmI0ZUczekExVDlfVHpRQ2p0M3pfYUlBdGZDa21na0NyYS1ueVota1kwNlF5YURGOGJ0V0hEY193Y3RJNGdET2Z6WDdoejRQRVAyUjA2YWt1dlhKMFNTdUhZY1F6SlJEZDl5c1pvZDZKb04zek8xQWl1Wk9CeUliRmYyVzdBV0tfVUVVc2w3Zy1xREZwN2lTOUpFT1RuSGV2NHZpYnF4a0k1YUhYT1NKS1ZDMnNlb19seHFWTnVqb3RqX3l4UWxLSmx6TlZodUQzeW9rT3FtbndmSXBZblN3ZnM?oc=5",
+   "quelle": "Commonwealth Fusion Systems",
+   "datum": "2026-06-01"
+  },
+  {
+   "region": "USA",
+   "titel": "SK Telecom Unveils Nvidia Omniverse-Based Digital Twin for SK hynix Semiconductor Fab - THE ELEC, Korea Electronics Industry Media",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTHdsQUh3RmZEeEFBUXE2cGJqVUdyS3dNVVVVbEZBdWlUQ1VGaVJ3QmpGYlhzRnQ1SzQ2MUxkOFp5X0FXLUlmQnpPWFVwdDNGcDVJRVZIcU00UlZiNXY4X0JoQjI1eWc?oc=5",
+   "quelle": "THE ELEC, Korea Electronics Industry Media",
+   "datum": "2026-06-01"
+  },
+  {
+   "region": "USA",
    "titel": "SK Telecom Advances Semiconductor Fab Digital Twins using NVIDIA Omniverse Libraries – SK telecom newsroom - SK텔레콤 뉴스룸",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBodUY3WVAwdmU3Vm56Vk81UUlITHBMRWFmNEZ2QkdtMmFua2JIT3h1bkxmRUs0Y3had1FoZTBlM3JFT3hySV9JdmlB?oc=5",
    "quelle": "SK텔레콤 뉴스룸",
    "datum": "2026-06-01"
+  },
+  {
+   "region": "USA",
+   "titel": "SK Telecom joins Nvidia as key physical AI partner in Taiwan GTC keynote - Chosunbiz",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hTGM0Z3JuckZBNzVPRjlnV2JyajB5YzdZLVlaVG43aFdtSUpRWHBlTDlDUE5zZC1tQnB3NjNhTkhwTzBENWllODJfNXp0RFZqZkFPNGtPbTNJR1JfanA1VE9pc1E2dkJSd1JjcURhdG9NVU1aUm04LVJB0gGOAUFVX3lxTFBVOW43UWliaVVFWjFxMDd1eGFlMzUycW15OHJYNThfTUR4YVQxZllRZkRESVBUSWNXdWJWS3daM2ZoVG1IcHMteFNIWXB5SjZCbl9YSUtwU0xSaTZUZ19JQVhsOTVCWjdvMlkxSE9pa0RIdHlSbWVmRjUxZVdUdW5MSWo0azNCVmltUG1WUUE?oc=5",
+   "quelle": "Chosunbiz",
+   "datum": "2026-06-01"
+  },
+  {
+   "region": "USA",
+   "titel": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXh6M3BwdlF3a3VWWEhQSUdhQTR5WFk4UGJINUFwa0ZCQW0ybUljYWoxbzNETmViNGJpS2llXzV6R01iemV0QndtSzIzMmlwMXlhOTJmZUxrSGxWUlhGb0ZSRWJlcVhaMURQMHhzRjRIYzhnUl9OYzRaaWZOSjNPOVA1b25Gcm9PNXBCcnI3bG9ucThQRXBzUzExX3NWQ1VURjZxNXhLSWdMRXFhNUV2ajZoZnRieVc5dUQ3ZXBB?oc=5",
+   "quelle": "NVIDIA Newsroom",
+   "datum": "2026-05-31"
   },
   {
    "region": "USA",
@@ -18,101 +81,38 @@
   },
   {
    "region": "USA",
+   "titel": "Aras Joins the Alliance for OpenUSD to Advance Interoperable, Lifecycle-Connected Digital Twins with NVIDIA Omniverse - Business Wire",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd091X1ByaVo1WW83SEllS0lUSk9Fdmc5eEVEbEpsUzVHQlpqNTZYb3ZHdndTNXNPLXY2eUJCcFJabGxpTGZkTV9nRU0tb0YxSGtIaU9RUGNIZk91eFctNll2QktySjFOUWRDVVFKTi1XMnQySlUzUGszMU9nR3ZjZjRHQmlBdTRPTTZ6bE1KLXNOUmR1QzhIaFUwQjFwMjBZNE9NakVDdXJyMVZPNmpvSGFmNTNlVEFHb1JYc21jR2RGVnQwUmRhTG1Zb2ZKRnVOUldFZkoydnZSTElOWVFZLXozRWpvUzdLRFNsUlFnc1NVYVFRRzZjNlJPbWZNUmhlR1lr?oc=5",
+   "quelle": "Business Wire",
+   "datum": "2026-04-14"
+  },
+  {
+   "region": "USA",
+   "titel": "Siemens & NVIDIA: What is the Industrial Metaverse? - Manufacturing Digital",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRDNhek5fV2lqcktJTDUwZTFPZmNhRDd2RTRyWV9EVGN2V2V5elNfT3FLdE8yZWpyTHYyQVZSV2Uzdmp4ZTJRUUZyYXRhS091dUpER1JNUDlxdF9NZWhHWlVKQnYtQjM1NUpfM0lIcEZhZ29hS2F2T1I1RXcwTFgxZGFSUWJvdUlGby1hVlZn?oc=5",
+   "quelle": "Manufacturing Digital",
+   "datum": "2026-04-13"
+  },
+  {
+   "region": "USA",
+   "titel": "How Virtual Twins are Shaping the Next Industrial Revolution - NVIDIA",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9taG8zc2ZHVHlzZHZJbzhyT2NvMXJvTWRWYVpmRFoxMWNFTE9XQkFsdVRNWGVPWW5HbU5Wd0F4c1VaY1p5V1BiVmYwdVhWUkZIQ21OTkJnQXZ0VmF3UUJuM2ttdFZvdkxBQXdTTw?oc=5",
+   "quelle": "NVIDIA",
+   "datum": "2026-04-13"
+  },
+  {
+   "region": "USA",
    "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - NVIDIA Developer",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEF3MXdOVW53NFhnVHFWUy12U01oVV9Vd0RrT3BCRXE1bnVTeWtSQk5jVjhOVnJfbExCWnh5TWxrMVpsU19Hc3hTVG14cmgtVjVya2V0TWc0eTNoZVQyUEtzRm00UVR6Zlctak1HYU9Fd3kwcjFPS1V6bEhJTlI3dlNRTnhtdG44eGxsWmhUQko5LVp2Z2V1enBWMEg5TFR1cDhvOTNwdERDOEotZnZPQmx5TFQ0blh5UUxuYg?oc=5",
    "quelle": "NVIDIA Developer",
    "datum": "2026-04-08"
   },
   {
-   "region": "EU",
-   "titel": "Aveva und Nvidia entwickeln Digital Twin für KI-Fabriken - Produktion Online",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVTZUVmWm9Wallwa1ZUOTYwUmJyVWpYdi1qTjAtYnY4T0JwM2RTaDEwRDJOZHpPX1N0SGlZZ0R4OTdKUGV3S2Zka0pMQk5mMS0wcjBnel9LYjBkU1VhMTJUaTBzYjlLT2k3N1ZRU0RSZ252Tm1qSW5HeGxQQTJjbmxKTy1wZHNFQ1JNMkg3MnF6Y0xFMEZ3NEg1ejBEaDg?oc=5",
-   "quelle": "Produktion Online",
-   "datum": "2026-03-18"
-  },
-  {
    "region": "USA",
-   "titel": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support - NVIDIA Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkdlMGNINWd6cnBFQjJybGNPMy03QXpQX3I0cWNEVXdKWWVyN3ZyNWhGVkVqQVRvTkpGdDU5SmZuVjFmLVlBb3JDV01sN1BhRWY3MFNFaGV5d04tc3ZHcmNYRWNfU28tRVNfT3EyVjIxUUcwLUczUHZSSEdwcTdOcllJQjN0eV9DQWxHcUZ2Mmx3TTJpTGxvck5udnpHZHpVYlRqbHRfcTRxajAzbHRjUWFhQmhOY3JhNnA3el85dU9iWmVvZThQeV83VDlwWVo4S1Q1aWJMRTUxMmpzZUQ1OTN3R205bXpaTzRVX0lCQnBodGs?oc=5",
-   "quelle": "NVIDIA Newsroom",
-   "datum": "2026-03-16"
-  },
-  {
-   "region": "USA",
-   "titel": "Assembling Industrial Digital Twins with OpenUSD and NVIDIA Omniverse Libraries - NVIDIA",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZdnVzX29xOHFqSG90R3p1bjZIekxOZnVRaW5feUtTUTFnVmh2TE8xSVpGTS1CN0NQZ1NDdGlFb1pJT1BtRWlkZjhpMVZrUk83Ti0yaGNHWW0wMG5MUC1ZNmR1b2xDb2JmQ3hvdzZ0Y18?oc=5",
+   "titel": "Accelerate Grid Modernization for AI Growth Using NVIDIA Omniverse - NVIDIA",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUE5mME9Rc2Z3SDNHdEFTZ0JOSnllQ2pXeDd4UVNVUEF0bVVMUjA5aGhTZzJsQVpuQkItYl9IZ0M2MUZqMERjODJsNU81SjNjX2ViNE1rRjR4X3pUZGJUY0NsSUxGcHVUMkZYag?oc=5",
    "quelle": "NVIDIA",
-   "datum": "2026-03-15"
-  },
-  {
-   "region": "USA",
-   "titel": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design - NVIDIA Blog",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HN21QWnFUeWNkMHhRVEoyd05hUmpIdklTQUtURmgwVWVKaFpiV3Q5U0R3VHhPUy0xZnBteXNMVXdYeGRLa05wNGJ6WjZnVnBRbHdPM1FwXzZna1BUTl9OVFlWZHh1aXBWd0EzcldFZjd3ZjZScDg0?oc=5",
-   "quelle": "NVIDIA Blog",
-   "datum": "2026-03-12"
-  },
-  {
-   "region": "USA",
-   "titel": "Deloitte unveils physical AI solutions built with NVIDIA Omniverse Libraries to help accelerate industrial transformation - Deloitte",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzl6NkNxczBnQjNEQ0pvUFYzeUZBbjdieDZOQUNlRjZxVHh3WWhId3RHR0kwSHNFYU8xX1lxR2llNm5TUy1JVE1DeEpWVnFWY0FEUHN2VjJNODM4NHI0c0NqS0pzWk05TWw4UGo0cjhTX0hGa1FhU3Q1RUozbmtCSjZNUDdLTUU5TWs5SWwwZWVESUkwdmJHeDFLN2N5TkFvcVlnYWFRQmhldVFtaTFmaA?oc=5",
-   "quelle": "Deloitte",
-   "datum": "2026-03-02"
-  },
-  {
-   "region": "EU",
-   "titel": "Dassault Systèmes und NVIDIA schließen Partnerschaft zum Aufbau einer industriellen KI-Plattform für virtuelle Zwillinge - Dassault Systèmes",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWpWMDI2SUg2SU5hZzdReWhIYVBfYTZRcUMycnFIWVB6bDk1RjVmNE9fRXp6Rk8tTVl2aU1mOTlxN0loOWVoY0hocTJiRGpEaGVlbVI4c1BtZDd4NWJQZ3FSZ2pZaS1wRDBEX3JCMVJtVFpZbVBJSlg0cTUyVlhnSFhOMnJfLWtTcXFsc2ZjWVlEcHFtNGVFTWZpTmpHUEJWdnFJYnk3MkZ2b1pESzhEOWxpek1wMzB1am5CaEttLVZWWU53TFU0Vm9zajB6WW5a?oc=5",
-   "quelle": "Dassault Systèmes",
-   "datum": "2026-02-11"
-  },
-  {
-   "region": "EU",
-   "titel": "Siemens erweckt das industrielle Metaversum mit Digital Twin Composer zum Leben - Siemens Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oRHhYa0NycXlIaWxmYy1ObHluR1BIVjMxcEh6dU9JNHduYlBiSGRMbVpUVDc3endKSWM5YmdudmZJZ183UVFFTE04a0hoRjUyeWxURzNqVkkxZG1ZLWNKb2trQmkwX1BOYWhLRjR4WQ?oc=5",
-   "quelle": "Siemens Newsroom",
-   "datum": "2026-01-06"
-  },
-  {
-   "region": "USA",
-   "titel": "Siemens unveils Digital Twin Composer - Siemens Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jcWE0NzZnbUZ6VEVHdmFESW5OYjNiTk1WNktkeFJjZkVZODJSajE0d09UdXpOLXctZzFfSGJMVGpoYnRlVEN1eFhjVWJYR3VNMGFlTngxVC1KRHpoWnBVTXpsOFhtblhJbWFhMHhMZw?oc=5",
-   "quelle": "Siemens Newsroom",
-   "datum": "2026-01-06"
-  },
-  {
-   "region": "USA",
-   "titel": "Top 10: Digital Twin Platforms - Technology Magazine",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QVkh5Q18zR3JqRzZhcUdCNDJPUWQ5VDlHTWJrRWlVMEtLTkc4amg0cnBzSWJqM1V3b1djWDVxMFRyMzhFa1NOVzY3SGdwc1UwRXZPX05XRHZtNkF4Mm1CU1Q4bnlGdlNrWXdEUmRDN1phd2hi?oc=5",
-   "quelle": "Technology Magazine",
-   "datum": "2025-11-19"
-  },
-  {
-   "region": "USA",
-   "titel": "How NVIDIA is bringing physical AI to its industrial customers - The Robot Report",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0dVaVBSS1pCS1ZXODcxaGZxOXA1RUh5ZlVHdDRRZkR0Y1pILWhXTldOal84QW1IM1NWMWZwWDhLRkx5SWIyaHprMWcxS0wxTGNMV3NqRHJuZllDRzhPWFFOc0tXSHhVQXM1bU5DcUc1Z3RINlFjZmNhWFNpX0dWQUtyakNKN2R2UVZESA?oc=5",
-   "quelle": "The Robot Report",
-   "datum": "2025-10-30"
-  },
-  {
-   "region": "EU",
-   "titel": "„Industrial-Tech-Stack“: Siemens und NVIDIA blicken in die Zukunft der Fertigung im KI-Zeitalter - Siemens Press",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWQzNE1fNXdkUWdFSm4taVZBcUh3cGk3dzdQNWM5ckVSVlhaZ080ZHBrLUVIMk1ESkpyYUlqX2NSaWoxTnFnUFNmOG5lUkNrUHZRTU9xNjVSclZtQTRKTFhaaGhhcWpzSjRsVmNVbnpBN2tseERvQm5tQktsc2tobkNiTW54TE9YeUNKWm1hRlJEQnBxTU52czB4NmJnYlBmb2FLWWI5dW1jSzliNldrNldMTkVsSTVtZU1Ha09DNEZ6ZWJvWTVMTTJRX3lfZw?oc=5",
-   "quelle": "Siemens Press",
-   "datum": "2025-10-28"
-  },
-  {
-   "region": "USA",
-   "titel": "NVIDIA and US Manufacturing and Robotics Leaders Drive America’s Reindustrialization With Physical AI - NVIDIA Newsroom",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVdqMFdzeGM0U0JFaDNaeEM0RFJJTjFXcDM2TzVMazF3aWVDVjVLOXdLNzJCZDRyeTZrSm9IMmt0WVM5bUpGODFuSUhkdmdKLV9OZTdiN3pWdGJzUjdrTHQxX25seW5nUE0zNlp5Q3NtYWE3UFBpSm5fNjk4WkhKMEY5QThjUQ?oc=5",
-   "quelle": "NVIDIA Newsroom",
-   "datum": "2025-10-28"
-  },
-  {
-   "region": "USA",
-   "titel": "What is NVIDIA Omniverse and How Will it Affect U.S. Manufacturing? - A3 Association for Advancing Automation",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU2tPbkFDeVRSMUY2bDhFcC05T2FUS0wxWXNtQnVialNrMVJqakRQamhfOFZiSXJRR0RaLW51MXlNX1MzRVJ6MDMyamdVTlZ2d2dpeExNRkdUTkVDSU9tVzEweDlJWVlWZ1BhNE55bVV3TGQ4cm9VajU2a3JFeUNrYzdNckpsYV83emhUUVJ1Tm5MOHZkM2VUb0ZOUGJtTkkw?oc=5",
-   "quelle": "A3 Association for Advancing Automation",
-   "datum": "2025-09-17"
+   "datum": "2026-04-06"
   }
  ]
 }

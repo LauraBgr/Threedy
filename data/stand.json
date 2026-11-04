@@ -1,0 +1,170 @@
+{
+ "https://threedy.io/": {
+  "fingerabdruck": "3c73d465c5303e4b",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/threedy/threedy-io__2026-11-04.json",
+  "firma": "Threedy",
+  "region": "EU"
+ },
+ "https://www.threedy.io/3d-visualization": {
+  "fingerabdruck": "8b766337b32ae9d6",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/threedy/www-threedy-io-3d-visualization__2026-11-04.json",
+  "firma": "Threedy",
+  "region": "EU"
+ },
+ "https://www.threedy.io/instant-visualization": {
+  "fingerabdruck": "d98621d4b68bd779",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/threedy/www-threedy-io-instant-visualization__2026-11-04.json",
+  "firma": "Threedy",
+  "region": "EU"
+ },
+ "https://www.threedy.io/product/instant3dhub": {
+  "fingerabdruck": "8225d46dfab10870",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub__2026-11-04.json",
+  "firma": "Threedy",
+  "region": "EU"
+ },
+ "https://www.threedy.io/product/instant3dhub-lkd": {
+  "fingerabdruck": "082d25893f1d8afe",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub-lkd__2026-11-04.json",
+  "firma": "Threedy",
+  "region": "EU"
+ },
+ "https://vertex3d.com/": {
+  "fingerabdruck": "a211502c3eed3117",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://vertex3d.com/products": {
+  "fingerabdruck": "b9fee5e97de3ba40",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-products__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://vertex3d.com/solutions/service": {
+  "fingerabdruck": "5ccc1eff64c9a9eb",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-service__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://vertex3d.com/solutions/supplier-rfq": {
+  "fingerabdruck": "2296defcf69a3f93",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-supplier-rfq__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://vertex3d.com/solutions/factory-floor": {
+  "fingerabdruck": "8dcd455b59b1d288",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-factory-floor__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://vertex3d.com/products/vertex-connect": {
+  "fingerabdruck": "a63004ed7a24db90",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-products-vertex-connect__2026-11-04.json",
+  "firma": "Vertex Software",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/": {
+  "fingerabdruck": "f733452247a34c42",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/developers/solutions/": {
+  "fingerabdruck": "1e2253d546fd0612",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-solutions__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/developers/industries/": {
+  "fingerabdruck": "e7b2b392a71552f6",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/enterprise/product-lifecycle-management/": {
+  "fingerabdruck": "c6cdad60f63b9361",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-enterprise-product-lifecycle-management__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/developers/industries/cam/": {
+  "fingerabdruck": "54489c2e9f919579",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cam__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://www.techsoft3d.com/developers/industries/cpq/": {
+  "fingerabdruck": "2f0fc668024bc077",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cpq__2026-11-04.json",
+  "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "https://viewer.kisters.de/en/": {
+  "fingerabdruck": "35b1fcf1db225591",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en__2026-11-04.json",
+  "firma": "KISTERS 3DViewStation",
+  "region": "EU"
+ },
+ "https://viewer.kisters.de/en/products/3dviewstation-product-family.html": {
+  "fingerabdruck": "0c68cbc538274f7a",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en-products-3dviewstation-product-family-html__2026-11-04.json",
+  "firma": "KISTERS 3DViewStation",
+  "region": "EU"
+ },
+ "https://www.ptc.com/en/products/creo/creo-view": {
+  "fingerabdruck": "e618defe93ccb541",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-en-products-creo-creo-view__2026-11-04.json",
+  "firma": "PTC Creo View",
+  "region": "USA"
+ },
+ "https://www.ptc.com/de/products/creo/creo-view": {
+  "fingerabdruck": "0517763cf4e46e10",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-de-products-creo-creo-view__2026-11-04.json",
+  "firma": "PTC Creo View",
+  "region": "EU"
+ },
+ "https://plm.sw.siemens.com/en-US/teamcenter/": {
+  "fingerabdruck": "200c65cd3f115200",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/siemens-teamcenter-visualization/plm-sw-siemens-com-en-us-teamcenter__2026-11-04.json",
+  "firma": "Siemens Teamcenter Visualization",
+  "region": "EU"
+ },
+ "https://www.3ds.com/3dexperience": {
+  "fingerabdruck": "c07385b83223b55e",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json",
+  "firma": "Dassault 3DEXPERIENCE",
+  "region": "EU"
+ },
+ "https://www.nvidia.com/en-us/omniverse/": {
+  "fingerabdruck": "aaa7696c26de6042",
+  "datum": "2026-11-04",
+  "datei": "schnappschuesse/nvidia-omniverse/www-nvidia-com-en-us-omniverse__2026-11-04.json",
+  "firma": "NVIDIA Omniverse",
+  "region": "USA"
+ }
+}

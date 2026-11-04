@@ -1,5 +1,5 @@
 {
- "erstellt": "2026-11-04T11:48",
+ "erstellt": "2026-11-04T11:59+00:00",
  "modus": "KI (qwen3-30b-a3b-instruct-2507)",
  "firmen": [
   {
@@ -2412,6 +2412,13 @@
    "news": [
     {
      "region": "USA",
+     "titel": "UGRA, Kerr finalize flood warning system agreement - hccommunityjournal.com",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkF1QjhRZHk1SzVKVlhUOHdrU3dxX0J5dHl4Wm9zQ2NIS0tKU0taRENPSVNIWmQ4d2c1amdwc3EtMTVHeVhKcV9HcHZKVVlqVDUwdWpGdUoySEZxUDVGd3UxRDNweGlxaFROUHU2MmUzeVdhOUhqcTJMTGJSalMwTU9wX19wbkFfWkRlZw?oc=5",
+     "quelle": "hccommunityjournal.com",
+     "datum": "2026-09-07"
+    },
+    {
+     "region": "USA",
      "titel": "Museum’s Peanut Butter Floor Honors Artist - NewsForKids.net",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT19jME5KRk1mZE9tYUxFSnRmcGFqaTdMdFVJdjI5TzZxTGJqWlF5RG5GalZ6ZjloTVBXbFF5TjJ6dm03ZXFMTFNIVkxaNGdSNWdIX3Jxb094ZktDbkNoam1JUmsyUHhzcldzU3dXYVRYVzRYcmd5bWFkcDdqVWMxRDQ0NmhUNjdBclN6U0tqdw?oc=5",
      "quelle": "NewsForKids.net",
@@ -3589,6 +3596,55 @@
    "news": [
     {
      "region": "USA",
+     "titel": "Visual Components launches Nvidia-powered FactoryLens for industrial digital twins - Robotics & Automation News",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1J6U3ZXUDdZSWc4ZnRzYklWVXU4YmJDdU1Uc2FXbTRwS3FIcUwxaVYyVEJMU2lIV25xNkdJRnpiUnIyNzJ4NmdTbGtPbmdyTkVJVlNnWnJqcEZKdzNhdVd1QWQxUG9VajEwUldkWWFfX3VLbHpXUElkVG5Mcm5IOWJvM0ZQcFRvelpwV0NVeDVsLXdYTTFFNVp5MmI3N0tqYWY2TC0zN195ekZZVEMwMUNLWnZQZkM0cV82dzFlc2hFRld3bVVSb1FYcWQzTE9Kalp6WVRR?oc=5",
+     "quelle": "Robotics & Automation News",
+     "datum": "2026-09-28"
+    },
+    {
+     "region": "USA",
+     "titel": "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps | NVIDIA Technical Blog - NVIDIA Developer",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUFRdTZRT2ZnS1pKTHVITDNxSm1HU1lQc3VmNDlNZjZONGtJa3BxR2g2SF9QVWJFSFM1NDFVTy1GYWhWVS1uNE9LdnlvNUlEQ3RzdUNlazdleGtOXy1Sclk3ZWtjdk5JZGlhRlZhQTNCVmhWeXhQTmxvOWhhNkF1Q3lpV2lod2dJM3lYaUdhWUxJMkVuNHlrYWJNUHBCUTJRd2tGZA?oc=5",
+     "quelle": "NVIDIA Developer",
+     "datum": "2026-07-20"
+    },
+    {
+     "region": "USA",
+     "titel": "Vertiv announces industry-first converged infrastructure digital twin for NVIDIA Omniverse DSX - Tech Critter",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2VEalV4dF9Ga1N5RGhQQml3MFNUWmhNN0tXVEJNZU5KQUg3bm5vMmktZy1vOWxOc1FkelNYaWdOc1U0Rnp5RG1OcFNZX25kTHlYQ2NBWTQxQ2wwelYwLVQ5d3g2OGdXTnVrWmoyeGRiTm00aU0wUlNzNWlwLW11Yg?oc=5",
+     "quelle": "Tech Critter",
+     "datum": "2026-06-05"
+    },
+    {
+     "region": "USA",
+     "titel": "Micron Teams With MetAI to Build AI-Ready Digital Twins of Chip Fabs on Nvidia Omniverse - finance.biggo.com",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mWDdtV21qOGxBYk13QkVSSlRPOFZ0ZWM2THJhWGhYZnFkR0Y4YUR5MFBUZGh4RFMzWTNhc3FoSVFDUmVySnVEeldRRzJSWHFHcEhCdjZTNjAteDBvYVNxNw?oc=5",
+     "quelle": "finance.biggo.com",
+     "datum": "2026-06-04"
+    },
+    {
+     "region": "USA",
+     "titel": "SK Telecom Builds NVIDIA Omniverse Digital Twin Factory - Telecom Review Asia",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHJBYUhTc2JTZ2F6am1PZW1Cc21QbzNKbm1USFdncTdPVEt3Wmttb3RkOWRHWFF0Wi1YWUNIUWJPYlZCY19wdlN0X0lBWm5iNDJwSnQ2ODJoTDFNak45R0t4NElrSUVHMFhkdGN4b3d1bGVJMUw2M295UkxuWWxqWWJSU3U0Q0gwSkpOR00tV3JudlNxXzhjZ1FrRjZrWUI5Q3lUN0dvM0RqQUg1MEhYVlV4alZtQQ?oc=5",
+     "quelle": "Telecom Review Asia",
+     "datum": "2026-06-03"
+    },
+    {
+     "region": "USA",
+     "titel": "Commonwealth Fusion Systems Accelerates Commercial Fusion With Siemens and NVIDIA, Leveraging AI-Powered Digital Twins - Commonwealth Fusion Systems",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdG1KbEdzVmI0ZUczekExVDlfVHpRQ2p0M3pfYUlBdGZDa21na0NyYS1ueVota1kwNlF5YURGOGJ0V0hEY193Y3RJNGdET2Z6WDdoejRQRVAyUjA2YWt1dlhKMFNTdUhZY1F6SlJEZDl5c1pvZDZKb04zek8xQWl1Wk9CeUliRmYyVzdBV0tfVUVVc2w3Zy1xREZwN2lTOUpFT1RuSGV2NHZpYnF4a0k1YUhYT1NKS1ZDMnNlb19seHFWTnVqb3RqX3l4UWxLSmx6TlZodUQzeW9rT3FtbndmSXBZblN3ZnM?oc=5",
+     "quelle": "Commonwealth Fusion Systems",
+     "datum": "2026-06-01"
+    },
+    {
+     "region": "USA",
+     "titel": "SK Telecom Unveils Nvidia Omniverse-Based Digital Twin for SK hynix Semiconductor Fab - THE ELEC, Korea Electronics Industry Media",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTHdsQUh3RmZEeEFBUXE2cGJqVUdyS3dNVVVVbEZBdWlUQ1VGaVJ3QmpGYlhzRnQ1SzQ2MUxkOFp5X0FXLUlmQnpPWFVwdDNGcDVJRVZIcU00UlZiNXY4X0JoQjI1eWc?oc=5",
+     "quelle": "THE ELEC, Korea Electronics Industry Media",
+     "datum": "2026-06-01"
+    },
+    {
+     "region": "USA",
      "titel": "SK Telecom Advances Semiconductor Fab Digital Twins using NVIDIA Omniverse Libraries – SK telecom newsroom - SK텔레콤 뉴스룸",
      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBodUY3WVAwdmU3Vm56Vk81UUlITHBMRWFmNEZ2QkdtMmFua2JIT3h1bkxmRUs0Y3had1FoZTBlM3JFT3hySV9JdmlB?oc=5",
      "quelle": "SK텔레콤 뉴스룸",
@@ -3596,66 +3652,17 @@
     },
     {
      "region": "USA",
-     "titel": "ABB Genix™ advances industrial digital twins through immersive 3D visualization with NVIDIA Omniverse and Microsoft Azure - ABB",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2RPRS1rVGdDd2g5Vk5BTXJ0SGhSWkFxVldqQVhoM2k2dVVGWGd0U3JDS1JieHNWUVhPWTZudnhBckJ1aDhiUkpqRkpOSlNHMldFaGNDb0dWeW55Z1BpSlVJVDNQN1JheFlBVVFNWlhfWU1vRFZJcFYxWEpocGxET0ZiTFp5N05JQTRsODBzSnJNRkM0X3hoQ0tsWDVmUURDVU5QYWVNVUVGdnZ0ekVrUXVXV0hmU1VuRXdOQUxER1JfdWZJSEhjNEd2TW5EWUJBbVFybXU5YjhxWEtqelBKcnpUS1Uxck9obmVrenZsaW0?oc=5",
-     "quelle": "ABB",
-     "datum": "2026-04-21"
+     "titel": "SK Telecom joins Nvidia as key physical AI partner in Taiwan GTC keynote - Chosunbiz",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hTGM0Z3JuckZBNzVPRjlnV2JyajB5YzdZLVlaVG43aFdtSUpRWHBlTDlDUE5zZC1tQnB3NjNhTkhwTzBENWllODJfNXp0RFZqZkFPNGtPbTNJR1JfanA1VE9pc1E2dkJSd1JjcURhdG9NVU1aUm04LVJB0gGOAUFVX3lxTFBVOW43UWliaVVFWjFxMDd1eGFlMzUycW15OHJYNThfTUR4YVQxZllRZkRESVBUSWNXdWJWS3daM2ZoVG1IcHMteFNIWXB5SjZCbl9YSUtwU0xSaTZUZ19JQVhsOTVCWjdvMlkxSE9pa0RIdHlSbWVmRjUxZVdUdW5MSWo0azNCVmltUG1WUUE?oc=5",
+     "quelle": "Chosunbiz",
+     "datum": "2026-06-01"
     },
     {
      "region": "USA",
-     "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - NVIDIA Developer",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEF3MXdOVW53NFhnVHFWUy12U01oVV9Vd0RrT3BCRXE1bnVTeWtSQk5jVjhOVnJfbExCWnh5TWxrMVpsU19Hc3hTVG14cmgtVjVya2V0TWc0eTNoZVQyUEtzRm00UVR6Zlctak1HYU9Fd3kwcjFPS1V6bEhJTlI3dlNRTnhtdG44eGxsWmhUQko5LVp2Z2V1enBWMEg5TFR1cDhvOTNwdERDOEotZnZPQmx5TFQ0blh5UUxuYg?oc=5",
-     "quelle": "NVIDIA Developer",
-     "datum": "2026-04-08"
-    },
-    {
-     "region": "EU",
-     "titel": "Aveva und Nvidia entwickeln Digital Twin für KI-Fabriken - Produktion Online",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVTZUVmWm9Wallwa1ZUOTYwUmJyVWpYdi1qTjAtYnY4T0JwM2RTaDEwRDJOZHpPX1N0SGlZZ0R4OTdKUGV3S2Zka0pMQk5mMS0wcjBnel9LYjBkU1VhMTJUaTBzYjlLT2k3N1ZRU0RSZ252Tm1qSW5HeGxQQTJjbmxKTy1wZHNFQ1JNMkg3MnF6Y0xFMEZ3NEg1ejBEaDg?oc=5",
-     "quelle": "Produktion Online",
-     "datum": "2026-03-18"
-    },
-    {
-     "region": "USA",
-     "titel": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support - NVIDIA Newsroom",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkdlMGNINWd6cnBFQjJybGNPMy03QXpQX3I0cWNEVXdKWWVyN3ZyNWhGVkVqQVRvTkpGdDU5SmZuVjFmLVlBb3JDV01sN1BhRWY3MFNFaGV5d04tc3ZHcmNYRWNfU28tRVNfT3EyVjIxUUcwLUczUHZSSEdwcTdOcllJQjN0eV9DQWxHcUZ2Mmx3TTJpTGxvck5udnpHZHpVYlRqbHRfcTRxajAzbHRjUWFhQmhOY3JhNnA3el85dU9iWmVvZThQeV83VDlwWVo4S1Q1aWJMRTUxMmpzZUQ1OTN3R205bXpaTzRVX0lCQnBodGs?oc=5",
+     "titel": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI - NVIDIA Newsroom",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXh6M3BwdlF3a3VWWEhQSUdhQTR5WFk4UGJINUFwa0ZCQW0ybUljYWoxbzNETmViNGJpS2llXzV6R01iemV0QndtSzIzMmlwMXlhOTJmZUxrSGxWUlhGb0ZSRWJlcVhaMURQMHhzRjRIYzhnUl9OYzRaaWZOSjNPOVA1b25Gcm9PNXBCcnI3bG9ucThQRXBzUzExX3NWQ1VURjZxNXhLSWdMRXFhNUV2ajZoZnRieVc5dUQ3ZXBB?oc=5",
      "quelle": "NVIDIA Newsroom",
-     "datum": "2026-03-16"
-    },
-    {
-     "region": "USA",
-     "titel": "Assembling Industrial Digital Twins with OpenUSD and NVIDIA Omniverse Libraries - NVIDIA",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZdnVzX29xOHFqSG90R3p1bjZIekxOZnVRaW5feUtTUTFnVmh2TE8xSVpGTS1CN0NQZ1NDdGlFb1pJT1BtRWlkZjhpMVZrUk83Ti0yaGNHWW0wMG5MUC1ZNmR1b2xDb2JmQ3hvdzZ0Y18?oc=5",
-     "quelle": "NVIDIA",
-     "datum": "2026-03-15"
-    },
-    {
-     "region": "USA",
-     "titel": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design - NVIDIA Blog",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HN21QWnFUeWNkMHhRVEoyd05hUmpIdklTQUtURmgwVWVKaFpiV3Q5U0R3VHhPUy0xZnBteXNMVXdYeGRLa05wNGJ6WjZnVnBRbHdPM1FwXzZna1BUTl9OVFlWZHh1aXBWd0EzcldFZjd3ZjZScDg0?oc=5",
-     "quelle": "NVIDIA Blog",
-     "datum": "2026-03-12"
-    },
-    {
-     "region": "USA",
-     "titel": "Deloitte unveils physical AI solutions built with NVIDIA Omniverse Libraries to help accelerate industrial transformation - Deloitte",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONzl6NkNxczBnQjNEQ0pvUFYzeUZBbjdieDZOQUNlRjZxVHh3WWhId3RHR0kwSHNFYU8xX1lxR2llNm5TUy1JVE1DeEpWVnFWY0FEUHN2VjJNODM4NHI0c0NqS0pzWk05TWw4UGo0cjhTX0hGa1FhU3Q1RUozbmtCSjZNUDdLTUU5TWs5SWwwZWVESUkwdmJHeDFLN2N5TkFvcVlnYWFRQmhldVFtaTFmaA?oc=5",
-     "quelle": "Deloitte",
-     "datum": "2026-03-02"
-    },
-    {
-     "region": "EU",
-     "titel": "Dassault Systèmes und NVIDIA schließen Partnerschaft zum Aufbau einer industriellen KI-Plattform für virtuelle Zwillinge - Dassault Systèmes",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWpWMDI2SUg2SU5hZzdReWhIYVBfYTZRcUMycnFIWVB6bDk1RjVmNE9fRXp6Rk8tTVl2aU1mOTlxN0loOWVoY0hocTJiRGpEaGVlbVI4c1BtZDd4NWJQZ3FSZ2pZaS1wRDBEX3JCMVJtVFpZbVBJSlg0cTUyVlhnSFhOMnJfLWtTcXFsc2ZjWVlEcHFtNGVFTWZpTmpHUEJWdnFJYnk3MkZ2b1pESzhEOWxpek1wMzB1am5CaEttLVZWWU53TFU0Vm9zajB6WW5a?oc=5",
-     "quelle": "Dassault Systèmes",
-     "datum": "2026-02-11"
-    },
-    {
-     "region": "EU",
-     "titel": "Siemens erweckt das industrielle Metaversum mit Digital Twin Composer zum Leben - Siemens Newsroom",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oRHhYa0NycXlIaWxmYy1ObHluR1BIVjMxcEh6dU9JNHduYlBiSGRMbVpUVDc3endKSWM5YmdudmZJZ183UVFFTE04a0hoRjUyeWxURzNqVkkxZG1ZLWNKb2trQmkwX1BOYWhLRjR4WQ?oc=5",
-     "quelle": "Siemens Newsroom",
-     "datum": "2026-01-06"
+     "datum": "2026-05-31"
     }
    ]
   }
@@ -3675,231 +3682,6 @@
   ]
  },
  "aenderungen": [
-  {
-   "firma": "NVIDIA Omniverse",
-   "url": "https://www.nvidia.com/en-us/omniverse/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/nvidia-omniverse/www-nvidia-com-en-us-omniverse__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Dassault 3DEXPERIENCE",
-   "url": "https://www.3ds.com/3dexperience",
-   "art": "geändert",
-   "vorher": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Siemens Teamcenter Visualization",
-   "url": "https://plm.sw.siemens.com/en-US/teamcenter/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/siemens-teamcenter-visualization/plm-sw-siemens-com-en-us-teamcenter__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "PTC Creo View",
-   "url": "https://www.ptc.com/de/products/creo/creo-view",
-   "art": "geändert",
-   "vorher": "schnappschuesse/ptc-creo-view/www-ptc-com-de-products-creo-creo-view__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "PTC Creo View",
-   "url": "https://www.ptc.com/en/products/creo/creo-view",
-   "art": "geändert",
-   "vorher": "schnappschuesse/ptc-creo-view/www-ptc-com-en-products-creo-creo-view__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "KISTERS 3DViewStation",
-   "url": "https://viewer.kisters.de/en/products/3dviewstation-product-family.html",
-   "art": "geändert",
-   "vorher": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en-products-3dviewstation-product-family-html__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "KISTERS 3DViewStation",
-   "url": "https://viewer.kisters.de/en/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/cpq/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cpq__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/cam/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries-cam__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/enterprise/product-lifecycle-management/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-enterprise-product-lifecycle-management__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/industries/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-industries__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/developers/solutions/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-developers-solutions__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/tech-soft-3d/www-techsoft3d-com__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/products/vertex-connect",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com-products-vertex-connect__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/factory-floor",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-factory-floor__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/supplier-rfq",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-supplier-rfq__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/service",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com-solutions-service__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/products",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com-products__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/vertex-software/vertex3d-com__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/product/instant3dhub-lkd",
-   "art": "geändert",
-   "vorher": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub-lkd__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/product/instant3dhub",
-   "art": "geändert",
-   "vorher": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/instant-visualization",
-   "art": "geändert",
-   "vorher": "schnappschuesse/threedy/www-threedy-io-instant-visualization__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/3d-visualization",
-   "art": "geändert",
-   "vorher": "schnappschuesse/threedy/www-threedy-io-3d-visualization__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Threedy",
-   "url": "https://threedy.io/",
-   "art": "geändert",
-   "vorher": "schnappschuesse/threedy/threedy-io__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
-  {
-   "firma": "Dassault 3DEXPERIENCE",
-   "url": "https://www.3ds.com/3dexperience",
-   "art": "geändert",
-   "vorher": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json",
-   "neue_ueberschriften": [],
-   "entfernte_ueberschriften": [],
-   "datum": "2026-11-04"
-  },
   {
    "firma": "NVIDIA Omniverse",
    "url": "https://www.nvidia.com/en-us/omniverse/",
@@ -4089,5 +3871,5 @@
   "newsletter",
   "sonstiges"
  ],
- "zusammenfassung": "## Was sich geändert hat  \nEs gab keine signifikanten Änderungen in den Themen, Keywords oder Botschaften bei Threedy oder den Wettbewerbern seit dem letzten Lauf. Alle Firmen haben ihre Seiten aktualisiert, jedoch ohne neue Inhalte oder strategische Verschiebungen in den Schwerpunkten. Die Neuerfassung von Seiten (z. B. Vertex Software, Tech Soft 3D, Dassault 3DEXPERIENCE) deutet auf eine technische Aktualisierung hin, nicht auf eine Änderung der Marktbotschaft.\n\n## Muster im Markt  \nDer Markt ist klar segmentiert:  \n- **USA**: Fokus auf PLM-Governance (Vertex), SDK-Lösungen (Tech Soft 3D) und industrielle Digital Twins (NVIDIA Omniverse).  \n- **EU**: Stärke bei Desktop- und Web-Viewern (KISTERS, Siemens, Dassault), mit geringerem Fokus auf agentechnologische Innovation.  \n- **Threedy** ist die einzige Plattform mit hohem Fokus auf *browserbasiertes*, *streaming-basiertes* 3D-Visualisieren ohne CAD-Lizenzen – ein einzigartiger USP.\n\n## Unterschiede EU und USA  \nIn den USA dominieren Lösungen mit starkem Fokus auf **PLM-Integration**, **Sicherheit** und **SDKs** (Vertex, Tech Soft 3D). In der EU steht der **Desktop- und Web-Viewer** im Vordergrund (KISTERS, Siemens, Dassault), während agentechnologische Ansätze (KI & Agenten) nur bei Dassault und NVIDIA prominent sind.\n\n## Chancen für Threedy  \n**Lücken bei Keywords und Botschaften:**  \n- **Keywords**: Threedy fehlt im Wettbewerb bei Begriffen wie *“PLM governance”*, *“secure 3D access”*, *“SDK for 3D”* – diese können gezielt in Content und SEO aufgenommen werden.  \n- **Botschaften**: Threedy kann sich stärker auf **„keine CAD-Lizenzen“** und **„direkter Zugriff aus dem PLM“** konzentrieren – besonders gegenüber Vertex und Tech Soft 3D, die diese Aspekte nicht betonen.  \n- **Chancen**: Positionierung als **einfache, sichere Alternative zu SDKs und PLM-Add-ons** – ideal für nicht-technische Teams."
+ "zusammenfassung": "## What changed  \nThis is the first capture of the pages (24 pages, 8 companies), so there is no comparison with a previous run yet.\n\n## Market patterns  \nThe market is dominated by PLM-integrated 3D visualization platforms emphasizing secure, real-time access to CAD data across teams. Key themes include PLM governance, streaming large assemblies, multi-CAD support, and collaboration. Vertex Software and Tech Soft 3D focus on enterprise integration and developer enablement, while Dassault and NVIDIA emphasize AI-driven digital twins and agentic workflows. Threedy stands out with a strong focus on instant, browser-based access without exports or CAD licenses.\n\n## EU vs. USA  \nEU players (Threedy, KISTERS, Siemens, Dassault) emphasize seamless PLM integration, data security, and enterprise scalability. USA-based firms (Vertex, Tech Soft 3D, PTC, NVIDIA) highlight broader application ecosystems, developer SDKs, and use cases in manufacturing, service, and robotics. NVIDIA and Dassault lead in AI and agentic capabilities, while Vertex uniquely targets supplier RFQ and field service.\n\n## Opportunities for Threedy  \nThreedy can own the messaging around **\"instant 3D access without exports or CAD licenses\"**—a unique differentiator not explicitly claimed by competitors. Competitors like Vertex and Tech Soft 3D mention \"no exports\" but frame it as a governance benefit, not a workflow enabler. Threedy should amplify **\"live CAD data in any browser\"** and **\"no CAD seat required\"** in keywords and CTAs. Additionally, Threedy can own **\"Agentic 3D\"** as a keyword, as Dassault and NVIDIA use \"AI agents\" but not the term \"Agentic 3D,\" which Threedy can claim as a proprietary concept."
 }
