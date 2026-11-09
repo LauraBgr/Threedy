@@ -1,0 +1,23 @@
+{
+ "firma": "Threedy",
+ "region": "EU",
+ "url": "https://www.threedy.io/pricing",
+ "datum": "2026-11-09",
+ "fingerabdruck": "f84a0aa884549bdc",
+ "titel": "Threedy | instant3Dhub Pricing and Licensing Overview",
+ "beschreibung": "Discover instant3Dhub licensing packages for 3D streaming and collaboration. Usage-based pricing, no hidden costs. Sign up to see prices.",
+ "sprache": "en",
+ "ueberschriften": [
+  "License Overview",
+  "Find the right package for you",
+  "Frequently Asked Questions"
+ ],
+ "cta_kandidaten": [
+  "Contact Us",
+  "Book a Demo Book a Demo",
+  "Sign Up to See Prices",
+  "Sign Up",
+  "contact@threedy.io"
+ ],
+ "text": "License Overview No hidden costs for idle-time capabilities data-formats scaling updates Sign Up to See Prices Licensing depends on package, usage profile, and deployment scope. Sign Up to See Prices Sign Up Choose your plan Visualization Capitalize on your data in 3D Sign Up to See Prices Sign Up All licenses include: All capabilities unlocked All data formats Unlimited users SDK & API access Innovations & Updates Technical support Best for Teams starting with 3D data access Service Level Starter-friendly Capabilities Unlimited Data formats All API Access Included System Scope Single Service Level Standard Collaboration Work together efficiently in real time Sign Up to See Prices Sign Up Best for Collaborating across functions and boundaries Scaling tiers Balanced growth Capabilities Unlimited Data formats All API Access Included System Scope Shared Service Level Standard+ Enterprise Discover a new world of 3D data Sign Up to See Prices Sign Up Best for Cross-organizational use of large, globally distributed teams Scaling tiers Enterprise-ready Capabilities Unlimited Data formats All API Access Included System Scope Multiple Service Level Premium Find the right package for you There are three major decision factors: Usage Volume Licensing scales with usage intensity (no idle-time charges). Scope of Use Licensing reflects the extent of use of the system's capabilities. Service Level Choose the service level that matches operational needs. Frequently Asked Questions Explore common questions about licensing, packages, and commercial scope. How do I choose the right package? Choosing the right package depends on your use case. We’ll help you select the most reasonable option. If you mainly need 3D real-time streaming and visualization for a specific use case, “Visualization” is the best fit. If your focus is collaboration across teams, departments, or organizations with more users doing more in the system, “Collaboration” typically offers the best cost/benefit. “Enterprise” is designed for larger rollouts with hundreds or thousands of distributed users, multiple system instances, and several use cases across different user groups. When in doubt, start small with “Visualization” and scale up according to your growth plans. You can switch to a higher-value package at any time. What determines license scope? License scope is usage-based for easy scaling: we charge the token consumption of API calls measured in 5-minute slices. Higher-value capabilities may use more tokens in lower-tier packages. Conversely, this also means that you can use all the system's capabilities, but you don't have to pay for them in the lower tier packages if you don't need them. Can we upgrade packages later? Yes. Anytime. We’ll credit your remaining value and you can immediately benefit from the upgrade to support growth, expand your use cases, make greater use of higher-value capabilities, and move to an elevated service level. How do we receive a detailed quote? Contact us to schedule an initial meeting so we can assess your situation. Please be prepared to discuss your use case and share a usage projection (e.g., number of users and expected hours/day) so we can provide an indicative quote. Is it also possible to purchase the license through my MACC Agreement? Yes, of course. If you have a Microsoft Azure Consumption Commitment (MACC), we can support purchasing the license via the Microsoft commercial marketplace so it can count toward your MACC. Simply transact it as an Azure benefit-eligible offer through the Azure portal using an Azure subscription tied to your agreement (we’ll guide you through the setup if needed)."
+}

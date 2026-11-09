@@ -1,7 +1,57 @@
 {
  "firma": "Tech Soft 3D",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-09",
  "artikel": [
+  {
+   "titel": "Unlocking the Power of CAD Data in AI",
+   "link": "https://www.techsoft3d.com/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-09",
+   "auszug": "Why is CAD data so hard to use in AI? Learn the challenges of training machine learning models on CAD, and how HOOPS AI helps developers close the gap.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "3 Wege, wie Ihre CAD-Daten wertvoller sind, als Sie dachten",
+   "link": "https://www.techsoft3d.com/de/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-09",
+   "auszug": "Engineering-Daten werden immer wertvoller. Basierend auf einem Webinar mit VNTANA sind hier 3 Wege, wie die Engineering-Daten, die Sie bereits haben, mehr wert sein können, als Sie erwarten.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "HOOPS Envision Ajoute une Visualisation des Particules",
+   "link": "https://www.techsoft3d.com/fr/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-09",
+   "auszug": "La nouvelle visualisation des particules de HOOPS Envision lit et rend les données de simulation de particules discrètes DEM, SPH et autres sur bureau, web et Python.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "HOOPS Envision Añade Visualización de Partículas",
+   "link": "https://www.techsoft3d.com/es/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-09",
+   "auszug": "La nueva visualización de partículas de HOOPS Envision lee y renderiza datos de simulación de partículas discretas, como DEM y SPH, en el escritorio, la web y Python.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "HOOPS Envision に粒子可視化が追加されました",
+   "link": "https://www.techsoft3d.com/ja-jp/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-09",
+   "auszug": "HOOPS Envisionの新しい粒子可視化は、デスクトップ、ウェブ、およびPython全体でDEM、SPH、およびその他の個別粒子シミュレーションデータを読み取り、レンダリングします。",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
   {
    "titel": "How to Convert CAD to HTML with SpinFire Insight",
    "link": "https://www.techsoft3d.com/resources/blog/convert-cad-to-html/",
@@ -165,12 +215,12 @@
   },
   {
    "titel": "Oasys LS-DYNA Environment Uses Tech Soft 3D's HOOPS Exchange to Expand CAD Import Support in Oasys PRIMER 23",
-   "link": "https://www.morningstar.com/news/business-wire/20260701764524/oasys-ls-dyna-environment-uses-tech-soft-3ds-hoops-exchange-to-expand-cad-import-support-in-oasys-primer-23",
-   "quelle": "Morningstar%2c Inc.",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdnhlbHFkYWZQWmhyUXFPTVZNTVBaeU1wU0NMeV9qVFh6MmVNNkMzNmExcWVTanpMOXBGS0kwNGIyTWQxQ0Y5OElETGFadXV5aHE0NmZtR2xzejlnZm5iNHU4M2Z1UUNTWHpHOWFVT2xUZFZIMS0ta1VDRzZZeVVtVFU1MzZ5M2pIQjh2dnBqVzJIQWVBeTVEX1VFaVpOb1VhblZ0Z0xFNlpnajVRRTdDMms1ak5SWk01bmtlR0Rab09pNjg4T0g3aFBhNTYyblIzLU1DaGVYSEMyaGdtUXhPaThHLTlUSEhlcDNLUFNGVXZEcG5JalVV?oc=5",
+   "quelle": "Business Wire",
    "datum": "2026-07-01",
-   "auszug": "Tech Soft 3D, the leading provider of engineering software development toolkits and industrial applications for CAD and CAE data ...",
-   "region": "EU",
-   "herkunft": "Bing News",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
    "suche": "\"Tech Soft 3D\"",
    "erstmals": "2026-11-04"
   },
@@ -222,6 +272,17 @@
    "herkunft": "Google News",
    "suche": "\"Tech Soft 3D\"",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Tech Soft 3D Launches HOOPS AI Bringing Machine Learning into CAD Applications",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2oycWJKZ3l4djlidldheU1TVU5OWElodnZMNXhJYl84Q1dHMEl0V1pfYWlSUi12RUJtQ000YS1oV3d2ZE1oaHZDOWRjd1VSQU55N05ydS1pdjAzNG11WlhfT1Z2UzZ1a1BCZzBBSW9XZHV3N0lNSUs1UnAxVFluUEJpTEdoNzJ1TWZYelN1OEpzTW9yelVQdV94VFc4RWZPelhNUg?oc=5",
+   "quelle": "Metrology and Quality News",
+   "datum": "2025-11-12",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Tech Soft 3D\"",
+   "erstmals": "2026-11-09"
   },
   {
    "region": "USA",

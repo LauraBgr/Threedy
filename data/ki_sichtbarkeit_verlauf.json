@@ -11,5 +11,22 @@
    "Tech Soft 3D": 0.0,
    "KISTERS 3DViewStation": 0.0
   }
+ },
+ {
+  "datum": "2026-11-09",
+  "anteile": {
+   "Dassault 3DEXPERIENCE": 0.86,
+   "Siemens Teamcenter Visualization": 0.71,
+   "PTC Creo View": 0.71,
+   "NVIDIA Omniverse": 0.29,
+   "Threedy": 0.0,
+   "Vertex Software": 0.0,
+   "Tech Soft 3D": 0.0,
+   "KISTERS 3DViewStation": 0.0,
+   "AVEVA": 0.0,
+   "Schneider Electric": 0.0,
+   "Synera": 0.0,
+   "Visual Components": 0.0
+  }
  }
 ]

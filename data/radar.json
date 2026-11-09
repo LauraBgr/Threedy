@@ -36,7 +36,7 @@
   "zuletzt": "2026-11-04",
   "laeufe": 1,
   "status": "aufgenommen",
-  "erwaehnungen": 3,
+  "erwaehnungen": 9,
   "website": ""
  },
  "visualcomponents": {
@@ -69,7 +69,7 @@
   "zuletzt": "2026-11-04",
   "laeufe": 1,
   "status": "aufgenommen",
-  "erwaehnungen": 2,
+  "erwaehnungen": 6,
   "website": ""
  },
  "tripoai": {
@@ -77,13 +77,13 @@
   "art": "wettbewerber",
   "region": "USA",
   "gefahr": 4,
-  "produkt": "Tripo Agentic Canvas – AI agent for 3D workflow execution",
-  "begruendung": "Tripo AI's Agentic Canvas enables AI-driven 3D workflow automation, which aligns with Threedy's 'Agentic 3D' vision, particularly in automating design, review, and configuration tasks using AI agents on 3D data.",
+  "produkt": "Tripo Agentic Canvas",
+  "begruendung": "Tripo AI's Agentic Canvas enables AI agents to execute 3D workflows, representing a direct evolution toward agentic 3D content creation and manipulation, which could integrate with or compete against Threedy's AI-driven 3D workflows.",
   "schlagwoerter": [
-   "Agentic Canvas",
-   "AI agent",
-   "3D workflows",
-   "node-based"
+   "agentic AI",
+   "AI 3D workflows",
+   "node-based",
+   "3D creation"
   ],
   "quellen": [
    {
@@ -94,8 +94,8 @@
    }
   ],
   "erstmals": "2026-11-04",
-  "zuletzt": "2026-11-04",
-  "laeufe": 1,
+  "zuletzt": "2026-11-09",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -170,13 +170,14 @@
   "name": "RELEX Solutions",
   "art": "wettbewerber",
   "region": "USA",
-  "gefahr": 4,
-  "produkt": "Agentic AI platform for orchestrating the value chain",
-  "begruendung": "RELEX’s agentic AI platform aims to connect systems across the value chain, which could include 3D data workflows and digital twin integration, making it a potential competitor in industrial AI and digital twin orchestration.",
+  "gefahr": 3,
+  "produkt": "Agentic AI platform for value chain",
+  "begruendung": "RELEX’s agentic AI platform aims to orchestrate the entire value chain, indicating a strategic move toward AI-driven industrial operations that could incorporate 3D data and visualization, posing a moderate threat.",
   "schlagwoerter": [
-   "agentic AI platform",
-   "orchestrate the value chain",
-   "Open platform"
+   "agentic AI",
+   "value chain",
+   "orchestration",
+   "industrial AI"
   ],
   "quellen": [
    {
@@ -187,8 +188,8 @@
    }
   ],
   "erstmals": "2026-11-04",
-  "zuletzt": "2026-11-04",
-  "laeufe": 1,
+  "zuletzt": "2026-11-09",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -250,7 +251,7 @@
   "zuletzt": "2026-11-04",
   "laeufe": 1,
   "status": "aufgenommen",
-  "erwaehnungen": 6,
+  "erwaehnungen": 43,
   "website": "http://www.schneider-electric-dms.com"
  },
  "nvidia": {
@@ -303,5 +304,214 @@
   "laeufe": 1,
   "status": "beobachtet",
   "erwaehnungen": 34
+ },
+ "beewatec": {
+  "name": "BeeWaTec",
+  "art": "wettbewerber",
+  "region": "EU",
+  "gefahr": 3,
+  "produkt": "3D-Scan and Digital Twin for factory layout",
+  "begruendung": "BeeWaTec uses 3D scanning and digital twins for factory layout and logistics optimization, indicating a growing trend in industrial digital twins that could expand into web-based 3D visualization, posing a moderate competitive threat.",
+  "schlagwoerter": [
+   "3D-Scan",
+   "digital twin",
+   "factory layout",
+   "material flow"
+  ],
+  "quellen": [
+   {
+    "titel": "3D-Scan und Digital Twin: BeeWaTec digitalisiert Fabriken für eine präzisere Layoutplanung und optimierte Materialflüsse",
+    "link": "https://www.pressebox.de/pressemitteilung/beewatec-gmbh/3d-scan-und-digital-twin-beewatec-digitalisiert-fabriken-fr-eine-przisere-layoutplanung-und-optimierte-materialflsse/boxid/1318243",
+    "datum": "2026-11-05",
+    "quelle": "PresseBox"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "metai": {
+  "name": "MetAI Technology",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 3,
+  "produkt": "Digital twins for chipmakers and data centers",
+  "begruendung": "MetAI Technology uses digital twins to prevent costly construction mistakes in chip manufacturing and data centers, indicating a strong focus on high-value industrial 3D visualization and AI integration, relevant to Threedy's digital twin use cases.",
+  "schlagwoerter": [
+   "digital twins",
+   "chipmakers",
+   "data center builders",
+   "AI"
+  ],
+  "quellen": [
+   {
+    "titel": "This Nvidia-Backed AI Startup Is Helping Chip Giants Save Time And Money",
+    "link": "https://www.forbes.com/sites/zinnialee/2026/11/05/this-nvidia-backed-ai-startup-is-helping-chip-giants-save-time-and-money/",
+    "datum": "2026-11-05",
+    "quelle": "Forbes"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "quantiphi": {
+  "name": "Quantiphi",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 3,
+  "produkt": "Agentic AI Services for value chain orchestration",
+  "begruendung": "Quantiphi is recognized as a leader in agentic AI services for orchestrating industrial value chains, suggesting a platform-level capability that could integrate with or compete against Threedy’s agentic 3D workflows.",
+  "schlagwoerter": [
+   "agentic AI",
+   "value chain",
+   "AI services",
+   "industrial AI"
+  ],
+  "quellen": [
+   {
+    "titel": "Quantiphi Named a Leader in Agentic AI Services in ISG Provider Lens® 2026",
+    "link": "https://finance.yahoo.com/technology/ai/articles/quantiphi-named-leader-agentic-ai-140200084.html",
+    "datum": "2026-11-04",
+    "quelle": "Yahoo Finance"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "genpact": {
+  "name": "Genpact",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 3,
+  "produkt": "Agentic AI for manufacturing",
+  "begruendung": "Genpact is exploring agentic AI to build future factories, indicating a strategic focus on AI-driven industrial transformation that may include 3D visualization and digital twin integration.",
+  "schlagwoerter": [
+   "agentic AI",
+   "manufacturing",
+   "factories of the future"
+  ],
+  "quellen": [
+   {
+    "titel": "Genpact: Can Agentic AI Usher in a New Era of Manufacturing?",
+    "link": "https://technologymagazine.com/interviews/genpact-can-agentic-ai-usher-in-a-new-era-of-manufacturing",
+    "datum": "2026-10-28",
+    "quelle": "Technology Magazine"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "tcs": {
+  "name": "TCS",
+  "art": "partner",
+  "region": "USA",
+  "gefahr": 2,
+  "produkt": "Physical AI for adaptive robotics",
+  "begruendung": "TCS is exploring physical AI with NVIDIA Omniverse, indicating collaboration in industrial AI and digital twin environments, but not a direct competitor to Threedy’s 3D visualization platform.",
+  "schlagwoerter": [
+   "Physical AI",
+   "adaptive robotics",
+   "NVIDIA Omniverse"
+  ],
+  "quellen": [
+   {
+    "titel": "TCS and Volvo explore Physical AI for adaptive industrial robotics with NVIDIA Omniverse Libraries",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMk83eTFPT01pYnZHaDVZTlVneWk3OEhmQnZBNEdSSDNKdWppRS1TLU1wNUhxdWMzb1BRYzBHU2F0ekFleDlaYW1ySTNKTmFqbEp0d3V3dHVSMzBNOXVuM2RIQlBrdTg2eXM5X1N1ZXN1Rjdva0ZnUjk4MFFDa0RiemxaOWdaTGY4RjhDOHN6SGlGbWtJbDdr?oc=5",
+    "datum": "2026-10-28",
+    "quelle": "Tata Consultancy Services"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "nttdata": {
+  "name": "NTT DATA",
+  "art": "partner",
+  "region": "EU",
+  "gefahr": 2,
+  "produkt": "5G-powered robot control via Omniverse",
+  "begruendung": "NTT DATA uses Omniverse to control robots via 5G, showing integration with industrial digital twin platforms, but not a direct threat to Threedy’s core 3D visualization offering.",
+  "schlagwoerter": [
+   "5G",
+   "robot control",
+   "NVIDIA Omniverse"
+  ],
+  "quellen": [
+   {
+    "titel": "Smart-Factory-Meilenstein: NTT DATA steuert Roboterarm herstellerunabhängig via 5G aus NVIDIA Omniverse",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY01TcVZmeFVLb1BVZFBfWGJxWkJMSWNDMmxJMURnVkwxeHYtU3JtUENOWVo3dnhtRWtvLWRacWtuVnYxN2VMd2p1Yko2anpuanhpS1BmZklrQ3F2eXN4MjFtQXYyNEIxSnV1UFNZb2NyeUFoZzVkRTJiYWwza3NpUC14LTQyNHR4LTd5MVZKUTZreXZQaWFVWExkeTBqVzVJMVRfUkNzLVU3ZW9wTWc2MWJsX3JWdnU0?oc=5",
+    "datum": "2026-10-19",
+    "quelle": "NTT Data"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "lesol": {
+  "name": "LeSol Group",
+  "art": "kunde",
+  "region": "USA",
+  "gefahr": 1,
+  "produkt": "EV BMS production",
+  "begruendung": "LeSol Group is a partner in EV battery production, indicating a customer use case for industrial software but no direct overlap with Threedy’s 3D visualization or AI capabilities.",
+  "schlagwoerter": [
+   "EV BMS",
+   "Pengpai Energy"
+  ],
+  "quellen": [
+   {
+    "titel": "LeSol Group Partners with Pengpai Energy to Scale EV BMS Production",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmJyNkpqN1hTVDhQX2g4cDh1Y3IxVGd1RGJtRm5STFZZLV9ZdlczakdnTi1jbkxjNFdQSGhReEk1bVpURFZFQ0JYYjR0d1FfSWxjVWJucmRabEpycVU2XzV5aEFySjF2VHpPNTRDR1gza3pCdVYzbmNnY2ZxUHFmRWp4QkYyYVlwY2V4RnRodTQyZ2k2RHB2OTZvbWY4QUxtY21mNThUNnVUT2J3OVRFZmo5Zk5sRDE4SzZ3aW1uSlRLVHc2SV9FRDVYZHR0YXA1OUVCUXdwVUNhdUVBTFI1NUUtbXpGQXhzSEJQZ2pnRQ?oc=5",
+    "datum": "2026-10-13",
+    "quelle": "IT Voice Media"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "perigus": {
+  "name": "Perigus",
+  "art": "kunde",
+  "region": "USA",
+  "gefahr": 1,
+  "produkt": "wind industry",
+  "begruendung": "Perigus is a player in the wind energy sector, mentioned in the context of Synera’s partnerships, but not a direct competitor or threat to Threedy’s 3D visualization platform.",
+  "schlagwoerter": [
+   "wind industry",
+   "Synera"
+  ],
+  "quellen": [
+   {
+    "titel": "Perigus, Synera and Clearway Energy top this week's wind industry moves",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFdicGtkTGpjd2I2V2NUMm01aWU5Z3FHeFdIdGFVb1pfT1VmT2o1dTE4OGZDZ0lLLThRTk5EbjZqaEY1R2pDSFJPa3A4MGNTLW9ndWJpOVhKUkxBVkVPandtUEpDc0NNZTJMMVFjNS13RkF2UHd4STZReHVNMW1XZ2RCQ0FkUnd0dUc2M3pnVmV2VXBBd0IzRmxQaU9hYlJBWEduVHZEMV9kTkN0aGlVcm9wX1lhLWtN?oc=5",
+    "datum": "2026-09-11",
+    "quelle": "Recharge News"
+   }
+  ],
+  "erstmals": "2026-11-09",
+  "zuletzt": "2026-11-09",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
  }
 }

@@ -1,6 +1,6 @@
 {
  "firma": "NVIDIA Omniverse",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-09",
  "artikel": [
   {
    "titel": "TCS and Volvo explore Physical AI for adaptive industrial robotics with NVIDIA Omniverse Libraries",
@@ -217,6 +217,17 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Vertiv Introduces First Converged Physical Infrastructure Digital Twin for NVIDIA Omniverse DSX",
+   "link": "https://www.aol.com/articles/vertiv-introduces-first-converged-physical-161600000.html",
+   "quelle": "AOL",
+   "datum": "2026-06-01",
+   "auszug": "Model-based digital twin capability of Vertiv™ SmartRun helps accelerate AI factory design, simulation, and deployment workflows COLUMBUS, Ohio, June 1, 2026 /PRNewswire/ -- Vertiv (NYSE: VRT), a ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaXh6M3BwdlF3a3VWWEhQSUdhQTR5WFk4UGJINUFwa0ZCQW0ybUljYWoxbzNETmViNGJpS2llXzV6R01iemV0QndtSzIzMmlwMXlhOTJmZUxrSGxWUlhGb0ZSRWJlcVhaMURQMHhzRjRIYzhnUl9OYzRaaWZOSjNPOVA1b25Gcm9PNXBCcnI3bG9ucThQRXBzUzExX3NWQ1VURjZxNXhLSWdMRXFhNUV2ajZoZnRieVc5dUQ3ZXBB?oc=5",
    "quelle": "NVIDIA Newsroom",
@@ -228,12 +239,37 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GRGZsRFU1WjRrc25hT0pSTkJxel9lcHhiRV9KZFhpd3FRcm96c2taR0drd3pxV0ZzZlJMaXdvMlpMWEZ4enlWTldfbGhRNzA2R2JiZkNKRlJDbzB3WVBMeDh0aDlJS3hUQnFRbnBB?oc=5",
+   "quelle": "NVIDIA Blog",
+   "datum": "2026-04-28",
+   "auszug": "",
    "region": "USA",
-   "titel": "ABB Genix™ advances industrial digital twins through immersive 3D visualization with NVIDIA Omniverse and Microsoft Azure - ABB",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" manufacturing",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "ABB Genix™ advances industrial digital twins through immersive 3D visualization with NVIDIA Omniverse and Microsoft Azure",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX2RPRS1rVGdDd2g5Vk5BTXJ0SGhSWkFxVldqQVhoM2k2dVVGWGd0U3JDS1JieHNWUVhPWTZudnhBckJ1aDhiUkpqRkpOSlNHMldFaGNDb0dWeW55Z1BpSlVJVDNQN1JheFlBVVFNWlhfWU1vRFZJcFYxWEpocGxET0ZiTFp5N05JQTRsODBzSnJNRkM0X3hoQ0tsWDVmUURDVU5QYWVNVUVGdnZ0ekVrUXVXV0hmU1VuRXdOQUxER1JfdWZJSEhjNEd2TW5EWUJBbVFybXU5YjhxWEtqelBKcnpUS1Uxck9obmVrenZsaW0?oc=5",
    "quelle": "ABB",
    "datum": "2026-04-21",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" industrial digital twin",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Delta hebt KI-gestützte Smart-Factory- und Energieinfrastrukturlösungen als zentrale Treiber der industriellen Transformation auf der Hannover Messe 2026 hervor",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnFEZlpQeVJmcElmbEZsM0RpdDViZTY2dThCM1AydzZPeDFjLVJqYlZ4X29pZ1c5SU1LUlk3Q3JrMEpyTDZDNkhxUG5DZE5CeWZPS0d4Q3RjMDBFa1A1NXRNRTlET094UE5pamdMOFFuT3U4YnZfaHZXbW01bmhxQnhHSmRpMENGaW4xT3QxNDluQVdL?oc=5",
+   "quelle": "Yahoo Finanzen Deutschland",
+   "datum": "2026-04-21",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" manufacturing",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Aras Joins the Alliance for OpenUSD to Advance Interoperable, Lifecycle-Connected Digital Twins with NVIDIA Omniverse",
@@ -263,11 +299,14 @@
    "erstmals": "2026-11-04"
   },
   {
-   "region": "USA",
-   "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries - NVIDIA Developer",
+   "titel": "Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEF3MXdOVW53NFhnVHFWUy12U01oVV9Vd0RrT3BCRXE1bnVTeWtSQk5jVjhOVnJfbExCWnh5TWxrMVpsU19Hc3hTVG14cmgtVjVya2V0TWc0eTNoZVQyUEtzRm00UVR6Zlctak1HYU9Fd3kwcjFPS1V6bEhJTlI3dlNRTnhtdG44eGxsWmhUQko5LVp2Z2V1enBWMEg5TFR1cDhvOTNwdERDOEotZnZPQmx5TFQ0blh5UUxuYg?oc=5",
    "quelle": "NVIDIA Developer",
    "datum": "2026-04-08",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" industrial digital twin",
    "erstmals": "2026-11-04"
   },
   {
@@ -299,6 +338,17 @@
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" industrial digital twin",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Aveva und Nvidia entwickeln Digital Twin für KI-Fabriken",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONnVTZUVmWm9Wallwa1ZUOTYwUmJyVWpYdi1qTjAtYnY4T0JwM2RTaDEwRDJOZHpPX1N0SGlZZ0R4OTdKUGV3S2Zka0pMQk5mMS0wcjBnel9LYjBkU1VhMTJUaTBzYjlLT2k3N1ZRU0RSZ252Tm1qSW5HeGxQQTJjbmxKTy1wZHNFQ1JNMkg3MnF6Y0xFMEZ3NEg1ejBEaDg?oc=5",
+   "quelle": "produktion.de",
+   "datum": "2026-03-18",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "AVEVA develops a new lifecycle digital twin architecture that delivers industrial intelligence for gigawatt-scale AI Factories accelerated by NVIDIA",
@@ -334,6 +384,50 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkdlMGNINWd6cnBFQjJybGNPMy03QXpQX3I0cWNEVXdKWWVyN3ZyNWhGVkVqQVRvTkpGdDU5SmZuVjFmLVlBb3JDV01sN1BhRWY3MFNFaGV5d04tc3ZHcmNYRWNfU28tRVNfT3EyVjIxUUcwLUczUHZSSEdwcTdOcllJQjN0eV9DQWxHcUZ2Mmx3TTJpTGxvck5udnpHZHpVYlRqbHRfcTRxajAzbHRjUWFhQmhOY3JhNnA3el85dU9iWmVvZThQeV83VDlwWVo4S1Q1aWJMRTUxMmpzZUQ1OTN3R205bXpaTzRVX0lCQnBodGs?oc=5",
+   "quelle": "NVIDIA Newsroom",
+   "datum": "2026-03-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Flex - Flex Accelerates AI Factory Deployment with NVIDIA Omniverse DSX Reference Designs",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMG9tbVBFRlBfcTFZakxZLVlWWHdodTZTSElGZGRDb2N5XzFEVzRMLXFzdFFsaVpuZjJxVFlGMFV5RUZKV2U1WjRoWWJEWFJzbjdSTjFXNFN6NU90TEdxLUxmTHQyWDhVbHdzS3R4MXd2c3lKZjVwd2N4eXVUV0hYSVNwd2lhWFNSX3prYmtwTmhmSkJWNmlTTC01dFBuNEFuWWktT21iSW9PR2lMcUVEejN2Y21pN29PRmV5NlpWbEZLYUhNWlg2enlvbGpKRFptdWdpQ2Job2Zhdm1MV1E?oc=5",
+   "quelle": "Flex - Investor Relations",
+   "datum": "2026-03-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" manufacturing",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcjVBblRXWFJhaTVLSVYzelRwUjgxOXRiRHJCdWhIUXhHN25GUDU2ODZPeDBiVnBmUFVYNUw4bkFoOVpVblk3Y2xIVHpRVEZjNW5YQmtOejR5RWNvWmxjS2hueTNCeXJPay1qQm5IMFJzdmNORk5Hb2VYc3o1M1hRMjNvUXhMUHRIN0hSVEhsMUI3X09uWmdiZDRQMlcxam9tTkoyc1J2a2ZHdFE5aHZnNEpYbVVZUEYybTNXSXNNaHNYZlNSbWdBMUhyZ2dJTDZtemZB?oc=5",
+   "quelle": "NVIDIA Newsroom",
+   "datum": "2026-03-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" manufacturing",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqbm1IOHBZSTlwLXhpZ2hrN3d2b3lHOTVqamlKQW9SRWFVRGFlMmVaU3VBMzlnMGdsUXVIN2NLcUNRRU5JODltczBiNkV5OEdkMUwwRHVTdjBUZ0tYeV9heXNYRzJmcDIxamJ3?oc=5",
+   "quelle": "NVIDIA Blog",
+   "datum": "2026-03-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Omniverse\" manufacturing",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "Tata Consulting Engineers Launches Cognitive Digital Twin and Industrial AI Platform Built on NVIDIA Technology",
    "link": "https://cxotoday.com/media-coverage/tata-consulting-engineers-launches-cognitive-digital-twin-and-industrial-ai-platform-built-on-nvidia-technology/",
    "quelle": "CXO Today",
@@ -365,6 +459,17 @@
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" industrial digital twin",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "PepsiCo Announces Industry-First AI and Digital Twin Collaboration with Siemens and NVIDIA",
+   "link": "https://www.nasdaq.com/press-release/pepsico-announces-industry-first-ai-and-digital-twin-collaboration-siemens-and-nvidia",
+   "quelle": "Nasdaq",
+   "datum": "2026-01-06",
+   "auszug": "Together, PepsiCo, Siemens, and NVIDIA will set a new standard for scalable, technically sound digital twin and AI in industrial ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Samsung Teams With NVIDIA To Lead the Transformation of Global Intelligent Manufacturing Through New AI Megafactory",
@@ -455,6 +560,17 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Siemens Highlights Industrial AI and Digital Twin Technology at CES 2025",
+   "link": "https://www.arcweb.com/blog/siemens-highlights-industrial-ai-digital-twin-technology-ces-2025",
+   "quelle": "arcweb",
+   "datum": "2025-01-10",
+   "auszug": "At the recent CES event in the US (aka the Consumer Electronics Show), industrial automation, infrastructure, mobility, and healthcare provider Siemens showcased its vision for the future, when data, ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "NVIDIA Announces Omniverse Real-Time Physics Digital Twins With Industry Software Leaders",
    "link": "https://www.nasdaq.com/press-release/nvidia-announces-omniverse-real-time-physics-digital-twins-industry-software-leaders",
    "quelle": "Nasdaq",
@@ -477,22 +593,22 @@
    "erstmals": "2026-11-04"
   },
   {
-   "titel": "Rockwell Automation Brings Autonomous Operations to Life Using NVIDIA Omniverse",
-   "link": "https://www.nasdaq.com/press-release/rockwell-automation-brings-autonomous-operations-life-using-nvidia-omniverse-2024-11",
-   "quelle": "Nasdaq",
-   "datum": "2024-11-11",
-   "auszug": "MILWAUKEE--(BUSINESS WIRE)-- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation, today announced it is integrating NVIDIA ...",
+   "titel": "Rockwell Automation Bolsters Its Digital Twin Tools with NVIDIA Omniverse",
+   "link": "https://www.designnews.com/automation/rockwell-automation-bolsters-its-digital-twin-tools-with-nvidia-omniverse",
+   "quelle": "Design News",
+   "datum": "2024-11-12",
+   "auszug": "Rockwell Automation, Inc. will integrate the NVIDIA Omniverse application programming interfaces into its Emulate3D digital twin software. The goal is to enhance factory operations through artificial ...",
    "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" manufacturing",
    "erstmals": "2026-11-04"
   },
   {
-   "titel": "Rockwell Automation Bolsters Its Digital Twin Tools with NVIDIA Omniverse",
-   "link": "https://www.designnews.com/automation/rockwell-automation-bolsters-its-digital-twin-tools-with-nvidia-omniverse",
-   "quelle": "Design News",
+   "titel": "Rockwell Automation Brings Autonomous Operations to Life Using NVIDIA Omniverse",
+   "link": "https://www.nasdaq.com/press-release/rockwell-automation-brings-autonomous-operations-life-using-nvidia-omniverse-2024-11",
+   "quelle": "Nasdaq",
    "datum": "2024-11-11",
-   "auszug": "Rockwell Automation, Inc. will integrate the NVIDIA Omniverse application programming interfaces into its Emulate3D digital twin software. The goal is to enhance factory operations through artificial ...",
+   "auszug": "MILWAUKEE--(BUSINESS WIRE)-- Rockwell Automation, Inc. (NYSE: ROK), the world's largest company dedicated to industrial automation and digital transformation, today announced it is integrating NVIDIA ...",
    "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" manufacturing",

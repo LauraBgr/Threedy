@@ -1,6 +1,6 @@
 {
- "datum": "2026-11-04",
- "seiten": 30,
+ "datum": "2026-11-09",
+ "seiten": 39,
  "fehler": [
   {
    "firma": "Threedy",
@@ -15,58 +15,48 @@
  ],
  "aenderungen": [
   {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/pricing",
+   "firma": "AVEVA",
+   "url": "http://www.aveva.com/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Threedy",
-   "url": "https://www.threedy.io/customer-stories/feature-sneak-peek-xr-red-green-compare",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/en/info/intouch-hmi-pricing/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/aftermarket-parts",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/ja-jp/info/intouch-hmi-pricing/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Vertex Software",
-   "url": "https://vertex3d.com/solutions/customer-experience",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/enterprise/spinfire-insight/pricing/",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/en/solutions/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/de/enterprise/spinfire-insight/pricing/",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/en/industries/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/fr/enterprise/spinfire-insight/pricing/",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/fr-fr/solutions/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/es/enterprise/spinfire-insight/pricing/",
+   "firma": "AVEVA",
+   "url": "https://www.aveva.com/ja-jp/solutions/",
    "art": "neu erfasst"
   },
   {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/ko/enterprise/spinfire-insight/pricing/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/pt/enterprise/spinfire-insight/pricing/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Tech Soft 3D",
-   "url": "https://www.techsoft3d.com/ja-jp/enterprise/spinfire-insight/pricing/",
+   "firma": "Schneider Electric",
+   "url": "http://www.schneider-electric-dms.com",
    "art": "neu erfasst"
   }
  ]

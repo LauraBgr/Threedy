@@ -1,17 +1,28 @@
 {
  "firma": "Vertex Software",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-09",
  "artikel": [
   {
    "titel": "Vertex Software",
    "link": "https://github.com/Vertexvis",
    "quelle": "GitHub",
-   "datum": "2026-11-02",
+   "datum": "2026-11-06",
    "auszug": "Vertex allows you to easily integrate 3D product data into your business applications using Vertex's distributed cloud rendering ...",
    "region": "EU",
    "herkunft": "Bing News",
    "suche": "\"Vertex Software\" 3D",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex 3D Visualization Platform",
+   "link": "https://aws.amazon.com/marketplace/pp/prodview-hezzu3sd3uihs",
+   "quelle": "aws.amazon",
+   "datum": "2026-10-27",
+   "auszug": "Vertex enables you to deliver rich 3D experiences and connect teams across your enterprise to the real-time data source.",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Software\" 3D",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Vertex Introduces Vertex Sōl, a Connected, AI-Powered Tax and Compliance Experience",
@@ -45,6 +56,17 @@
    "herkunft": "Bing News",
    "suche": "\"Vertex Connect\"",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Vertex Inc.: Vertex Introduces Vertex Sol, a Connected, AI-Powered Tax and Compliance Experience",
+   "link": "https://www.finanznachrichten.de/nachrichten-2026-10/69938557-vertex-inc-vertex-introduces-vertex-sol-a-connected-ai-powered-tax-and-compliance-experience-399.htm",
+   "quelle": "FinanzNachrichten.de",
+   "datum": "2026-10-26",
+   "auszug": "Starting with the tax decision, Vertex Sol connects the work, evidence, and AI that tax professionals controlKING OF PRUSSIA, Pa., Oct. 26, 2026 (GLOBE NEWSWIRE) -- Vertex, Inc. (NASDAQ:VERX) (\"Vertex ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Vertex Connect\"",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Vertex Introduces Vertex Sol™, a Connected, AI-Powered Tax and Compliance Experience",

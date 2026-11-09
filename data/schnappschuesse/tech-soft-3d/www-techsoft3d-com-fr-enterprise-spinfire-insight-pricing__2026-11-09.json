@@ -1,0 +1,31 @@
+{
+ "firma": "Tech Soft 3D",
+ "region": "USA",
+ "url": "https://www.techsoft3d.com/fr/enterprise/spinfire-insight/pricing/",
+ "datum": "2026-11-09",
+ "fingerabdruck": "35cabaa68263db8e",
+ "titel": "Tarification | SpinFire Insight",
+ "beschreibung": "Découvrez les options de tarification flexibles de SpinFire Insight adaptées à vos besoins professionnels. Explorez nos plans et trouvez la solution adéquate pour votre entreprise. En savoir plus maintenant !",
+ "sprache": "fr",
+ "ueberschriften": [
+  "Tarification de SpinFire Insight",
+  "Visualisez, mesurez, annotez et analysez complètement vos données CAO 2D et 3D",
+  "Convertissez et exportez vos données CAO 3D pour les partager et les réutiliser",
+  "Avez-vous du mal à tirer le meilleur parti de vos données CAO ?",
+  "Laissez-nous aider",
+  "Contactez les Ventes",
+  "Essayez SpinFire Insight aujourd'hui",
+  "Contactez les ventes",
+  "SDKs pour développeurs",
+  "Apps pour entreprises"
+ ],
+ "cta_kandidaten": [
+  "Contact",
+  "Support",
+  "Contactez-nous",
+  "USD $",
+  "EUR €",
+  "GBP £"
+ ],
+ "text": "SDKs pour développeurs Apps pour entreprises Entreprise Contact Support FR Tarification de SpinFire Insight Des licences flottantes sont disponibles pour les équipes nécessitant un accès partagé. Contactez-nous pour plus d'informations USD $ EUR € GBP £ Basic $42 /mois Abonnement de 12 mois Ce qui est inclus Visualisez et interrogez les formats CAD de base (STEP, Parasolid, IGES, AutoCAD, Rhino, STL, 3D PDF, SAT). Exportez vers 3DPDF, STL, AutoCAD, HSF et ACT3D. Classic $117 /mois Abonnement de 12 mois Ce qui est inclus Visualisez et interrogez tous les principaux formats CAD (CATIA V4, CATIA V5, CATIA V6, NX, CREO, SolidWorks et plus). Exportez vers 3DPDF, STL, AutoCAD, HSF et ACT3D. Recommandé Premium $134 /mois Abonnement de 12 mois Ce qui est inclus Visualisez et interrogez tous les principaux formats CAD (CATIA V4, CATIA V5, CATIA V6, NX, CREO, SolidWorks et plus). Exportez vers des formats CAD neutres (IGES, STEP, JT, Parasolid, PRC, STL, 3D PDF, HTML). Consultez la liste complète des formats pris en charge ci-dessous. Enterprise Custom Répondez à vos besoins d'affaires Ce qui est inclus Découvrez la puissance de la visualisation d'entreprise pour l'ensemble de votre organisation. Visualisez, mesurez, annotez et analysez complètement vos données CAO 2D et 3D Supported Unsupported Name Versions File Types Tessellation B-Rep PMI Basic Classic Premium 3ds Max All versions 3DS 3D Manufacturing Format 1.2.3 3MF ACIS Up to 2025 SAT, SAB AutoCAD Up to 2022 (2D and 3D) DWG, DXF, DWF, DWFX CATIA V4 3D: Up to V5-6R2025 (R35), 2D: R10 to V5-6R2025 (R35) DLV, SESSION, EXP, MODEL CATIA V5 3D: Up to V5-6R2026 (R36), 2D: R10 to V5-6R2026 (R36) CATPART, CATPRODUCT, CATDRAWING, CGR, CATSHAPE CATIA V6 3D: Up to 2019x, 2D: R2010x to R2026x 3DXML CGM (not included) All versions CGM (not included) COLLADA All versions DAE FBX Up to ASCII 7500, all binary FBX glTF Up to 2.0 GLTF, GLB HPGL All versions GL2, HPGL, HPG, HGL, PLT, HG2, HP2 I-DEAS Up to 13.x (NX 5), nx I-deas 6 ASM, UNV, ARC, MF1, PRT, PKG IFC IFC2 up to 2.3.0.1, IFC4 up to 4.3 IFC, IFCZIP IGES 3D: 5.1-5.3, 2D: Up to 5.3 IGES, IGS Inventor 3D: Up to 2026 IAM, IPT JT Up to 10.9 JT Navisworks 2021 to 2026 NWD NX 3D: Up to NX2512 Series, 2D: Up to NX2512 Series PRT Parasolid 3D: Up to 37.1 XMT_TXT, XMT, X_T, X_B PDF All versions (2D and 3D) PDF PRC All versions (3D) PRC ProE / Creo 3D: Pro/Engineer 19.0 to Creo 11.0, 2D: 2000i to Creo 9.0 PRT, ASM, NEU, XAS, XPR, DRW Revit 3D: 2015 to 2026 RVT, RFA Rhino 3D 4 - 8 3DM SolidEdge 3D: From 97 up to 2026, 2D: ST1 to 2026 PAR, PWD, PSM, ASM SolidWorks 3D: From 97 up to 2026, 2D: 2004 to 2026 SLDPRT, SLDASM, SLDDRW STEP AP 203 Ed1, Ed2, AP 214, AP 242 Ed1, Ed2, Ed3 STP, STEP, STPZ, STP.Z STEP-XML All versions STPX, STPXZ Stereo Lithography (STL) All versions STL TIFF All versions TIF, TIFF Universal 3D ECMA363, 1st, 2nd,3rd editions U3D VDA-FS Up to 2.0 VDA VRML Up to 2.0 VRML, WRL Wavefront All versions OBJ Convertissez et exportez vos données CAO 3D pour les partager et les réutiliser Supported Unsupported Name Versions File Types Tessellation B-Rep PMI Basic Classic Premium 3DPDF ECMA363, 1st edition PDF 3MF 1.2.1 3MF ACIS 5.0 SAT, SAB AutoCAD DWF, DWG FBX 7400, ASCII or Binary FBX glTF Up to 2.0 GLTF, GLB HSF 20.70 HSF HTML HTML IGES 5.1 IGS, IGES JT 8.1, 9.5, 10.0 JT Parasolid 14.0 X_T PRC Latest PRC STEP AP 203 Ed2, AP 214 Ed1, AP 242 Ed1, Ed2, Ed3 STP, STEP, STPZ, STPZ STL Any STL Universal 3D ECMA363 v1, v3 U3D VRML V2.0 utf8 VRML Wavefront All versions OBJ Avez-vous du mal à tirer le meilleur parti de vos données CAO ? SpinFire Insight vous donne un accès instantané, à l'échelle de l'entreprise, aux informations dont vous avez besoin. Laissez-nous aider Planifiez un moment pour en savoir plus sur SpinFire Insight Besoin d'une visualisation CAD SpinFire pour des individus et petites équipes ? Besoin de savoir quels formats CAD natifs sont pris en charge par SpinFire Insight ? Vous voulez voir SpinFire Insight en action par vous-même ? Contactez les Ventes Essayez SpinFire Insight aujourd'hui Contactez les ventes"
+}

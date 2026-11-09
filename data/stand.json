@@ -1,85 +1,85 @@
 {
  "https://threedy.io/": {
   "fingerabdruck": "3c73d465c5303e4b",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/threedy-io__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/threedy-io__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://www.threedy.io/3d-visualization": {
   "fingerabdruck": "8b766337b32ae9d6",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-3d-visualization__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-3d-visualization__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://www.threedy.io/instant-visualization": {
   "fingerabdruck": "d98621d4b68bd779",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-instant-visualization__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-instant-visualization__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://www.threedy.io/product/instant3dhub": {
   "fingerabdruck": "8225d46dfab10870",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://www.threedy.io/product/instant3dhub-lkd": {
   "fingerabdruck": "082d25893f1d8afe",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub-lkd__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-product-instant3dhub-lkd__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://vertex3d.com/": {
   "fingerabdruck": "a211502c3eed3117",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/products": {
   "fingerabdruck": "b9fee5e97de3ba40",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-products__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-products__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/solutions/service": {
   "fingerabdruck": "5ccc1eff64c9a9eb",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-service__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-service__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/solutions/supplier-rfq": {
   "fingerabdruck": "2296defcf69a3f93",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-supplier-rfq__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-supplier-rfq__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/solutions/factory-floor": {
   "fingerabdruck": "8dcd455b59b1d288",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-factory-floor__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-factory-floor__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/products/vertex-connect": {
   "fingerabdruck": "a63004ed7a24db90",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-products-vertex-connect__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-products-vertex-connect__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://www.techsoft3d.com/": {
   "fingerabdruck": "f733452247a34c42",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
@@ -120,128 +120,191 @@
  },
  "https://viewer.kisters.de/en/": {
   "fingerabdruck": "35b1fcf1db225591",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en__2026-11-09.json",
   "firma": "KISTERS 3DViewStation",
   "region": "EU"
  },
  "https://viewer.kisters.de/en/products/3dviewstation-product-family.html": {
   "fingerabdruck": "0c68cbc538274f7a",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en-products-3dviewstation-product-family-html__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/kisters-3dviewstation/viewer-kisters-de-en-products-3dviewstation-product-family-html__2026-11-09.json",
   "firma": "KISTERS 3DViewStation",
   "region": "EU"
  },
  "https://www.ptc.com/en/products/creo/creo-view": {
   "fingerabdruck": "e618defe93ccb541",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-en-products-creo-creo-view__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-en-products-creo-creo-view__2026-11-09.json",
   "firma": "PTC Creo View",
   "region": "USA"
  },
  "https://www.ptc.com/de/products/creo/creo-view": {
   "fingerabdruck": "0517763cf4e46e10",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-de-products-creo-creo-view__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/ptc-creo-view/www-ptc-com-de-products-creo-creo-view__2026-11-09.json",
   "firma": "PTC Creo View",
   "region": "EU"
  },
  "https://plm.sw.siemens.com/en-US/teamcenter/": {
   "fingerabdruck": "200c65cd3f115200",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/siemens-teamcenter-visualization/plm-sw-siemens-com-en-us-teamcenter__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/siemens-teamcenter-visualization/plm-sw-siemens-com-en-us-teamcenter__2026-11-09.json",
   "firma": "Siemens Teamcenter Visualization",
   "region": "EU"
  },
  "https://www.3ds.com/3dexperience": {
   "fingerabdruck": "c07385b83223b55e",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/dassault-3dexperience/www-3ds-com-3dexperience__2026-11-09.json",
   "firma": "Dassault 3DEXPERIENCE",
   "region": "EU"
  },
  "https://www.nvidia.com/en-us/omniverse/": {
   "fingerabdruck": "aaa7696c26de6042",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/nvidia-omniverse/www-nvidia-com-en-us-omniverse__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/nvidia-omniverse/www-nvidia-com-en-us-omniverse__2026-11-09.json",
   "firma": "NVIDIA Omniverse",
   "region": "USA"
  },
  "https://www.threedy.io/pricing": {
   "fingerabdruck": "f84a0aa884549bdc",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-pricing__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://www.threedy.io/customer-stories/feature-sneak-peek-xr-red-green-compare": {
   "fingerabdruck": "5f051250167572c7",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/threedy/www-threedy-io-customer-stories-feature-sneak-peek-xr-red-green-compare__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/threedy/www-threedy-io-customer-stories-feature-sneak-peek-xr-red-green-compare__2026-11-09.json",
   "firma": "Threedy",
   "region": "EU"
  },
  "https://vertex3d.com/solutions/aftermarket-parts": {
   "fingerabdruck": "52d99d65c315e8a9",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-aftermarket-parts__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-aftermarket-parts__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://vertex3d.com/solutions/customer-experience": {
   "fingerabdruck": "0e08536939b18a26",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-customer-experience__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/vertex-software/vertex3d-com-solutions-customer-experience__2026-11-09.json",
   "firma": "Vertex Software",
   "region": "USA"
  },
  "https://www.techsoft3d.com/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "b12fba6f43d19e10",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/de/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "abeca53c8759a02d",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-de-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-de-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/fr/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "35cabaa68263db8e",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-fr-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-fr-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/es/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "3e3316010328a16e",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-es-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-es-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/ko/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "81e681650dfd41f4",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-ko-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-ko-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/pt/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "9fd7f69d6fbce09c",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-pt-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-pt-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
   "region": "USA"
  },
  "https://www.techsoft3d.com/ja-jp/enterprise/spinfire-insight/pricing/": {
   "fingerabdruck": "b8b205d1dfde4a21",
-  "datum": "2026-11-04",
-  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-ja-jp-enterprise-spinfire-insight-pricing__2026-11-04.json",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/tech-soft-3d/www-techsoft3d-com-ja-jp-enterprise-spinfire-insight-pricing__2026-11-09.json",
   "firma": "Tech Soft 3D",
+  "region": "USA"
+ },
+ "http://www.aveva.com/": {
+  "fingerabdruck": "e5af11cffc887279",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/en/info/intouch-hmi-pricing/": {
+  "fingerabdruck": "3b8679ae1b47c5cb",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-en-info-intouch-hmi-pricing__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/ja-jp/info/intouch-hmi-pricing/": {
+  "fingerabdruck": "684ab19c9c0a30ac",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-ja-jp-info-intouch-hmi-pricing__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/": {
+  "fingerabdruck": "d5027b1003212e2a",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-en-our-industrial-life-type-article-modular-construction-a-storied-alternati__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/en/solutions/": {
+  "fingerabdruck": "20f878ad41766f0f",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-en-solutions__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/en/industries/": {
+  "fingerabdruck": "4a1c0dbede3eb258",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-en-industries__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/fr-fr/solutions/": {
+  "fingerabdruck": "75631f2dae031455",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-fr-fr-solutions__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "https://www.aveva.com/ja-jp/solutions/": {
+  "fingerabdruck": "2f43ffca4602bdb4",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/aveva/www-aveva-com-ja-jp-solutions__2026-11-09.json",
+  "firma": "AVEVA",
+  "region": "USA"
+ },
+ "http://www.schneider-electric-dms.com": {
+  "fingerabdruck": "db91ce0900305b71",
+  "datum": "2026-11-09",
+  "datei": "schnappschuesse/schneider-electric/www-schneider-electric-dms-com__2026-11-09.json",
+  "firma": "Schneider Electric",
   "region": "USA"
  }
 }

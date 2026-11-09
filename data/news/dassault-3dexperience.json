@@ -1,24 +1,46 @@
 {
  "firma": "Dassault 3DEXPERIENCE",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-09",
  "artikel": [
+  {
+   "titel": "Dassault AI assistants accelerate Korea design, semiconductors and robots",
+   "link": "https://biz.chosun.com/en/en-it/2026/11/06/JTYLIIBA35ELVHQYPLLQUYUJ34/",
+   "quelle": "Chosunbiz",
+   "datum": "2026-11-06",
+   "auszug": "Companies are drafting drawings with AI agents and simulating multiple design proposals with AI (testing and verifying designs in a virtual environment) to shorten product development time. In the ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Virtuelle Zwillinge: Dassault und Systra kooperieren",
+   "link": "https://www.produktion.de/technik/virtuelle-zwillinge-dassault-und-systra-kooperieren/2762664",
+   "quelle": "Produktion Online",
+   "datum": "2026-11-04",
+   "auszug": "Virtuelle Zwillinge sollen die Planung und den Betrieb von Verkehrsinfrastruktur verbessern. Dassault Systèmes und Systra bündeln dafür ihre Kompetenzen in einer neuen Technologiepartnerschaft.",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Dassault Systèmes Aktie: Industrie-KI auf Forum in Hanoi präsentiert",
+   "link": "https://www.boerse-express.com/news/articles/dassault-systmes-aktie-industrie-ki-auf-forum-in-hanoi-praesentiert-959257",
+   "quelle": "Börse Express",
+   "datum": "2026-11-04",
+   "auszug": "Asiens Softwareumsatz legte im dritten Quartal um 12 Prozent zu; für das vierte Quartal prognostiziert Dassault Systèmes 5–8 Prozent Wachstum.",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
+  },
   {
    "region": "EU",
    "titel": "Dassault Systèmes wächst dank Cloud und hebt Jahresziel an - Produktion Online",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR25UZ1VtdjdrMkRqZXVkU0xibllQLTRIVkkyRWRaOHQ1dnZMcWxkcUdfcGdkWF9yVGNzVnFwZWxoNGpyNVVoQ2R3RC1OUW5HTHZlT19FVnJTSVB4SUd1b21XeHh5cDk0Nlp3MlF2cERQWFdQbHZBakhIVHhjU3VMUkNzVGNRbVJ4LTk0aXhhcE9pQVNIX2ppUmgtOFdwUzVBbnUwUXFUMA?oc=5",
    "quelle": "Produktion Online",
    "datum": "2026-11-03",
-   "erstmals": "2026-11-04"
-  },
-  {
-   "titel": "Virtuelle Zwillinge: Dassault und Systra kooperieren",
-   "link": "https://www.produktion.de/technik/virtuelle-zwillinge-dassault-und-systra-kooperieren/2762664",
-   "quelle": "Produktion Online",
-   "datum": "2026-11-03",
-   "auszug": "Virtuelle Zwillinge sollen die Planung und den Betrieb von Verkehrsinfrastruktur verbessern. Dassault Systèmes und Systra bündeln dafür ihre Kompetenzen in einer neuen Technologiepartnerschaft.",
-   "region": "EU",
-   "herkunft": "Bing News",
-   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
@@ -108,14 +130,25 @@
   },
   {
    "titel": "Dassault Systèmes and Vertiv Team to Accelerate AI Factory Design and Deployment",
-   "link": "https://finance.yahoo.com/technology/ai/articles/dassault-syst-mes-vertiv-team-050000896.html",
-   "quelle": "Yahoo Finance",
-   "datum": "2026-10-21",
-   "auszug": "Dassault Systèmes (Euronext Paris: FR0014003TT8, DSY.PA) and Vertiv Holdings Co. (NYSE: VRT) today announced a collaboration to enable AI factory infrastructure to be configured, simulated and ...",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSUMwVXNseEN4ODlKdzBVbE0zeXc2anpwVnl3RWRYOEJsdEdqNDUzYUpNOVBQM3YyakVGM1dBbDRISWRzVHRtYzc4VG50anFzeGNiR2RiWDhsc3VkdmpYTkZPZzluQVpXMllEeERGdHdLSWd5VWY5VWN0VjZGNkxuNUdYazZhb1ZEQWNJYTFHQmJMaXVDSUtaSnBVYnpPcEZkdzFaQzJlaG1ILXJ4S2JWYVhzcGlNMDctOU5lMVRnMXF6NF9BUGtZbGVBd2NUUVRLeXVhRGUyNTZWX204a1Y1ajUyOGk?oc=5",
+   "quelle": "FinanzNachrichten.de",
+   "datum": "2026-10-22",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Dassault Systèmes expands Malaysia presence with new office",
+   "link": "https://www.thestar.com.my/business/business-news/2026/10/22/dassault-systmes-expands-malaysia-presence-with-new-office",
+   "quelle": "The Star",
+   "datum": "2026-10-22",
+   "auszug": "Dassault Systèmes has opened its renovated Malaysia office in Bandar Utama, Selangor, to support the adoption of industrial artificial intelligence (AI) and virtual twin technology among local ...",
    "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"Dassault Systèmes\" \"virtual twin\"",
-   "erstmals": "2026-11-04"
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Dassault Systèmes opens Malaysia office in Bandar Utama to power Industrial AI and Virtual Twin Adoption",
@@ -261,6 +294,17 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "SYSTRA and Dassault Systèmes Enter into a Technological Collaboration Around a New Generation of Virtual Twins for Transport Infrastructures",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVXZ6R0JtRnhWZXBibllxdDhDSmZrandlWDRnTXpNd21MNk5xSzNEbHM0ZEFEMDJqMlh6SUpFM3ZUSW0xX21qQ01kOGJUTndta3pGVUNqSmZVaGlqVmlJdlM1UnQ3WGNmUXNWeEw2R3UwYjcxNlZSY3FSQXNURzY0WlA0RWY2ME9ZaW93QkNoTllNWGhiRkhKb2lmSjB2cmhJNV9pX3pQTGxyd2ppMHZmMlpnSUtwcnQ4Nkg4cjhpU0I2Zm5ZelhkbnJMWlh2d2hBZ000Qk1DQ2YxSGdmd1dkeGJLZVlmcUFwYzAwZFl6cllOYk9yTjNubkx0S0I?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-09-24",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "Die Dassault-Systèmes-Aktie reagiert auf Digital-Twin-Partnerschaft und frische Analystenstimme",
    "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/die-dassault-systemes-aktie-reagiert-auf-digital-twin-partnerschaft-und/69969158",
    "quelle": "ad-hoc-news",
@@ -272,19 +316,47 @@
    "erstmals": "2026-11-04"
   },
   {
-   "region": "EU",
-   "titel": "Dassault Systèmes erweitert KI-native agentische 3DEXPERIENCE Plattform um neue Funktionen für Virtual Companions – Co-Engineering von Mensch und KI - Dassault Systèmes",
+   "titel": "iHawk Global Port Logistics",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tQmpUaWdHNThwazJXSk1CWldEOWZSOHZsOUhWR0tTTExDempwT1NoYTBIRzdFeXM1d1BBREpnQ3ZOTG92SDBueDRUeTVFdWRpb2RhcWpSa1ZqTW5zc2RuZm91eDcxQXVZeUpBVXVfdF9aZlRiZ3lNaFZsVXlQZw?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-08-07",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Dassault Systèmes erweitert KI-native agentische 3DEXPERIENCE Plattform um neue Funktionen für Virtual Companions – Co-Engineering von Mensch und KI",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZzN0VUFiQXJsQkc0VjZfQ2RpZU5sbThvZGZEZXJMNEx2eExBSzRMOGF6NGVCZHkyUDRwbnRla19TNlM1N3RtclFxcXM3QlowZTJ1b21VOE9fa0d1UHQyOFQ4azg4NlFFaFk1bjR6Nk5Mbnp0VFlaOHBCdTlmcHVfbi0zb3BJelYzdWdsUTQxUnJybFh1VzM5amx0V0dudTNOUGxEQVdrdEx6dUN6eUJDVDc1Y0VxalJ0RmxxX3RUQ25HNm1ySVNZdlYyRGtPX05zaVRYTEhZbGZXdDRoRUtUeG56bUcyNGF6SkZpS25TdWE5Zw?oc=5",
    "quelle": "Dassault Systèmes",
    "datum": "2026-07-29",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "The Impact of Dassault Systèmes’ Virtual Twin Technology",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFJIbUJjaFg5SWN2UjItazhBcTdqSXA1N09tQlhEa0htTlF5aUw5TDRXb25QcVdjM2YtS2l0aExJcU9DUHBiU1hfM04wYmpUMUhXbFVfVHY2Z0xUU1NwXzEybDdnWmFtb2lIS2ZHcDZIeHhBMzZ2c1IwX0o0Tnl4RmU3dmlsSjBtallHTm5XR1czWVBa?oc=5",
+   "quelle": "Sustainability Magazine",
+   "datum": "2026-07-24",
+   "auszug": "",
    "region": "USA",
-   "titel": "Dassault Systèmes Expands the 3DEXPERIENCE AI-Native Agentic Platform with New Virtual Companion Skills to Co-Engineer with Humans - Dassault Systèmes",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcUdfMUxmcHc0R2hGbFZuMVBvMlZPRXdHb3czeDdYZ1dYdFVDNlJuY0RZMmxraU8yVFJzaUV6Rm1CM0o2U3JsVl9JRG53ekl5RzBKWHF3QzJuV2tFOGFtOTA5dUVMQnI5MjB6eWhiOC1wbzdtdGQ2VXlqWVBwVGJLVHB4OHBrSWlCalZId1VJVG1uSVlQd0V2MHIzNXVEVVppOVdqdlhleTJ5VGU0eHNUeXNjWUx2Nk5TLThRTm5WUk5UM1VuYm5jRWJ4eUdMTm5WdnphOGEwbU04UVdBX1F3X2dXelVNaGFsRkpKcUp3?oc=5",
-   "quelle": "Dassault Systèmes",
-   "datum": "2026-07-23",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Dassault Systèmes Expands the 3DEXPERIENCE AI-Native Agentic Platform with New Virtual Companion Skills to Co-Engineer with Humans",
+   "link": "https://finance.yahoo.com/technology/ai/articles/dassault-syst-mes-expands-3dexperience-050000310.html",
+   "quelle": "Yahoo Finance",
+   "datum": "2026-07-22",
+   "auszug": "VELIZY-VILLACOUBLAY, France, July 23, 2026--(BUSINESS WIRE)--Dassault Systèmes (Euronext Paris: FR0014003TT8, DSY.PA) today ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
@@ -296,6 +368,28 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Offenheit der 3DEXPERIENCE Plattform",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81YkQzbFRTN2xqQnBRb1EwbWJvVERIZmlnTEpoMmxELWRKVUs2ZzRQWEhYVFhBc2lzTUhMbmZLMGN3RVhPa0ktcjZ4MWdkbkZpUWJHU0paVGJCWlNka2JfLVYtSQ?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-07-20",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "3DEXPERIENCE Works von Dassault Systèmes - Cloud-Plattform als Werkzeugkasten für Ingenieure",
+   "link": "https://www.ad-hoc-news.de/boerse/news/ueberblick/3dexperience-works-von-dassault-systemes-cloud-plattform-als/69670337",
+   "quelle": "ad-hoc-news",
+   "datum": "2026-07-01",
+   "auszug": "Verantwortlich: Thomas Rilke, ad hoc news Fachredaktion Zubehoer & Komponenten. Geprueft am 01.07.2026, 23:13 Uhr. Details im ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "3DEXPERIENCE Works from Dassault Systèmes SE - cloud bundles pull Solidworks into the browser",
    "link": "https://www.ad-hoc-news.de/boerse/news/ueberblick/3dexperience-works-from-dassault-systemes-se-cloud-bundles-pull/69630718",
    "quelle": "ad-hoc-news",
@@ -305,6 +399,17 @@
    "herkunft": "Bing News",
    "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Pininfarina creates a Virtual Twin of its custom vehicles with Capgemini and Dassault Systèmes",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcm50MWRvVTFkNWNNUlVZN3BRVlMzdm4tSGlib3BXak5RVUlRM1dmUGJGTWVZaXZrRWlmNGlfY21tU3RXWEt4TXpaTUdad1g4Q1RZcll1NFlSeEZaTmRsWklnU3VudHNET2xIeEZWZlZIVHFQU1YxbUFRYjFYYU8xVkFvRzZFOXM1d3dFMmVMX0h5SXVrRlFnd1dLSjBCY2hzanREQ2lXNXZaeExFa0xHMG5yLXVHak5tdmhzMkF4UGhaYXZoSE5IbWg5TmVkZ1hnbzBFUkJ1d19rSllWUzFXQw?oc=5",
+   "quelle": "Capgemini",
+   "datum": "2026-06-12",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Dassault Systèmes stock (FR0014003TT8): Virtual-twin demand stays in focus",
@@ -340,39 +445,81 @@
    "erstmals": "2026-11-04"
   },
   {
-   "region": "EU",
-   "titel": "3DEXPERIENCE Week 2026 von Dassault Systèmes: Industrial AI und virtuelle Zwillinge als Treiber für Innovation und Wettbewerbsfähigkeit - Dassault Systèmes",
+   "titel": "3DEXPERIENCE Week 2026 von Dassault Systèmes: Industrial AI und virtuelle Zwillinge als Treiber für Innovation und Wettbewerbsfähigkeit",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR29YMllpcWp0N0tNQlp4U0hGbDgxMWlCZmJuY1lhS3Frd1RFNXpucXhkNFpYR3ZNZE9vSXVNLWVMZ09TSXM3b3UzYThFcVZiVFdTZ1lmeF9yT2RjaGFLY3VPdWlMSDNGWlotdWFzYlEtSjV6STk0ZG13NGNoemVxQVpmTUhLdWc?oc=5",
    "quelle": "Dassault Systèmes",
    "datum": "2026-04-30",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
-   "region": "EU",
-   "titel": "Dassault Systèmes meldet Ergebnisse für das erste Quartal 2026 im Rahmen der Zielvorgaben und bestätigt Ausblick für das Gesamtjahr - Dassault Systèmes",
+   "titel": "Dassault Systèmes meldet Ergebnisse für das erste Quartal 2026 im Rahmen der Zielvorgaben und bestätigt Ausblick für das Gesamtjahr",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOREtJNlRucWNONHJ1bWJSX1ZIWE0xNEtNYW1FYlp6TlVQcHVxQjhMQlUyUXpPNVo3SldzY3hmMnpYWThiaXBETm1DRFJ6Wl9HSl9mTW5YQTVQaGhGMjNfLWEyWFJXVlNNTXZXdnluU19XRVZtR1l3blo0MHladXg0ZnVRSGpLWV8zOFhpbXc3TDFuS25hdVZIdDJ3U2t5ZWdQNFRtUlVaQzZveXVDbXk3VGNHQnpzSklaNTUzTGJpNGpuSGM3VG5XTGRJbE1qcHUxSmpVZzNEbnN0ZUlzZnRJ?oc=5",
    "quelle": "Dassault Systèmes",
    "datum": "2026-04-28",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
-   "region": "EU",
-   "titel": "Dassault Systèmes kündigt Partnerschaft mit NEURA Robotics an: Skalierung von Physical AI durch virtuelle Zwillinge und reale Automatisierung - Dassault Systèmes",
+   "titel": "Dassault Systèmes kündigt Partnerschaft mit NEURA Robotics an: Skalierung von Physical AI durch virtuelle Zwillinge und reale Automatisierung",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ254SjZ2TkJQbU1ZSnBCbFhqRjlhQjVNVHhCcXpreFUwS1ZTeERnajhfRTFhNGE4UXg5NTlSRzY0M3hWUEFscHJQSGNJMk9TTnU4TUd1dENoRXptRlh0OFdYd24zV3o0Z1ZwVE1NbENPZV9jQl9wdTBUVFVRRDBBUVAtTVlKeU5IVE9CdDRuM3A5Q3JFTFRQZEctbElYN0lsX29DbQ?oc=5",
    "quelle": "Dassault Systèmes",
    "datum": "2026-04-24",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Mobile Robots, Industrial AI and Virtual Twins: Dassault Systèmes Builds the Factory of the Future at Hannover Messe",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRE1MQzA1clhuemtudnNLSVRMQ0JaR1Z4ejg0ZEhRVHRnYW90aUp2UEo5NENnWWhGdmFyM3liT2ZoTkV5TGpkbVVZY1V0T2w4WGlfQ0xqbzI4Tkx2ZnlOU3ctYkczaFg0Zldpa2Q4cVc0Q2x5cVhPMkx0NzZZWkR6Rl9wdGVqYWFZTW5tVGkydU8yR19CQ3ZOc2FpSHU2YnBvY0FHMWtkRVRjRkhiUWJRcW5Ga21oV25LMHpic3NXM2Rzb2kwWld0UVVIMTE0SVdLUU92czNjb1dDUQ?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-04-16",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "Groupe Rocher and Dassault Systèmes Embark on New Collaboration to Transform Natural Cosmetics Formulation Through Virtual Twin Technology",
-   "link": "https://www.morningstar.com/news/business-wire/20260413590202/groupe-rocher-and-dassault-systmes-embark-on-new-collaboration-to-transform-natural-cosmetics-formulation-through-virtual-twin-technology",
-   "quelle": "Morningstar%2c Inc.",
-   "datum": "2026-04-13",
-   "auszug": "French pioneer of natural, effective and committed beauty and wellness products will rely on Dassault Systèmes’ science-based technology to accelerate the research and development of ever more ...",
+   "link": "https://www.businesswire.com/news/home/20260413590202/en/Groupe-Rocher-and-Dassault-Systmes-Embark-on-New-Collaboration-to-Transform-Natural-Cosmetics-Formulation-Through-Virtual-Twin-Technology",
+   "quelle": "Business Wire",
+   "datum": "2026-04-12",
+   "auszug": "VELIZY-VILLACOUBLAY, France--(BUSINESS WIRE)--Dassault Systèmes (Euronext Paris: FR0014003TT8, DSY.PA) and the France-based pioneer of natural cosmetics Groupe Rocher today announced their ...",
    "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"Dassault Systèmes\" \"virtual twin\"",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Intelligente Fabriken durch KI-gestützte Fertigung",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3U3Wm5EZ012bF83Z3ZlZmFBV2d4WlBaMWxyYmxqMElITzNxMFlRb0g5MlZkRmlUX0JJWnNRQVZHclJ0Zk5FVWtubDB1SVF4dDZIaE9OR0ktY1ZvcE9oNjFVMmE0dUc0bWtlemozdGx3LW9pZ3Rxc19FbVJiVTRpc1VDYk5idHd2dXMyOWNn?oc=5",
+   "quelle": "Dassault Systèmes",
+   "datum": "2026-04-01",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Virtual Twins Are Transforming Health Care",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14ajVqbHlXeWt4Mk1vNFpEZVJhWThCako0ZUxHOEc3dHdlVml5Z2w0bzVmckk2ZlptVk1XVWxHblNRMUk4Z0pqZjJLelhmR1hLLWNMQlJNYW0wdFVubWM4NEJQcF9qbTVXU3NRTw?oc=5",
+   "quelle": "IEEE Spectrum",
+   "datum": "2026-03-19",
+   "auszug": "",
+   "region": "USA",
+   "herkunft": "Google News",
+   "suche": "\"Dassault Systèmes\" \"virtual twin\"",
+   "erstmals": "2026-11-09"
   },
   {
    "region": "EU",
@@ -512,6 +659,17 @@
    "herkunft": "Bing News",
    "suche": "\"Dassault Systèmes\" \"virtual twin\"",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Dassault Systèmes, Apple team to integrate Vision Pro into the 3DEXPERIENCE platform",
+   "link": "https://www.mactech.com/2025/02/25/dassault-systemes-apple-team-to-integrate-vision-pro-into-the-3dexperience-platform/",
+   "quelle": "MacTech",
+   "datum": "2025-02-25",
+   "auszug": "Dassault Systèmes, which specializes in “Virtual Twin”experience, has announced that 3D UNIV+RSES powered by the 3DEXPERIENCE platform will leverage the power of spatial computing to provide a new ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"3DEXPERIENCE\" Dassault",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Dassault Systèmes: 3DExperience Momentum And AI-Product Fuel Growth (Rating Upgrade)",

@@ -1313,5 +1313,297 @@
    "sonstiges"
   ],
   "hauptbotschaft": "Build industrial digital twins and robotics simulation applications using NVIDIA Omniverse, a collection of libraries and microservices."
+ },
+ "http://www.aveva.com/": {
+  "themen": [
+   "digitaler_zwilling",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "zusammenarbeit",
+   "plm_integration",
+   "kosten_und_roi",
+   "nachhaltigkeit",
+   "skalierbarkeit_enterprise",
+   "browserbasiert",
+   "streaming_grosser_daten"
+  ],
+  "wertversprechen": [
+   "end-to-end digital insights",
+   "design smarter",
+   "operate more efficiently",
+   "responsible use of resources",
+   "unify information",
+   "deepen collaboration"
+  ],
+  "branchen": [
+   "chemicals",
+   "power and utilities",
+   "epc",
+   "manufacturing",
+   "oil and gas"
+  ],
+  "cta_typen": [
+   "event",
+   "preise",
+   "dokumentation",
+   "kontakt_vertrieb",
+   "video",
+   "download",
+   "newsletter",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "At AVEVA, we work with you and harness the power of our ecosystem, to deliver solutions and expertise to optimize engineering, operations and performance."
+ },
+ "https://www.aveva.com/en/info/intouch-hmi-pricing/": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "unlimited tags",
+   "unlimited clients",
+   "lower pricing model",
+   "architectural flexibility",
+   "future-proof operations",
+   "scalable across sites"
+  ],
+  "branchen": [
+   "industrial",
+   "manufacturing",
+   "energy",
+   "process industries"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "download",
+   "event",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Explore flexible AVEVA InTouch HMI pricing with unlimited tags and clients to scale efficiently across sites at a lower cost."
+ },
+ "https://www.aveva.com/ja-jp/info/intouch-hmi-pricing/": {
+  "themen": [
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling"
+  ],
+  "wertversprechen": [
+   "unlimited tags",
+   "unlimited clients",
+   "architectural flexibility",
+   "cloud development",
+   "ai and ml integration",
+   "scalable subscription"
+  ],
+  "branchen": [
+   "manufacturing",
+   "industrial automation",
+   "energy",
+   "process industry"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "AVEVA InTouch HMIの新しい価格設定モデルにより、無制限のタグ、クライアント、およびアーキテクチャの完全な柔軟性を低価格で利用可能。"
+ },
+ "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/": {
+  "themen": [
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "offsite manufacturing",
+   "reduced project timelines",
+   "improved safety",
+   "sustainability benefits",
+   "logistics optimization",
+   "standardized components"
+  ],
+  "branchen": [
+   "energy",
+   "oil_and_gas",
+   "mining",
+   "nuclear",
+   "construction"
+  ],
+  "cta_typen": [
+   "newsletter"
+  ],
+  "hauptbotschaft": "Modular construction offers EPC firms a storied and increasingly relevant alternative for efficient, safe, and sustainable project delivery in challenging environments."
+ },
+ "https://www.aveva.com/en/solutions/": {
+  "themen": [
+   "digitaler_zwilling",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi",
+   "nachhaltigkeit",
+   "zusammenarbeit",
+   "design_review"
+  ],
+  "wertversprechen": [
+   "optimize value",
+   "increase efficiency",
+   "maximize collaboration",
+   "secure access",
+   "flexible purchasing",
+   "digital maturity calculator"
+  ],
+  "branchen": [
+   "energy",
+   "chemicals",
+   "oil and gas",
+   "marine",
+   "power",
+   "pulp and paper"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "video",
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Our industrial software solutions drive value and sustainability by applying technologies and expertise to continuously improve plant and facilities operations."
+ },
+ "https://www.aveva.com/en/industries/": {
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "sicherheit_und_datenschutz",
+   "plm_integration",
+   "kosten_und_roi",
+   "nachhaltigkeit",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "service_und_wartung",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "design_review"
+  ],
+  "wertversprechen": [
+   "sustainable future",
+   "intelligent insights",
+   "capex efficiency",
+   "ai-enriched solutions",
+   "digital-first process",
+   "real-time monitoring"
+  ],
+  "branchen": [
+   "oil_gas_and_energy",
+   "power_and_utilities",
+   "chemicals",
+   "infrastructure",
+   "marine",
+   "mining_metal_minerals",
+   "manufacturing",
+   "transportation",
+   "engineering_procurement_and_construction"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "video",
+   "kontakt_vertrieb",
+   "kontakt_vertrieb"
+  ],
+  "hauptbotschaft": "AVEVA delivers industrial software solutions purpose-built for the energy, infrastructure, and manufacture sectors, and engineered to drive a sustainable future."
+ },
+ "https://www.aveva.com/fr-fr/solutions/": {
+  "themen": [
+   "cloud_und_saas",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "zusammenarbeit",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "flexibilité totale",
+   "accès sécurisé",
+   "intelligence artificielle industrielle",
+   "optimisation de la stratégie",
+   "collaboration plus intelligente",
+   "soutien aux odd"
+  ],
+  "branchen": [],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "Nos solutions logicielles apportent une valeur ajoutée et favorisent la durabilité à l'aide de technologies et de connaissances qui permettent d'améliorer continuellement les activités des usines et des installations."
+ },
+ "https://www.aveva.com/ja-jp/solutions/": {
+  "themen": [
+   "digitaler_zwilling",
+   "plm_integration",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi",
+   "nachhaltigkeit",
+   "zusammenarbeit",
+   "design_review"
+  ],
+  "wertversprechen": [
+   "hohe operationelle effizienz",
+   "flexible software usage",
+   "sichere saas-plattform",
+   "optimierte kosten und risiken",
+   "schnelle datenvisualisierung",
+   "unterstützung der sdgs"
+  ],
+  "branchen": [
+   "manufacturing",
+   "energy",
+   "construction"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "dokumentation",
+   "sonstiges",
+   "sonstiges"
+  ],
+  "hauptbotschaft": "製造・エネルギー・建設などの現場課題を解決。運用効率化とサステナビリティを両立する、AVEVAの産業向けDXソリューション一覧。"
+ },
+ "http://www.schneider-electric-dms.com": {
+  "themen": [],
+  "wertversprechen": [],
+  "branchen": [],
+  "cta_typen": [
+   "sonstiges"
+  ],
+  "hauptbotschaft": ""
  }
 }

@@ -1,6 +1,6 @@
 {
  "firma": "Siemens Teamcenter Visualization",
- "abgerufen": "2026-11-04",
+ "abgerufen": "2026-11-09",
  "artikel": [
   {
    "titel": "HPC-Simulationen mit Siemens Teamcenter und AWS ParallelCluster schneller ausführen",
@@ -151,6 +151,17 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Digital unterwegs: Hymer denkt das Reisemobil neu",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlFhSDlrNkxWOUE2YXJFeG9zSzlvUWhIWmdjT3dHRGxIY25QWUpPUXFaaTFQZk1zT081Rm1sWFd1Z1JhVm1yekpQZmxZWlBCZVlSV05nR2N2alhtV0JBNGMzamNOTzU5d1A5UkNZWFF1RmxJV2RwSEhSVDlKS0pXcXI1NTNuYnhBdEVlWTVlY2Exdw?oc=5",
+   "quelle": "Siemens",
+   "datum": "2026-02-13",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-09"
+  },
+  {
    "titel": "Siemens adds Simcenter X Advanced to cloud simulation platform",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQam9TVVZtMlFUQ0g4MTlZMHk0RUp1MjhTU0dITF9PQzBtLVdQZWtvUnpLMDZFQ3NzN2pxSDZ1TzF6OGlhNkFBZWRCbHNOX0R2M3I4amJLMmRQQTJ1NWZUMTJqajAyN2dMMkpyX2NHWXBib1Q1NFBWb2lXcVdPZUJCaGtqS3ZmeXpCYm9UalNmQXlhNi1BcVE?oc=5",
    "quelle": "Engineering.com",
@@ -195,6 +206,17 @@
    "erstmals": "2026-11-04"
   },
   {
+   "titel": "Siemens to deliver photorealism-enhanced digital twin with NVIDIA Omniverse and Teamcenter Digital Reality Viewer",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82NnRXT0Z4NTA5SFV4cklJZHFONnNTZ21zaGlKWnFWVkhRRV9ZVXdnQUxxeFdrTENYaDhTa3lvQklDMHZxcU1sem9Tb0NNZXB4S2M3WjNESzVyT2k5ck1mam5QV0YzeXc2M2xwcW8xOHY5UlQ1eV9JY05UaXRoQQ?oc=5",
+   "quelle": "Siemens Newsroom",
+   "datum": "2025-08-26",
+   "auszug": "",
+   "region": "EU",
+   "herkunft": "Google News",
+   "suche": "\"Teamcenter\" visualization",
+   "erstmals": "2026-11-04"
+  },
+  {
    "titel": "Building Photorealistic Digital Twins With Siemens Teamcenter Digital Reality Viewer | NVIDIA Technical Blog",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEdSYWtma3QzUlZxQVR2SFlWN2libFEza1p1WXNRcjNQTVBMbU02TllmRTBNVUZoaTBtZ3ZJYlE1SDFaLVZiaW9pZDFqSTRjd2F0VXFzTHltQjlaT2E3dW12V2VVYUZkSnhqNE5pV2dSOGlGbzV0ckQybm5LSnlnRHhIbmoxMmpKNzVXbmdRVUhDX2JpT2k0YmtDOHg4N1dIcUt5S044OFFvdU1nZF94WC0wRlpIVTdfQmRR?oc=5",
    "quelle": "NVIDIA Developer",
@@ -204,6 +226,17 @@
    "herkunft": "Google News",
    "suche": "\"Teamcenter\" visualization",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Latest Siemens' Teamcenter X Versions: Accelerating Digital Transformation",
+   "link": "https://www.etmm-online.com/siemens-teamcenter-x-new-versions-digital-transformation-a-5f3883a6ceda6d096615d0bb52cd410f/",
+   "quelle": "ETMM",
+   "datum": "2025-04-27",
+   "auszug": "New versions of Siemens’ Teamcenter X are making it easier than ever for organizations of all sizes to accelerate digital ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Teamcenter\" Siemens 3D",
+   "erstmals": "2026-11-09"
   },
   {
    "titel": "Siemens expands Teamcenter X to broaden PLM access for all businesses",
@@ -225,17 +258,6 @@
    "region": "EU",
    "herkunft": "Google News",
    "suche": "\"Teamcenter\" Siemens 3D",
-   "erstmals": "2026-11-04"
-  },
-  {
-   "titel": "Siemens to deliver photorealism-enhanced digital twin with NVIDIA Omniverse and Teamcenter Digital Reality Viewer",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SekpjRDFoaUV1NUd3ZFpxaGpMMWd1ZGlhald2aDJuRzh5VjFXaUhpeU0xQTl3NThHRm1NbVJTa00yZDYxbFB5OVYyeXZvNGJncFRsRkdFRUFiMEZrc0lLVTZ0TmhINlZnYjNwaldOME5LTzQ2bVU1cWFLVVBSdw?oc=5",
-   "quelle": "Siemens Newsroom",
-   "datum": "2025-01-07",
-   "auszug": "",
-   "region": "USA",
-   "herkunft": "Google News",
-   "suche": "\"Teamcenter\" visualization",
    "erstmals": "2026-11-04"
   },
   {
