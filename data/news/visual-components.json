@@ -1,6 +1,6 @@
 {
  "firma": "Visual Components",
- "abgerufen": "2026-11-09",
+ "abgerufen": "2026-11-16",
  "artikel": [
   {
    "titel": "Visual Components launches FactoryLens with NVIDIA for industrial digital twins",
@@ -155,6 +155,17 @@
    "herkunft": "Google News",
    "suche": "\"Visual Components\"",
    "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "Visual Studio Product Lifecycle and Servicing",
+   "link": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/servicing-vs",
+   "quelle": "learn",
+   "datum": "2026-01-21",
+   "auszug": "Visual Studio starting with version 2026 follows the Microsoft Product Modern Lifecycle Policy. The first year of support ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Visual Components\"",
+   "erstmals": "2026-11-16"
   },
   {
    "titel": "Purdue Polytechnic partners with Visual Components to create digital twin of Smart Learning Factory",

@@ -1,22 +1,12 @@
 {
  "firma": "Tech Soft 3D",
- "abgerufen": "2026-11-09",
+ "abgerufen": "2026-11-16",
  "artikel": [
   {
-   "titel": "Unlocking the Power of CAD Data in AI",
-   "link": "https://www.techsoft3d.com/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
-   "quelle": "eigene Website",
-   "datum": "2026-11-09",
-   "auszug": "Why is CAD data so hard to use in AI? Learn the challenges of training machine learning models on CAD, and how HOOPS AI helps developers close the gap.",
-   "herkunft": "Website",
-   "region": "",
-   "erstmals": "2026-11-09"
-  },
-  {
    "titel": "3 Wege, wie Ihre CAD-Daten wertvoller sind, als Sie dachten",
-   "link": "https://www.techsoft3d.com/de/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "link": "https://www.techsoft3d.com/de/resources/blog/3-ways-your-cad-data-is-more-valuable-than-you-thought/",
    "quelle": "eigene Website",
-   "datum": "2026-11-09",
+   "datum": "2026-11-11",
    "auszug": "Engineering-Daten werden immer wertvoller. Basierend auf einem Webinar mit VNTANA sind hier 3 Wege, wie die Engineering-Daten, die Sie bereits haben, mehr wert sein können, als Sie erwarten.",
    "herkunft": "Website",
    "region": "",
@@ -24,9 +14,9 @@
   },
   {
    "titel": "HOOPS Envision Ajoute une Visualisation des Particules",
-   "link": "https://www.techsoft3d.com/fr/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "link": "https://www.techsoft3d.com/fr/resources/blog/3-ways-your-cad-data-is-more-valuable-than-you-thought/",
    "quelle": "eigene Website",
-   "datum": "2026-11-09",
+   "datum": "2026-11-11",
    "auszug": "La nouvelle visualisation des particules de HOOPS Envision lit et rend les données de simulation de particules discrètes DEM, SPH et autres sur bureau, web et Python.",
    "herkunft": "Website",
    "region": "",
@@ -34,9 +24,9 @@
   },
   {
    "titel": "HOOPS Envision Añade Visualización de Partículas",
-   "link": "https://www.techsoft3d.com/es/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "link": "https://www.techsoft3d.com/es/resources/blog/3-ways-your-cad-data-is-more-valuable-than-you-thought/",
    "quelle": "eigene Website",
-   "datum": "2026-11-09",
+   "datum": "2026-11-11",
    "auszug": "La nueva visualización de partículas de HOOPS Envision lee y renderiza datos de simulación de partículas discretas, como DEM y SPH, en el escritorio, la web y Python.",
    "herkunft": "Website",
    "region": "",
@@ -44,10 +34,30 @@
   },
   {
    "titel": "HOOPS Envision に粒子可視化が追加されました",
-   "link": "https://www.techsoft3d.com/ja-jp/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
+   "link": "https://www.techsoft3d.com/ja-jp/resources/blog/3-ways-your-cad-data-is-more-valuable-than-you-thought/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-11",
+   "auszug": "HOOPS Envisionの新しい粒子可視化は、デスクトップ、ウェブ、およびPython全体でDEM、SPH、およびその他の個別粒子シミュレーションデータを読み取り、レンダリングします。",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "3 Ways Your CAD Data Is More Valuable Than You Thought",
+   "link": "https://www.techsoft3d.com/resources/blog/3-ways-your-cad-data-is-more-valuable-than-you-thought/",
+   "quelle": "eigene Website",
+   "datum": "2026-11-11",
+   "auszug": "Engineering data is only getting more valuable. Based on a webinar with VNTANA, here are 3 ways the engineering data you already have may be worth more than you expect.",
+   "herkunft": "Website",
+   "region": "",
+   "erstmals": "2026-11-16"
+  },
+  {
+   "titel": "Unlocking the Power of CAD Data in AI",
+   "link": "https://www.techsoft3d.com/resources/blog/unlocking-the-power-of-cad-data-in-ai/",
    "quelle": "eigene Website",
    "datum": "2026-11-09",
-   "auszug": "HOOPS Envisionの新しい粒子可視化は、デスクトップ、ウェブ、およびPython全体でDEM、SPH、およびその他の個別粒子シミュレーションデータを読み取り、レンダリングします。",
+   "auszug": "Why is CAD data so hard to use in AI? Learn the challenges of training machine learning models on CAD, and how HOOPS AI helps developers close the gap.",
    "herkunft": "Website",
    "region": "",
    "erstmals": "2026-11-09"
@@ -253,10 +263,10 @@
   },
   {
    "titel": "Tech Soft 3D Announces Full Launch of HOOPS AI, Adding Embeddings & Linux Support",
-   "link": "https://www.01net.it/tech-soft-3d-announces-full-launch-of-hoops-ai-adding-embeddings-linux-support/",
-   "quelle": "01Net",
+   "link": "https://finance.yahoo.com/sectors/technology/articles/tech-soft-3d-announces-full-120000691.html",
+   "quelle": "Yahoo Finance",
    "datum": "2026-03-30",
-   "auszug": "BEND, Ore.--(BUSINESS WIRE)--Tech Soft 3D, the world leader in providing engineering software development toolkits (SDKs ...",
+   "auszug": "BEND, Ore., March 30, 2026--(BUSINESS WIRE)--Tech Soft 3D, the world leader in providing engineering software development ...",
    "region": "EU",
    "herkunft": "Bing News",
    "suche": "\"Tech Soft 3D\"",

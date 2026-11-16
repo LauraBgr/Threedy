@@ -1,7 +1,40 @@
 {
  "firma": "PTC Creo View",
- "abgerufen": "2026-11-09",
+ "abgerufen": "2026-11-16",
  "artikel": [
+  {
+   "titel": "Success Stories of MBD Development Utilizing 3DA Models with Creo",
+   "link": "https://note.com/ptcjapan/n/n12e285a5bb0b?hl=en",
+   "quelle": "note",
+   "datum": "2026-11-09",
+   "auszug": "Here, we introduce success stories of MBD development that utilize 3DA models by implementing Creo, a 3D CAD software that supports 3DA.GE AppliancesGE Appliances, a home appliance manufacturer under ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Creo View\"",
+   "erstmals": "2026-11-16"
+  },
+  {
+   "titel": "Creo 도입을 통한 3DA 모델 활용 MBD 개발 성공 사례",
+   "link": "https://note.com/ptcjapan/n/n12e285a5bb0b?hl=ko",
+   "quelle": "note",
+   "datum": "2026-11-09",
+   "auszug": "여기에서는 3DA 대응 3D CAD인 Creo를 도입하여 3DA 모델을 활용한 MBD 개발 성공 사례를 소개합니다.GE Appliances하이얼 산하의 가전 제조사인 GE Appliances는 수년간 Creo 및 Creo View를 사용해 왔습니다. 2018년에는 휴먼 리더블(사람이 읽을 수 있는)뿐만 아니라 머신 리더블(기계가 읽을 수 있는)에도 대응하기 ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Creo View\"",
+   "erstmals": "2026-11-16"
+  },
+  {
+   "titel": "3DA Measures Utilizing CAD Data in Automotive Parts Design",
+   "link": "https://note.com/ptcjapan/n/n395c5a3dfe6c?hl=en",
+   "quelle": "note",
+   "datum": "2026-11-08",
+   "auszug": "In the exchange of product technical information for assembled parts between OEMs and suppliers, the movement to make 3D drawings the industry standard is becoming active. It is time for automotive ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Creo View\"",
+   "erstmals": "2026-11-16"
+  },
   {
    "titel": "PTC Solutions for Realizing a 'Digital Thread' in the Medical Device Industry",
    "link": "https://note.com/ptcjapan/n/ne25e5f063dbd?hl=en",
@@ -93,12 +126,12 @@
    "erstmals": "2026-11-04"
   },
   {
-   "titel": "Future of AI, Digital Thread With PTC : Automotive Executive Exchange In Delhi",
-   "link": "https://www.ndtv.com/auto/future-of-ai-digital-thread-with-ptc-automotive-executive-exchange-in-delhi-11493676",
-   "quelle": "NDTV",
+   "titel": "Future of AI, digital thread with PTC: Automotive executive exchange in Delhi",
+   "link": "https://www.msn.com/en-in/money/news/future-of-ai-digital-thread-with-ptc-automotive-executive-exchange-in-delhi/ar-AA23a78z",
+   "quelle": "MSN",
    "datum": "2026-05-14",
-   "auszug": "The Automotive Executive Exchange in Delhi turned into a timely checkpoint for the auto industry's next phase, where the ...",
-   "region": "EU",
+   "auszug": "The Automotive Executive Exchange in Delhi turned into a timely checkpoint for the auto industry's next phase, where the conversation was no longer just about electrification or software-defined ...",
+   "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"PTC\" \"digital thread\"",
    "erstmals": "2026-11-04"

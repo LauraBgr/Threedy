@@ -1,0 +1,25 @@
+{
+ "firma": "Threedy",
+ "region": "EU",
+ "url": "https://www.threedy.io/product-newsletter",
+ "datum": "2026-11-16",
+ "fingerabdruck": "eac6426df365da65",
+ "titel": "Product Newsletter",
+ "beschreibung": "Make complex 3D data available in real time across departments and devices. Threedy helps teams work with reliable engineering data across the business.",
+ "sprache": "en",
+ "ueberschriften": [
+  "AI Agents and Live 3D Data: What Works in Production",
+  "For Teams Working With Large CAD and PLM Data",
+  "How Your AI Works With Live 3D Data",
+  "Proven at Enterprise Scale",
+  "Written by Practitioners",
+  "From the Last Few Issues",
+  "Stay Updated"
+ ],
+ "cta_kandidaten": [
+  "Contact Us",
+  "Book a Demo Book a Demo",
+  "contact@threedy.io"
+ ],
+ "text": "AI Agents and Live 3D Data: What Works in Production A briefing for engineering, PLM, and IT leaders who want AI to work with real product data. Learn how AI agents measure, check, and explain live CAD models through instant3Dhub. Agentic 3D use cases from engineering, sales, and service One email per month, readable in five minutes GDPR-compliant double opt-in. Unsubscribe at any time Trusted by Leading Engineering Enterprises For Teams Working With Large CAD and PLM Data Agentic 3D Use Cases AI agents that check designs against company rules, answer technical questions in sales, and guide technicians to the right part. Connecting Your Own AI Keep Copilot, Claude, OpenAI, or your internal model. Connect it to live CAD data through MCP, Microsoft Copilot, or Teams. Control and Data Security Your PLM stays the master copy and its permissions apply. AI receives part names, metadata, and measurements, never CAD geometry. instant3Dhub Releases New AI tools, supported CAD formats, and SDK updates. What changed and what it means for your integration. How Your AI Works With Live 3D Data instant3Dhub connects to your PLM once. Every agent and app then uses that same connection. 01 A Person Asks a Question In Microsoft Copilot, Teams, or the AI assistant your company already uses. 02 The AI Queries instant3Dhub It finds the parts in the live model, reads their data, and takes measurements. 03 The Answer Comes Back in 3D With the measured value, linked to the exact part. A person makes the final decision. Proven at Enterprise Scale ~99% Faster 3D data access at Daimler Truck, from 35 minutes to seconds 30,000+ Active instant3Dhub users 50+ GB Full-vehicle models at full fidelity in a standard browser 0 GPUs Needed on server or client Sources: Threedy; Frost & Sullivan, 2026 European Customer Value Leadership Recognition. Written by Practitioners If it’s in the newsletter, someone on our team has worked on it. You’ll hear from the Threedy team working directly with customers like BMW, Daimler Truck, and TRUMPF. Christian Stein Co-Founder & CEO Threedy Hannes Krug Senior Product Manager Threedy From the Last Few Issues Product Update Your 3D Data Is Now Accessible to AI Agents Your AI can now find parts in a live CAD model, read their data, and take measurements. Every answer links back to the exact part. October 2026 Read on LinkedIn Release Notes What’s New in instant3Dhub 3.13: AI Edition The AI features in release 3.13, with notes on setup and what changes for your integration. June 2026 Read on LinkedIn Agentic 3D Agentic 3D: What We’re Building at Threedy Three ways to connect AI to live 3D data: a dedicated agent, your own AI via MCP, or Microsoft Copilot and Teams. March 2026 Read on LinkedIn Stay Updated We build instant3Dhub. It connects live CAD data from your PLM to any browser, device, and AI agent. This newsletter shares what we learn from Agentic 3D projects and our own development."
+}

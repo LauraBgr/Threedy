@@ -78,12 +78,11 @@
   "region": "USA",
   "gefahr": 4,
   "produkt": "Tripo Agentic Canvas",
-  "begruendung": "Tripo AI's Agentic Canvas enables AI agents to execute 3D workflows, representing a direct evolution toward agentic 3D content creation and manipulation, which could integrate with or compete against Threedy's AI-driven 3D workflows.",
+  "begruendung": "Tripo AI's Tripo Agentic Canvas enables AI agents to build and execute 3D workflows, which aligns with Threedy's 'Agentic 3D' vision. This represents a strong overlap in AI-driven 3D content creation and workflow automation.",
   "schlagwoerter": [
-   "agentic AI",
-   "AI 3D workflows",
-   "node-based",
-   "3D creation"
+   "Agentic Canvas",
+   "AI agent",
+   "3D workflows"
   ],
   "quellen": [
    {
@@ -94,8 +93,8 @@
    }
   ],
   "erstmals": "2026-11-04",
-  "zuletzt": "2026-11-09",
-  "laeufe": 2,
+  "zuletzt": "2026-11-16",
+  "laeufe": 3,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -171,13 +170,12 @@
   "art": "wettbewerber",
   "region": "USA",
   "gefahr": 3,
-  "produkt": "Agentic AI platform for value chain",
-  "begruendung": "RELEX’s agentic AI platform aims to orchestrate the entire value chain, indicating a strategic move toward AI-driven industrial operations that could incorporate 3D data and visualization, posing a moderate threat.",
+  "produkt": "Agentic AI platform for value chain orchestration",
+  "begruendung": "RELEX's agentic AI platform aims to orchestrate the entire value chain, which could integrate 3D data and digital twins for supply chain and manufacturing optimization, placing it in a strategic adjacent space to Threedy.",
   "schlagwoerter": [
-   "agentic AI",
+   "Agentic AI",
    "value chain",
-   "orchestration",
-   "industrial AI"
+   "orchestrate"
   ],
   "quellen": [
    {
@@ -188,8 +186,8 @@
    }
   ],
   "erstmals": "2026-11-04",
-  "zuletzt": "2026-11-09",
-  "laeufe": 2,
+  "zuletzt": "2026-11-16",
+  "laeufe": 3,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -251,7 +249,7 @@
   "zuletzt": "2026-11-04",
   "laeufe": 1,
   "status": "aufgenommen",
-  "erwaehnungen": 43,
+  "erwaehnungen": 47,
   "website": "http://www.schneider-electric-dms.com"
  },
  "nvidia": {
@@ -310,13 +308,12 @@
   "art": "wettbewerber",
   "region": "EU",
   "gefahr": 3,
-  "produkt": "3D-Scan and Digital Twin for factory layout",
-  "begruendung": "BeeWaTec uses 3D scanning and digital twins for factory layout and logistics optimization, indicating a growing trend in industrial digital twins that could expand into web-based 3D visualization, posing a moderate competitive threat.",
+  "produkt": "digital twin for factory layout planning",
+  "begruendung": "BeeWaTec uses 3D scanning and digital twins for factory layout and material flow optimization, indicating a focus on industrial 3D visualization and digital twin applications that could compete with Threedy in service and manufacturing use cases.",
   "schlagwoerter": [
    "3D-Scan",
    "digital twin",
-   "factory layout",
-   "material flow"
+   "layout planning"
   ],
   "quellen": [
    {
@@ -327,8 +324,8 @@
    }
   ],
   "erstmals": "2026-11-09",
-  "zuletzt": "2026-11-09",
-  "laeufe": 1,
+  "zuletzt": "2026-11-16",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -364,13 +361,11 @@
   "art": "wettbewerber",
   "region": "USA",
   "gefahr": 3,
-  "produkt": "Agentic AI Services for value chain orchestration",
-  "begruendung": "Quantiphi is recognized as a leader in agentic AI services for orchestrating industrial value chains, suggesting a platform-level capability that could integrate with or compete against Threedy’s agentic 3D workflows.",
+  "produkt": "Agentic AI services",
+  "begruendung": "Quantiphi is recognized as a leader in Agentic AI services, with a focus on enterprise AI delivery. Its capabilities could extend into industrial 3D data workflows, making it a potential future competitor in AI-driven 3D applications.",
   "schlagwoerter": [
-   "agentic AI",
-   "value chain",
-   "AI services",
-   "industrial AI"
+   "Agentic AI services",
+   "Leader in Agentic AI Services"
   ],
   "quellen": [
    {
@@ -381,8 +376,8 @@
    }
   ],
   "erstmals": "2026-11-09",
-  "zuletzt": "2026-11-09",
-  "laeufe": 1,
+  "zuletzt": "2026-11-16",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -392,10 +387,9 @@
   "region": "USA",
   "gefahr": 3,
   "produkt": "Agentic AI for manufacturing",
-  "begruendung": "Genpact is exploring agentic AI to build future factories, indicating a strategic focus on AI-driven industrial transformation that may include 3D visualization and digital twin integration.",
+  "begruendung": "Genpact is exploring agentic AI to build future factories, which may involve 3D visualization and digital twin integration. This places it in a strategic adjacent space to Threedy’s industrial use cases.",
   "schlagwoerter": [
-   "agentic AI",
-   "manufacturing",
+   "Agentic AI",
    "factories of the future"
   ],
   "quellen": [
@@ -407,8 +401,8 @@
    }
   ],
   "erstmals": "2026-11-09",
-  "zuletzt": "2026-11-09",
-  "laeufe": 1,
+  "zuletzt": "2026-11-16",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -417,8 +411,8 @@
   "art": "partner",
   "region": "USA",
   "gefahr": 2,
-  "produkt": "Physical AI for adaptive robotics",
-  "begruendung": "TCS is exploring physical AI with NVIDIA Omniverse, indicating collaboration in industrial AI and digital twin environments, but not a direct competitor to Threedy’s 3D visualization platform.",
+  "produkt": "Physical AI for adaptive robotics with NVIDIA Omniverse",
+  "begruendung": "TCS is exploring physical AI with NVIDIA Omniverse for adaptive robotics, indicating integration of 3D simulation and AI. As a partner, it may develop internal 3D visualization tools.",
   "schlagwoerter": [
    "Physical AI",
    "adaptive robotics",
@@ -433,8 +427,8 @@
    }
   ],
   "erstmals": "2026-11-09",
-  "zuletzt": "2026-11-09",
-  "laeufe": 1,
+  "zuletzt": "2026-11-16",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -443,8 +437,8 @@
   "art": "partner",
   "region": "EU",
   "gefahr": 2,
-  "produkt": "5G-powered robot control via Omniverse",
-  "begruendung": "NTT DATA uses Omniverse to control robots via 5G, showing integration with industrial digital twin platforms, but not a direct threat to Threedy’s core 3D visualization offering.",
+  "produkt": "5G-based robot control via NVIDIA Omniverse",
+  "begruendung": "NTT DATA is using NVIDIA Omniverse for 5G-based robot control, which involves 3D simulation and visualization. While a partner in the ecosystem, it could develop in-house 3D visualization capabilities.",
   "schlagwoerter": [
    "5G",
    "robot control",
@@ -459,8 +453,8 @@
    }
   ],
   "erstmals": "2026-11-09",
-  "zuletzt": "2026-11-09",
-  "laeufe": 1,
+  "zuletzt": "2026-11-16",
+  "laeufe": 2,
   "status": "beobachtet",
   "erwaehnungen": 1
  },
@@ -513,5 +507,62 @@
   "laeufe": 1,
   "status": "beobachtet",
   "erwaehnungen": 1
+ },
+ "kpipartners": {
+  "name": "KPI Partners",
+  "art": "wettbewerber",
+  "region": "USA",
+  "gefahr": 3,
+  "produkt": "Agentic and enterprise AI delivery",
+  "begruendung": "KPI Partners is expanding its Hyderabad office to scale enterprise AI delivery, including agentic AI. This indicates a growing focus on industrial AI solutions that could integrate 3D data and visualization, posing a potential future threat.",
+  "schlagwoerter": [
+   "Agentic AI",
+   "enterprise AI delivery"
+  ],
+  "quellen": [
+   {
+    "titel": "KPI Partners Inaugurates Expanded Hyderabad Office to Scale Agentic and Enterprise AI Delivery",
+    "link": "https://www.jsonline.com/press-release/story/264724/kpi-partners-inaugurates-expanded-hyderabad-office-to-scale-agentic-and-enterprise-ai-delivery/",
+    "datum": "2026-11-06",
+    "quelle": "Milwaukee Journal Sentinel"
+   }
+  ],
+  "erstmals": "2026-11-16",
+  "zuletzt": "2026-11-16",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 1
+ },
+ "nscale": {
+  "name": "Nscale",
+  "art": "partner",
+  "region": "USA",
+  "gefahr": 2,
+  "produkt": "AI cloud infrastructure for data centers",
+  "begruendung": "Nscale is a partner in Schneider Electric’s AI factory pilot using NVIDIA Omniverse. As an AI infrastructure provider, it may develop 3D visualization features to support its clients.",
+  "schlagwoerter": [
+   "AI cloud infrastructure",
+   "NVIDIA Omniverse",
+   "digital twin"
+  ],
+  "quellen": [
+   {
+    "titel": "How are Schneider Electric, Nscale and Start Campus using NVIDIA digital twin technology to develop AI data centers?",
+    "link": "https://www.msn.com/en-us/technology/tech-companies/how-are-schneider-electric-nscale-and-start-campus-using-nvidia-digital-twin-technology-to-develop-ai-data-centers/ar-AA2gbpdn",
+    "datum": "2026-10-27",
+    "quelle": "InvestorsHub on MSN"
+   },
+   {
+    "titel": "Schneider Electric, AVEVA, Nscale and Start Campus pilot AI digital twin",
+    "link": "https://www.engineering.com/schneider-electric-aveva-nscale-and-start-campus-pilot-ai-digital-twin/",
+    "datum": "2026-10-22",
+    "quelle": "Engineering.com"
+   }
+  ],
+  "erstmals": "2026-11-16",
+  "zuletzt": "2026-11-16",
+  "laeufe": 1,
+  "status": "beobachtet",
+  "erwaehnungen": 3
  }
 }

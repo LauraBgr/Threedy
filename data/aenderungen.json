@@ -1,5 +1,77 @@
 [
  {
+  "firma": "AVEVA",
+  "url": "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/",
+  "art": "geändert",
+  "vorher": "schnappschuesse/aveva/www-aveva-com-en-our-industrial-life-type-article-modular-construction-a-storied-alternati__2026-11-09.json",
+  "neue_ueberschriften": [
+   "In the zone: When industries make friends"
+  ],
+  "entfernte_ueberschriften": [
+   "Energy companies are pressing CTRL+P on replacement parts"
+  ],
+  "neue_themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "sdk_und_api",
+   "cloud_und_saas"
+  ],
+  "neue_aussagen": [
+   "lower environmental impact",
+   "better resource efficiency",
+   "scalable project execution"
+  ],
+  "entfernte_aussagen": [
+   "sustainability benefits",
+   "logistics optimization",
+   "standardized components"
+  ],
+  "neue_branchen": [
+   "industrial_manufacturing"
+  ],
+  "botschaft_vorher": "Modular construction offers EPC firms a storied and increasingly relevant alternative for efficient, safe, and sustainable project delivery in challenging environments.",
+  "botschaft_jetzt": "Modular construction offers EPC firms a proven, efficient, and sustainable alternative for building in remote and challenging environments.",
+  "datum": "2026-11-16"
+ },
+ {
+  "firma": "AVEVA",
+  "url": "http://www.aveva.com/",
+  "art": "geändert",
+  "vorher": "schnappschuesse/aveva/www-aveva-com__2026-11-09.json",
+  "neue_ueberschriften": [],
+  "entfernte_ueberschriften": [
+   "Submit your story for AVEVA World 2027"
+  ],
+  "neue_themen": [
+   "ki_und_agenten"
+  ],
+  "entfernte_themen": [
+   "browserbasiert",
+   "streaming_grosser_daten"
+  ],
+  "neue_aussagen": [
+   "centralized industrial backbone",
+   "grow at scale"
+  ],
+  "entfernte_aussagen": [
+   "unify information",
+   "deepen collaboration"
+  ],
+  "entfernte_ctas": [
+   "preise",
+   "download",
+   "newsletter",
+   "sonstiges"
+  ],
+  "datum": "2026-11-16"
+ },
+ {
+  "firma": "Threedy",
+  "url": "https://www.threedy.io/product-newsletter",
+  "art": "neue Seite",
+  "datum": "2026-11-16"
+ },
+ {
   "firma": "Schneider Electric",
   "url": "http://www.schneider-electric-dms.com",
   "art": "neue Seite",

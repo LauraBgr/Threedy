@@ -1,6 +1,6 @@
 {
  "firma": "NVIDIA Omniverse",
- "abgerufen": "2026-11-09",
+ "abgerufen": "2026-11-16",
  "artikel": [
   {
    "titel": "TCS and Volvo explore Physical AI for adaptive industrial robotics with NVIDIA Omniverse Libraries",
@@ -15,10 +15,10 @@
   },
   {
    "titel": "Schneider Electric, Nscale and Start Campus Bring the NVIDIA Omniverse DSX Blueprint into a Live AI Factory Environment",
-   "link": "https://markets.businessinsider.com/news/stocks/schneider-electric-nscale-and-start-campus-bring-the-nvidia-omniverse-dsx-blueprint-into-a-live-ai-factory-environment-1036670716",
-   "quelle": "Markets Insider",
+   "link": "https://www.theglobeandmail.com/investing/markets/stocks/SBGSY/pressreleases/8473338/schneider-electric-nscale-and-start-campus-bring-the-nvidia-omniverse-dsx-blueprint-into-a-live-ai-factory-environment/",
+   "quelle": "The Globe and Mail",
    "datum": "2026-10-27",
-   "auszug": "Built using the NVIDIA Omniverse DSX Blueprint, the Immersive Twin pilot connects Schneider Electric, AVEVA, and ETAP technology in one digital ...",
+   "auszug": "Detailed price information for Schneider Elec ADR (SBGSY) from The Globe and Mail including charting and trades.",
    "region": "USA",
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" industrial digital twin",
@@ -78,6 +78,17 @@
    "herkunft": "Google News",
    "suche": "\"Omniverse\" manufacturing",
    "erstmals": "2026-11-04"
+  },
+  {
+   "titel": "Toyota Material Handling develops simulation environment for autonomous industrial trucks",
+   "link": "https://logistra.de/en/news/toyota-material-handling-develops-simulation-environment-autonomous-industrial-trucks-525668.html",
+   "quelle": "LOGISTRA",
+   "datum": "2026-10-10",
+   "auszug": "Toyota Material Handling Europe integrates Nvidia Omniverse and Isaac Sim into the development of autonomous industrial trucks. The simulation environment developed by SoftServe virtually maps ...",
+   "region": "EU",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-16"
   },
   {
    "titel": "Visual Components launches Nvidia-powered FactoryLens for industrial digital twins",
@@ -569,6 +580,28 @@
    "herkunft": "Bing News",
    "suche": "\"Omniverse\" industrial digital twin",
    "erstmals": "2026-11-09"
+  },
+  {
+   "titel": "NVIDIA Expands Omniverse with Generative Physical AI",
+   "link": "https://www.engineering.com/nvidia-expands-omniverse-with-generative-physical-ai/",
+   "quelle": "Engineering",
+   "datum": "2025-01-07",
+   "auszug": "New models, such as Cosmos World Foundation Models and Omniverse Mega Factory, along with the Robotic Digital Twin Blueprint, lay the foundation for industrial AI. “Physical AI will revolutionize the ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-16"
+  },
+  {
+   "titel": "Siemens unveils breakthrough innovations in industrial AI and digital twin technology at CES 2025",
+   "link": "https://www.streetinsider.com/PRNewswire/Siemens+unveils+breakthrough+innovations+in+industrial+AI+and+digital+twin+technology+at+CES+2025/24176122.html",
+   "quelle": "streetinsider",
+   "datum": "2025-01-06",
+   "auszug": "LAS VEGAS and MUNICH, Jan. 6, 2025 /PRNewswire/ -- Siemens is showcasing its vision for the future where data, AI and software-defined automation will converge to enable unprecedented flexibility, ...",
+   "region": "USA",
+   "herkunft": "Bing News",
+   "suche": "\"Omniverse\" industrial digital twin",
+   "erstmals": "2026-11-16"
   },
   {
    "titel": "NVIDIA Announces Omniverse Real-Time Physics Digital Twins With Industry Software Leaders",

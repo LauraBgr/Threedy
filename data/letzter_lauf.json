@@ -1,5 +1,5 @@
 {
- "datum": "2026-11-09",
+ "datum": "2026-11-16",
  "seiten": 39,
  "fehler": [
   {
@@ -11,53 +11,200 @@
    "firma": "KISTERS 3DViewStation",
    "url": "https://viewer.kisters.de/de/produkte/3dviewstation-produktfamilie.html",
    "fehler": "robots.txt verbietet den Abruf"
+  },
+  {
+   "firma": "Threedy",
+   "url": "News",
+   "fehler": "Google News EU '\"Threedy\" 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Threedy",
+   "url": "News",
+   "fehler": "Google News USA '\"Threedy\" 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Threedy",
+   "url": "News",
+   "fehler": "Google News EU '\"instant3Dhub\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "News",
+   "fehler": "Google News EU '\"Vertex Software\" 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "News",
+   "fehler": "Google News USA '\"Vertex Software\" 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Vertex Software",
+   "url": "News",
+   "fehler": "Google News EU '\"Vertex Software\" PLM': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "News",
+   "fehler": "Google News EU '\"Tech Soft 3D\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "News",
+   "fehler": "Google News USA '\"Tech Soft 3D\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Tech Soft 3D",
+   "url": "News",
+   "fehler": "Google News EU '\"HOOPS Exchange\" OR \"HOOPS Communicator\" OR \"HOOPS Visualize\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "News",
+   "fehler": "Google News EU '\"3DViewStation\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "News",
+   "fehler": "Google News USA '\"3DViewStation\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "KISTERS 3DViewStation",
+   "url": "News",
+   "fehler": "Google News EU '\"KISTERS\" 3D viewer': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "News",
+   "fehler": "Google News EU '\"Creo View\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "News",
+   "fehler": "Google News USA '\"Creo View\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "PTC Creo View",
+   "url": "News",
+   "fehler": "Google News EU '\"PTC\" visualization 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Siemens Teamcenter Visualization",
+   "url": "News",
+   "fehler": "Google News EU '\"Teamcenter\" visualization': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Siemens Teamcenter Visualization",
+   "url": "News",
+   "fehler": "Google News USA '\"Teamcenter\" visualization': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Siemens Teamcenter Visualization",
+   "url": "News",
+   "fehler": "Google News EU '\"Teamcenter\" Siemens 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "News",
+   "fehler": "Google News EU '\"3DEXPERIENCE\" Dassault': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "News",
+   "fehler": "Google News USA '\"3DEXPERIENCE\" Dassault': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Dassault 3DEXPERIENCE",
+   "url": "News",
+   "fehler": "Google News EU '\"Dassault Systèmes\" \"virtual twin\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "NVIDIA Omniverse",
+   "url": "News",
+   "fehler": "Google News EU '\"Omniverse\" industrial digital twin': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "NVIDIA Omniverse",
+   "url": "News",
+   "fehler": "Google News USA '\"Omniverse\" industrial digital twin': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "NVIDIA Omniverse",
+   "url": "News",
+   "fehler": "Google News EU '\"Omniverse\" manufacturing': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "AVEVA",
+   "url": "News",
+   "fehler": "Google News EU '\"AVEVA\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "AVEVA",
+   "url": "News",
+   "fehler": "Google News USA '\"AVEVA\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Schneider Electric",
+   "url": "News",
+   "fehler": "Google News EU '\"Schneider Electric\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Schneider Electric",
+   "url": "News",
+   "fehler": "Google News USA '\"Schneider Electric\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Synera",
+   "url": "News",
+   "fehler": "Google News EU '\"Synera\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Synera",
+   "url": "News",
+   "fehler": "Google News USA '\"Synera\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Visual Components",
+   "url": "News",
+   "fehler": "Google News EU '\"Visual Components\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "Visual Components",
+   "url": "News",
+   "fehler": "Google News USA '\"Visual Components\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "_markt",
+   "url": "News",
+   "fehler": "Google News EU '\"industrial 3D visualization\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "_markt",
+   "url": "News",
+   "fehler": "Google News USA '\"industrial 3D visualization\"': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
+  },
+  {
+   "firma": "_markt",
+   "url": "News",
+   "fehler": "Google News EU '\"digital twin\" manufacturing 3D': 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc"
   }
  ],
  "aenderungen": [
   {
+   "firma": "Threedy",
+   "url": "https://www.threedy.io/product-newsletter",
+   "art": "neu erfasst"
+  },
+  {
    "firma": "AVEVA",
    "url": "http://www.aveva.com/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/en/info/intouch-hmi-pricing/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/ja-jp/info/intouch-hmi-pricing/",
-   "art": "neu erfasst"
+   "art": "geändert",
+   "vorher": "schnappschuesse/aveva/www-aveva-com__2026-11-09.json"
   },
   {
    "firma": "AVEVA",
    "url": "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/en/solutions/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/en/industries/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/fr-fr/solutions/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "AVEVA",
-   "url": "https://www.aveva.com/ja-jp/solutions/",
-   "art": "neu erfasst"
-  },
-  {
-   "firma": "Schneider Electric",
-   "url": "http://www.schneider-electric-dms.com",
-   "art": "neu erfasst"
+   "art": "geändert",
+   "vorher": "schnappschuesse/aveva/www-aveva-com-en-our-industrial-life-type-article-modular-construction-a-storied-alternati__2026-11-09.json"
   }
  ]
 }

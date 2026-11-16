@@ -11146,5 +11146,1421 @@
     "grund": "While Tech Soft 3D and Vertex Software serve construction, Threedy’s focus is on industrial manufacturing and product development. Competitors in this space have strong domain-specific positioning, which Threedy does not currently support."
    }
   ]
+ },
+ "c5ace74beeb00cf5|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "startseite",
+  "sprache": "en",
+  "hauptbotschaft": "At AVEVA, we work with you and harness the power of our ecosystem, to deliver solutions and expertise to optimize engineering, operations and performance.",
+  "ueberschriften": [
+   "AVEVA World 2027 is coming to Nashville",
+   "Empowering industry through digital insights",
+   "Unlock your industrial intelligence",
+   "See what's possible",
+   "Meet the engine behind industrial intelligence"
+  ],
+  "keywords": [
+   "industrial software",
+   "digital insights",
+   "industrial intelligence",
+   "cloud platform",
+   "connect platform",
+   "aiot platforms",
+   "engineering optimization",
+   "operations performance",
+   "digital transformation",
+   "industrial ai",
+   "siloed systems",
+   "centralized backbone",
+   "open agnostic software",
+   "domain expertise",
+   "industrial training"
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "zusammenarbeit",
+   "plm_integration",
+   "ki_und_agenten",
+   "kosten_und_roi",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit"
+  ],
+  "ctas": [
+   "Register your interest",
+   "Read the full report",
+   "Contact us",
+   "Speak with an expert",
+   "Explore CONNECT",
+   "Get the latest from Our Industrial Life"
+  ],
+  "cta_typen": [
+   "event",
+   "dokumentation",
+   "kontakt_vertrieb",
+   "video",
+   "dokumentation"
+  ],
+  "belege": [
+   "AVEVA named a Visionary in the 2026 Gartner® Magic Quadrant™ for Global Industrial AIoT Platforms",
+   "Founded in deep domain expertise"
+  ],
+  "kunden": [],
+  "branchen": [
+   "chemicals",
+   "power and utilities",
+   "epc",
+   "manufacturing",
+   "oil and gas"
+  ],
+  "zielgruppe": "Engineering, IT, Operations, Management",
+  "differenzierung": "AVEVA differentiates itself by combining deep domain expertise with an open, agnostic cloud platform that unifies information and enables secure, scalable industrial intelligence across the entire value chain.",
+  "wertversprechen": [
+   "end-to-end digital insights",
+   "design smarter",
+   "operate more efficiently",
+   "responsible use of resources",
+   "centralized industrial backbone",
+   "grow at scale"
+  ],
+  "anwendungsfaelle": [
+   "engineering optimization",
+   "operations performance",
+   "resource management",
+   "team collaboration",
+   "industrial ai deployment",
+   "digital transformation"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "industrial software",
+    "digital insights",
+    "cloud platform",
+    "aiot platforms",
+    "digital transformation",
+    "industrial ai",
+    "siloed systems",
+    "centralized backbone",
+    "industrial training"
+   ],
+   "produkt": [
+    "connect",
+    "aveva software",
+    "aveva world 2027"
+   ],
+   "problem": [
+    "siloed systems",
+    "resource inefficiency",
+    "lack of collaboration",
+    "digital transformation challenges"
+   ]
+  },
+  "beleg_arten": [
+   "auszeichnung",
+   "technische_tiefe"
+  ],
+  "ton": "visionaer",
+  "klarheit": 4
+ },
+ "45bd689460346358|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "blog",
+  "sprache": "en",
+  "hauptbotschaft": "Modular construction offers EPC firms a proven, efficient, and sustainable alternative for building in remote and challenging environments.",
+  "ueberschriften": [
+   "Modular construction: a storied alternative for EPC firms",
+   "Our Industrial Life",
+   "Modular’s past and present promise",
+   "The challenges and opportunities of modularization for EPCs",
+   "Offshore modular construction is taking off"
+  ],
+  "keywords": [
+   "modular construction",
+   "epc firms",
+   "prefabrication",
+   "offsite manufacturing",
+   "yamal lng plant",
+   "technip energies",
+   "petrofac",
+   "saipem",
+   "small modular reactors",
+   "smr",
+   "sustainability in construction",
+   "logistics optimization",
+   "bim",
+   "3d printing",
+   "factory construction"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "fertigung_und_produktion",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Sign up now!",
+   "Read: Modular construction: the background to the boom",
+   "Read more"
+  ],
+  "cta_typen": [
+   "newsletter"
+  ],
+  "belege": [
+   "Technip Energies built the Yamal LNG plant using 142 modules and 365 pre-assembled pipe racks",
+   "Petrofac upgraded the Sriracha Refinery in Thailand using modular construction",
+   "Saipem shipped modules amounting to roughly 50% of a plant’s weight for assembly in Nigeria",
+   "As of February 2024, around 95 SMRs were being designed or constructed worldwide",
+   "Russia and China each have one SMR in operation"
+  ],
+  "kunden": [
+   "Technip Energies",
+   "Petrofac",
+   "Saipem"
+  ],
+  "branchen": [
+   "energy",
+   "oil_and_gas",
+   "mining",
+   "nuclear",
+   "construction",
+   "industrial_manufacturing"
+  ],
+  "zielgruppe": "Engineering, Project Management, Operations, Sustainability Officers",
+  "differenzierung": "AVEVA positions modular construction as a strategic, sustainable, and operationally efficient alternative for EPCs, especially in remote or high-risk environments, supported by real-world case studies and long-term industry trends.",
+  "wertversprechen": [
+   "offsite manufacturing",
+   "reduced project timelines",
+   "improved safety",
+   "lower environmental impact",
+   "better resource efficiency",
+   "scalable project execution"
+  ],
+  "anwendungsfaelle": [
+   "remote site construction",
+   "offshore platforms",
+   "nuclear smrs",
+   "refinery upgrades",
+   "modularized process units",
+   "factory-based fabrication"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "modular construction",
+    "offsite manufacturing",
+    "prefabrication",
+    "sustainability in construction",
+    "factory construction",
+    "logistics optimization"
+   ],
+   "produkt": [
+    "yamal lng plant",
+    "technip energies",
+    "petrofac",
+    "saipem",
+    "small modular reactors",
+    "smr"
+   ],
+   "problem": [
+    "remote site challenges",
+    "labor shortages",
+    "weather delays",
+    "space constraints",
+    "supply chain risk",
+    "high construction costs"
+   ]
+  },
+  "beleg_arten": [
+   "fallstudie",
+   "zahlen",
+   "kundenlogos",
+   "enterprise",
+   "technische_tiefe",
+   "roi"
+  ],
+  "ton": "nutzen_und_roi",
+  "klarheit": 4
+ },
+ "eac6426df365da65|ki:qwen3-30b-a3b-instruct-2507|3fe92e4e": {
+  "seitentyp": "blog",
+  "sprache": "en",
+  "hauptbotschaft": "Make complex 3D data available in real time across departments and devices. Threedy helps teams work with reliable engineering data across the business.",
+  "ueberschriften": [
+   "AI Agents and Live 3D Data: What Works in Production",
+   "For Teams Working With Large CAD and PLM Data",
+   "How Your AI Works With Live 3D Data",
+   "Proven at Enterprise Scale",
+   "Written by Practitioners"
+  ],
+  "keywords": [
+   "3d data access",
+   "live cad data",
+   "ai agents",
+   "plm integration",
+   "browser-based 3d viewer",
+   "instant3dhub",
+   "mcp integration",
+   "copilot integration",
+   "teams integration",
+   "large cad files",
+   "enterprise scale",
+   "gdpr compliant",
+   "ai in engineering",
+   "real-time measurements",
+   "cloud saas"
+  ],
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "ctas": [
+   "Contact Us",
+   "Book a Demo Book a Demo",
+   "Unsubscribe at any time",
+   "Read on LinkedIn"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "newsletter",
+   "sonstiges",
+   "dokumentation"
+  ],
+  "belege": [
+   "99% Faster 3D data access at Daimler Truck, from 35 minutes to seconds",
+   "30,000+ Active instant3Dhub users",
+   "50+ GB Full-vehicle models at full fidelity in a standard browser",
+   "0 GPUs Needed on server or client",
+   "Frost & Sullivan, 2026 European Customer Value Leadership Recognition"
+  ],
+  "kunden": [
+   "BMW",
+   "Daimler Truck",
+   "TRUMPF"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial"
+  ],
+  "zielgruppe": "Engineering, IT, PLM, Management",
+  "differenzierung": "Threedy enables AI agents to work directly with live CAD and PLM data in a secure, browser-based environment without transferring geometry, ensuring the PLM remains the master copy.",
+  "wertversprechen": [
+   "real-time 3d data access",
+   "no cad geometry transfer",
+   "secure ai integration",
+   "browser-based access",
+   "plm master copy control",
+   "zero gpu requirement"
+  ],
+  "anwendungsfaelle": [
+   "design validation",
+   "sales support",
+   "service guidance",
+   "engineering review",
+   "ai-powered queries",
+   "collaborative review"
+  ],
+  "keyword_arten": {
+   "kategorie": [
+    "3d viewer",
+    "plm software",
+    "ai integration",
+    "cloud saas",
+    "browserbasiert",
+    "streaming_grosser_daten",
+    "multi_cad_formate",
+    "design_review",
+    "zusammenarbeit",
+    "plm_integration"
+   ],
+   "produkt": [
+    "instant3dhub",
+    "threedy",
+    "mcp",
+    "microsoft copilot",
+    "teams"
+   ],
+   "problem": [
+    "share large cad files",
+    "integrate ai with cad",
+    "reduce 3d data access time",
+    "secure cad data sharing",
+    "enable ai with live models"
+   ]
+  },
+  "beleg_arten": [
+   "zahlen",
+   "enterprise",
+   "technische_tiefe",
+   "sicherheit",
+   "roi",
+   "auszeichnung"
+  ],
+  "ton": "technisch",
+  "klarheit": 5
+ },
+ "news|9a27ceafef0b02ea|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Tech Soft 3D's strategic focus on expanding its AI-driven engineering software toolkit, particularly through the HOOPS AI framework and enhanced CAD data interoperability. The company emphasizes enabling scalable, secure, and collaborative workflows across design, manufacturing, and digital twin applications, with strong emphasis on browser-based visualization, multi-CAD formats, and cloud integration. Recent activities center on product launches, partnerships, and thought leadership around data value and AI integration.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-11",
+    "art": "produkt",
+    "beschreibung": "HOOPS Envision adds particle visualization for discrete simulation data like DEM and SPH across desktop, web, and Python.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-09",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D releases content on leveraging CAD data for AI, highlighting challenges and solutions via HOOPS AI.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-04",
+    "art": "produkt",
+    "beschreibung": "SpinFire Insight enables conversion of CAD to HTML with preserved PMI and browser-based access.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-10-31",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D publishes a guide on sharing CAD models via secure 3D-PDF.",
+    "quelle": "Foro3D"
+   },
+   {
+    "datum": "2026-09-29",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D releases a guide on using Extended Reality to improve design reviews in shipbuilding.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-09-22",
+    "art": "produkt",
+    "beschreibung": "Tech Soft 3D publishes a guide to choosing between CAD viewers, translation, and 3D-PDF for data exchange.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-07-14",
+    "art": "partnerschaft",
+    "beschreibung": "Synera launches an AI add-in powered by Tech Soft 3D’s HOOPS AI.",
+    "quelle": "Business Wire"
+   },
+   {
+    "datum": "2026-03-30",
+    "art": "produkt",
+    "beschreibung": "HOOPS AI reaches full launch with embeddings and Linux support.",
+    "quelle": "Business Wire"
+   }
+  ],
+  "themen": [
+   "ki_und_agenten",
+   "browserbasiert",
+   "multi_cad_formate",
+   "design_review",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "botschaften": [
+   "Engineering data is only getting more valuable.",
+   "Why is CAD data so hard to use in AI?",
+   "How can you analyze CAD data in a viewer?",
+   "Learn the signs it’s time to replace your CAD viewer",
+   "Convert CAD files to HTML with SpinFire Insight"
+  ],
+  "keywords": [
+   "cad",
+   "ai",
+   "hoops",
+   "data",
+   "visualization",
+   "browser",
+   "html",
+   "secure",
+   "3d",
+   "sdk"
+  ]
+ },
+ "news|de19114b8d1f9802|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights KISTERS 3DViewStation's strong focus on enterprise-grade CAD visualization, particularly in manufacturing, product configuration, and supply chain collaboration. The company emphasizes seamless PLM integration, cost savings, and high-performance rendering of large 3D datasets, positioning itself as a critical tool for digital twin workflows and cross-functional design review. Recent integrations with Siemens Teamcenter and Mendix underscore a strategic push toward broader ecosystem connectivity and cloud-based deployment.",
+  "ereignisse": [
+   {
+    "datum": "2026-05-12",
+    "art": "produkt",
+    "beschreibung": "KISTERS 3DViewStation integrations for Siemens Teamcenter and Active Workspace are now available.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2026-09-15",
+    "art": "produkt",
+    "beschreibung": "KISTERS 3DViewStation WebViewer integration for Mendix is now available.",
+    "quelle": "The Burlington Free Press"
+   },
+   {
+    "datum": "2026-02-20",
+    "art": "kunde",
+    "beschreibung": "KISTERS 3DViewStation is recognized as the leading integration solution for visualization in automotive product configurators.",
+    "quelle": "Milwaukee Journal Sentinel"
+   },
+   {
+    "datum": "2024-07-23",
+    "art": "kunde",
+    "beschreibung": "3DViewStation enables 3D CAD collaboration with suppliers.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2024-06-12",
+    "art": "sonstiges",
+    "beschreibung": "3DViewStation reduces CAD license costs.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2025-06-13",
+    "art": "produkt",
+    "beschreibung": "3DViewStation sets a new standard for high-performance 3D CAD visualization and analysis.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2026-07-14",
+    "art": "kunde",
+    "beschreibung": "CAD visualization accelerates manufacturing collaboration.",
+    "quelle": "Metrology and Quality News"
+   },
+   {
+    "datum": "2026-10-07",
+    "art": "sonstiges",
+    "beschreibung": "3DViewStation helps users quickly locate components in large 3D CAD datasets.",
+    "quelle": "PresseBox"
+   }
+  ],
+  "themen": [
+   "multi_cad_formate",
+   "plm_integration",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion",
+   "kosten_und_roi",
+   "streaming_grosser_daten",
+   "browserbasiert"
+  ],
+  "botschaften": [
+   "Wer mit großen Mengen an 3D-CAD-Daten arbeitet, kennt die Situation: Baugruppen werden ...",
+   "The goal is not to work with reduced data, but to use and to have access to the 100% model at all times, both for internal administration in the system (e-file) and in the graphical representation.",
+   "3DViewStation Saves on CAD License Cost",
+   "3DViewStation Sets New Standard for High-Performance 3D CAD Visualization and Analysis",
+   "CAD Visualization Accelerates Manufacturing Collaboration"
+  ],
+  "keywords": [
+   "3dviewstation",
+   "cad",
+   "visualization",
+   "plm",
+   "siemens",
+   "teamcenter",
+   "collaboration",
+   "cost",
+   "performance",
+   "integration"
+  ]
+ },
+ "news|16e938c8ef913951|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights PTC Creo View's role within a broader ecosystem focused on digital transformation, particularly through integration with AI, PLM, and digital twin technologies. Recent news emphasizes strategic moves such as the acquisition by Schneider Electric and the expansion of AI-driven capabilities, positioning Creo View as a key enabler for collaborative design, digital thread implementation, and enterprise scalability in industrial sectors.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-05",
+    "art": "uebernahme",
+    "beschreibung": "Schneider Electric acquires PTC for $205 per share in a €21 billion deal.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2025-12-17",
+    "art": "produkt",
+    "beschreibung": "3HTi launches AI-driven engineering solutions integrated with PTC Creo, Windchill, and Codebeamer.",
+    "quelle": "Issuewire.com"
+   },
+   {
+    "datum": "2025-09-19",
+    "art": "produkt",
+    "beschreibung": "PTC introduces Arena AI Assistant for PLM to accelerate AI in product development.",
+    "quelle": "PR Newswire"
+   },
+   {
+    "datum": "2025-08-05",
+    "art": "partnerschaft",
+    "beschreibung": "NVIDIA Omniverse integrates with PTC Creo and Windchill for enhanced simulation and visualization.",
+    "quelle": "Engineering.com"
+   },
+   {
+    "datum": "2025-03-26",
+    "art": "produkt",
+    "beschreibung": "PTC launches Windchill AI, an AI-powered PLM solution, at Hannover Messe 2025.",
+    "quelle": "PresseBox"
+   },
+   {
+    "datum": "2024-12-09",
+    "art": "personal",
+    "beschreibung": "PTC appoints Robert Dahdah as Executive Vice President, Chief Revenue Officer.",
+    "quelle": "citybiz"
+   },
+   {
+    "datum": "2026-11-09",
+    "art": "kunde",
+    "beschreibung": "GE Appliances shares success stories using Creo and Creo View for MBD development with 3DA models.",
+    "quelle": "note"
+   },
+   {
+    "datum": "2026-11-09",
+    "art": "kunde",
+    "beschreibung": "GE Appliances implements Creo and Creo View for human- and machine-readable 3DA model development.",
+    "quelle": "note"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "design_review",
+   "zusammenarbeit",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "fertigung_und_produktion",
+   "streaming_grosser_daten"
+  ],
+  "botschaften": [
+   "Burning the Backlog",
+   "Unlocking the future of manufacturing with AI-powered digital thread",
+   "Realizing a 'Digital Thread' in the Medical Device Industry",
+   "Integrate NVIDIA Omniverse RTX Sensor Simulation Into Existing Apps",
+   "AI-Driven Engineering Solutions & Support with PTC Creo, Windchill, and Codebeamer"
+  ],
+  "keywords": [
+   "ptc",
+   "creo",
+   "creo_view",
+   "ai",
+   "plm",
+   "digital_thread",
+   "3da",
+   "mbd",
+   "nvidia_omniverse",
+   "schneider_electric"
+  ]
+ },
+ "news|32fb0a793854c2f2|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Dassault 3DEXPERIENCE's strategic focus on expanding its AI-native platform, particularly through virtual twins and agent-based technologies, across industrial sectors and geographies. The company is actively growing its global footprint, especially in Asia, while reinforcing its cloud and SaaS infrastructure, and emphasizing collaboration with key partners in transportation, manufacturing, and energy. Strong financial performance and increased guidance underscore the market's confidence in its digital twin and AI-driven innovation strategy.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-15",
+    "art": "personal",
+    "beschreibung": "Dassault Systèmes plans to hire over 30 AI professionals for a new ASEAN hub in Singapore.",
+    "quelle": "Human Resources Online"
+   },
+   {
+    "datum": "2026-11-06",
+    "art": "kunde",
+    "beschreibung": "Companies in Korea use Dassault AI assistants to accelerate design, semiconductors, and robotics development.",
+    "quelle": "Chosunbiz"
+   },
+   {
+    "datum": "2026-11-04",
+    "art": "partnerschaft",
+    "beschreibung": "Dassault Systèmes and Systra form a technology partnership to develop virtual twins for transport infrastructure.",
+    "quelle": "Produktion Online"
+   },
+   {
+    "datum": "2026-10-30",
+    "art": "personal",
+    "beschreibung": "Pierre Barnabé is named Chief Operating Officer at Dassault Systèmes.",
+    "quelle": "AD HOC NEWS"
+   },
+   {
+    "datum": "2026-10-28",
+    "art": "finanzierung",
+    "beschreibung": "Dassault Systèmes raises full-year guidance following strong Q3 performance with 5% revenue growth and 31.6% operating margin.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-10-22",
+    "art": "partnerschaft",
+    "beschreibung": "Dassault Systèmes and Vertiv team up to accelerate AI factory design and deployment.",
+    "quelle": "FinanzNachrichten.de"
+   },
+   {
+    "datum": "2026-10-21",
+    "art": "event",
+    "beschreibung": "Dassault Systèmes opens a new office in Bandar Utama, Malaysia, to support Industrial AI and Virtual Twin adoption.",
+    "quelle": "Dassault Systèmes"
+   },
+   {
+    "datum": "2026-10-19",
+    "art": "event",
+    "beschreibung": "Dassault Systèmes showcases AI-powered virtual twin factories at NVIDIA GTC Berlin 2026.",
+    "quelle": "PresseBox"
+   }
+  ],
+  "themen": [
+   "ki_und_agenten",
+   "digitaler_zwilling",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "vertrieb_und_marketing",
+   "fertigung_und_produktion",
+   "service_und_wartung",
+   "design_review",
+   "plm_integration"
+  ],
+  "botschaften": [
+   "Accelerating Industrial AI And Virtual Twins From Vision To Action",
+   "Co-Engineering of Human and AI",
+   "Virtual Companions AURA",
+   "AI-Powered Virtual Twin Factories",
+   "3DEXPERIENCE surged 25%"
+  ],
+  "keywords": [
+   "dassault",
+   "3dexperience",
+   "ai",
+   "virtual twin",
+   "cloud",
+   "industrial",
+   "platform",
+   "partnership",
+   "growth",
+   "malaysia"
+  ]
+ },
+ "news|f796cc0527de6689|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights NVIDIA Omniverse's strategic positioning as a central platform for industrial digital twins, emphasizing AI-driven simulation, multi-CAD interoperability, and enterprise-scale collaboration. Recent activities focus on expanding ecosystem partnerships, launching agent-assisted workflows, and enabling real-time, cloud-based digital twin deployments across manufacturing, energy, and semiconductor industries.",
+  "ereignisse": [
+   {
+    "datum": "2026-10-28",
+    "art": "partnerschaft",
+    "beschreibung": "TCS and Volvo explore Physical AI for adaptive industrial robotics using NVIDIA Omniverse Libraries.",
+    "quelle": "Tata Consultancy Services"
+   },
+   {
+    "datum": "2026-10-27",
+    "art": "partnerschaft",
+    "beschreibung": "Schneider Electric, Nscale, and Start Campus deploy NVIDIA Omniverse DSX Blueprint in a live AI factory environment.",
+    "quelle": "The Globe and Mail"
+   },
+   {
+    "datum": "2026-10-21",
+    "art": "produkt",
+    "beschreibung": "NVIDIA releases agent-assisted workflow for developing AI factory digital twins.",
+    "quelle": "NVIDIA Developer"
+   },
+   {
+    "datum": "2026-10-19",
+    "art": "kunde",
+    "beschreibung": "NTT DATA uses NVIDIA Omniverse to control robot arms across manufacturers via 5G.",
+    "quelle": "NTT Data"
+   },
+   {
+    "datum": "2026-10-10",
+    "art": "kunde",
+    "beschreibung": "Toyota Material Handling develops simulation environment for autonomous industrial trucks using NVIDIA Omniverse and Isaac Sim.",
+    "quelle": "LOGISTRA"
+   },
+   {
+    "datum": "2026-09-28",
+    "art": "produkt",
+    "beschreibung": "Visual Components launches FactoryLens powered by NVIDIA for industrial digital twins.",
+    "quelle": "Robotics & Automation News"
+   },
+   {
+    "datum": "2026-06-05",
+    "art": "produkt",
+    "beschreibung": "Vertiv announces industry-first converged infrastructure digital twin for NVIDIA Omniverse DSX.",
+    "quelle": "Vertiv"
+   },
+   {
+    "datum": "2026-05-31",
+    "art": "produkt",
+    "beschreibung": "NVIDIA releases a major collection of open-source agent tools and skills for Physical AI.",
+    "quelle": "NVIDIA Newsroom"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "multi_cad_formate",
+   "zusammenarbeit",
+   "streaming_grosser_daten",
+   "cloud_und_saas",
+   "fertigung_und_produktion",
+   "design_review",
+   "sdk_und_api"
+  ],
+  "botschaften": [
+   "Accelerate Grid Modernization for AI Growth Using NVIDIA Omniverse",
+   "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+   "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+   "How Virtual Twins are Shaping the Next Industrial Revolution",
+   "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI"
+  ],
+  "keywords": [
+   "omniverse",
+   "digital twin",
+   "ai",
+   "industrial",
+   "simulation",
+   "cloud",
+   "collaboration",
+   "agent",
+   "physical ai",
+   "openusd"
+  ]
+ },
+ "news|7595dafc0d9b7554|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights AVEVA's strategic focus on digital transformation, sustainability, and industrial AI across the U.S. market. Key activities center on expanding cloud and SaaS capabilities, forming strategic partnerships (e.g., with Microsoft, Snowflake, AWS), and advancing digital twin and AI-driven engineering solutions. The company is positioning itself as a leader in industrial software with a strong emphasis on decarbonization, operational efficiency, and scalable, secure digital ecosystems.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-13",
+    "art": "kunde",
+    "beschreibung": "TotalEnergies uses AVEVA PI System for real-time scope 1 GHG emissions monitoring.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-12",
+    "art": "kunde",
+    "beschreibung": "Fortescue Future Industries selects AVEVA for renewables design projects.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-12",
+    "art": "produkt",
+    "beschreibung": "AVEVA announces transition to a subscription business model.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-11",
+    "art": "event",
+    "beschreibung": "AVEVA named finalist for Microsoft Sustainability Changemaker Partner of the Year.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-10",
+    "art": "partnerschaft",
+    "beschreibung": "AVEVA and RIB announce strategic partnership to enhance project execution in process and plant industries.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-11-02",
+    "art": "event",
+    "beschreibung": "AVEVA opens new Customer Experience Center in Hyderabad, India.",
+    "quelle": "eigene Website"
+   },
+   {
+    "datum": "2026-05-20",
+    "art": "event",
+    "beschreibung": "AVEVA announces new AI capabilities at AVEVA World 2026 conference.",
+    "quelle": "AVEVA"
+   },
+   {
+    "datum": "2026-05-19",
+    "art": "partnerschaft",
+    "beschreibung": "AVEVA partners with Snowflake to unify IT/OT data ecosystems for industrial AI.",
+    "quelle": "PR Newswire"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "nachhaltigkeit",
+   "plm_integration",
+   "design_review",
+   "fertigung_und_produktion",
+   "streaming_grosser_daten"
+  ],
+  "botschaften": [
+   "From data to dollars",
+   "Excellence is everyone’s business",
+   "Unified Engineering can save up to 30% of engineering efforts during the Engineering Design phase",
+   "Accelerating project delivery with AI and connected technologies",
+   "Transforming industrial operations: How AVEVA and AWS drive cloud innovation"
+  ],
+  "keywords": [
+   "digital twin",
+   "ai",
+   "cloud",
+   "sustainability",
+   "data",
+   "industrial software",
+   "digital transformation",
+   "subscription",
+   "partnership",
+   "operations"
+  ]
+ },
+ "news|cd0d85351ff9bdc7|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "Schneider Electric is actively positioning itself as a leader in AI-driven industrial automation and digital transformation, particularly through its $22.6 billion acquisition of PTC. The company emphasizes digital twins, industrial software integration, and AI-ready infrastructure, targeting data centers and smart manufacturing. Recent coverage highlights strategic financing, record order intake, and a strong focus on sustainability and energy transition.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-06",
+    "art": "produkt",
+    "beschreibung": "Schneider Electric unveils integrated software-defined switchgear to accelerate manufacturing for AI infrastructure.",
+    "quelle": "Australian Manufacturing"
+   },
+   {
+    "datum": "2026-11-06",
+    "art": "produkt",
+    "beschreibung": "Schneider Electric launches an integrated solution for AI data centers.",
+    "quelle": "매일경제"
+   },
+   {
+    "datum": "2026-11-09",
+    "art": "event",
+    "beschreibung": "Schneider Electric participates in COP31, focusing on accelerating electrification and energy transition.",
+    "quelle": "www.marketscreener.com"
+   },
+   {
+    "datum": "2026-11-07",
+    "art": "kunde",
+    "beschreibung": "Jupiter Hospitals achieves up to 28% energy savings using Schneider Electric solutions.",
+    "quelle": "MarketScale"
+   },
+   {
+    "datum": "2026-11-09",
+    "art": "event",
+    "beschreibung": "Schneider Electric launches an Energy Tech Accelerator to build AI-ready talent for the energy transition.",
+    "quelle": "Construction Business News Middle East"
+   },
+   {
+    "datum": "2026-10-27",
+    "art": "partnerschaft",
+    "beschreibung": "Schneider Electric, AVEVA, Nscale, and Start Campus complete a pilot deployment of an end-to-end digital twin for AI data centers.",
+    "quelle": "InvestorsHub on MSN"
+   },
+   {
+    "datum": "2026-10-11",
+    "art": "uebernahme",
+    "beschreibung": "Schneider Electric acquires PTC in a $22.6 billion deal to accelerate its AI and industrial software strategy.",
+    "quelle": "Business Chief"
+   },
+   {
+    "datum": "2026-11-04",
+    "art": "finanzierung",
+    "beschreibung": "Schneider Electric raises €6.0 billion through a multi-tranche senior bond issue to finance the PTC acquisition.",
+    "quelle": "Yahoo Finance"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "fertigung_und_produktion",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "nachhaltigkeit",
+   "kosten_und_roi",
+   "cloud_und_saas",
+   "skalierbarkeit_enterprise",
+   "service_und_wartung"
+  ],
+  "botschaften": [
+   "From Automation to 'Automazing': Schneider Electric rewrites the language of Industrial Automation",
+   "accelerating electrification, strengthening competitiveness and enabling shared progress",
+   "A Smarter Start For 50 Engineers",
+   "accelerating manufacturing for AI infrastructure",
+   "achieving up to 28% energy savings"
+  ],
+  "keywords": [
+   "schneider electric",
+   "ai",
+   "data centers",
+   "digital twin",
+   "industrial automation",
+   "energy savings",
+   "ptc",
+   "software-defined",
+   "sustainability",
+   "record order intake"
+  ]
+ },
+ "news|c88c03e15e48f4d0|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights Visual Components' strategic focus on advancing industrial digital twins through partnerships with NVIDIA and integration into cloud-based, immersive environments. Recent launches like FactoryLens and platform updates emphasize capabilities in simulation, multi-CAD support, and real-time collaboration, positioning the company as a leader in enterprise-grade 3D manufacturing visualization and digital twin solutions.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-03",
+    "art": "produkt",
+    "beschreibung": "Visual Components launches FactoryLens with NVIDIA for industrial digital twins.",
+    "quelle": "www.machinery.co.uk"
+   },
+   {
+    "datum": "2026-09-28",
+    "art": "produkt",
+    "beschreibung": "Visual Components launches FactoryLens, extending its collaboration with NVIDIA for industrial digital twins.",
+    "quelle": "cision.com"
+   },
+   {
+    "datum": "2026-09-28",
+    "art": "produkt",
+    "beschreibung": "Visual Components launches Nvidia-powered FactoryLens for industrial digital twins.",
+    "quelle": "Robotics & Automation News"
+   },
+   {
+    "datum": "2026-05-13",
+    "art": "kunde",
+    "beschreibung": "Kuka uses Visual Components' simulation technology for industrial simulation and digital twins.",
+    "quelle": "Vogel Communications Group"
+   },
+   {
+    "datum": "2026-05-05",
+    "art": "kunde",
+    "beschreibung": "Kuka Group advances manufacturing efficiency using Visual Components simulation technology.",
+    "quelle": "Plastics Today"
+   },
+   {
+    "datum": "2026-03-11",
+    "art": "kunde",
+    "beschreibung": "Dualis & Montratec implement a 3D configurator powered by Visual Components.",
+    "quelle": "All-About-Industries"
+   },
+   {
+    "datum": "2025-12-09",
+    "art": "produkt",
+    "beschreibung": "Visual Attachments introduces a new dimension for chat agents using AI.",
+    "quelle": "Sierra AI Agents"
+   },
+   {
+    "datum": "2025-11-11",
+    "art": "produkt",
+    "beschreibung": "Visual Components releases an NVIDIA Omniverse add-on for factory layouts.",
+    "quelle": "Digital Manufacturing Magazin"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "ar_vr",
+   "plm_integration",
+   "browserbasiert",
+   "cloud_und_saas",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "fertigung_und_produktion"
+  ],
+  "botschaften": [
+   "FactoryLens brings NVIDIA Omniverse libraries and OpenUSD into Visual Components' simulation platform",
+   "Simulation is not equal to simulation",
+   "Revolution in 3D-Fertigung und Robotik-Programmierung",
+   "Digital twin of Smart Learning Factory",
+   "Next-Generation Platform"
+  ],
+  "keywords": [
+   "digital twin",
+   "factorylens",
+   "nvidia",
+   "simulation",
+   "3d",
+   "manufacturing",
+   "collaboration",
+   "cloud",
+   "ai",
+   "omniverse"
+  ]
+ },
+ "news|2aea1ad56fda3f78|qwen3-30b-a3b-instruct-2507|cc8b1b90": {
+  "einordnung": "The coverage highlights a strong market shift toward agentic AI and digital twins across industrial sectors, with a focus on enterprise integration, process optimization, and cross-industry collaboration. While the articles emphasize AI-driven innovation in manufacturing, supply chain, and infrastructure, they do not specifically address industrial 3D visualization, CAD/PLM viewers, or digital twin platforms as standalone solutions, suggesting a broader trend rather than targeted product or platform developments.",
+  "ereignisse": [
+   {
+    "datum": "2026-11-15",
+    "art": "partnerschaft",
+    "beschreibung": "Innover Digital named an OpenAI Select Partner to implement agentic AI in core enterprise operations.",
+    "quelle": "CXOtoday"
+   },
+   {
+    "datum": "2026-11-13",
+    "art": "partnerschaft",
+    "beschreibung": "Enmovil partners with Tangentia to expand AI-driven supply chain solutions into Canada’s manufacturing and automotive markets.",
+    "quelle": "CXOtoday"
+   },
+   {
+    "datum": "2026-11-12",
+    "art": "partnerschaft",
+    "beschreibung": "DuPont partners with Microsoft and NobleAI to advance agentic AI in R&D for scientists and engineers.",
+    "quelle": "Unite.AI"
+   },
+   {
+    "datum": "2026-11-06",
+    "art": "studie",
+    "beschreibung": "Market forecast projects AI in 3D printing to reach $4.95 billion by 2036 with 25.5% CAGR.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-11-05",
+    "art": "kunde",
+    "beschreibung": "MetAI Technology uses digital twins to help chipmakers like TSMC avoid costly construction errors.",
+    "quelle": "Forbes"
+   },
+   {
+    "datum": "2026-11-04",
+    "art": "studie",
+    "beschreibung": "Quantiphi named a Leader in Agentic AI Services by ISG Provider Lens® 2026.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-11-03",
+    "art": "produkt",
+    "beschreibung": "Keysight Technologies launches XR3 oscilloscope and an Agentic AI solution at electronica 2026.",
+    "quelle": "Yahoo Finance"
+   },
+   {
+    "datum": "2026-11-02",
+    "art": "produkt",
+    "beschreibung": "Tripo AI launches Tripo Agentic Canvas, an AI agent for scalable 3D workflow execution.",
+    "quelle": "PR Newswire"
+   }
+  ],
+  "themen": [
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "fertigung_und_produktion",
+   "service_und_wartung",
+   "vertrieb_und_marketing",
+   "plm_integration",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi",
+   "nachhaltigkeit"
+  ],
+  "botschaften": [
+   "Agentic AI is reshaping enterprise networking and security",
+   "Digital twins are not simply simulators. They have the potential to reconfigure data center design",
+   "AI in 3D Printing Market - Global Forecast to 2036",
+   "True CI requires moving away from firefighting and temporary fixes to permanent, sustainable change",
+   "When hearing the term 'digital twin,' many people likely imagine 3D images that precisely reproduce factories or cityscapes"
+  ],
+  "keywords": [
+   "agentic_ai",
+   "digital_twin",
+   "3d_printing",
+   "manufacturing",
+   "ai",
+   "enterprise",
+   "supply_chain",
+   "r_d",
+   "data_center",
+   "process_optimization"
+  ]
+ },
+ "radar|07117d363e286e08cc4b": {
+  "kandidaten": [
+   {
+    "name": "Visual Components",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "FactoryLens",
+    "schlagwoerter": [
+     "3D manufacturing simulations",
+     "digital twins",
+     "visualization tool"
+    ],
+    "begruendung": "Visual Components offers FactoryLens, a visualization tool for realistic 3D manufacturing simulations, which overlaps with Threedy's use cases in industrial digital twin visualization and 3D simulation for manufacturing. It is a direct competitor in the industrial 3D visualization space.",
+    "artikel": [
+     57,
+     76,
+     110
+    ]
+   },
+   {
+    "name": "Tripo AI",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "Tripo Agentic Canvas",
+    "schlagwoerter": [
+     "Agentic Canvas",
+     "AI agent",
+     "3D workflows"
+    ],
+    "begruendung": "Tripo AI's Tripo Agentic Canvas enables AI agents to build and execute 3D workflows, which aligns with Threedy's 'Agentic 3D' vision. This represents a strong overlap in AI-driven 3D content creation and workflow automation.",
+    "artikel": [
+     62
+    ]
+   },
+   {
+    "name": "Synera",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 4,
+    "produkt": "Agentic AI platform for product manufacturing",
+    "schlagwoerter": [
+     "Agentic AI",
+     "engineering co-worker",
+     "AI-powered engineering"
+    ],
+    "begruendung": "Synera is building an AI-powered engineering co-worker platform focused on product manufacturing, which could integrate 3D data and visualization. This positions it as a strong adjacent competitor in the industrial AI and 3D data workflow space.",
+    "artikel": [
+     87,
+     117,
+     142,
+     143
+    ]
+   },
+   {
+    "name": "BeeWaTec",
+    "art": "wettbewerber",
+    "region": "EU",
+    "gefahr": 3,
+    "produkt": "digital twin for factory layout planning",
+    "schlagwoerter": [
+     "3D-Scan",
+     "digital twin",
+     "layout planning"
+    ],
+    "begruendung": "BeeWaTec uses 3D scanning and digital twins for factory layout and material flow optimization, indicating a focus on industrial 3D visualization and digital twin applications that could compete with Threedy in service and manufacturing use cases.",
+    "artikel": [
+     44
+    ]
+   },
+   {
+    "name": "RELEX Solutions",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 3,
+    "produkt": "Agentic AI platform for value chain orchestration",
+    "schlagwoerter": [
+     "Agentic AI",
+     "value chain",
+     "orchestrate"
+    ],
+    "begruendung": "RELEX's agentic AI platform aims to orchestrate the entire value chain, which could integrate 3D data and digital twins for supply chain and manufacturing optimization, placing it in a strategic adjacent space to Threedy.",
+    "artikel": [
+     61
+    ]
+   },
+   {
+    "name": "Quantiphi",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 3,
+    "produkt": "Agentic AI services",
+    "schlagwoerter": [
+     "Agentic AI services",
+     "Leader in Agentic AI Services"
+    ],
+    "begruendung": "Quantiphi is recognized as a leader in Agentic AI services, with a focus on enterprise AI delivery. Its capabilities could extend into industrial 3D data workflows, making it a potential future competitor in AI-driven 3D applications.",
+    "artikel": [
+     52
+    ]
+   },
+   {
+    "name": "KPI Partners",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 3,
+    "produkt": "Agentic and enterprise AI delivery",
+    "schlagwoerter": [
+     "Agentic AI",
+     "enterprise AI delivery"
+    ],
+    "begruendung": "KPI Partners is expanding its Hyderabad office to scale enterprise AI delivery, including agentic AI. This indicates a growing focus on industrial AI solutions that could integrate 3D data and visualization, posing a potential future threat.",
+    "artikel": [
+     42
+    ]
+   },
+   {
+    "name": "Genpact",
+    "art": "wettbewerber",
+    "region": "USA",
+    "gefahr": 3,
+    "produkt": "Agentic AI for manufacturing",
+    "schlagwoerter": [
+     "Agentic AI",
+     "factories of the future"
+    ],
+    "begruendung": "Genpact is exploring agentic AI to build future factories, which may involve 3D visualization and digital twin integration. This places it in a strategic adjacent space to Threedy’s industrial use cases.",
+    "artikel": [
+     77
+    ]
+   },
+   {
+    "name": "NTT DATA",
+    "art": "partner",
+    "region": "EU",
+    "gefahr": 2,
+    "produkt": "5G-based robot control via NVIDIA Omniverse",
+    "schlagwoerter": [
+     "5G",
+     "robot control",
+     "NVIDIA Omniverse"
+    ],
+    "begruendung": "NTT DATA is using NVIDIA Omniverse for 5G-based robot control, which involves 3D simulation and visualization. While a partner in the ecosystem, it could develop in-house 3D visualization capabilities.",
+    "artikel": [
+     104
+    ]
+   },
+   {
+    "name": "TCS",
+    "art": "partner",
+    "region": "USA",
+    "gefahr": 2,
+    "produkt": "Physical AI for adaptive robotics with NVIDIA Omniverse",
+    "schlagwoerter": [
+     "Physical AI",
+     "adaptive robotics",
+     "NVIDIA Omniverse"
+    ],
+    "begruendung": "TCS is exploring physical AI with NVIDIA Omniverse for adaptive robotics, indicating integration of 3D simulation and AI. As a partner, it may develop internal 3D visualization tools.",
+    "artikel": [
+     75
+    ]
+   },
+   {
+    "name": "AVEVA",
+    "art": "partner",
+    "region": "USA",
+    "gefahr": 2,
+    "produkt": "industrial software for digital twins",
+    "schlagwoerter": [
+     "digital twin",
+     "industrial software",
+     "NVIDIA Omniverse"
+    ],
+    "begruendung": "AVEVA is a key partner in Schneider Electric’s AI digital twin pilot, using NVIDIA Omniverse. While a partner, it could expand its 3D visualization capabilities beyond its current scope.",
+    "artikel": [
+     80,
+     92,
+     105
+    ]
+   },
+   {
+    "name": "Nscale",
+    "art": "partner",
+    "region": "USA",
+    "gefahr": 2,
+    "produkt": "AI cloud infrastructure for data centers",
+    "schlagwoerter": [
+     "AI cloud infrastructure",
+     "NVIDIA Omniverse",
+     "digital twin"
+    ],
+    "begruendung": "Nscale is a partner in Schneider Electric’s AI factory pilot using NVIDIA Omniverse. As an AI infrastructure provider, it may develop 3D visualization features to support its clients.",
+    "artikel": [
+     80,
+     92
+    ]
+   }
+  ]
+ },
+ "sicht|dffb9445bcb95f4b": "1. Autodesk Viewer – A free, cloud-based tool that enables real-time viewing, markup, and sharing of large CAD models directly in a web browser, supporting formats like DWG, DXF, and STEP.\n\n2. Dassault Systèmes 3DEXPERIENCE Platform – Offers robust web-based visualization and collaboration for large CAD models across engineering teams, with integrated PLM capabilities.\n\n3. Siemens Teamcenter Visualize – Provides high-performance web visualization of large CAD files with support for complex assemblies and real-time collaboration.\n\n4. Onshape – A cloud-native CAD platform that allows teams to view, edit, and share large models in a browser with real-time collaboration and version control.\n\n5. Trimble SketchUp Viewer (3D Warehouse) – Enables simple web-based viewing of large 3D models, especially effective for architectural and design workflows.\n\n6. GrabCAD Workbench – A collaborative platform that allows secure web-based viewing, sharing, and commenting on large CAD files from any device.\n\n7. Viewpoint (by Vitech) – A web-based solution optimized for large-scale engineering models, offering fast rendering and secure enterprise sharing.\n\n8. CloudCompare (web version via CloudCompare Online) – A lightweight, open-source tool for viewing and analyzing large point clouds and CAD models in a browser.",
+ "sicht|f11efa7cbb91eb3d": "1. Siemens – Offers the Digital Industries Software suite, including Siemens NX and Teamcenter, which provide advanced 3D visualization for industrial digital twins.  \n2. Dassault Systèmes – Provides the 3DEXPERIENCE platform, enabling immersive 3D visualization and simulation for industrial digital twin applications.  \n3. PTC – Delivers Creo and ThingWorx platforms, combining 3D modeling with real-time data integration for digital twin visualization.  \n4. Autodesk – Offers Autodesk Manufacturing Cloud and Fusion 360, supporting 3D visualization and collaborative digital twin development.  \n5. GE Digital – Provides Predix platform with 3D visualization tools tailored for industrial asset digital twins in manufacturing and energy.  \n6. Ansys – Features Ansys Twin Builder and Ansys Cloud, enabling high-fidelity 3D simulation and visualization for industrial digital twins.  \n7. SAP – Offers SAP Digital Manufacturing Cloud with 3D visualization capabilities integrated into digital twin workflows.  \n8. Microsoft – Provides Azure Digital Twins with integration into Microsoft Mesh and Power BI for immersive 3D visualization of industrial systems.",
+ "sicht|09e9ce4c0fab98fb": "1. **Autodesk Viewer** – Offers web-based access to 3D CAD models from Autodesk Inventor, Fusion 360, and other formats without requiring CAD software installation.  \n2. **GrabCAD Workbench** – Provides secure cloud-based viewing and collaboration on 3D CAD files from various formats, accessible via any web browser.  \n3. **Onshape** – Enables real-time 3D CAD viewing and editing in a web browser, supporting direct access to models without local software.  \n4. **3D PDF (via Adobe Acrobat)** – Converts CAD files into interactive 3D PDFs that technicians can view and measure using only Adobe Reader.  \n5. **SolidWorks Visualize (Web Viewer)** – Allows sharing of 3D models through a web-based viewer for inspection and annotation without installing SolidWorks.  \n6. **Polaris 3D Viewer** – A lightweight web tool that renders 3D CAD models from common formats like STEP, IGES, and STL for easy access.  \n7. **CloudCompare (Web Version)** – Offers browser-based 3D model visualization for point clouds and CAD data, ideal for inspection tasks.  \n8. **Dassault Systèmes 3DEXPERIENCE** – Provides secure, cloud-hosted access to 3D models across teams, with no CAD software needed for viewing.",
+ "sicht|85c8990d8600b5e9": "Autodesk Fusion 360 offers real-time collaborative design reviews for large 3D assemblies with cloud-based sharing and markup tools.  \nSiemens NX includes Teamcenter integration for collaborative review, enabling secure, multi-user feedback on complex 3D models.  \nPTC Creo View allows stakeholders to review and annotate large 3D assemblies without requiring the full CAD software.  \nDassault Systèmes 3DEXPERIENCE enables collaborative design reviews with immersive visualization and role-based access.  \nOnshape provides browser-based collaboration with real-time editing and commenting on large 3D assemblies.  \nAutodesk Revit supports collaborative design reviews through shared models and cloud-based coordination for integrated building assemblies.  \nSolidWorks Visualize enables collaborative review with photorealistic rendering and interactive 3D model sharing.  \nGrabCAD Workbench allows teams to upload, view, and comment on large 3D assemblies with version control and real-time collaboration.",
+ "sicht|99a8170cedb2ffaf": "Autodesk Fusion 360 integrates with PLM systems like Teamcenter and Windchill, offering seamless 3D visualization and product data management.  \nSiemens NX supports direct integration with Teamcenter, enabling advanced 3D visualization within a unified PLM environment.  \nPTC Creo can be connected to Windchill, allowing real-time 3D model visualization and lifecycle management.",
+ "sicht|7fdc84edfb86c21a": "1. Autodesk Viewer – Kostenlos und einfach zu nutzen, ermöglicht es die Anzeige von großen CAD-Dateien wie DWG, IFC und STEP direkt im Browser.  \n2. Trimble Connect – Bietet Cloud-basierte Zusammenarbeit mit integrierter 3D-Visualisierung für Architektur-, Ingenieur- und Bauprojekte.  \n3. Navisworks Manage – Ermöglicht die Visualisierung und Überprüfung komplexer CAD-Daten mit Funktionen zur Kollisionsprüfung und Projektüberblick.  \n4. Onshape – Cloud-native CAD-Plattform mit integrierter Browser-Visualisierung und Echtzeit-Zusammenarbeit für Teams.  \n5. Sketchfab – Spezialisiert auf 3D-Modell-Hosting und -Visualisierung im Browser, unterstützt viele CAD-Formate über Konvertierung.  \n6. Siemens Teamcenter Visualize – Leistungsstarke Lösung für die Präsentation und den Austausch von CAD-Daten in Unternehmen.  \n7. Dassault Systèmes 3DEXPERIENCE – Umfassende Plattform mit integrierter 3D-Visualisierung, Zusammenarbeit und Datenverwaltung.  \n8. Autodesk BIM 360 – Fokussiert auf Bauprojekte, ermöglicht die gemeinsame Nutzung und Visualisierung von BIM- und CAD-Daten im Browser.",
+ "sicht|5c55a1b6eeb97165": "1. Siemens AG – Anbieter von Simcenter 3D für umfassende 3D-Visualisierung und Simulation in der Fertigungsindustrie.  \n2. Dassault Systèmes – Entwickler von 3DEXPERIENCE und CATIA, die 3D-Visualisierung, Produktentwicklung und digitale Zwillinge unterstützen.  \n3. Autodesk – Bietet Fusion 360 und Navisworks für 3D-Visualisierung, Zusammenarbeit und Simulation in der Fertigung.  \n4. PTC – Anbieter von Creo und ThingWorx, die 3D-Modellierung, Visualisierung und IoT-Integration in der Fertigung ermöglichen.  \n5. ANSYS – Spezialist für 3D-Visualisierung und Simulation von physikalischen Prozessen wie Strömung, Struktur und Wärme in Fertigungsprozessen.  \n6. Hexagon Manufacturing Intelligence – Anbieter von 3D-Scanning- und Visualisierungslösungen für Präzisionsfertigung und Qualitätskontrolle.  \n7. Siemens Digital Industries Software – Mit Tecnomatix für 3D-Visualisierung von Produktionsprozessen und Fertigungsplanung.  \n8. SAP – Bietet SAP Digital Manufacturing Cloud mit 3D-Visualisierungsfunktionen für die Planung und Optimierung von Fertigungsabläufen.",
+ "luecken|05d7e6506fe03b253412": {
+  "positionierung": "Threedy stands as a strong contender in browser-based, real-time 3D visualization for large CAD datasets, matching or exceeding competitors in core capabilities like cloud delivery, security, scalability, and PLM integration. While many rivals emphasize broad ecosystems and enterprise governance, Threedy differentiates through its focus on instant, frictionless access to live 3D data without CAD licenses or conversions, positioning itself as a lightweight yet powerful enabler of collaboration across engineering, manufacturing, and supply chain teams.",
+  "empfehlungen": [
+   {
+    "titel": "Highlight real-time collaboration with AI agents",
+    "prioritaet": "hoch",
+    "art": "botschaft",
+    "begruendung": "Several competitors (Siemens, Dassault, NVIDIA, AVEVA) mention AI and digital twins in news, but Threedy’s own AI agent capabilities are underemphasized. 5 out of 9 major competitors cover AI/digital twins in press, while Threedy only hints at it.",
+    "empfehlung": "Add a dedicated section on the homepage and in press releases showcasing 'Agentic 3D' features, such as AI-powered design review, automated feedback, and intelligent data summarization in instant3Dhub.",
+    "beispiel": "AI-Powered 3D Collaboration: Instant insights from your CAD data with Agentic 3D"
+   },
+   {
+    "titel": "Showcase enterprise-scale proof points",
+    "prioritaet": "hoch",
+    "art": "beleg",
+    "begruendung": "Competitors like Vertex Software (350k+ users), Tech Soft 3D (global team), and Dassault (Renault, Mahindra) use strong customer proof points. Threedy has 15 customers and 15 proof points, but only 15% of competitors use such data in public messaging.",
+    "empfehlung": "Create a new 'Trusted by Industry Leaders' section on the website with named customer logos and short quotes, using the 15 proof points from Threedy’s portfolio.",
+    "beispiel": "Trusted by 15 global engineering teams to stream million-part assemblies in real time"
+   },
+   {
+    "titel": "Add a 'free trial' CTA on the homepage",
+    "prioritaet": "hoch",
+    "art": "cta",
+    "begruendung": "8 out of 9 competitors use 'test version' CTAs, but Threedy does not. This is a major gap in lead generation, especially in the US market where competitors like Tech Soft 3D and PTC lead with trials.",
+    "empfehlung": "Add a prominent 'Start Free Trial' button on the homepage, linked to a guided demo of instant3Dhub with a 14-day access to live CAD data.",
+    "beispiel": "Try instant3Dhub Free – Stream Your CAD Data in Any Browser, No CAD License Needed"
+   },
+   {
+    "titel": "Emphasize browser-based access in key messaging",
+    "prioritaet": "hoch",
+    "art": "keyword",
+    "begruendung": "Only 54% of competitors highlight 'browser based' in their messaging, but it's a key differentiator for Threedy. Competitors like Dassault and AVEVA use it, but Threedy’s own messaging doesn’t prioritize it as a standalone benefit.",
+    "empfehlung": "Reframe the headline and subheadline to lead with 'browser-based' as a core value proposition, especially in US-focused content.",
+    "beispiel": "Browser-Based 3D Visualization: Access Live CAD Data from Any Device, Anywhere"
+   },
+   {
+    "titel": "Expand use cases in manufacturing and production",
+    "prioritaet": "mittel",
+    "art": "thema",
+    "begruendung": "Only 38% of Threedy’s news coverage touches on 'fertigung_und_produktion', while competitors like Siemens, AVEVA, and NVIDIA highlight it regularly. This is a missed opportunity in industrial storytelling.",
+    "empfehlung": "Create a new case study or landing page focused on manufacturing use cases, showing how instant3Dhub enables real-time design review and production planning.",
+    "beispiel": "Streamline Production: Real-Time 3D Access for Manufacturing Teams Without CAD Seats"
+   },
+   {
+    "titel": "Launch a dedicated 'API & SDK' page",
+    "prioritaet": "mittel",
+    "art": "thema",
+    "begruendung": "Only 62% of competitors mention SDK/API, but Threedy’s own messaging lacks a dedicated page. Tech Soft 3D and KISTERS highlight SDKs as core differentiators.",
+    "empfehlung": "Build a developer-focused page with SDK documentation, code samples, and integration guides for PLM, CAD, and enterprise systems.",
+    "beispiel": "Integrate instant3Dhub with Your PLM: SDK & API for Seamless 3D Data Streaming"
+   },
+   {
+    "titel": "Add a 'pricing' CTA for enterprise buyers",
+    "prioritaet": "mittel",
+    "art": "cta",
+    "begruendung": "Only 2 out of 9 competitors use 'preise' CTAs, but Threedy’s lack of pricing transparency may deter enterprise buyers. Competitors like PTC and Siemens use pricing pages to build trust.",
+    "empfehlung": "Add a 'See Pricing' button linking to a transparent, tiered pricing page with options for teams, departments, and enterprise licenses.",
+    "beispiel": "Transparent Pricing for Teams & Enterprises – Scale Your 3D Access Effortlessly"
+   },
+   {
+    "titel": "Leverage 'multi-CAD formats' as a headline feature",
+    "prioritaet": "mittel",
+    "art": "keyword",
+    "begruendung": "Only 56% of competitors highlight 'multi cad formats', but it's a core strength of Threedy. Competitors like KISTERS and Dassault use it as a key selling point.",
+    "empfehlung": "Update the homepage hero section to include 'Supports All Major CAD Formats' as a primary claim.",
+    "beispiel": "Instant 3D Access for All CAD Formats – No Conversions, No Exports"
+   }
+  ],
+  "nicht_verfolgen": [
+   {
+    "luecke": "Nachhaltigkeit",
+    "grund": "Only AVEVA covers sustainability, and Threedy has no public data or messaging on this topic. It does not align with Threedy’s core product focus on real-time 3D data access and collaboration."
+   },
+   {
+    "luecke": "AR/VR integration",
+    "grund": "Only 18% of competitors mention AR/VR, and Threedy’s own news shows limited focus. This is a niche feature not central to Threedy’s browser-based streaming value proposition."
+   },
+   {
+    "luecke": "Vertrieb_und_marketing",
+    "grund": "Only 25% of competitors cover marketing-specific messaging, and Threedy’s current focus is on technical differentiation. Adding marketing tools would dilute the product-led positioning."
+   }
+  ]
  }
 }

@@ -277,6 +277,43 @@
   ],
   "hauptbotschaft": "instant3Dhub's XR Red Green Compare delivers real value in mixed reality use cases."
  },
+ "https://www.threedy.io/product-newsletter": {
+  "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
+   "multi_cad_formate",
+   "design_review",
+   "zusammenarbeit",
+   "digitaler_zwilling",
+   "ki_und_agenten",
+   "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
+   "sicherheit_und_datenschutz",
+   "skalierbarkeit_enterprise",
+   "kosten_und_roi"
+  ],
+  "wertversprechen": [
+   "real-time 3d data access",
+   "no cad geometry transfer",
+   "secure ai integration",
+   "browser-based access",
+   "plm master copy control",
+   "zero gpu requirement"
+  ],
+  "branchen": [
+   "automotive",
+   "industrial"
+  ],
+  "cta_typen": [
+   "kontakt_vertrieb",
+   "demo",
+   "newsletter",
+   "sonstiges",
+   "dokumentation"
+  ],
+  "hauptbotschaft": "Make complex 3D data available in real time across departments and devices. Threedy helps teams work with reliable engineering data across the business."
+ },
  "https://vertex3d.com/": {
   "themen": [
    "browserbasiert",
@@ -1321,19 +1358,18 @@
    "sicherheit_und_datenschutz",
    "zusammenarbeit",
    "plm_integration",
+   "ki_und_agenten",
    "kosten_und_roi",
-   "nachhaltigkeit",
    "skalierbarkeit_enterprise",
-   "browserbasiert",
-   "streaming_grosser_daten"
+   "nachhaltigkeit"
   ],
   "wertversprechen": [
    "end-to-end digital insights",
    "design smarter",
    "operate more efficiently",
    "responsible use of resources",
-   "unify information",
-   "deepen collaboration"
+   "centralized industrial backbone",
+   "grow at scale"
   ],
   "branchen": [
    "chemicals",
@@ -1344,13 +1380,10 @@
   ],
   "cta_typen": [
    "event",
-   "preise",
    "dokumentation",
    "kontakt_vertrieb",
    "video",
-   "download",
-   "newsletter",
-   "sonstiges"
+   "dokumentation"
   ],
   "hauptbotschaft": "At AVEVA, we work with you and harness the power of our ecosystem, to deliver solutions and expertise to optimize engineering, operations and performance."
  },
@@ -1425,12 +1458,16 @@
  },
  "https://www.aveva.com/en/our-industrial-life/type/article/modular-construction-a-storied-alternative-for-epc-firms/": {
   "themen": [
+   "browserbasiert",
+   "streaming_grosser_daten",
    "design_review",
    "zusammenarbeit",
    "digitaler_zwilling",
    "fertigung_und_produktion",
    "vertrieb_und_marketing",
    "plm_integration",
+   "sdk_und_api",
+   "cloud_und_saas",
    "sicherheit_und_datenschutz",
    "skalierbarkeit_enterprise",
    "nachhaltigkeit",
@@ -1440,21 +1477,22 @@
    "offsite manufacturing",
    "reduced project timelines",
    "improved safety",
-   "sustainability benefits",
-   "logistics optimization",
-   "standardized components"
+   "lower environmental impact",
+   "better resource efficiency",
+   "scalable project execution"
   ],
   "branchen": [
    "energy",
    "oil_and_gas",
    "mining",
    "nuclear",
-   "construction"
+   "construction",
+   "industrial_manufacturing"
   ],
   "cta_typen": [
    "newsletter"
   ],
-  "hauptbotschaft": "Modular construction offers EPC firms a storied and increasingly relevant alternative for efficient, safe, and sustainable project delivery in challenging environments."
+  "hauptbotschaft": "Modular construction offers EPC firms a proven, efficient, and sustainable alternative for building in remote and challenging environments."
  },
  "https://www.aveva.com/en/solutions/": {
   "themen": [
